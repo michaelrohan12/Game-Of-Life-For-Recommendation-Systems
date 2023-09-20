@@ -4,11 +4,16 @@ import numpy as np
 import json
 import os
 import random
+import pyautogui
+import cv2
 
 COLOR_BG = (10, 10, 10)
 COLOR_GRID = (40, 40, 40)
 COLOR_DIE_NEXT = (170, 170, 170)
 COLOR_ALIVE_NEXT = (255, 255, 255)
+
+fourcc = cv2.VideoWriter_fourcc(*'XVID')
+out = cv2.VideoWriter('output.avi', fourcc, 20.0, (1920, 1080))
 
 
 def update(screen, cells, size, with_progress=False):
@@ -49,6 +54,8 @@ def update(screen, cells, size, with_progress=False):
 def main():
     pygame.init()
     screen = pygame.display.set_mode((800, 600))
+    pygame.display.set_caption("Pygame Recording")
+    
 
     with open(os.path.join('data_with_ids', 'Mobile.json'), 'r') as file:
         sample_data = json.load(file)
@@ -75,6 +82,7 @@ def main():
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 pygame.quit()
+                out.release()
                 # print(cells)
                 
                 chosen_product_ids = set()
@@ -107,6 +115,10 @@ def main():
         if running:
             cells = update(screen, cells, 10, with_progress=True)
             pygame.display.update()
+
+        screenshot = pyautogui.screenshot(region=(0, 0, 1920, 1080))
+        frame = cv2.cvtColor(np.array(screenshot), cv2.COLOR_RGB2BGR)
+        out.write(frame)
 
         time.sleep(0.001)
 
