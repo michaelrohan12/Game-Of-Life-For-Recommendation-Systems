@@ -1,0 +1,4418 @@
+{
+      "0": {
+            "backlit-keyboard": "yes"
+      },
+      "1": {
+            "backlit-keyboard": "no"
+      },
+      "2": {
+            "battery-cell": "2-cell"
+      },
+      "3": {
+            "battery-cell": "3-cell"
+      },
+      "4": {
+            "battery-cell": "4-cell"
+      },
+      "5": {
+            "battery-cell": "6-cell"
+      },
+      "6": {
+            "battery-cell": "8-cell"
+      },
+      "7": {
+            "bluetooth": "v4.2"
+      },
+      "8": {
+            "bluetooth": "v5.0"
+      },
+      "9": {
+            "bluetooth": "v4.0"
+      },
+      "10": {
+            "bluetooth": "v4.1"
+      },
+      "11": {
+            "bluetooth": "dual-band,-2x2"
+      },
+      "12": {
+            "bluetooth": "bluetooth\u00e2\u00ae-4.1"
+      },
+      "13": {
+            "bluetooth": "yes"
+      },
+      "14": {
+            "bluetooth": "4.2"
+      },
+      "15": {
+            "bluetooth": "4.1"
+      },
+      "16": {
+            "bluetooth": "bluetooth-4.2"
+      },
+      "17": {
+            "cache": "4-mb"
+      },
+      "18": {
+            "cache": "6-mb"
+      },
+      "19": {
+            "cache": "3-mb"
+      },
+      "20": {
+            "cache": "5-mb"
+      },
+      "21": {
+            "cache": "8-mb"
+      },
+      "22": {
+            "cache": "12-mb"
+      },
+      "23": {
+            "cache": "16-mb"
+      },
+      "24": {
+            "cache": "4"
+      },
+      "25": {
+            "cache": "2-mb"
+      },
+      "26": {
+            "cache": "9-mb"
+      },
+      "27": {
+            "cache": "11-mb"
+      },
+      "28": {
+            "cache": "8"
+      },
+      "29": "transparent-silver",
+      "30": "manufacturing-defects",
+      "31": {
+            "dimensions": "322-x-212-x-19.9-mm"
+      },
+      "32": {
+            "dimensions": "360-x-257-x-23.5-mm"
+      },
+      "33": {
+            "dimensions": "325-x-227-x-17-mm"
+      },
+      "34": {
+            "dimensions": "323-x-226-x-18-mm"
+      },
+      "35": {
+            "dimensions": "324-x-222.9-x-20.5-mm"
+      },
+      "36": {
+            "dimensions": "324-x-225-x-15.9-mm"
+      },
+      "37": {
+            "dimensions": "381-x-251-x-27.2-mm"
+      },
+      "38": {
+            "dimensions": "322.7-x-230.5-x-17.9-mm"
+      },
+      "39": {
+            "dimensions": "362.2-x-251.5-x-19.9-mm"
+      },
+      "40": {
+            "dimensions": "375-x-253-x-22.7-mm"
+      },
+      "41": {
+            "dimensions": "358-x-242-x-18-mm"
+      },
+      "42": {
+            "dimensions": "363-x-254.6-x-23.9-mm"
+      },
+      "43": {
+            "dimensions": "323-x-228-x-14.9-mm"
+      },
+      "44": {
+            "dimensions": "322-x-222-x-19.7-mm"
+      },
+      "45": {
+            "dimensions": "340-x-258-x-22-mm"
+      },
+      "46": {
+            "dimensions": "363.4-x-250.5-x-17.95-mm"
+      },
+      "47": {
+            "dimensions": "323-x-211-x-15.9-mm"
+      },
+      "48": {
+            "dimensions": "360-x-256-x-23.4-mm"
+      },
+      "49": {
+            "dimensions": "365-x-254-x-21.6-mm"
+      },
+      "50": {
+            "dimensions": "360-x-235-x-22.9-mm"
+      },
+      "51": {
+            "dimensions": "358-x-242-x-17.9-mm"
+      },
+      "52": {
+            "dimensions": "359-x-249.6-x-24.9-mm"
+      },
+      "53": {
+            "dimensions": "358-x-245-x-16.9-mm"
+      },
+      "54": {
+            "dimensions": "376-x-246-x-22.5-mm"
+      },
+      "55": {
+            "dimensions": "360-x-275-x-25.8-mm"
+      },
+      "56": {
+            "dimensions": "359-x-248-x-21.9-mm"
+      },
+      "57": {
+            "dimensions": "323.34-x-224-x-19.7-mm"
+      },
+      "58": {
+            "dimensions": "357.9-x-245.9-x-16.2-mm"
+      },
+      "59": {
+            "dimensions": "340-x-258-x-21-mm"
+      },
+      "60": {
+            "dimensions": "326-x-225-x-17.9-mm"
+      },
+      "61": {
+            "dimensions": "357.2-x-230.4-x-19.9-mm-(wxdxh)"
+      },
+      "62": {
+            "dimensions": "359-x-254-x-21.7-mm"
+      },
+      "63": {
+            "dimensions": "304.1-x-212.4-x-15.4-mm"
+      },
+      "64": {
+            "dimensions": "324-x-225-x-19-mm"
+      },
+      "65": {
+            "dimensions": "306-x-194-x-16-mm"
+      },
+      "66": {
+            "dimensions": "339-x-241.9-x-19.9-mm"
+      },
+      "67": {
+            "dimensions": "292-x-201-x-8.5-mm"
+      },
+      "68": {
+            "dimensions": "333-x-222-x-16-mm"
+      },
+      "69": {
+            "dimensions": "365.5-x-254-x-21.6-mm"
+      },
+      "70": {
+            "dimensions": "300-x-213.5-x-13.45-mm"
+      },
+      "71": {
+            "dimensions": "315-x-212-x-15-mm"
+      },
+      "72": {
+            "dimensions": "245-x-175-x-8.3-mm"
+      },
+      "73": {
+            "dimensions": "390-x-266-x-26.75-mm"
+      },
+      "74": {
+            "dimensions": "308.8-x-214-x-15.9-mm"
+      },
+      "75": {
+            "dimensions": "333-x-222-x-15-mm"
+      },
+      "76": {
+            "dimensions": "379-x-260-x-22.9-mm"
+      },
+      "77": {
+            "dimensions": "323.4-x-218.9-x-15.95-mm"
+      },
+      "78": {
+            "dimensions": "322-x-215-x-18.9-mm"
+      },
+      "79": {
+            "dimensions": "327-x-225-x-17.6-mm"
+      },
+      "80": {
+            "dimensions": "323-x-228-x-17.95-mm"
+      },
+      "81": {
+            "dimensions": "309.7-x-215.7-x-15.19-mm"
+      },
+      "82": {
+            "dimensions": "419-x-287-x-33-mm"
+      },
+      "83": {
+            "dimensions": "310-x-216-x-13.9-mm"
+      },
+      "84": {
+            "dimensions": "302-x-189-x-16.9-mm"
+      },
+      "85": {
+            "dimensions": "360-x-262.9-x-24.9-mm"
+      },
+      "86": {
+            "dimensions": "305-x-213-x-13.5-mm"
+      },
+      "87": {
+            "dimensions": "378-x-260-x-22.9-mm"
+      },
+      "88": {
+            "dimensions": "329-x-228-x-14.9-mm"
+      },
+      "89": {
+            "dimensions": "307-x-214-x-13.9-mm"
+      },
+      "90": {
+            "dimensions": "287-x-208-x-7.3-mm"
+      },
+      "91": {
+            "dimensions": "304.1-x-212.4-x-14.9-mm"
+      },
+      "92": {
+            "dimensions": "324-x-225-x-17.9-mm"
+      },
+      "93": {
+            "dimensions": "399-x-293-x-26.5-mm"
+      },
+      "94": {
+            "dimensions": "380-x-262-x-24.7-mm"
+      },
+      "95": {
+            "dimensions": "326-x-226-x-18.8-mm"
+      },
+      "96": {
+            "dimensions": "378-x-260-x-22-mm"
+      },
+      "97": {
+            "dimensions": "306-x-216-x-14.1-mm"
+      },
+      "98": {
+            "dimensions": "383-x-260-x-29-mm"
+      },
+      "99": {
+            "dimensions": "292.1-x-200.7-x-8.4-mm"
+      },
+      "100": {
+            "dimensions": "328.8-x-228.5-x-19.7-mm"
+      },
+      "101": {
+            "dimensions": "326-x-226-x-18-mm"
+      },
+      "102": {
+            "dimensions": "324.6-x-229.6-x-9.98-mm"
+      },
+      "103": {
+            "dimensions": "358-x-244-x-19.4-mm"
+      },
+      "104": {
+            "dimensions": "325-x-216-x-23.1-mm"
+      },
+      "105": {
+            "dimensions": "360-x-250-x-18-mm"
+      },
+      "106": {
+            "dimensions": "381.6-x-263-x-20.95-mm"
+      },
+      "107": {
+            "dimensions": "357.7-x-247.7-x-17.9-mm"
+      },
+      "108": {
+            "dimensions": "420-x-290-x-30-mm"
+      },
+      "109": {
+            "dimensions": "349.3-x-240.7-x-15.5-mm"
+      },
+      "110": {
+            "dimensions": "384-x-262-x-25-mm"
+      },
+      "111": {
+            "dimensions": "381.6-x-263-x-21-mm"
+      },
+      "112": {
+            "dimensions": "280.5-x-196.5-x-13.1-mm"
+      },
+      "113": {
+            "dimensions": "363.4-x-247.5-x-19.9-mm"
+      },
+      "114": {
+            "dimensions": "388.6-x-275.6-x-24.9-mm"
+      },
+      "115": {
+            "dimensions": "361.4-x-244.5-x-20-mm"
+      },
+      "116": {
+            "dimensions": "335-x-232-x-21.5-mm"
+      },
+      "117": {
+            "dimensions": "242-x-339-x-20-mm"
+      },
+      "118": {
+            "dimensions": "365-x-251-x-18.9-mm"
+      },
+      "119": {
+            "dimensions": "306-x-212-x-14.7-mm"
+      },
+      "120": {
+            "dimensions": "419-x-285-x-28.5-mm"
+      },
+      "121": {
+            "dimensions": "389-x-305-x-25.4-mm"
+      },
+      "122": {
+            "dimensions": "357-x-247-x-18-mm"
+      },
+      "123": {
+            "dimensions": "341-x-236-x-17.95-mm"
+      },
+      "124": {
+            "dimensions": "338-x-234-x-17.95-mm"
+      },
+      "125": {
+            "dimensions": "384-x-262-x-23-mm"
+      },
+      "126": {
+            "dimensions": "383-x-255-x-21-mm"
+      },
+      "127": {
+            "dimensions": "320-x-234.4-x-15.2-mm"
+      },
+      "128": {
+            "dimensions": "380-x-265-x-25.8-mm"
+      },
+      "129": {
+            "dimensions": "365-x-256.5-x-25.4-mm"
+      },
+      "130": {
+            "dimensions": "325-x-232-x-20.5-mm"
+      },
+      "131": {
+            "dimensions": "419-x-287-x-32-mm"
+      },
+      "132": {
+            "dimensions": "325.4-x-226.8-x-16-mm"
+      },
+      "133": {
+            "dimensions": "324-x-225-x-149-mm"
+      },
+      "134": {
+            "dimensions": "365-x-260-x-23.9-mm"
+      },
+      "135": {
+            "dimensions": "360-x-268-x-15.3-mm"
+      },
+      "136": {
+            "dimensions": "424-x-332-x-29.9-mm"
+      },
+      "137": {
+            "dimensions": "391-x-299.5-x-38.5-mm"
+      },
+      "138": {
+            "dimensions": "359-x-246-x-24-mm"
+      },
+      "139": {
+            "dimensions": "324.8-x-224.4-x-19.5-mm"
+      },
+      "140": {
+            "dimensions": "423-x-321.5-x-39.7-mm"
+      },
+      "141": {
+            "dimensions": "390-x-266-x-23.5-mm"
+      },
+      "142": {
+            "dimensions": "308.8-x-218-x-14.4-mm"
+      },
+      "143": {
+            "dimensions": "361.2-x-250-x-19.3-mm"
+      },
+      "144": {
+            "dimensions": "377.8-x-261.2-x-19.9-mm"
+      },
+      "145": {
+            "dimensions": "320.1-x-234.5-x-15.4-mm"
+      },
+      "146": {
+            "dimensions": "296.9-x-208.6-x-15.95-mm"
+      },
+      "147": {
+            "dimensions": "357-x-230-x-19.9-mm"
+      },
+      "148": {
+            "dimensions": "311-x-211x-15.4-mm"
+      },
+      "149": {
+            "dimensions": "307.7-x-212.45-x-13.68-mm"
+      },
+      "150": {
+            "dimensions": "364-x-248-x-22-mm"
+      },
+      "151": {
+            "dimensions": "308-x-223-x-14.5-mm"
+      },
+      "152": {
+            "dimensions": "308-x-209-x-16.5mm"
+      },
+      "153": {
+            "dimensions": "354-x-220-x-17.9-mm"
+      },
+      "154": {
+            "disk-drive": "not-available"
+      },
+      "155": {
+            "disk-drive": "cd/dvd-writer"
+      },
+      "156": {
+            "disk-drive": "cd/dvd-reader"
+      },
+      "157": {
+            "domestic-warranty": "1-year"
+      },
+      "158": {
+            "domestic-warranty": "2-year"
+      },
+      "159": {
+            "domestic-warranty": "18-months"
+      },
+      "160": {
+            "domestic-warranty": "3-year"
+      },
+      "161": {
+            "finger-print-sensor": "yes"
+      },
+      "162": {
+            "finger-print-sensor": "no"
+      },
+      "163": {
+            "graphic-processor": "intel-integrated-uhd"
+      },
+      "164": {
+            "graphic-processor": "nvidia-geforce-gtx-1650"
+      },
+      "165": {
+            "graphic-processor": "intel-integrated-hd-6000"
+      },
+      "166": {
+            "graphic-processor": "intel-integrated-uhd-620"
+      },
+      "167": {
+            "graphic-processor": "nvidia-geforce-mx110"
+      },
+      "168": {
+            "graphic-processor": "amd-radeon-vega-8"
+      },
+      "169": {
+            "graphic-processor": "intel-integrated-hd-620"
+      },
+      "170": {
+            "graphic-processor": "nvidia-geforce-mx230"
+      },
+      "171": {
+            "graphic-processor": "amd-radeon-vega-3"
+      },
+      "172": {
+            "graphic-processor": "nvidia-geforce-mx250"
+      },
+      "173": {
+            "graphic-processor": "nvidia-geforce-gtx-1660-ti"
+      },
+      "174": {
+            "graphic-processor": "nvidia-geforce-gtx-1050"
+      },
+      "175": {
+            "graphic-processor": "amd-radeon-rx-vega-10"
+      },
+      "176": {
+            "graphic-processor": "intel-integrated-n.a."
+      },
+      "177": {
+            "graphic-processor": "nvidia-geforce-gtx-1650-ti"
+      },
+      "178": {
+            "graphic-processor": "nvidia-geforce-mx130"
+      },
+      "179": {
+            "graphic-processor": "amd-radeon-pro-5500m"
+      },
+      "180": {
+            "graphic-processor": "amd-radeon-pro-5300m"
+      },
+      "181": {
+            "graphic-processor": "intel-integrated-intel-uhd-620"
+      },
+      "182": {
+            "graphic-processor": "intel-integrated-uhd-617"
+      },
+      "183": {
+            "graphic-processor": "intel-integrated-iris-plus"
+      },
+      "184": {
+            "graphic-processor": "amd-radeon-520"
+      },
+      "185": {
+            "graphic-processor": "nvidia-geforce-gtx-1650-maxq"
+      },
+      "186": {
+            "graphic-processor": "intel-integrated-hd-615"
+      },
+      "187": {
+            "graphic-processor": "intel-integrated-hd515"
+      },
+      "188": {
+            "graphic-processor": "nvidia-geforce-gtx-1050-ti"
+      },
+      "189": {
+            "graphic-processor": "nvidia-geforce-n16s-gtr"
+      },
+      "190": {
+            "graphic-processor": "amd-radeon"
+      },
+      "191": {
+            "graphic-processor": "nvidia-geforce-rtx-2060"
+      },
+      "192": {
+            "graphic-processor": "nvidia-geforce-mx150"
+      },
+      "193": {
+            "graphic-processor": "intel-integrated-hd620"
+      },
+      "194": {
+            "graphic-processor": "qualcomm-adreno-685"
+      },
+      "195": {
+            "graphic-processor": "intel-integrated-iris-plus-655"
+      },
+      "196": {
+            "graphic-processor": "amd-radeon-r5"
+      },
+      "197": {
+            "graphic-processor": "nvidia-geforce-940mx"
+      },
+      "198": {
+            "graphic-processor": "intel-integrated-hd-520"
+      },
+      "199": {
+            "graphic-processor": "nvidia-geforce-gtx-1060"
+      },
+      "200": {
+            "graphic-processor": "nvidia-geforce-gtx-1070"
+      },
+      "201": {
+            "graphic-processor": "intel-integrated-hd630"
+      },
+      "202": {
+            "graphic-processor": "amd-radeon-pro-560x"
+      },
+      "203": {
+            "graphic-processor": "intel-integrated-hd615"
+      },
+      "204": {
+            "graphic-processor": "nvidia-geforce-gtx-1050ti"
+      },
+      "205": {
+            "graphic-processor": "nvidia-geforce-gtx-gtx1650"
+      },
+      "206": {
+            "graphic-processor": "nvidia-geforce-1050ti"
+      },
+      "207": {
+            "graphic-processor": "nvidia-geforce-gtx-1080"
+      },
+      "208": {
+            "graphic-processor": "intel-integrated-hd520"
+      },
+      "209": {
+            "graphic-processor": "intel-integrated-uhd620"
+      },
+      "210": {
+            "graphic-processor": "intel-integrated-uhd-615"
+      },
+      "211": {
+            "graphic-processor": "nvidia-geforce-920mx"
+      },
+      "212": {
+            "graphic-processor": "intel-integrated-hd"
+      },
+      "213": {
+            "graphic-processor": "nvidia-geforce-rtx-2070"
+      },
+      "214": {
+            "graphic-processor": "nvidia-geforce-gtx-980m"
+      },
+      "215": {
+            "graphic-processor": "intel-integrated"
+      },
+      "216": {
+            "graphic-processor": "amd-radeon-r7-m270"
+      },
+      "217": {
+            "graphic-processor": "nvidia-geforce-uhd"
+      },
+      "218": {
+            "graphic-processor": "nvidia-geforce-gtx-1050-max-q"
+      },
+      "219": {
+            "graphic-processor": "nvidia-geforce-geforce\u00e2\u00ae-mx250"
+      },
+      "220": {
+            "hdmi-port": "1-x-hdmi-port-(v1.4)"
+      },
+      "221": {
+            "hdmi-port": "1-x-hdmi-port"
+      },
+      "222": {
+            "hdmi-port": "1-x-hdmi-port-(v1.4b)"
+      },
+      "223": {
+            "hdmi-port": "1-x-hdmi-port-(v2.0)"
+      },
+      "224": {
+            "hdmi-port": "1-x-hdmi-port-(v2.0b)"
+      },
+      "225": {
+            "hdmi-port": "1-x-hdmi"
+      },
+      "226": {
+            "hdmi-port": "1-x-mini-hdmi-port"
+      },
+      "227": {
+            "hdmi-port": "yes"
+      },
+      "228": {
+            "included-software": "asus-splendid,-tru2life"
+      },
+      "229": {
+            "included-software": "asus-giftbox,-asus-splendid"
+      },
+      "230": {
+            "included-software": "my-asus,-splendid"
+      },
+      "231": {
+            "included-software": "asus-splendid"
+      },
+      "232": {
+            "included-software": "asus-splendid,-icesound"
+      },
+      "233": {
+            "included-software": "dragon-centre,-nahimic-2"
+      },
+      "234": {
+            "included-software": "dragon-gaming-center"
+      },
+      "235": {
+            "internal-mic": "built-in-microphone"
+      },
+      "236": {
+            "internal-mic": "dual-microphones"
+      },
+      "237": {
+            "internal-mic": "built-in-array-microphone"
+      },
+      "238": {
+            "internal-mic": "integrated-dual-array-microphone"
+      },
+      "239": {
+            "internal-mic": "integrated-monaural-microphone"
+      },
+      "240": {
+            "internal-mic": "built-in-microphones"
+      },
+      "241": {
+            "internal-mic": "dual-array-microphone"
+      },
+      "242": {
+            "internal-mic": "integrated-digital-microphone"
+      },
+      "243": {
+            "internal-mic": "built-in-digital-microphone"
+      },
+      "244": {
+            "internal-mic": "built-in-dual-microphone"
+      },
+      "245": {
+            "internal-mic": "dual-array-digital-microphone"
+      },
+      "246": {
+            "internal-mic": "built-in-dual-array-microphones"
+      },
+      "247": {
+            "internal-mic": "dual-array-digital-microphones"
+      },
+      "248": {
+            "internal-mic": "built-in-three-array-microphone"
+      },
+      "249": {
+            "internal-mic": "inbuilt"
+      },
+      "250": {
+            "internal-mic": "built-in-three-microphone"
+      },
+      "251": {
+            "internal-mic": "dual-far-field-studio-microphone"
+      },
+      "252": {
+            "internal-mic": "dual-array-microphones"
+      },
+      "253": {
+            "internal-mic": "built-in-dual-array-microphone"
+      },
+      "254": {
+            "internal-mic": "built-in-dual-microphones"
+      },
+      "255": {
+            "internal-mic": "dual-digital-microphone-array"
+      },
+      "256": {
+            "internal-mic": "built-in-array-microphones"
+      },
+      "257": {
+            "internal-mic": "single-microphone"
+      },
+      "258": {
+            "internal-mic": "built-in-digital-microphones"
+      },
+      "259": {
+            "internal-mic": "dual-far-field-studio-mics"
+      },
+      "260": {
+            "internal-mic": "built-in-three-microphones"
+      },
+      "261": {
+            "internal-mic": "three-microphones"
+      },
+      "262": {
+            "internal-mic": "single-digital-microphone"
+      },
+      "263": {
+            "internal-mic": "built-in-dual-digital-microphone"
+      },
+      "264": {
+            "internal-mic": "yes"
+      },
+      "265": {
+            "internal-mic": "2-digital-microphones"
+      },
+      "266": {
+            "keyboard": "backlit-chiclet-keyboard"
+      },
+      "267": {
+            "keyboard": "full-size-backlit-keyboard"
+      },
+      "268": {
+            "keyboard": "illuminated-chiclet-keyboard"
+      },
+      "269": {
+            "keyboard": "full-size-island-style-keyboard"
+      },
+      "270": {
+            "keyboard": "english-backlit-keyboard"
+      },
+      "271": {
+            "keyboard": "non-backlit-english-keyboard"
+      },
+      "272": {
+            "keyboard": "island-style-keyboard"
+      },
+      "273": {
+            "keyboard": "chiclet-keyboard"
+      },
+      "274": {
+            "keyboard": "english-backlit-blue-keyboard"
+      },
+      "275": {
+            "keyboard": "english-non-backlit-keyboard"
+      },
+      "276": {
+            "keyboard": "english-backlit-grey-keyboard"
+      },
+      "277": {
+            "keyboard": "english-international-keyboard"
+      },
+      "278": {
+            "keyboard": "english-blue-backlit-keyboard"
+      },
+      "279": {
+            "keyboard": "blue-backlit-english-keyboard"
+      },
+      "280": {
+            "keyboard": "illuminated-chiclet-rgb-keyboard"
+      },
+      "281": {
+            "keyboard": "backlit-chiclet-rgb-keyboard"
+      },
+      "282": {
+            "keyboard": "standard-english-keyboard"
+      },
+      "283": {
+            "keyboard": "backlit-island-style-keyboard"
+      },
+      "284": {
+            "keyboard": "standard-keyboard"
+      },
+      "285": {
+            "keyboard": "backlight-keyboard"
+      },
+      "286": {
+            "keyboard": "full-sized-backlit-keyboard"
+      },
+      "287": {
+            "keyboard": "island-style-backlit-keyboard"
+      },
+      "288": {
+            "keyboard": "full-size-keyboard"
+      },
+      "289": {
+            "keyboard": "alienware-tactx-keyboard"
+      },
+      "290": {
+            "keyboard": "spill-resistant-backlit-keyboard"
+      },
+      "291": {
+            "ms-office-provided": "no"
+      },
+      "292": {
+            "ms-office-provided": "yes"
+      },
+      "293": {
+            "mic-in": "yes"
+      },
+      "294": {
+            "model-number": "x412fa-ek361t"
+      },
+      "295": {
+            "model-number": "15-ec0101ax"
+      },
+      "296": {
+            "model-number": "mqd32hn/a-a1466"
+      },
+      "297": {
+            "model-number": "s430fa-eb039t"
+      },
+      "298": {
+            "model-number": "14-dh0107tu"
+      },
+      "299": {
+            "model-number": "ux430ua-gv573t"
+      },
+      "300": {
+            "model-number": "x543ua-dm582t"
+      },
+      "301": {
+            "model-number": "x543ub-dm581t"
+      },
+      "302": {
+            "model-number": "x543ub-dm582t"
+      },
+      "303": {
+            "model-number": "s340-14api"
+      },
+      "304": {
+            "model-number": "x543ua-dm581t"
+      },
+      "305": {
+            "model-number": "x412fa-ek363t"
+      },
+      "306": {
+            "model-number": "81w8-idea-pad-s145--15iil-u"
+      },
+      "307": {
+            "model-number": "130-15ikb"
+      },
+      "308": {
+            "model-number": "s145-15iil"
+      },
+      "309": {
+            "model-number": "s340-14iil"
+      },
+      "310": {
+            "model-number": "x543ua-dm841t"
+      },
+      "311": {
+            "model-number": "81w8-ideapad-s145-15iil-u"
+      },
+      "312": {
+            "model-number": "x412fj-ek511t"
+      },
+      "313": {
+            "model-number": "15s-eq0007au"
+      },
+      "314": {
+            "model-number": "l340-15irh"
+      },
+      "315": {
+            "model-number": "sf314-55g"
+      },
+      "316": {
+            "model-number": "s145-15ikb"
+      },
+      "317": {
+            "model-number": "14-dh1007tu"
+      },
+      "318": {
+            "model-number": "x412fa-ek513t"
+      },
+      "319": {
+            "model-number": "insprion-3593"
+      },
+      "320": {
+            "model-number": "a515-55"
+      },
+      "321": {
+            "model-number": "um431da-am581ts"
+      },
+      "322": {
+            "model-number": "x412fa-ek230t"
+      },
+      "323": {
+            "model-number": "x412fa-ek362t"
+      },
+      "324": {
+            "model-number": "15-ec0073ax"
+      },
+      "325": {
+            "model-number": "15-dk00261tx"
+      },
+      "326": {
+            "model-number": "g3-3590"
+      },
+      "327": {
+            "model-number": "x412fj-ek512t"
+      },
+      "328": {
+            "model-number": "81vv-ideapad-s340--14iil-u"
+      },
+      "329": {
+            "model-number": "x509jb-ej591t"
+      },
+      "330": {
+            "model-number": "15s-eq0132au"
+      },
+      "331": {
+            "model-number": "x512fa-ej373t"
+      },
+      "332": {
+            "model-number": "15imh05"
+      },
+      "333": {
+            "model-number": "s540-15iml"
+      },
+      "334": {
+            "model-number": "15q-ds1001tu"
+      },
+      "335": {
+            "model-number": "g531gt-bq124t"
+      },
+      "336": {
+            "model-number": "x509jb-ej592t"
+      },
+      "337": {
+            "model-number": "f571gt-al518t"
+      },
+      "338": {
+            "model-number": "14-dh1025tx"
+      },
+      "339": {
+            "model-number": "14-cd0087tu"
+      },
+      "340": {
+            "model-number": "mvvk2hn/a"
+      },
+      "341": {
+            "model-number": "vos-3590"
+      },
+      "342": {
+            "model-number": "mvvj2hn/a"
+      },
+      "343": {
+            "model-number": "14-ce3006tu"
+      },
+      "344": {
+            "model-number": "g531gt-al017t"
+      },
+      "345": {
+            "model-number": "g531gt-al271t"
+      },
+      "346": {
+            "model-number": "x512fa-ej547tx512f"
+      },
+      "347": {
+            "model-number": "gf65-thin-9sd-293in"
+      },
+      "348": {
+            "model-number": "x512da-ej502t"
+      },
+      "349": {
+            "model-number": "mre92hn/a"
+      },
+      "350": {
+            "model-number": "x512da-ej503t"
+      },
+      "351": {
+            "model-number": "s145-15api"
+      },
+      "352": {
+            "model-number": "14s-er0003tu"
+      },
+      "353": {
+            "model-number": "13-aw0204tu"
+      },
+      "354": {
+            "model-number": "vos-3480"
+      },
+      "355": {
+            "model-number": "mvvl2hn/a"
+      },
+      "356": {
+            "model-number": "ux430ua-gv372t"
+      },
+      "357": {
+            "model-number": "a515-54"
+      },
+      "358": {
+            "model-number": "gf63-thin-9sc-460in"
+      },
+      "359": {
+            "model-number": "x412ua-ek342t"
+      },
+      "360": {
+            "model-number": "mref2hn/a"
+      },
+      "361": {
+            "model-number": "14s-er0002tu"
+      },
+      "362": {
+            "model-number": "m1866"
+      },
+      "363": {
+            "model-number": "x412fa-ek512t"
+      },
+      "364": {
+            "model-number": "g531gt-al018t"
+      },
+      "365": {
+            "model-number": "ns14a1in010p"
+      },
+      "366": {
+            "model-number": "1796"
+      },
+      "367": {
+            "model-number": "g3-3590/g3-15-3590"
+      },
+      "368": {
+            "model-number": "x2"
+      },
+      "369": {
+            "model-number": "ns13a2in206p"
+      },
+      "370": {
+            "model-number": "x412da-ek141t"
+      },
+      "371": {
+            "model-number": "1824"
+      },
+      "372": {
+            "model-number": "15-ec0098ax"
+      },
+      "373": {
+            "model-number": "an515-52"
+      },
+      "374": {
+            "model-number": "sf313-51"
+      },
+      "375": {
+            "model-number": "g531gt-al007t"
+      },
+      "376": {
+            "model-number": "ns14a1in501p"
+      },
+      "377": {
+            "model-number": "x512fl-ej502t"
+      },
+      "378": {
+            "model-number": "sf313-51-30ep"
+      },
+      "379": {
+            "model-number": "ideapad-510"
+      },
+      "380": {
+            "model-number": "sf314-42"
+      },
+      "381": {
+            "model-number": "um462da-ai701ts"
+      },
+      "382": {
+            "model-number": "mvvm2hn/a"
+      },
+      "383": {
+            "model-number": "tp412fa-ec371ts"
+      },
+      "384": {
+            "model-number": "sf314-41"
+      },
+      "385": {
+            "model-number": "insp-7380"
+      },
+      "386": {
+            "model-number": "x509ja-ej592t"
+      },
+      "387": {
+            "model-number": "gl73"
+      },
+      "388": {
+            "model-number": "ux331ual-eg002t"
+      },
+      "389": {
+            "model-number": "ux333fa-a4116t"
+      },
+      "390": {
+            "model-number": "14-dh1011tu"
+      },
+      "391": {
+            "model-number": "15-dc0082tx"
+      },
+      "392": {
+            "model-number": "720s-13ikb"
+      },
+      "393": {
+            "model-number": "330-15ikb"
+      },
+      "394": {
+            "model-number": "sf514-52t"
+      },
+      "395": {
+            "model-number": "sf313-51-506p"
+      },
+      "396": {
+            "model-number": "ip-720s"
+      },
+      "397": {
+            "model-number": "15-dc0084tx"
+      },
+      "398": {
+            "model-number": "m1876"
+      },
+      "399": {
+            "model-number": "mv962hn"
+      },
+      "400": {
+            "model-number": "14s-dr1006tu"
+      },
+      "401": {
+            "model-number": "x543ua-dm362t"
+      },
+      "402": {
+            "model-number": "x412fa-ek371t"
+      },
+      "403": {
+            "model-number": "g731gt-h7179t"
+      },
+      "404": {
+            "model-number": "59427747"
+      },
+      "405": {
+            "model-number": "x512fl-ej701t"
+      },
+      "406": {
+            "model-number": "x509fj-ej502t"
+      },
+      "407": {
+            "model-number": "s410ua-eb409t"
+      },
+      "408": {
+            "model-number": "ip-520"
+      },
+      "409": {
+            "model-number": "730-13ikb"
+      },
+      "410": {
+            "model-number": "gl62m-7rdx-1878xin"
+      },
+      "411": {
+            "model-number": "sp513-51"
+      },
+      "412": {
+            "model-number": "s410ua-eb720t"
+      },
+      "413": {
+            "model-number": "sf713-51"
+      },
+      "414": {
+            "model-number": "15-dk0047tx"
+      },
+      "415": {
+            "model-number": "330s-15ikb"
+      },
+      "416": {
+            "model-number": "ip-320-15ikb"
+      },
+      "417": {
+            "model-number": "x409ja-ek591t"
+      },
+      "418": {
+            "model-number": "gs65-8re-084in"
+      },
+      "419": {
+            "model-number": "a515-51g-5206"
+      },
+      "420": {
+            "model-number": "gs65-stealth-9se-636in"
+      },
+      "421": {
+            "model-number": "ge73-raider-rgb-8rf-024in"
+      },
+      "422": {
+            "model-number": "ph315-51-785w"
+      },
+      "423": {
+            "model-number": "mptt2hn/a"
+      },
+      "424": {
+            "model-number": "fx504gd-e4021t"
+      },
+      "425": {
+            "model-number": "a515-51g--5673"
+      },
+      "426": {
+            "model-number": "mv932hn"
+      },
+      "427": {
+            "model-number": "mnyh2hn/a"
+      },
+      "428": {
+            "model-number": "a315-56"
+      },
+      "429": {
+            "model-number": "15-ce073tx"
+      },
+      "430": {
+            "model-number": "7570"
+      },
+      "431": {
+            "model-number": "nx101"
+      },
+      "432": {
+            "model-number": "y540"
+      },
+      "433": {
+            "model-number": "3480"
+      },
+      "434": {
+            "model-number": "mv972hn"
+      },
+      "435": {
+            "model-number": "520-15ikb"
+      },
+      "436": {
+            "model-number": "ux333fa-a4184t"
+      },
+      "437": {
+            "model-number": "ux580ge-e2032t"
+      },
+      "438": {
+            "model-number": "gl62-7rdx"
+      },
+      "439": {
+            "model-number": "13-ar0118au"
+      },
+      "440": {
+            "model-number": "fx503vd-dm112t"
+      },
+      "441": {
+            "model-number": "ge73vr-7rf-086in"
+      },
+      "442": {
+            "model-number": "legion-y540"
+      },
+      "443": {
+            "model-number": "gl62m-7rex"
+      },
+      "444": {
+            "model-number": "g3-572"
+      },
+      "445": {
+            "model-number": "aw159321tb8s"
+      },
+      "446": {
+            "model-number": "e203mah-fd004t"
+      },
+      "447": {
+            "model-number": "gs65"
+      },
+      "448": {
+            "model-number": "x349-m"
+      },
+      "449": {
+            "model-number": "sf314-52"
+      },
+      "450": {
+            "model-number": "mr942hn/a"
+      },
+      "451": {
+            "model-number": "gl503vd-fy254t"
+      },
+      "452": {
+            "model-number": "15-ce071tx"
+      },
+      "453": {
+            "model-number": "gl553vd-fy103t"
+      },
+      "454": {
+            "model-number": "13-ak0040tu"
+      },
+      "455": {
+            "model-number": "y520-15ikbn"
+      },
+      "456": {
+            "model-number": "15-cx0141tx"
+      },
+      "457": {
+            "model-number": "e14"
+      },
+      "458": {
+            "model-number": "gl62-7rd"
+      },
+      "459": {
+            "model-number": "g531gu-es511t"
+      },
+      "460": {
+            "model-number": "15-di0000tx"
+      },
+      "461": {
+            "model-number": "x412fa-ek511t"
+      },
+      "462": {
+            "model-number": "ns13a1in015p"
+      },
+      "463": {
+            "model-number": "14-da0004tu"
+      },
+      "464": {
+            "model-number": "ns13a1in014p"
+      },
+      "465": {
+            "model-number": "320e-15ikb-d"
+      },
+      "466": {
+            "model-number": "yoga-900"
+      },
+      "467": {
+            "model-number": "y530-15ich"
+      },
+      "468": {
+            "model-number": "ns14a2in241p"
+      },
+      "469": {
+            "model-number": "ns14a2in239p"
+      },
+      "470": {
+            "model-number": "gx531gwr-es024t"
+      },
+      "471": {
+            "model-number": "ns14a2in245p"
+      },
+      "472": {
+            "model-number": "ns14a2in244p"
+      },
+      "473": {
+            "model-number": "aw177161tb8s"
+      },
+      "474": {
+            "model-number": "ns14a2in246p"
+      },
+      "475": {
+            "model-number": "ns14a2in249p"
+      },
+      "476": {
+            "model-number": "sf514-52t--59jy"
+      },
+      "477": {
+            "model-number": "ns14a2in206p"
+      },
+      "478": {
+            "model-number": "sp714-51"
+      },
+      "479": {
+            "model-number": "g9-591"
+      },
+      "480": {
+            "model-number": "ns14a2in187p"
+      },
+      "481": {
+            "model-number": "ux581gv-h2041t"
+      },
+      "482": {
+            "model-number": "5378"
+      },
+      "483": {
+            "model-number": "g9-793"
+      },
+      "484": {
+            "model-number": "m509da-ej581t"
+      },
+      "485": {
+            "model-number": "g9-593"
+      },
+      "486": {
+            "model-number": "gl502vm-fy230t"
+      },
+      "487": {
+            "model-number": "13-ap0121tu"
+      },
+      "488": {
+            "model-number": "15-df1004tx"
+      },
+      "489": {
+            "model-number": "x512fa-ej372t"
+      },
+      "490": {
+            "model-number": "7548"
+      },
+      "491": {
+            "model-number": "13-ak0049tu"
+      },
+      "492": {
+            "model-number": "s540-13iml"
+      },
+      "493": {
+            "model-number": "x512fa-ej549t"
+      },
+      "494": {
+            "model-number": "13-an0045tu"
+      },
+      "495": {
+            "model-number": "insp-7386"
+      },
+      "496": {
+            "model-number": "s340-15iil"
+      },
+      "497": {
+            "model-number": "5584"
+      },
+      "498": {
+            "model-number": "14-cd0050tx"
+      },
+      "499": {
+            "model-number": "1867"
+      },
+      "500": {
+            "model-number": "ux331fal-eg075t"
+      },
+      "501": {
+            "model-number": "ns14a2in223p"
+      },
+      "502": {
+            "model-number": "ns13a1in012p"
+      },
+      "503": {
+            "model-number": "ns14a2in215p"
+      },
+      "504": {
+            "model-number": "ns13a1in013p"
+      },
+      "505": {
+            "model-number": "ns13a1in019p"
+      },
+      "506": {
+            "model-number": "ns14a2in218p"
+      },
+      "507": {
+            "model-number": "ns14a2in220p"
+      },
+      "508": {
+            "model-number": "ns14a2in228p"
+      },
+      "509": {
+            "model-number": "mai5882swt"
+      },
+      "510": {
+            "model-number": "ns14a2in225p"
+      },
+      "511": {
+            "model-number": "ux533fd-a9100t"
+      },
+      "512": {
+            "model-number": "insp-7580"
+      },
+      "513": {
+            "model-number": "gl63-8rc"
+      },
+      "514": {
+            "model-number": "15-cs3006tx"
+      },
+      "515": {
+            "multi-card-slot": "micro-sd-card-reader"
+      },
+      "516": {
+            "multi-card-slot": "sdxc-card-reader"
+      },
+      "517": {
+            "multi-card-slot": "sd-card-reader"
+      },
+      "518": {
+            "multi-card-slot": "2-in-1-card-reader-(sd/mmc)"
+      },
+      "519": {
+            "multi-card-slot": "1-x-micro-sd-card"
+      },
+      "520": {
+            "multi-card-slot": "1-x-microsd"
+      },
+      "521": {
+            "multi-card-slot": "3-in-1-card-reader"
+      },
+      "522": {
+            "multi-card-slot": "micro-sdxc-card-reader"
+      },
+      "523": {
+            "multi-card-slot": "sd-media-card-reader"
+      },
+      "524": {
+            "multi-card-slot": "2-in-1-card-reader-(sd,-mmc)"
+      },
+      "525": {
+            "multi-card-slot": "4-in-1-card-reader"
+      },
+      "526": {
+            "multi-card-slot": "yes"
+      },
+      "527": {
+            "multi-card-slot": "2-in-1-card-reader-(sd,-sdxc)"
+      },
+      "528": {
+            "multi-card-slot": "micro-sd"
+      },
+      "529": {
+            "multi-card-slot": "card-reader"
+      },
+      "530": {
+            "multi-card-slot": "micro-sd-media-card-reader"
+      },
+      "531": "physical-damage",
+      "532": {
+            "number-of-cores": "2"
+      },
+      "533": {
+            "number-of-cores": "4"
+      },
+      "534": {
+            "number-of-cores": "6"
+      },
+      "535": {
+            "number-of-cores": "8"
+      },
+      "536": {
+            "os-architecture": "64-bit"
+      },
+      "537": {
+            "operating-system": "windows-10-home"
+      },
+      "538": {
+            "operating-system": "mac-os-sierra"
+      },
+      "539": {
+            "operating-system": "mac-os-catalina"
+      },
+      "540": {
+            "operating-system": "mac-os-mojave"
+      },
+      "541": {
+            "operating-system": "linux"
+      },
+      "542": {
+            "operating-system": "windows-10-pro"
+      },
+      "543": {
+            "operating-system": "windows-10-home-in-s-mode"
+      },
+      "544": {
+            "operating-system": "dos"
+      },
+      "545": {
+            "operating-system": "windows-8-pro"
+      },
+      "546": {
+            "operating-system": "windows-10"
+      },
+      "547": {
+            "operating-system": "chrome"
+      },
+      "548": {
+            "part-number": "90nb0l91-m11350"
+      },
+      "549": {
+            "part-number": "167w1pa#acj"
+      },
+      "550": {
+            "part-number": "mqd32hn/a"
+      },
+      "551": {
+            "part-number": "7al87pa#acj"
+      },
+      "552": {
+            "part-number": "90nb0ec6-m15290"
+      },
+      "553": {
+            "part-number": "90nb0hf7-m41870"
+      },
+      "554": {
+            "part-number": "90nb0im6-m23390"
+      },
+      "555": {
+            "part-number": "90nb0im7-m23400"
+      },
+      "556": {
+            "part-number": "81nb00f6in"
+      },
+      "557": {
+            "part-number": "90nb0hf6-m41860"
+      },
+      "558": {
+            "part-number": "90nb0l93-m12020"
+      },
+      "559": {
+            "part-number": "81w800hdin"
+      },
+      "560": {
+            "part-number": "81h700bein"
+      },
+      "561": {
+            "part-number": "81w800b1in"
+      },
+      "562": {
+            "part-number": "81vv00jfin"
+      },
+      "563": {
+            "part-number": "90nb0hf6-m43560"
+      },
+      "564": {
+            "part-number": "81w800mcin"
+      },
+      "565": {
+            "part-number": "90nb0m21-m05770"
+      },
+      "566": {
+            "part-number": "9vx05pa#acj"
+      },
+      "567": {
+            "part-number": "81lk00j2in"
+      },
+      "568": {
+            "part-number": "nx.hbjsi.001"
+      },
+      "569": {
+            "part-number": "81vd008nin"
+      },
+      "570": {
+            "part-number": "81vv00fnin"
+      },
+      "571": {
+            "part-number": "8ga82pa#acj"
+      },
+      "572": {
+            "part-number": "90nb0l93-m14180"
+      },
+      "573": {
+            "part-number": "d560159win9s"
+      },
+      "574": {
+            "part-number": "nx.hsmsi.001"
+      },
+      "575": {
+            "part-number": "90nb0pb3-m02190"
+      },
+      "576": {
+            "part-number": "90nb0l92-m04010"
+      },
+      "577": {
+            "part-number": "90nb0l92-m12010"
+      },
+      "578": {
+            "part-number": "9nh09pa#acj"
+      },
+      "579": {
+            "part-number": "2x017pa"
+      },
+      "580": {
+            "part-number": "blk-c566517win9"
+      },
+      "581": {
+            "part-number": "90nb0m22-m05780"
+      },
+      "582": {
+            "part-number": "81vv008tin"
+      },
+      "583": {
+            "part-number": "90nb0qd1-m00460"
+      },
+      "584": {
+            "part-number": "81lk01j6in"
+      },
+      "585": {
+            "part-number": "3m184pa#acj"
+      },
+      "586": {
+            "part-number": "81lk01l3in"
+      },
+      "587": {
+            "part-number": "90nb0kr6-m20440"
+      },
+      "588": {
+            "part-number": "81y400buin"
+      },
+      "589": {
+            "part-number": "81y400bqin"
+      },
+      "590": {
+            "part-number": "81ng002bin"
+      },
+      "591": {
+            "part-number": "7wq13pa#acj"
+      },
+      "592": {
+            "part-number": "90nr01l3-m07590"
+      },
+      "593": {
+            "part-number": "90nb0qd2-m01510"
+      },
+      "594": {
+            "part-number": "90nb0nl1-m08380"
+      },
+      "595": {
+            "part-number": "8ga92pa#acj"
+      },
+      "596": {
+            "part-number": "4nl42pa#acj"
+      },
+      "597": {
+            "part-number": "mvvk2hn/a"
+      },
+      "598": {
+            "part-number": "c552511win9"
+      },
+      "599": {
+            "part-number": "mvvj2hn/a"
+      },
+      "600": {
+            "part-number": "8qg90pa#acj"
+      },
+      "601": {
+            "part-number": "90nr01l3-m02850"
+      },
+      "602": {
+            "part-number": "90nr01l3-m10540"
+      },
+      "603": {
+            "part-number": "90nb0kr7-m09780"
+      },
+      "604": {
+            "part-number": "9s7-16w112-293"
+      },
+      "605": {
+            "part-number": "90nb0lz3-m11410"
+      },
+      "606": {
+            "part-number": "mre92hn/a"
+      },
+      "607": {
+            "part-number": "90nb0lz6-m11420"
+      },
+      "608": {
+            "part-number": "81ut0079in"
+      },
+      "609": {
+            "part-number": "3c465pa#acj"
+      },
+      "610": {
+            "part-number": "9jb01pa#acj"
+      },
+      "611": {
+            "part-number": "e-c552106uin9"
+      },
+      "612": {
+            "part-number": "mvvl2hn/a"
+      },
+      "613": {
+            "part-number": "90nb0ec4-m15330"
+      },
+      "614": {
+            "part-number": "nx.hn5si.007"
+      },
+      "615": {
+            "part-number": "9s7-16r312-460"
+      },
+      "616": {
+            "part-number": "90nb0kp1-m05160"
+      },
+      "617": {
+            "part-number": "mref2hn/a"
+      },
+      "618": {
+            "part-number": "3c464pa#acj"
+      },
+      "619": {
+            "part-number": "puv-00028"
+      },
+      "620": {
+            "part-number": "90nb0l92-m14170"
+      },
+      "621": {
+            "part-number": "90nr01l3-m03820"
+      },
+      "622": {
+            "part-number": "ns14a1in010p"
+      },
+      "623": {
+            "part-number": "kju-00015"
+      },
+      "624": {
+            "part-number": "blk-c566515win9"
+      },
+      "625": {
+            "part-number": "1aa32pa"
+      },
+      "626": {
+            "part-number": "ns13a2in206p"
+      },
+      "627": {
+            "part-number": "90nb0m51-m01740"
+      },
+      "628": {
+            "part-number": "mhn-00015"
+      },
+      "629": {
+            "part-number": "2z324pa/2z324pa#acj"
+      },
+      "630": {
+            "part-number": "nh.q49si.009"
+      },
+      "631": {
+            "part-number": "nx.h3ysi.006"
+      },
+      "632": {
+            "part-number": "81h7002bin"
+      },
+      "633": {
+            "part-number": "90nr01l3-m09720"
+      },
+      "634": {
+            "part-number": "ns14a1in501p"
+      },
+      "635": {
+            "part-number": "81y400bpin"
+      },
+      "636": {
+            "part-number": "x512fl-ej502t"
+      },
+      "637": {
+            "part-number": "nx.h3ysi.002"
+      },
+      "638": {
+            "part-number": "vdh-00013"
+      },
+      "639": {
+            "part-number": "80sv00ycih"
+      },
+      "640": {
+            "part-number": "nx.hsesi.001"
+      },
+      "641": {
+            "part-number": "90nb0mk1-m02570"
+      },
+      "642": {
+            "part-number": "mvvm2hn/a"
+      },
+      "643": {
+            "part-number": "81y400bnin"
+      },
+      "644": {
+            "part-number": "90nb0n31-m09810"
+      },
+      "645": {
+            "part-number": "un.heysi.003"
+      },
+      "646": {
+            "part-number": "90nb0qe2-m01500"
+      },
+      "647": {
+            "part-number": "9s7-17c722-039"
+      },
+      "648": {
+            "part-number": "wht-c566518win9"
+      },
+      "649": {
+            "part-number": "90nb0ht3-m02250"
+      },
+      "650": {
+            "part-number": "90nb0jv3-m02600"
+      },
+      "651": {
+            "part-number": "8gb02pa#acj"
+      },
+      "652": {
+            "part-number": "4rj56pa"
+      },
+      "653": {
+            "part-number": "81bv008tin"
+      },
+      "654": {
+            "part-number": "81de01k0in"
+      },
+      "655": {
+            "part-number": "nx.gu4si.004"
+      },
+      "656": {
+            "part-number": "nx.h3ysi.005"
+      },
+      "657": {
+            "part-number": "81a80090in"
+      },
+      "658": {
+            "part-number": "4rj78pa"
+      },
+      "659": {
+            "part-number": "mjx-00024"
+      },
+      "660": {
+            "part-number": "mv962hn"
+      },
+      "661": {
+            "part-number": "13s63pa#acj"
+      },
+      "662": {
+            "part-number": "90nb0hf7-m41800"
+      },
+      "663": {
+            "part-number": "90nb0l91-m13450"
+      },
+      "664": {
+            "part-number": "90nr0223-m03600"
+      },
+      "665": {
+            "part-number": "59-427747"
+      },
+      "666": {
+            "part-number": "90nb0m92-m05450"
+      },
+      "667": {
+            "part-number": "90nb0my2-m03730"
+      },
+      "668": {
+            "part-number": "90nb0gf1-m12420"
+      },
+      "669": {
+            "part-number": "80yl00r8in"
+      },
+      "670": {
+            "part-number": "81ct0042in"
+      },
+      "671": {
+            "part-number": "9s7-16j962-1878"
+      },
+      "672": {
+            "part-number": "fjt-00015"
+      },
+      "673": {
+            "part-number": "nx.gk4si.014"
+      },
+      "674": {
+            "part-number": "90nb0gf2-m12390"
+      },
+      "675": {
+            "part-number": "81bv008uin"
+      },
+      "676": {
+            "part-number": "nx.gn2si.007"
+      },
+      "677": {
+            "part-number": "7lg86pa#acj"
+      },
+      "678": {
+            "part-number": "81f501emin"
+      },
+      "679": {
+            "part-number": "ip-320-15ikb"
+      },
+      "680": {
+            "part-number": "90nb0q91-m00710"
+      },
+      "681": {
+            "part-number": "9s7-16q211-084"
+      },
+      "682": {
+            "part-number": "nx.gvlsi.002"
+      },
+      "683": {
+            "part-number": "9s7-16q411-636"
+      },
+      "684": {
+            "part-number": "ge73-raider-rgb-8rf-024in"
+      },
+      "685": {
+            "part-number": "nh.q47si.001"
+      },
+      "686": {
+            "part-number": "mptt2hn/a"
+      },
+      "687": {
+            "part-number": "90nr00j3-m00680"
+      },
+      "688": {
+            "part-number": "nx.gvlsi.001"
+      },
+      "689": {
+            "part-number": "mv932hn"
+      },
+      "690": {
+            "part-number": "mnyh2hn/a"
+      },
+      "691": {
+            "part-number": "nx.hs5si.001"
+      },
+      "692": {
+            "part-number": "2gd83pa#acj"
+      },
+      "693": {
+            "part-number": "e-slv-a569109win"
+      },
+      "694": {
+            "part-number": "np14n1in001p"
+      },
+      "695": {
+            "part-number": "81sy00b6in"
+      },
+      "696": {
+            "part-number": "np14n1in002p"
+      },
+      "697": {
+            "part-number": "e-c552107win9"
+      },
+      "698": {
+            "part-number": "np14n1in003p"
+      },
+      "699": {
+            "part-number": "mv972hn"
+      },
+      "700": {
+            "part-number": "81bf00ksin"
+      },
+      "701": {
+            "part-number": "90nb0jv6-m04220"
+      },
+      "702": {
+            "part-number": "81vv008sin"
+      },
+      "703": {
+            "part-number": "90nb0i83-m01800"
+      },
+      "704": {
+            "part-number": "9s7-16j952-1065"
+      },
+      "705": {
+            "part-number": "9fm75pa#acj"
+      },
+      "706": {
+            "part-number": "90nr0gn1-m02270"
+      },
+      "707": {
+            "part-number": "9s7-17c112-086"
+      },
+      "708": {
+            "part-number": "81sy00c7in"
+      },
+      "709": {
+            "part-number": "9s7-16j962-2068"
+      },
+      "710": {
+            "part-number": "nh.q2csi.008-/-nh.q2csi.001"
+      },
+      "711": {
+            "part-number": "b569905win9"
+      },
+      "712": {
+            "part-number": "90nb0j12-m00500"
+      },
+      "713": {
+            "part-number": "9s7-16q411-206"
+      },
+      "714": {
+            "part-number": "nx.vdfsi.006"
+      },
+      "715": {
+            "part-number": "nx.gqjsi.001"
+      },
+      "716": {
+            "part-number": "mr942hn/a"
+      },
+      "717": {
+            "part-number": "90nb0gq2-m04040"
+      },
+      "718": {
+            "part-number": "2gd81pa#acj"
+      },
+      "719": {
+            "part-number": "90nb0dw3-m01350"
+      },
+      "720": {
+            "part-number": "6cq62pa"
+      },
+      "721": {
+            "part-number": "80wk014gin"
+      },
+      "722": {
+            "part-number": "4qm21pa"
+      },
+      "723": {
+            "part-number": "20ras0ky00"
+      },
+      "724": {
+            "part-number": "9s7-16j952-640"
+      },
+      "725": {
+            "part-number": "90nr01j3-m09730"
+      },
+      "726": {
+            "part-number": "9vx41pa#acj"
+      },
+      "727": {
+            "part-number": "90nb0l91-m14160"
+      },
+      "728": {
+            "part-number": "ns13a1in015p"
+      },
+      "729": {
+            "part-number": "7by61pa#acj"
+      },
+      "730": {
+            "part-number": "ns13a1in014p"
+      },
+      "731": {
+            "part-number": "80xl03r9ih"
+      },
+      "732": {
+            "part-number": "80ue00blih"
+      },
+      "733": {
+            "part-number": "81fv00knin"
+      },
+      "734": {
+            "part-number": "ns14a2in241p"
+      },
+      "735": {
+            "part-number": "ns14a2in239p"
+      },
+      "736": {
+            "part-number": "90nr02h1-m00380"
+      },
+      "737": {
+            "part-number": "ns14a2in245p"
+      },
+      "738": {
+            "part-number": "ns14a2in244p"
+      },
+      "739": {
+            "part-number": "b569901win9"
+      },
+      "740": {
+            "part-number": "ns14a2in246p"
+      },
+      "741": {
+            "part-number": "ns14a2in249p"
+      },
+      "742": {
+            "part-number": "nx.gtmsi.025"
+      },
+      "743": {
+            "part-number": "ns14a2in206p"
+      },
+      "744": {
+            "part-number": "nx.gkpsi.002"
+      },
+      "745": {
+            "part-number": "nx.q0asi.001"
+      },
+      "746": {
+            "part-number": "ns14a2in187p"
+      },
+      "747": {
+            "part-number": "90nb0ng1-m03310"
+      },
+      "748": {
+            "part-number": "a564103sin9-/-a564101win9"
+      },
+      "749": {
+            "part-number": "nh.q1tsi.003"
+      },
+      "750": {
+            "part-number": "90nb0p51-m01470"
+      },
+      "751": {
+            "part-number": "nh.q1ysi.004"
+      },
+      "752": {
+            "part-number": "90nb0dr1-m05560"
+      },
+      "753": {
+            "part-number": "6da87pa"
+      },
+      "754": {
+            "part-number": "8ag42pa"
+      },
+      "755": {
+            "part-number": "90nb0kr3-m20430"
+      },
+      "756": {
+            "part-number": "y568501hin9"
+      },
+      "757": {
+            "part-number": "7al93pa"
+      },
+      "758": {
+            "part-number": "81xa002sin"
+      },
+      "759": {
+            "part-number": "90nb0kr2-m07760"
+      },
+      "760": {
+            "part-number": "5se71pa#acj"
+      },
+      "761": {
+            "part-number": "slv-b565501win9"
+      },
+      "762": {
+            "part-number": "81wl002rin"
+      },
+      "763": {
+            "part-number": "slv-c568125win9"
+      },
+      "764": {
+            "part-number": "4lr35pa#acj"
+      },
+      "765": {
+            "part-number": "nx.gk6si.007"
+      },
+      "766": {
+            "part-number": "vgy-00021"
+      },
+      "767": {
+            "part-number": "90nb0kd3-m01330"
+      },
+      "768": {
+            "part-number": "ns14a2in223p"
+      },
+      "769": {
+            "part-number": "ns13a1in012p"
+      },
+      "770": {
+            "part-number": "ns14a2in215p"
+      },
+      "771": {
+            "part-number": "ns13a1in013p"
+      },
+      "772": {
+            "part-number": "ns13a1in019p"
+      },
+      "773": {
+            "part-number": "ns14a2in218p"
+      },
+      "774": {
+            "part-number": "ns14a2in220p"
+      },
+      "775": {
+            "part-number": "ns14a2in228p"
+      },
+      "776": {
+            "part-number": "mai5882swt"
+      },
+      "777": {
+            "part-number": "ns14a2in225p"
+      },
+      "778": {
+            "part-number": "90nb0jx4-m01940"
+      },
+      "779": {
+            "part-number": "slv-b569501win9"
+      },
+      "780": {
+            "part-number": "9s7-16p612-262"
+      },
+      "781": {
+            "part-number": "8lx85pa#acj"
+      },
+      "782": "touchpad",
+      "783": {
+            "power-supply": "45-w-ac-adapter"
+      },
+      "784": {
+            "power-supply": "45-w-magsafe-2-power-adapter"
+      },
+      "785": {
+            "power-supply": "65-w-ac-adapter"
+      },
+      "786": {
+            "power-supply": "135-w-ac-adapter"
+      },
+      "787": {
+            "power-supply": "150-w-ac-adapter"
+      },
+      "788": {
+            "power-supply": "96-w-ac-adapter"
+      },
+      "789": {
+            "power-supply": "45-w"
+      },
+      "790": {
+            "power-supply": "180-w-ac-adapter"
+      },
+      "791": {
+            "power-supply": "30-w-ac-adapter"
+      },
+      "792": {
+            "power-supply": "45w"
+      },
+      "793": {
+            "power-supply": "120-w-ac-adapter"
+      },
+      "794": {
+            "power-supply": "130-w-ac-adapter"
+      },
+      "795": {
+            "power-supply": "61-w-ac-adapter"
+      },
+      "796": {
+            "power-supply": "65-w"
+      },
+      "797": {
+            "power-supply": "87-w-usb-c-power-adapter"
+      },
+      "798": {
+            "power-supply": "87-w-ac-adapter"
+      },
+      "799": {
+            "power-supply": "29-w-usb-c-power-adapter"
+      },
+      "800": {
+            "power-supply": "48-w-ac-adapter"
+      },
+      "801": {
+            "power-supply": "33-w"
+      },
+      "802": {
+            "power-supply": "230-w-ac-adapter"
+      },
+      "803": {
+            "power-supply": "87-w-power-adapter"
+      },
+      "804": {
+            "power-supply": "40-w-ac-adapter"
+      },
+      "805": {
+            "power-supply": "90-w-ac-adapter"
+      },
+      "806": "intel",
+      "807": {
+            "processor-generation": "10th-gen"
+      },
+      "808": {
+            "processor-generation": "5th-gen"
+      },
+      "809": {
+            "processor-generation": "8th-gen"
+      },
+      "810": {
+            "processor-generation": "7th-gen"
+      },
+      "811": {
+            "processor-generation": "9th-gen"
+      },
+      "812": {
+            "processor-generation": "2nd-gen"
+      },
+      "813": {
+            "processor-generation": "6th-gen"
+      },
+      "814": {
+            "processor-generation": "4th-gen"
+      },
+      "815": {
+            "processor-name": "core-i3"
+      },
+      "816": {
+            "processor-name": "ryzen-5-quad-core"
+      },
+      "817": {
+            "processor-name": "core-i5"
+      },
+      "818": {
+            "processor-name": "ryzen-3-dual-core"
+      },
+      "819": {
+            "processor-name": "ryzen-7-quad-core"
+      },
+      "820": {
+            "processor-name": "core-i7"
+      },
+      "821": {
+            "processor-name": "core-i9"
+      },
+      "822": {
+            "processor-name": "core-m"
+      },
+      "823": {
+            "processor-name": "pentium-gold"
+      },
+      "824": {
+            "processor-name": "ryzen-5-hexa-core"
+      },
+      "825": {
+            "processor-name": "athlon-dual-core"
+      },
+      "826": {
+            "processor-name": "sq1-octa-core"
+      },
+      "827": {
+            "processor-name": "core-m3"
+      },
+      "828": {
+            "processor-name": "celeron-dual-core"
+      },
+      "829": {
+            "processor-variant": "10110u"
+      },
+      "830": {
+            "processor-variant": "3550h"
+      },
+      "831": {
+            "processor-variant": "8265u"
+      },
+      "832": {
+            "processor-variant": "8145u"
+      },
+      "833": {
+            "processor-variant": "8250u"
+      },
+      "834": {
+            "processor-variant": "3500u"
+      },
+      "835": {
+            "processor-variant": "1035g1"
+      },
+      "836": {
+            "processor-variant": "7020u"
+      },
+      "837": {
+            "processor-variant": "1005g1"
+      },
+      "838": {
+            "processor-variant": "8130u"
+      },
+      "839": {
+            "processor-variant": "10210u"
+      },
+      "840": {
+            "processor-variant": "3200u"
+      },
+      "841": {
+            "processor-variant": "9300h"
+      },
+      "842": {
+            "processor-variant": "3750h"
+      },
+      "843": {
+            "processor-variant": "9750h"
+      },
+      "844": {
+            "processor-variant": "9750hf"
+      },
+      "845": {
+            "processor-variant": "3700u"
+      },
+      "846": {
+            "processor-variant": "10300h"
+      },
+      "847": {
+            "processor-variant": "10750h"
+      },
+      "848": {
+            "processor-variant": "na"
+      },
+      "849": {
+            "processor-variant": "1011u"
+      },
+      "850": {
+            "processor-variant": "1035g4"
+      },
+      "851": {
+            "processor-variant": "7y54"
+      },
+      "852": {
+            "processor-variant": "8650u"
+      },
+      "853": {
+            "processor-variant": "m5-6y54"
+      },
+      "854": {
+            "processor-variant": "4415y"
+      },
+      "855": {
+            "processor-variant": "8750h"
+      },
+      "856": {
+            "processor-variant": "7200u"
+      },
+      "857": {
+            "processor-variant": "4500u"
+      },
+      "858": {
+            "processor-variant": "300u"
+      },
+      "859": {
+            "processor-variant": "8565u"
+      },
+      "860": {
+            "processor-variant": "8550u"
+      },
+      "861": {
+            "processor-variant": "7500u"
+      },
+      "862": {
+            "processor-variant": "sq1"
+      },
+      "863": {
+            "processor-variant": "1065g7"
+      },
+      "864": {
+            "processor-variant": "4200u"
+      },
+      "865": {
+            "processor-variant": "7700hq"
+      },
+      "866": {
+            "processor-variant": "7300u"
+      },
+      "867": {
+            "processor-variant": "7100u"
+      },
+      "868": {
+            "processor-variant": "8300h"
+      },
+      "869": {
+            "processor-variant": "7300hq"
+      },
+      "870": {
+            "processor-variant": "8950hk"
+      },
+      "871": {
+            "processor-variant": "n4000"
+      },
+      "872": {
+            "processor-variant": "6006u"
+      },
+      "873": {
+            "processor-variant": "8500y"
+      },
+      "874": {
+            "processor-variant": "6560u"
+      },
+      "875": {
+            "processor-variant": "7y75"
+      },
+      "876": {
+            "processor-variant": "6700hq"
+      },
+      "877": {
+            "processor-variant": "9980hk"
+      },
+      "878": {
+            "processor-variant": "5200u"
+      },
+      "879": {
+            "processor-variant": "1035g7"
+      },
+      "880": {
+            "ram": "4-gb"
+      },
+      "881": {
+            "ram": "8-gb"
+      },
+      "882": {
+            "ram": "16-gb"
+      },
+      "883": {
+            "ram": "32-gb"
+      },
+      "884": {
+            "ram": "2-gb"
+      },
+      "885": {
+            "ram": "24-gb"
+      },
+      "886": {
+            "ram-type": "ddr4"
+      },
+      "887": {
+            "ram-type": "ddr3"
+      },
+      "888": {
+            "ram-type": "lpddr4x"
+      },
+      "889": {
+            "ram-type": "lpddr3"
+      },
+      "890": {
+            "ssd": "yes"
+      },
+      "891": {
+            "ssd": "no"
+      },
+      "892": {
+            "ssd-capacity": "256-gb"
+      },
+      "893": {
+            "ssd-capacity": "128-gb"
+      },
+      "894": {
+            "ssd-capacity": "512-gb"
+      },
+      "895": {
+            "ssd-capacity": "1-tb"
+      },
+      "896": {
+            "ssd-capacity": "8-gb"
+      },
+      "897": {
+            "screen-resolution": "1920-x-1080-pixel"
+      },
+      "898": {
+            "screen-resolution": "1440-x-900-pixel"
+      },
+      "899": {
+            "screen-resolution": "1366-x-768-pixel"
+      },
+      "900": {
+            "screen-resolution": "1920x1080-pixel"
+      },
+      "901": {
+            "screen-resolution": "3072-x-1920-pixel"
+      },
+      "902": {
+            "screen-resolution": "1920-x-1080$$-pixel"
+      },
+      "903": {
+            "screen-resolution": "2560-x-1600-pixel"
+      },
+      "904": {
+            "screen-resolution": "2736-x-1824-pixel"
+      },
+      "905": {
+            "screen-resolution": "1920-x-1280-pixel"
+      },
+      "906": {
+            "screen-resolution": "1800-x-1200-pixel"
+      },
+      "907": {
+            "screen-resolution": "2880-x-1920-pixel"
+      },
+      "908": {
+            "screen-resolution": "2800-x-1800-pixel"
+      },
+      "909": {
+            "screen-resolution": "2880-x-1800-pixel"
+      },
+      "910": {
+            "screen-resolution": "2304-x-1440-pixel"
+      },
+      "911": {
+            "screen-resolution": "3840-x-2160-pixel"
+      },
+      "912": {
+            "screen-resolution": "1920*10180-pixel"
+      },
+      "913": {
+            "screen-resolution": "1366-x-768$$-pixel"
+      },
+      "914": {
+            "screen-resolution": "3200-x-1800-pixel"
+      },
+      "915": {
+            "screen-resolution": "1920\u00e3\u20141080-pixel"
+      },
+      "916": {
+            "screen-resolution": "2256-x-1504-pixel"
+      },
+      "917": {
+            "screen-size": "35.56-cm-(14-inch)"
+      },
+      "918": {
+            "screen-size": "39.62-cm-(15.6-inch)"
+      },
+      "919": {
+            "screen-size": "33.78-cm-(13.3-inch)"
+      },
+      "920": {
+            "screen-size": "40.64-cm-(16-inch)"
+      },
+      "921": {
+            "screen-size": "31.24-cm-(12.3-inch)"
+      },
+      "922": {
+            "screen-size": "30.48-cm-(12-inch)"
+      },
+      "923": {
+            "screen-size": "25.4-cm-(10-inch)"
+      },
+      "924": {
+            "screen-size": "43.94-cm-(17.3-inch)"
+      },
+      "925": {
+            "screen-size": "33.02-cm-(13-inch)"
+      },
+      "926": {
+            "screen-size": "39.12-cm-(15.4-inch)"
+      },
+      "927": {
+            "screen-size": "38.1-cm-(15-inch)"
+      },
+      "928": {
+            "screen-size": "29.46-cm-(11.6-inch)"
+      },
+      "929": {
+            "screen-size": "34.29-cm-(13.5-inch)"
+      },
+      "930": {
+            "security-chip": "tpm"
+      },
+      "931": {
+            "security-chip": "trusted-platform-module-(tpm)"
+      },
+      "932": {
+            "security-chip": "tpm-2.0"
+      },
+      "933": {
+            "security-chip": "apple-t2-security-chip"
+      },
+      "934": {
+            "series": "vivobook-14"
+      },
+      "935": {
+            "series": "pavilion-gaming"
+      },
+      "936": {
+            "series": "macbook-air"
+      },
+      "937": {
+            "series": "vivobook-s-series"
+      },
+      "938": {
+            "series": "pavilion-x360"
+      },
+      "939": {
+            "series": "zenbook"
+      },
+      "940": {
+            "series": "vivobook-15"
+      },
+      "941": {
+            "series": "ideapad-s340"
+      },
+      "942": {
+            "series": "ideapad-s145"
+      },
+      "943": {
+            "series": "ideapad-130"
+      },
+      "944": {
+            "series": "15s"
+      },
+      "945": {
+            "series": "ideapad-l340"
+      },
+      "946": {
+            "series": "swift-3"
+      },
+      "947": {
+            "series": "pavilion-x360-14"
+      },
+      "948": {
+            "series": "inspiron-3000"
+      },
+      "949": {
+            "series": "aspire-5"
+      },
+      "950": {
+            "series": "zenbook-14"
+      },
+      "951": {
+            "series": "pavilion"
+      },
+      "952": {
+            "series": "g3"
+      },
+      "953": {
+            "series": "x512fa"
+      },
+      "954": {
+            "series": "ideapad-gaming-3i"
+      },
+      "955": {
+            "series": "ideapad-s540"
+      },
+      "956": {
+            "series": "15q"
+      },
+      "957": {
+            "series": "rog-strix-g"
+      },
+      "958": {
+            "series": "vivobook-gaming"
+      },
+      "959": {
+            "series": "macbook-pro"
+      },
+      "960": {
+            "series": "vostro-3000"
+      },
+      "961": {
+            "series": "pavilion-14-ce"
+      },
+      "962": {
+            "series": "g"
+      },
+      "963": {
+            "series": "14s"
+      },
+      "964": {
+            "series": "spectre-x360"
+      },
+      "965": {
+            "series": "vostro-14-3000"
+      },
+      "966": {
+            "series": "gf63-thin"
+      },
+      "967": {
+            "series": "surface-pro-7"
+      },
+      "968": {
+            "series": "liber"
+      },
+      "969": {
+            "series": "surface-pro-6"
+      },
+      "970": {
+            "series": "surface-go"
+      },
+      "971": {
+            "series": "nitro-5"
+      },
+      "972": {
+            "series": "15"
+      },
+      "973": {
+            "series": "zenbook-flip-14"
+      },
+      "974": {
+            "series": "ideapad-gaming-3"
+      },
+      "975": {
+            "series": "vivobook-flip-14"
+      },
+      "976": {
+            "series": "inspiron-13-7000-series"
+      },
+      "977": {
+            "series": "zenbook-13"
+      },
+      "978": {
+            "series": "ideapad-720s"
+      },
+      "979": {
+            "series": "ideapad-330"
+      },
+      "980": {
+            "series": "swift-5"
+      },
+      "981": {
+            "series": "surface-pro-x"
+      },
+      "982": {
+            "series": "vivobook-s14"
+      },
+      "983": {
+            "series": "yoga-730"
+      },
+      "984": {
+            "series": "gl"
+      },
+      "985": {
+            "series": "surface-pro"
+      },
+      "986": {
+            "series": "spin-5"
+      },
+      "987": {
+            "series": "swift-7"
+      },
+      "988": {
+            "series": "ideapad-330s"
+      },
+      "989": {
+            "series": "ideapad"
+      },
+      "990": {
+            "series": "gs"
+      },
+      "991": {
+            "series": "ge"
+      },
+      "992": {
+            "series": "predator-helios-300"
+      },
+      "993": {
+            "series": "tuf"
+      },
+      "994": {
+            "series": "macbook"
+      },
+      "995": {
+            "series": "aspire-3"
+      },
+      "996": {
+            "series": "omen"
+      },
+      "997": {
+            "series": "inspiron-15-7000"
+      },
+      "998": {
+            "series": "legion-y-series"
+      },
+      "999": {
+            "series": "ideapad-520"
+      },
+      "1000": {
+            "series": "zenbook-pro-15"
+      },
+      "1001": {
+            "series": "envy-13"
+      },
+      "1002": {
+            "series": "fx503"
+      },
+      "1003": {
+            "series": "legion"
+      },
+      "1004": {
+            "series": "vivobook"
+      },
+      "1005": {
+            "series": "stealth"
+      },
+      "1006": {
+            "series": "aspire"
+      },
+      "1007": {
+            "series": "rog-strix-edition"
+      },
+      "1008": {
+            "series": "rog"
+      },
+      "1009": {
+            "series": "spectre-folio-x360"
+      },
+      "1010": {
+            "series": "legion-y520"
+      },
+      "1011": {
+            "series": "thinkpad-e14"
+      },
+      "1012": {
+            "series": "chromebook-x360"
+      },
+      "1013": {
+            "series": "ideapad-320e"
+      },
+      "1014": {
+            "series": "legion-y530"
+      },
+      "1015": {
+            "series": "rog-zephyrus-s"
+      },
+      "1016": {
+            "series": "17"
+      },
+      "1017": {
+            "series": "spin-7"
+      },
+      "1018": {
+            "series": "zenbook-pro-duo"
+      },
+      "1019": {
+            "series": "inspiron-13-5000-series"
+      },
+      "1020": {
+            "series": "predator-17"
+      },
+      "1021": {
+            "series": "predator-15"
+      },
+      "1022": {
+            "series": "spectre-folio"
+      },
+      "1023": {
+            "series": "pavilion-13"
+      },
+      "1024": {
+            "series": "inspiron-5000"
+      },
+      "1025": {
+            "series": "surface-laptop-3"
+      },
+      "1026": {
+            "series": "falkon-aerbook"
+      },
+      "1027": {
+            "series": "zenbook-15"
+      },
+      "1028": {
+            "series": "inspiron-15-7000-series"
+      },
+      "1029": {
+            "series": "gl-series"
+      },
+      "1030": {
+            "sound-properties": "sonic-master"
+      },
+      "1031": {
+            "sound-properties": "bang-and-olufsen-sound"
+      },
+      "1032": {
+            "sound-properties": "stereo-speakers"
+      },
+      "1033": {
+            "sound-properties": "audio-by-icepower,-sonic-focus"
+      },
+      "1034": {
+            "sound-properties": "sonic-master,-audio-by-icepower"
+      },
+      "1035": {
+            "sound-properties": "2-x-1.5-w-stereo-speakers"
+      },
+      "1036": {
+            "sound-properties": "2-x-2-w-stereo-speakers"
+      },
+      "1037": {
+            "sound-properties": "audio-by-icepower,-sonic-master"
+      },
+      "1038": {
+            "sound-properties": "waves-maxx-audio-pro"
+      },
+      "1039": {
+            "sound-properties": "2-x-1.5-w-speakers"
+      },
+      "1040": {
+            "sound-properties": "waves-maxx-audio"
+      },
+      "1041": {
+            "sound-properties": "2-x-1.5-w-speaker"
+      },
+      "1042": {
+            "sound-properties": "2-x-2-w-speakers,-audio-boost-2"
+      },
+      "1043": {
+            "sound-properties": "2-x-1-w-stereo-speaker"
+      },
+      "1044": {
+            "sound-properties": "2-x-1-w-stereo-speakers"
+      },
+      "1045": {
+            "sound-properties": "2-x-3-w-speakers"
+      },
+      "1046": {
+            "sound-properties": "harmon-/-kardon-speaker"
+      },
+      "1047": {
+            "sound-properties": "jbl-spekers,-dolby-atmos"
+      },
+      "1048": {
+            "sound-properties": "audio-boost,-4-x-2-w-speakers"
+      },
+      "1049": {
+            "sound-properties": "sonic-master,-cortana-support"
+      },
+      "1050": {
+            "sound-properties": "2-x-2-w-speakers,-ess-sabre-hifi"
+      },
+      "1051": {
+            "sound-properties": "2-x-2-w-speakers"
+      },
+      "1052": {
+            "sound-properties": "dolby-audio-premium-sound"
+      },
+      "1053": {
+            "sound-properties": "4-x-2-w-speakers"
+      },
+      "1054": {
+            "sound-properties": "2-x-4-w-speakers"
+      },
+      "1055": {
+            "sound-properties": "audio-by-bang-and-olufsen-play"
+      },
+      "1056": {
+            "sound-properties": "2-x-2-w-with-smart-amp-speakers"
+      },
+      "1057": {
+            "sound-properties": "bang-and-olufsen,-hp-audio-boost"
+      },
+      "1058": {
+            "speakers": "built-in-speakers"
+      },
+      "1059": {
+            "speakers": "built-in-dual-speakers"
+      },
+      "1060": {
+            "speakers": "built-in-speaker"
+      },
+      "1061": {
+            "speakers": "built-in-quad-speaker"
+      },
+      "1062": {
+            "speakers": "inbuilt"
+      },
+      "1063": {
+            "speakers": "built-in-quad-speakers"
+      },
+      "1064": {
+            "speakers": "dual-speakers"
+      },
+      "1065": {
+            "speakers": "yes"
+      },
+      "1066": {
+            "speakers": "quad-speakers"
+      },
+      "1067": {
+            "speakers": "2-x-built-in-stereo-speakers"
+      },
+      "1068": "processing-&-multitasking",
+      "1069": {
+            "system-architecture": "64-bit"
+      },
+      "1070": {
+            "touchscreen": "no"
+      },
+      "1071": {
+            "touchscreen": "yes"
+      },
+      "1072": {
+            "type": "thin-and-light-laptop"
+      },
+      "1073": {
+            "type": "gaming-laptop"
+      },
+      "1074": {
+            "type": "2-in-1-laptop"
+      },
+      "1075": {
+            "type": "laptop"
+      },
+      "1076": {
+            "type": "business-laptop"
+      },
+      "1077": {
+            "warranty-service-type": "onsite"
+      },
+      "1078": {
+            "warranty-service-type": "carry-in"
+      },
+      "1079": {
+            "warranty-service-type": "on-site"
+      },
+      "1080": {
+            "warranty-service-type": "1-year-onsite-warranty"
+      },
+      "1081": {
+            "warranty-service-type": "repair-/-component-replacement"
+      },
+      "1082": {
+            "warranty-summary": "1-year-onsite-warranty"
+      },
+      "1083": {
+            "warranty-summary": "1-year-carry-in-warranty"
+      },
+      "1084": {
+            "warranty-summary": "1-year-manufacturer-warranty"
+      },
+      "1085": {
+            "warranty-summary": "2-year-carry-in-warranty"
+      },
+      "1086": {
+            "warranty-summary": "1-year-onsite"
+      },
+      "1087": {
+            "warranty-summary": "2-year-limited-hardware-warranty"
+      },
+      "1088": {
+            "warranty-summary": "1-year-limited-hardware-warranty"
+      },
+      "1089": {
+            "warranty-summary": "manufacturing-warranty"
+      },
+      "1090": {
+            "warranty-summary": "2-years-carry-in-warranty"
+      },
+      "1091": {
+            "warranty-summary": "2-years-onsite-warranty"
+      },
+      "1092": {
+            "warranty-summary": "2-years-warranty"
+      },
+      "1093": {
+            "warranty-summary": "2-years-limited-warranty"
+      },
+      "1094": {
+            "warranty-summary": "1-year-warranty"
+      },
+      "1095": {
+            "warranty-summary": "3-years-onsite-warranty"
+      },
+      "1096": {
+            "warranty-summary": "1-year-by-lenovo"
+      },
+      "1097": {
+            "warranty-summary": "one-year"
+      },
+      "1098": {
+            "warranty-summary": "2-years-manufacturer-warranty"
+      },
+      "1099": {
+            "warranty-summary": "1-year-limited-warranty"
+      },
+      "1100": {
+            "weight": "1.50-kg"
+      },
+      "1101": {
+            "weight": "2.04-kg"
+      },
+      "1102": {
+            "weight": "1.35-kg"
+      },
+      "1103": {
+            "weight": "1.40-kg"
+      },
+      "1104": {
+            "weight": "1.59-kg"
+      },
+      "1105": {
+            "weight": "1.3-kg"
+      },
+      "1106": {
+            "weight": "1.9-kg"
+      },
+      "1107": {
+            "weight": "1.6-kg"
+      },
+      "1108": {
+            "weight": "1.85-kg"
+      },
+      "1109": {
+            "weight": "2.1-kg"
+      },
+      "1110": {
+            "weight": "1.77-kg"
+      },
+      "1111": {
+            "weight": "2.19-kg"
+      },
+      "1112": {
+            "weight": "2.2-kg"
+      },
+      "1113": {
+            "weight": "1.8-kg"
+      },
+      "1114": {
+            "weight": "1.39-kg"
+      },
+      "1115": {
+            "weight": "1.5-kg"
+      },
+      "1116": {
+            "weight": "2.23-kg"
+      },
+      "1117": {
+            "weight": "2.5-kg"
+      },
+      "1118": {
+            "weight": "1.60-kg"
+      },
+      "1119": {
+            "weight": "1.69-kg"
+      },
+      "1120": {
+            "weight": "2.4-kg"
+      },
+      "1121": {
+            "weight": "2.14-kg"
+      },
+      "1122": {
+            "weight": "1.68-kg"
+      },
+      "1123": {
+            "weight": "2-kg"
+      },
+      "1124": {
+            "weight": "1.86-kg"
+      },
+      "1125": {
+            "weight": "1.25-kg"
+      },
+      "1126": {
+            "weight": "1.7-kg"
+      },
+      "1127": {
+            "weight": "1.51-kg"
+      },
+      "1128": {
+            "weight": "1.27-kg"
+      },
+      "1129": {
+            "weight": "1.79-kg"
+      },
+      "1130": {
+            "weight": "775-g"
+      },
+      "1131": {
+            "weight": "1.46-kg"
+      },
+      "1132": {
+            "weight": "0.78-kg"
+      },
+      "1133": {
+            "weight": "2.34-kg"
+      },
+      "1134": {
+            "weight": "1.21-kg"
+      },
+      "1135": {
+            "weight": "0.522-kg"
+      },
+      "1136": {
+            "weight": "1.98-kg"
+      },
+      "1137": {
+            "weight": "2.7-kg"
+      },
+      "1138": {
+            "weight": "1.2-kg"
+      },
+      "1139": {
+            "weight": "1.33-kg"
+      },
+      "1140": {
+            "weight": "2.9-kg"
+      },
+      "1141": {
+            "weight": "0.98-kg"
+      },
+      "1142": {
+            "weight": "1.19-kg"
+      },
+      "1143": {
+            "weight": "2.38-kg"
+      },
+      "1144": {
+            "weight": "1.14-kg"
+      },
+      "1145": {
+            "weight": "0.97-kg"
+      },
+      "1146": {
+            "weight": "0.774-kg"
+      },
+      "1147": {
+            "weight": "1.37-kg"
+      },
+      "1148": {
+            "weight": "2.85-kg"
+      },
+      "1149": {
+            "weight": "2.32-kg"
+      },
+      "1150": {
+            "weight": "1.12-kg"
+      },
+      "1151": {
+            "weight": "0.77-kg"
+      },
+      "1152": {
+            "weight": "1.30-kg"
+      },
+      "1153": {
+            "weight": "1.125-kg"
+      },
+      "1154": {
+            "weight": "2.28-kg"
+      },
+      "1155": {
+            "weight": "1.87-kg"
+      },
+      "1156": {
+            "weight": "1.88-kg"
+      },
+      "1157": {
+            "weight": "3.1-kg"
+      },
+      "1158": {
+            "weight": "1.83-kg"
+      },
+      "1159": {
+            "weight": "2.3-kg"
+      },
+      "1160": {
+            "weight": "0.92-kg"
+      },
+      "1161": {
+            "weight": "2.6-kg"
+      },
+      "1162": {
+            "weight": "2.8-kg"
+      },
+      "1163": {
+            "weight": "3.49-kg"
+      },
+      "1164": {
+            "weight": "1.56-kg"
+      },
+      "1165": {
+            "weight": "1.47-kg"
+      },
+      "1166": {
+            "weight": "2.17-kg"
+      },
+      "1167": {
+            "weight": "2.18-kg"
+      },
+      "1168": {
+            "weight": "4.42-kg"
+      },
+      "1169": {
+            "weight": "3.4-kg"
+      },
+      "1170": {
+            "weight": "1.62-kg"
+      },
+      "1171": {
+            "weight": "4.2-kg"
+      },
+      "1172": {
+            "weight": "3.7-kg"
+      },
+      "1173": {
+            "weight": "2.24-kg"
+      },
+      "1174": {
+            "weight": "1.32-kg"
+      },
+      "1175": {
+            "weight": "2.09-kg"
+      },
+      "1176": {
+            "weight": "2.06-kg"
+      },
+      "1177": {
+            "weight": "1.28-kg"
+      },
+      "1178": {
+            "weight": "1.70-kg"
+      },
+      "1179": {
+            "weight": "1.45-kg"
+      },
+      "1180": {
+            "weight": "1.95-kg"
+      },
+      "1181": {
+            "weight": "1.13-kg"
+      },
+      "1182": {
+            "weight": "0.99-kg"
+      },
+      "1183": {
+            "weight": "1.26-kg"
+      },
+      "1184": {
+            "wireless-lan": "ieee-802.11ac-(wi-fi-5)"
+      },
+      "1185": {
+            "wireless-lan": "realtek-wi-fi-5-(2x2)"
+      },
+      "1186": {
+            "wireless-lan": "ieee-802.11ac"
+      },
+      "1187": {
+            "wireless-lan": "wifi-1x1-ac"
+      },
+      "1188": {
+            "wireless-lan": "ieee-802.11a/b/g/n/ac"
+      },
+      "1189": {
+            "wireless-lan": "wifi-2x2-ac"
+      },
+      "1190": {
+            "wireless-lan": "wi-fi-5-(802.11ac)"
+      },
+      "1191": {
+            "wireless-lan": "integrated-wi-fi-5-(802.11-ac)"
+      },
+      "1192": {
+            "wireless-lan": "ieee-802.11ax-(2x2)"
+      },
+      "1193": {
+            "wireless-lan": "ieee-802.11ax-(wi-fi-6)"
+      },
+      "1194": {
+            "wireless-lan": "intel-wireless-ac-9560"
+      },
+      "1195": {
+            "wireless-lan": "integrated-802.11ac-(2x2)"
+      },
+      "1196": {
+            "wireless-lan": "intel-wi-fi-6-ax201-(2x2)"
+      },
+      "1197": {
+            "wireless-lan": "ieee-802.11b/g/n"
+      },
+      "1198": {
+            "wireless-lan": "intel-wireless-ac-9560-(2x2)"
+      },
+      "1199": {
+            "wireless-lan": "ieee-802.11b/g/n/ac"
+      },
+      "1200": {
+            "wireless-lan": "intel-wi-fi-6-ax-201-(2x2)"
+      },
+      "1201": {
+            "wireless-lan": "ieee-802.11b/g/n/a/c"
+      },
+      "1202": {
+            "wireless-lan": "intel-9560"
+      },
+      "1203": {
+            "wireless-lan": "realtek-802.11b/g/n/a/ac-(2x2)"
+      },
+      "1204": {
+            "wireless-lan": "killer-n1535-combo-(2-x-2-ac)"
+      },
+      "1205": {
+            "wireless-lan": "yes"
+      },
+      "1206": {
+            "wireless-lan": "integrated-802.11-ac"
+      },
+      "1207": {
+            "wireless-lan": "killer-wireless-1550-(2x2)"
+      },
+      "1208": {
+            "wireless-lan": "intel-ax201-2x2-ax"
+      },
+      "1209": {
+            "wireless-lan": "intel-8260-2x2-ac"
+      },
+      "1210": {
+            "wireless-lan": "ieee-802.11ac/a/b/g/n"
+      },
+      "1211": {
+            "wireless-lan": "intel-wi-fi-6-ax-200-(2x2)"
+      },
+      "1212": {
+            "wireless-lan": "wi-fi-5(802.11ac)"
+      },
+      "1213": {
+            "additional-features": "52.5-whr-li-ion-battery"
+      },
+      "1214": {
+            "additional-features": "lithium-polymer-battery"
+      },
+      "1215": {
+            "additional-features": "li-ion-battery"
+      },
+      "1216": {
+            "additional-features": "35-whr-li-ion-battery"
+      },
+      "1217": {
+            "additional-features": "45-whr-li-ion-battery"
+      },
+      "1218": {
+            "additional-features": "3220-mah-li-ion-battery"
+      },
+      "1219": {
+            "additional-features": "41-whr-li-ion-battery"
+      },
+      "1220": {
+            "additional-features": "3d-flow"
+      },
+      "1221": {
+            "additional-features": "51-whr-li-polymer-battery"
+      },
+      "1222": {
+            "additional-features": "li-ion-polymer-battery"
+      },
+      "1223": {
+            "additional-features": "35-whrs-battery"
+      },
+      "1224": {
+            "additional-features": "48-whr-3220-mah-li-ion-battery"
+      },
+      "1225": {
+            "additional-features": "51-whr-li-ion-battery"
+      },
+      "1226": {
+            "additional-features": "48-whr-li-ion-battery"
+      },
+      "1227": {
+            "additional-features": "4670-mah-li-ion-battery"
+      },
+      "1228": {
+            "additional-features": "33-whr-li-ion-battery"
+      },
+      "1229": {
+            "additional-features": "2770-mah-li-ion-battery"
+      },
+      "1230": {
+            "additional-features": "32-whr-li-ion-battery"
+      },
+      "1231": {
+            "additional-features": "thunderbolt,-lithium-ion-battery"
+      },
+      "1232": {
+            "additional-features": "li-ion-battery,-vr-ready"
+      },
+      "1233": {
+            "additional-features": "36.7-whr-li-ion-battery"
+      },
+      "1234": "black",
+      "1235": {
+            "dedicated-graphic-memory-type": "gddr5"
+      },
+      "1236": {
+            "dedicated-graphic-memory-type": "gddr6"
+      },
+      "1237": {
+            "dedicated-graphic-memory-type": "ddr3"
+      },
+      "1238": {
+            "dedicated-graphic-memory-type": "ddr5"
+      },
+      "1239": {
+            "dedicated-graphic-memory-type": "ddr4"
+      },
+      "1240": {
+            "dedicated-graphic-memory-type": "gddr3"
+      },
+      "1241": {
+            "hdd-capacity": "1-tb"
+      },
+      "1242": {
+            "hdd-capacity": "2-tb"
+      },
+      "1243": {
+            "hdd-capacity": "500-gb"
+      },
+      "1244": "sata",
+      "1245": "multi-gesture-touchpad",
+      "1246": "amd",
+      "1247": {
+            "ram-frequency": "2400-mhz"
+      },
+      "1248": {
+            "ram-frequency": "1600-mhz"
+      },
+      "1249": {
+            "ram-frequency": "2666-mhz"
+      },
+      "1250": {
+            "ram-frequency": "2133-mhz"
+      },
+      "1251": {
+            "ram-frequency": "2933-mhz"
+      },
+      "1252": {
+            "ram-frequency": "1866-mhz"
+      },
+      "1253": {
+            "rj45": "yes"
+      },
+      "1254": {
+            "rj45": "no"
+      },
+      "1255": {
+            "rpm": "5400"
+      },
+      "1256": {
+            "rpm": "7200"
+      },
+      "1257": "full-hd-led-backlit-display",
+      "1258": {
+            "web-camera": "hd-webcam"
+      },
+      "1259": {
+            "web-camera": "720p-facetime-hd-camera"
+      },
+      "1260": {
+            "web-camera": "hp-wide-vision-hd-webcam"
+      },
+      "1261": {
+            "web-camera": "hd-720p-webcam"
+      },
+      "1262": {
+            "web-camera": "vga-webcam-(fixed-type)"
+      },
+      "1263": {
+            "web-camera": "0.3-megapixel-webcam"
+      },
+      "1264": {
+            "web-camera": "hp-truevision-hd-webcam"
+      },
+      "1265": {
+            "web-camera": "hdwebcam"
+      },
+      "1266": {
+            "web-camera": "720p-facetime-hd-webcam"
+      },
+      "1267": {
+            "web-camera": "hd-webcam-(720p-at-30-fps)"
+      },
+      "1268": {
+            "web-camera": "hd"
+      },
+      "1269": {
+            "web-camera": "720p-facetime-hd\u00e2\u00a0webcam"
+      },
+      "1270": {
+            "web-camera": "ir-webcam-(at-2.2-mm)"
+      },
+      "1271": {
+            "web-camera": "hd-rgb-webcam"
+      },
+      "1272": {
+            "web-camera": "built-in-webcam"
+      },
+      "1273": {
+            "web-camera": "hd-ir-webcam"
+      },
+      "1274": {
+            "web-camera": "vga-webcam"
+      },
+      "1275": {
+            "web-camera": "3d-ir-hd-webcam"
+      },
+      "1276": {
+            "web-camera": "1-megapixel-webcam"
+      },
+      "1277": {
+            "web-camera": "1-megapixel-hd-webcam"
+      },
+      "1278": {
+            "web-camera": "480p-facetime-camera"
+      },
+      "1279": {
+            "web-camera": "acer-webcam"
+      },
+      "1280": {
+            "web-camera": "full-hd-webcam"
+      },
+      "1281": {
+            "web-camera": "720p-fhd-webcam"
+      },
+      "1282": {
+            "web-camera": "yes"
+      },
+      "1283": {
+            "web-camera": "alienware-full-hd-webcam"
+      },
+      "1284": {
+            "web-camera": "vga"
+      },
+      "1285": {
+            "web-camera": "full-hd-ir-webcam"
+      },
+      "1286": {
+            "web-camera": "hd-webcam-(30-fps-at-720p)"
+      },
+      "1287": {
+            "web-camera": "ir-webcam"
+      },
+      "1288": {
+            "web-camera": "widescreen-hd-720p-webcam"
+      },
+      "1289": {
+            "web-camera": "hp-wide-vision-fhd-ir-webcam"
+      },
+      "1290": {
+            "web-camera": "hd-web-camera"
+      },
+      "1291": {
+            "web-camera": "ir-hd-720p-webcam-(tof)"
+      },
+      "1292": {
+            "web-camera": "hd-720p-f2.0-webcam"
+      },
+      "1293": {
+            "web-camera": "2-megapixel-webcam"
+      },
+      "1294": {
+            "battery-backup": "upto-12-hours"
+      },
+      "1295": {
+            "battery-backup": "upto-6-hrs"
+      },
+      "1296": {
+            "battery-backup": "upto-6-hours"
+      },
+      "1297": {
+            "battery-backup": "upto-8-hours"
+      },
+      "1298": {
+            "battery-backup": "upto-5-hours"
+      },
+      "1299": {
+            "battery-backup": "upto-11.5-hours"
+      },
+      "1300": {
+            "battery-backup": "upto-9-hours"
+      },
+      "1301": {
+            "battery-backup": "upto-11.1-hours"
+      },
+      "1302": {
+            "battery-backup": "upto-9.5-hours"
+      },
+      "1303": {
+            "battery-backup": "up-to-3-hours"
+      },
+      "1304": {
+            "battery-backup": "upto-11-hours"
+      },
+      "1305": {
+            "battery-backup": "upto-4-hours"
+      },
+      "1306": {
+            "battery-backup": "up-to-6-hours"
+      },
+      "1307": {
+            "battery-backup": "upto-13-hours"
+      },
+      "1308": {
+            "battery-backup": "upto-4.5-hours"
+      },
+      "1309": {
+            "battery-backup": "upto-22-hours"
+      },
+      "1310": {
+            "battery-backup": "upto-7-hours"
+      },
+      "1311": {
+            "battery-backup": "upto-10.5-hours"
+      },
+      "1312": {
+            "battery-backup": "upto-10-hours"
+      },
+      "1313": {
+            "battery-backup": "upto-13.5-hours"
+      },
+      "1314": {
+            "battery-backup": "upto-7.5-hours"
+      },
+      "1315": {
+            "battery-backup": "upto-14-hours"
+      },
+      "1316": {
+            "battery-backup": "upto-6-hrs."
+      },
+      "1317": {
+            "battery-backup": "upto-8.5-hours"
+      },
+      "1318": {
+            "battery-backup": "upto-3-hrs"
+      },
+      "1319": {
+            "battery-backup": "upto-3-hours"
+      },
+      "1320": {
+            "battery-backup": "up-to-10-hours"
+      },
+      "1321": {
+            "battery-backup": "upto-18-hours"
+      },
+      "1322": {
+            "battery-backup": "upto-12.8-hours"
+      },
+      "1323": {
+            "battery-backup": "upto-17-hours"
+      },
+      "1324": {
+            "battery-backup": "upto-4-hrs"
+      },
+      "1325": "silver",
+      "1326": {
+            "international-warranty": "1-year"
+      },
+      "1327": {
+            "international-warranty": "2-year"
+      },
+      "1328": {
+            "international-warranty": "0-months"
+      },
+      "1329": "physical-damages",
+      "1330": "multi-touch-trackpad",
+      "1331": "hd+-led-backlit-display",
+      "1332": {
+            "usb-port": "2-x-usb-3.0,-2-x-thunderbolt-2.0"
+      },
+      "1333": {
+            "usb-port": "2-x-usb-3.1,-1-x-usb-3.1-type-c"
+      },
+      "1334": {
+            "usb-port": "2-x-usb-3.0"
+      },
+      "1335": {
+            "usb-port": "2-x-usb-3.0,-1-x-usb-type-c"
+      },
+      "1336": {
+            "usb-port": "1-x-usb-2.0,-2-x-usb-3.1"
+      },
+      "1337": {
+            "usb-port": "3-x-usb-3.2-(1st-gen)-type-a"
+      },
+      "1338": {
+            "usb-port": "3-x-usb-3.1"
+      },
+      "1339": {
+            "usb-port": "2-x-thunderbolt-3-(usb-type-c)"
+      },
+      "1340": {
+            "usb-port": "1-x-usb-type-a,-1-x-usb-type-c"
+      },
+      "1341": {
+            "usb-port": "2-x-usb-3.0,-1-x-usb-3.0-type-c"
+      },
+      "1342": {
+            "usb-port": "1-x-usb-3.0"
+      },
+      "1343": {
+            "usb-port": "1-x-usb-type-c"
+      },
+      "1344": {
+            "usb-port": "2-x-usb-3.0,-1-x-usb-2.0"
+      },
+      "1345": {
+            "usb-port": "3-x-usb-3.1,-1-x-usb-3.1-type-c"
+      },
+      "1346": {
+            "usb-port": "2-x-usb-type-c"
+      },
+      "1347": {
+            "usb-port": "3-x-usb-3.2-type-a-(1st-gen)"
+      },
+      "1348": {
+            "usb-port": "1-x-usb-3.0,-2-x-usb-2.0"
+      },
+      "1349": {
+            "usb-port": "2-x-usb-3.0,-1-x-usb-3.1-type-c"
+      },
+      "1350": {
+            "usb-port": "1-x-usb-type-c,-2-x-usb-3.0"
+      },
+      "1351": {
+            "usb-port": "4-x-thunderbolt-3.0-(usb-type-c)"
+      },
+      "1352": {
+            "usb-port": "1-x-usb-3.1-(1st-gen)"
+      },
+      "1353": {
+            "usb-port": "2-x-usb-2.0,-1-x-usb-3.1"
+      },
+      "1354": {
+            "usb-port": "1-x-usb-2.0,-2-x-usb-3.0"
+      },
+      "1355": {
+            "usb-port": "3-x-usb-3.0-type-a"
+      },
+      "1356": {
+            "usb-port": "1-x-usb-3.1,-2-x-usb-3.1-type-c"
+      },
+      "1357": {
+            "usb-port": "3-x-usb-3.1,-1-x-usb-type-c"
+      },
+      "1358": {
+            "usb-port": "4-x-usb-3.0,-1-x-usb-type-c"
+      },
+      "1359": {
+            "usb-port": "1-x-usb-3.1,-1-x-usb-3.1-type-c"
+      },
+      "1360": {
+            "usb-port": "2-x-usb-type-c-(with-dc-in)"
+      },
+      "1361": {
+            "chipset": "intel"
+      },
+      "1362": {
+            "chipset": "intel-hm370"
+      },
+      "1363": {
+            "chipset": "intel-hm470"
+      },
+      "1364": {
+            "chipset": "intel-hm370-express"
+      },
+      "1365": {
+            "chipset": "qm87"
+      },
+      "1366": {
+            "chipset": "intel-hm175"
+      },
+      "1367": {
+            "chipset": "hm175"
+      },
+      "1368": "icicle-gold",
+      "1369": {
+            "expandable-memory": "upto-12-gb"
+      },
+      "1370": {
+            "expandable-memory": "upto-16-gb"
+      },
+      "1371": {
+            "expandable-memory": "non-upgradable"
+      },
+      "1372": {
+            "expandable-memory": "upto-32-gb"
+      },
+      "1373": {
+            "expandable-memory": "upto-20-gb"
+      },
+      "1374": {
+            "expandable-memory": "up-to-12-gb-sdram"
+      },
+      "1375": {
+            "expandable-memory": "upto-8-gb"
+      },
+      "1376": {
+            "expandable-memory": "up-to-16-gb-sdram"
+      },
+      "1377": {
+            "expandable-memory": "upto-64-gb"
+      },
+      "1378": {
+            "expandable-memory": "upto-24-gb"
+      },
+      "1379": "na",
+      "1380": {
+            "laptop-bag": "no"
+      },
+      "1381": {
+            "laptop-bag": "yes"
+      },
+      "1382": {
+            "memory-slots": "1"
+      },
+      "1383": {
+            "memory-slots": "2-slots"
+      },
+      "1384": {
+            "memory-slots": "1-slot"
+      },
+      "1385": {
+            "memory-slots": "1-x-so-dimm"
+      },
+      "1386": {
+            "memory-slots": "2-(unused-slot---0)"
+      },
+      "1387": {
+            "memory-slots": "4-slots"
+      },
+      "1388": {
+            "memory-slots": "sd-card-reader"
+      },
+      "1389": "natural-silver",
+      "1390": {
+            "lock-port": "kensington-nano-security-slot"
+      },
+      "1391": {
+            "lock-port": "kensington-lock-slot"
+      },
+      "1392": {
+            "lock-port": "wedge-lock-slot"
+      },
+      "1393": {
+            "lock-port": "security-lock"
+      },
+      "1394": {
+            "lock-port": "kensington-microsaver-lock-slot"
+      },
+      "1395": {
+            "lock-port": "kensington-minisaver-lock-slot"
+      },
+      "1396": {
+            "lock-port": "noble-lock-slot"
+      },
+      "1397": {
+            "lock-port": "noble-lock-port"
+      },
+      "1398": {
+            "lock-port": "security-lock-slot"
+      },
+      "1399": "gold-metal",
+      "1400": "star-grey",
+      "1401": "platinum-grey",
+      "1402": "multi-touch-touchpad",
+      "1403": "peacock-blue",
+      "1404": {
+            "clock-speed": "2.3-ghz"
+      },
+      "1405": {
+            "clock-speed": "1.6-ghz"
+      },
+      "1406": {
+            "clock-speed": "3-ghz"
+      },
+      "1407": {
+            "clock-speed": "2.4-ghz"
+      },
+      "1408": {
+            "clock-speed": "2-ghz"
+      },
+      "1409": {
+            "ethernet": "10/100-mbps"
+      },
+      "1410": {
+            "ethernet": "100/1000-mbps"
+      },
+      "1411": {
+            "ethernet": "no"
+      },
+      "1412": {
+            "ethernet": "100/1000-mbps-(gigabit-ethernet)"
+      },
+      "1413": {
+            "ethernet": "10/100/1000-mbps"
+      },
+      "1414": {
+            "ethernet": "10/100/1000"
+      },
+      "1415": {
+            "ethernet": "gigabit-lan"
+      },
+      "1416": {
+            "ethernet": "gigabit-ethernet"
+      },
+      "1417": {
+            "ethernet": "killer-ethernet-e2400"
+      },
+      "1418": {
+            "ethernet": "yes"
+      },
+      "1419": {
+            "ethernet": "killer-lan"
+      },
+      "1420": {
+            "ethernet": "killer-e2500"
+      },
+      "1421": {
+            "ethernet": "10/100/1000-gigabit"
+      },
+      "1422": {
+            "ethernet": "killer-ethernet-e2500"
+      },
+      "1423": "granite-black",
+      "1424": "sparkly-silver",
+      "1425": "full-hd-led-backlit-ips-display",
+      "1426": "pure-silver",
+      "1427": "silver-blue--metal",
+      "1428": "slate-grey",
+      "1429": "shadow-black",
+      "1430": "eclipse-black",
+      "1431": "solid-state",
+      "1432": {
+            "model-name": "vivobook-x512fa-ej373t"
+      },
+      "1433": {
+            "model-name": "x512fa-ej547t"
+      },
+      "1434": {
+            "model-name": "x512da-ej502t(x512d)"
+      },
+      "1435": {
+            "model-name": "x512da-ej503t(x512)"
+      },
+      "1436": {
+            "model-name": "elite"
+      },
+      "1437": {
+            "model-name": "vivobook"
+      },
+      "1438": {
+            "model-name": "b50-70"
+      },
+      "1439": {
+            "model-name": "x512fl-ej701t(x512fl)"
+      },
+      "1440": {
+            "model-name": "ip-320"
+      },
+      "1441": {
+            "model-name": "raider"
+      },
+      "1442": {
+            "model-name": "legion"
+      },
+      "1443": {
+            "model-name": "gl62-7rdx-1065in"
+      },
+      "1444": {
+            "model-name": "y540--81sy"
+      },
+      "1445": {
+            "model-name": "e203mah-fd004t"
+      },
+      "1446": {
+            "model-name": "travelmate-x3"
+      },
+      "1447": {
+            "model-name": "aspire"
+      },
+      "1448": {
+            "model-name": "predator"
+      },
+      "1449": {
+            "model-name": "vivobook-x512fa-ej372t"
+      },
+      "1450": {
+            "model-name": "inspiron"
+      },
+      "1451": {
+            "model-name": "ideapad-s340-15iil"
+      },
+      "1452": {
+            "model-name": "pavilion---15-cs3006tx"
+      },
+      "1453": "onyx-black",
+      "1454": "mineral-grey",
+      "1455": "jet-balck",
+      "1456": {
+            "read/write-speed": "8x"
+      },
+      "1457": "star-black",
+      "1458": "mcafee-livesafe",
+      "1459": "mineral-silver",
+      "1460": "space-grey",
+      "1461": "force-touch-trackpad",
+      "1462": "hp-recovery-manager",
+      "1463": "coral-crush",
+      "1464": "any-types-of-damage",
+      "1465": "multigesture-touchpad",
+      "1466": {
+            "supported-operating-system": "windows-10"
+      },
+      "1467": {
+            "wireless-wan": "integrated-wi-fi-5-(802.11-ac)"
+      },
+      "1468": {
+            "wireless-wan": "integrated-802.11ac-(2x2)"
+      },
+      "1469": {
+            "wireless-wan": "integrated-802.11-ac"
+      },
+      "1470": "part-failure",
+      "1471": {
+            "sound-chip": "realtek-alc-233"
+      },
+      "1472": {
+            "sound-chip": "1366-x-768"
+      },
+      "1473": {
+            "sound-chip": "realtek-alc1220"
+      },
+      "1474": "any-type-of-damage",
+      "1475": "travel-&-business,-performance",
+      "1476": "quad-hd-led-backlit-ips-display",
+      "1477": "night-fall-black",
+      "1478": "rose-gold",
+      "1479": "sata-iii",
+      "1480": "gold",
+      "1481": "matte-black",
+      "1482": "pearl-white",
+      "1483": "grey",
+      "1484": {
+            "dock-port": "yes"
+      },
+      "1485": "matt-black",
+      "1486": {
+            "face-recognition": "no"
+      },
+      "1487": "platinum",
+      "1488": {
+            "emmc-storage-capacity": "64-gb"
+      },
+      "1489": "shale-black",
+      "1490": {
+            "optane-memory": "16-gb"
+      },
+      "1491": {
+            "optane-memory": "32-gb"
+      },
+      "1492": "cloud-silver",
+      "1493": "grey&imr",
+      "1494": "gun-metal",
+      "1495": "hd-led-backlit-display",
+      "1496": "light-grey",
+      "1497": "platinum-silver",
+      "1498": "white",
+      "1499": "deep-dive-blue",
+      "1500": "royal-blue",
+      "1501": "honey-gold",
+      "1502": "microsoft",
+      "1503": "laptop,-battery,-ac-adapter",
+      "1504": "anti-glare-display",
+      "1505": "performance",
+      "1506": "gold&metal",
+      "1507": "bronze",
+      "1508": "grey-metal",
+      "1509": "wqhd-led-backlit-ips-display",
+      "1510": "black-metal",
+      "1511": "obsidian-black",
+      "1512": "full+-hd-led-backlit-ips-display",
+      "1513": "gaming",
+      "1514": "all-parts-of-product",
+      "1515": "any-physical-damage",
+      "1516": "burgundy-red",
+      "1517": "nightfall-black",
+      "1518": "manufacturer-warranty",
+      "1519": "other-then-manufacturer-warranty",
+      "1520": "main-units",
+      "1521": "gaming,-performance",
+      "1522": "epic-silver",
+      "1523": "travel-&-business",
+      "1524": "blue",
+      "1525": "cognac-brown",
+      "1526": "jet-black",
+      "1527": "champagne-gold",
+      "1528": "ceramic-white",
+      "1529": "recovery-mode-available",
+      "1530": "purple",
+      "1531": "qhd+-ips-multi-touch",
+      "1532": "raven-black",
+      "1533": "fragrant-lilac",
+      "1534": "ornament-gold",
+      "1535": "paisley-lilac",
+      "1536": "charcoal-blue",
+      "1537": "everyday-use",
+      "1538": "celestial-blue",
+      "1539": "chiclet-keyboard",
+      "1540": "black-aluminum",
+      "1541": "poseidon-blue",
+      "1542": "light-silver",
+      "1543": "himalayan-blue",
+      "1544": "shamrock-green",
+      "1545": "angel-blue",
+      "1546": "icicle-silver",
+      "1547": "touchpad-(glass-covered)"
+}

@@ -57,17 +57,29 @@ def main():
     pygame.display.set_caption("Pygame Recording")
     
 
-    with open(os.path.join('data_with_ids', 'Mobile.json'), 'r') as file:
+    with open(os.path.join('feature-data', 'Mobile_features.json'), 'r') as file:
         sample_data = json.load(file)
-
+    file.close()
+    
+    with open(os.path.join('inverted-index-ds', 'Mobile_DS.json'), 'r') as file:
+        item_id_data = json.load(file)
+    file.close()
+    
     grid_width = 80
     grid_height = 60 
 
     cells = np.zeros((grid_height, grid_width), dtype=np.dtype(
         [('product_id', int), ('value', int)]))
 
-    product_ids = list(sample_data.keys())
+    product_ids = []
     for row in range(grid_height):
+        key = str(row)
+        if type(sample_data[key]) is dict:
+            idx1 = list(sample_data[key].keys())[0]
+            idx2 = list(sample_data[key].values())[0]
+            product_ids = item_id_data[idx1][idx2]
+        else:
+            product_ids = item_id_data[sample_data[key]]
         for col in range(grid_width):
             cells[row, col] = (random.choice(product_ids), 0)
 
@@ -77,7 +89,6 @@ def main():
     pygame.display.update()
 
     running = False
-
     while True:
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
@@ -91,11 +102,24 @@ def main():
                         if value[1] != 0:
                             chosen_product_ids.add(value[0])
                 
+                with open(os.path.join('data_with_ids', 'Mobile.json'), 'r') as file:
+                    item_data = json.load(file)
+                file.close()
+                
+                print("Item Details:")
+                for product_id in chosen_product_ids:
+                    item_dict = item_data[str(product_id)]
+                    print("\n\nItem Id: " + str(product_id))
+                    for key, value in item_dict.items():
+                        print("{} = {}".format(key, value))
+                    print("\n")
+                    
                 print("Chosen Product IDs:")
                 for product_id in chosen_product_ids:
                     print(product_id)
                 
-                print(f"Total product ids for recommendation : {len(chosen_product_ids)}")
+                print(f"Total product ids for recommendation : {len(chosen_product_ids)}\n\n")
+                    
                 return
             elif event.type == pygame.KEYDOWN:
                 if event.key == pygame.K_SPACE:
@@ -115,13 +139,13 @@ def main():
         if running:
             cells = update(screen, cells, 10, with_progress=True)
             pygame.display.update()
+            time.sleep(1)
 
         screenshot = pyautogui.screenshot(region=(0, 0, 1920, 1080))
         frame = cv2.cvtColor(np.array(screenshot), cv2.COLOR_RGB2BGR)
         out.write(frame)
 
         time.sleep(0.001)
-
 
 if __name__ == "__main__":
     main()

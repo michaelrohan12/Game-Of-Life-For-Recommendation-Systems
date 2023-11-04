@@ -1,0 +1,6052 @@
+{
+      "0": {
+            "battery-chargeable": "yes"
+      },
+      "1": {
+            "battery-included": "yes"
+      },
+      "2": "dayneo",
+      "3": "black",
+      "4": "cable",
+      "5": {
+            "charging-time": "1-hr"
+      },
+      "6": {
+            "charging-time": "2"
+      },
+      "7": {
+            "one-touch-button": "yes"
+      },
+      "8": {
+            "operating-system-supported": "bluetooth"
+      },
+      "9": {
+            "operating-system-supported": "ios-(apple)-&-android"
+      },
+      "10": {
+            "operating-system-supported": "all-devices-compatible"
+      },
+      "11": {
+            "operating-system-supported": "android"
+      },
+      "12": {
+            "operating-system-supported": "3.0"
+      },
+      "13": "pure-bass-performance",
+      "14": {
+            "sales-package": "1-set-of-earbuds"
+      },
+      "15": {
+            "sales-package": "1-smart-watch,-usb-cable"
+      },
+      "16": {
+            "sales-package": "1-smartwatch,-1-usb-cable"
+      },
+      "17": {
+            "sales-package": "1-smart-watch"
+      },
+      "18": {
+            "sales-package": "smart-watch"
+      },
+      "19": {
+            "sales-package": "charging-dock-and-data-cable"
+      },
+      "20": {
+            "sales-package": "band-&-charging-cable"
+      },
+      "21": {
+            "sales-package": "1-band-with-usb-cable"
+      },
+      "22": {
+            "sales-package": "1-m3band"
+      },
+      "23": {
+            "sales-package": "1-smartwatch-1-usb-cable"
+      },
+      "24": {
+            "sales-package": "1-a1-watch"
+      },
+      "25": {
+            "sales-package": "smart-band,-quick-start-guide"
+      },
+      "26": {
+            "sales-package": "1"
+      },
+      "27": {
+            "sales-package": "1-smartwatch"
+      },
+      "28": {
+            "sales-package": "2-screen-guard"
+      },
+      "29": {
+            "sales-package": "one-smart-watch,-usb-cable"
+      },
+      "30": {
+            "sales-package": "1-smart-band"
+      },
+      "31": {
+            "sales-package": "1-unit"
+      },
+      "32": {
+            "sales-package": "1-smartwatch-and-usb-cable"
+      },
+      "33": {
+            "sales-package": "id115-band"
+      },
+      "34": {
+            "sales-package": "1-smart-band,-user-manual,-box"
+      },
+      "35": {
+            "sales-package": "1-x-a1-smart-watch"
+      },
+      "36": {
+            "sales-package": "smartwatch,usb"
+      },
+      "37": {
+            "sales-package": "1-smart-watch,-1-usb-cable"
+      },
+      "38": {
+            "sales-package": "1-pc"
+      },
+      "39": {
+            "sales-package": "2"
+      },
+      "40": {
+            "sales-package": "smartband-tag"
+      },
+      "41": {
+            "sales-package": "1-bluetooth-sunglass"
+      },
+      "42": {
+            "sales-package": "1x-smart-band"
+      },
+      "43": {
+            "sales-package": "1-smart-watch,-1-charging-cable"
+      },
+      "44": {
+            "sales-package": "1-watch,-warranty-card"
+      },
+      "45": {
+            "sales-package": "1.-m3-smart-band-with-set"
+      },
+      "46": {
+            "sales-package": "m3-band"
+      },
+      "47": {
+            "sales-package": "1-watch"
+      },
+      "48": {
+            "sales-package": "1-smartwach-&-usb-cabel"
+      },
+      "49": {
+            "sales-package": "5-screen-protector"
+      },
+      "50": {
+            "sales-package": "smart-watch,-usb-cable"
+      },
+      "51": {
+            "sales-package": "watch,-charger"
+      },
+      "52": {
+            "sales-package": "smartband,-manual"
+      },
+      "53": {
+            "sales-package": "1-x-tempered-glass-."
+      },
+      "54": {
+            "sales-package": "1-smartwatch-with-charging-cable"
+      },
+      "55": {
+            "sales-package": "1-digital-smartwatch"
+      },
+      "56": {
+            "sales-package": "1-9h-smartwatch-screen-protector"
+      },
+      "57": {
+            "sales-package": "1-watch,-1-manual"
+      },
+      "58": {
+            "sales-package": "1-x-tempred-glass"
+      },
+      "59": {
+            "sales-package": "1xx6-smart-watch"
+      },
+      "60": {
+            "sales-package": "1-x-fitness-bnad"
+      },
+      "61": {
+            "sales-package": "1-smart-glass"
+      },
+      "62": {
+            "sales-package": "2-screen-protector"
+      },
+      "63": {
+            "sales-package": "1-x-smart-band"
+      },
+      "64": {
+            "sales-package": "1-headphone-with-charging-cable"
+      },
+      "65": {
+            "sales-package": "1-3d-glasses-box"
+      },
+      "66": {
+            "sales-package": "2xmini-headphone"
+      },
+      "67": {
+            "sales-package": "1-smartwatch-&-usb-cabel"
+      },
+      "68": {
+            "sales-package": "1-x-sports-bluetooth-sunglasses"
+      },
+      "69": {
+            "sales-package": "smartwatch,-charger,-user-manual"
+      },
+      "70": {
+            "sales-package": "1-smart-band-tag"
+      },
+      "71": {
+            "sales-package": "1-smartglass"
+      },
+      "72": {
+            "sales-package": "1-smart-watch,-charging-cable"
+      },
+      "73": {
+            "sales-package": "1-tempered-glass"
+      },
+      "74": {
+            "sales-package": "1-fitness-band,-1-manual"
+      },
+      "75": {
+            "sales-package": "1-band"
+      },
+      "76": {
+            "sales-package": "1(-116-band)"
+      },
+      "77": {
+            "sales-package": "2-tempered-glass-."
+      },
+      "78": {
+            "sales-package": "1-smart-watch,-1-usb-cable,"
+      },
+      "79": {
+            "sales-package": "smart-band,-usb-cable,-manual"
+      },
+      "80": {
+            "sales-package": "band,-warranty-card,-charger"
+      },
+      "81": {
+            "sales-package": "1-band,charging-cable,manual"
+      },
+      "82": {
+            "sales-package": "1-microphone,-1-usb-cable"
+      },
+      "83": {
+            "sales-package": "5-screen-guard"
+      },
+      "84": {
+            "sales-package": "1-pet-screen-guard"
+      },
+      "85": {
+            "sales-package": "1-watch,-1-cable,-1-manual"
+      },
+      "86": {
+            "sales-package": "1-unit-fitness-band"
+      },
+      "87": {
+            "sales-package": "1-m2-band-with-charging-cable"
+      },
+      "88": {
+            "sales-package": "1-smart-band-&-1charging-cable"
+      },
+      "89": {
+            "sales-package": "1/smart-watch"
+      },
+      "90": {
+            "sales-package": "1-headset,-1-charging-cable"
+      },
+      "91": {
+            "sales-package": "1-screen-guard"
+      },
+      "92": {
+            "sales-package": "smart-band-1-unit,-user-manual"
+      },
+      "93": {
+            "sales-package": "pack-of-1"
+      },
+      "94": {
+            "sales-package": "1-smartwatch-,-1-usb-charger"
+      },
+      "95": {
+            "sales-package": "1-health-band-with-charger"
+      },
+      "96": {
+            "sales-package": "smartband,-usb-cable,-manual"
+      },
+      "97": {
+            "sales-package": "smart-watch,-charger"
+      },
+      "98": {
+            "sales-package": "smart-watch-with-usb-cable"
+      },
+      "99": {
+            "sales-package": "1-smartwatch-&-usb-cable"
+      },
+      "100": {
+            "standby-time": "48-hr"
+      },
+      "101": {
+            "standby-time": "24-h"
+      },
+      "102": {
+            "standby-time": "300"
+      },
+      "103": {
+            "sweat-proof": "yes"
+      },
+      "104": {
+            "touch-control": "yes"
+      },
+      "105": {
+            "type": "wireless"
+      },
+      "106": {
+            "type": "smart-band-strap"
+      },
+      "107": {
+            "type": "smart-watch-strap"
+      },
+      "108": {
+            "type": "smart-glasses"
+      },
+      "109": {
+            "type": "smart-glass-attach"
+      },
+      "110": "distance",
+      "111": {
+            "usage": "gaming-&-entertainment"
+      },
+      "112": {
+            "usage": "fitness-&-outdoor"
+      },
+      "113": {
+            "usage": "watchphone"
+      },
+      "114": {
+            "usage": "notifier,-fitness-&-outdoor"
+      },
+      "115": {
+            "usage": "notifier"
+      },
+      "116": {
+            "usage": "fitness-&-outdoor,-notifier"
+      },
+      "117": {
+            "usage": "watchphone,-health-&-medical"
+      },
+      "118": {
+            "usage": "watchphone,-safety-&-security"
+      },
+      "119": {
+            "usage": "notifier,-watchphone"
+      },
+      "120": {
+            "water-resistant": "no"
+      },
+      "121": {
+            "water-resistant": "yes"
+      },
+      "122": {
+            "alarm-clock": "yes"
+      },
+      "123": {
+            "altimeter": "no"
+      },
+      "124": {
+            "altimeter": "yes"
+      },
+      "125": {
+            "audio-features": "yes"
+      },
+      "126": {
+            "audio-features": "audio-player,-voice-recording"
+      },
+      "127": {
+            "audio-features": "yes,-audio-recording"
+      },
+      "128": {
+            "audio-features": "mp3"
+      },
+      "129": {
+            "audio-features": "noise-cancellation"
+      },
+      "130": {
+            "audio-features": "noice-cancelation"
+      },
+      "131": {
+            "audio-features": "mp3,wav"
+      },
+      "132": {
+            "audio-features": "voice-recording"
+      },
+      "133": {
+            "audio-features": "noice-cancellation"
+      },
+      "134": {
+            "backlight-display": "no"
+      },
+      "135": {
+            "backlight-display": "yes"
+      },
+      "136": {
+            "battery-life": "1-year"
+      },
+      "137": {
+            "battery-life": "20-days"
+      },
+      "138": {
+            "battery-life": "upto-9-days-(based-on-usage)"
+      },
+      "139": {
+            "battery-life": "2"
+      },
+      "140": {
+            "battery-life": "6-months"
+      },
+      "141": {
+            "battery-life": "9-days"
+      },
+      "142": {
+            "battery-life": "2days"
+      },
+      "143": {
+            "battery-life": "6-days"
+      },
+      "144": {
+            "battery-life": "6-hr"
+      },
+      "145": {
+            "battery-life": "5-hours"
+      },
+      "146": {
+            "battery-life": "14-days"
+      },
+      "147": {
+            "battery-life": "1-day"
+      },
+      "148": {
+            "battery-life": "upto-15-days-(based-on-usage)"
+      },
+      "149": {
+            "battery-life": "1"
+      },
+      "150": {
+            "battery-life": "2-years"
+      },
+      "151": {
+            "battery-life": "3-months"
+      },
+      "152": {
+            "battery-life": "4-days"
+      },
+      "153": {
+            "battery-life": "upto-6-days-(based-on-usage)"
+      },
+      "154": {
+            "battery-life": "3-hours"
+      },
+      "155": {
+            "battery-life": "10-hour"
+      },
+      "156": {
+            "battery-life": "upto-40-days-(based-on-usage)"
+      },
+      "157": {
+            "battery-life": "7-days"
+      },
+      "158": {
+            "battery-life": "5-years"
+      },
+      "159": {
+            "battery-life": "2-year"
+      },
+      "160": {
+            "battery-life": "upto-18-hours"
+      },
+      "161": {
+            "battery-life": "6"
+      },
+      "162": {
+            "battery-life": "upto-14-days-(based-on-usage)"
+      },
+      "163": {
+            "battery-life": "24-hour"
+      },
+      "164": {
+            "battery-life": "3.0"
+      },
+      "165": {
+            "battery-life": "3"
+      },
+      "166": {
+            "battery-life": "5-days"
+      },
+      "167": {
+            "battery-life": "72-hour"
+      },
+      "168": {
+            "battery-life": "10-days"
+      },
+      "169": {
+            "battery-life": "8-9-hr.-(as-per-usage)"
+      },
+      "170": {
+            "battery-life": "upto-3-days-(based-on-usage)"
+      },
+      "171": {
+            "battery-life": "upto-30-days"
+      },
+      "172": {
+            "battery-life": "upto-18-hrs-(based-on-usage)"
+      },
+      "173": {
+            "battery-life": "5"
+      },
+      "174": {
+            "battery-life": "upto-1years"
+      },
+      "175": {
+            "battery-life": "2-days"
+      },
+      "176": {
+            "battery-life": "days"
+      },
+      "177": {
+            "battery-life": "1-years"
+      },
+      "178": {
+            "battery-life": "1day"
+      },
+      "179": {
+            "battery-life": "3-days"
+      },
+      "180": {
+            "battery-life": "upto-2-days-(based-on-usage)"
+      },
+      "181": {
+            "battery-life": "248-hour"
+      },
+      "182": {
+            "battery-life": "24-hrs"
+      },
+      "183": {
+            "battery-life": "10"
+      },
+      "184": {
+            "battery-life": "upto-5-days-(based-on-usage)"
+      },
+      "185": {
+            "battery-life": "5-7-days"
+      },
+      "186": {
+            "battery-life": "6-month"
+      },
+      "187": {
+            "battery-life": "5-hour"
+      },
+      "188": {
+            "battery-life": "1-days"
+      },
+      "189": {
+            "battery-life": "8-hours"
+      },
+      "190": {
+            "battery-life": "380-mah"
+      },
+      "191": {
+            "battery-life": "upto-7-days-(based-on-usage)"
+      },
+      "192": {
+            "battery-life": "24-hours"
+      },
+      "193": {
+            "battery-life": "2-day"
+      },
+      "194": {
+            "battery-life": "12-hour"
+      },
+      "195": {
+            "battery-life": "7"
+      },
+      "196": {
+            "battery-life": "7-hrs"
+      },
+      "197": {
+            "battery-life": "upto-4-days-(based-on-usage)"
+      },
+      "198": {
+            "battery-life": "18-hour"
+      },
+      "199": {
+            "battery-life": "48-hour"
+      },
+      "200": {
+            "battery-life": "1-2-days"
+      },
+      "201": {
+            "battery-life": "12-months"
+      },
+      "202": {
+            "battery-life": "upto-45-days-(based-on-usage)"
+      },
+      "203": {
+            "battery-life": "5-hrs"
+      },
+      "204": {
+            "battery-life": "10-month"
+      },
+      "205": {
+            "battery-life": "upto-24-days-(based-on-usage)"
+      },
+      "206": {
+            "battery-life": "upto-24-hrs-(based-on-usage)"
+      },
+      "207": {
+            "battery-life": "upto-6+-days-(based-on-usage)"
+      },
+      "208": {
+            "battery-life": "upto-45-hours-(based-on-usage)"
+      },
+      "209": {
+            "battery-life": "8-hr"
+      },
+      "210": {
+            "battery-life": "2-hour"
+      },
+      "211": {
+            "battery-life": "upto-20-days-(based-on-usage)"
+      },
+      "212": {
+            "battery-life": "8"
+      },
+      "213": {
+            "battery-life": "30-days"
+      },
+      "214": {
+            "battery-life": "8-hour"
+      },
+      "215": {
+            "battery-life": "12-hr"
+      },
+      "216": {
+            "battery-life": "20"
+      },
+      "217": {
+            "battery-life": "5-hr"
+      },
+      "218": {
+            "battery-life": "upto-10-days-(based-on-usage)"
+      },
+      "219": {
+            "battery-life": "upto-1-week"
+      },
+      "220": {
+            "battery-life": "7-day"
+      },
+      "221": {
+            "battery-life": "8-hr.-(as-per-usage)"
+      },
+      "222": {
+            "battery-life": "4-day"
+      },
+      "223": {
+            "battery-life": "30-hour"
+      },
+      "224": {
+            "battery-life": "12-days"
+      },
+      "225": {
+            "battery-type": "lithium-ion"
+      },
+      "226": {
+            "battery-type": "lithium-polymer"
+      },
+      "227": {
+            "battery-type": "lithium"
+      },
+      "228": {
+            "battery-type": "90-mah"
+      },
+      "229": {
+            "battery-type": "rechargeable-inbuilt"
+      },
+      "230": {
+            "battery-type": "rechargeble-lithium-battery"
+      },
+      "231": {
+            "battery-type": "usb-rechargeable-li-ion-battery"
+      },
+      "232": {
+            "battery-type": "in-built-rechargeable-battery"
+      },
+      "233": {
+            "battery-type": "60-mah"
+      },
+      "234": {
+            "battery-type": "lithium_ion"
+      },
+      "235": {
+            "battery-type": "usb-charging"
+      },
+      "236": {
+            "battery-type": "battery"
+      },
+      "237": {
+            "battery-type": "li-ion-battery"
+      },
+      "238": {
+            "battery-type": "li-ion-polymer-battery"
+      },
+      "239": {
+            "battery-type": "rechargeable-li\u00a0battery"
+      },
+      "240": {
+            "battery-type": "li-ion"
+      },
+      "241": {
+            "battery-type": "li"
+      },
+      "242": {
+            "battery-type": "inbuilt"
+      },
+      "243": {
+            "battery-type": "380mah"
+      },
+      "244": {
+            "battery-type": "lithioum-lion"
+      },
+      "245": {
+            "battery-type": "rechargeable"
+      },
+      "246": {
+            "battery-type": "lithium-battery"
+      },
+      "247": {
+            "battery-type": "lithiom-polymer"
+      },
+      "248": {
+            "battery-type": "lithium-polymer-battery"
+      },
+      "249": {
+            "battery-type": "lithium-ion-battery"
+      },
+      "250": {
+            "battery-type": "polymer-lithium-ion"
+      },
+      "251": {
+            "bluetooth": "yes"
+      },
+      "252": {
+            "bluetooth-version": "4.0"
+      },
+      "253": {
+            "bluetooth-version": "v5.0"
+      },
+      "254": {
+            "bluetooth-version": "4.2"
+      },
+      "255": {
+            "bluetooth-version": "v4.2-(ble)"
+      },
+      "256": {
+            "bluetooth-version": "v3.0"
+      },
+      "257": {
+            "bluetooth-version": "v4.2"
+      },
+      "258": {
+            "bluetooth-version": "v4.0"
+      },
+      "259": {
+            "bluetooth-version": "2"
+      },
+      "260": {
+            "bluetooth-version": "3.0"
+      },
+      "261": {
+            "bluetooth-version": "4.4"
+      },
+      "262": {
+            "bluetooth-version": "4"
+      },
+      "263": {
+            "bluetooth-version": "bluetooth-4.0-or-above"
+      },
+      "264": {
+            "bluetooth-version": "4.1"
+      },
+      "265": {
+            "bluetooth-version": "5.0"
+      },
+      "266": {
+            "bluetooth-version": "v4.3,-and-above"
+      },
+      "267": {
+            "bluetooth-version": "v4.1"
+      },
+      "268": {
+            "bluetooth-version": "v-3.0-+-edr"
+      },
+      "269": {
+            "bluetooth-version": "v5.1"
+      },
+      "270": {
+            "bluetooth-version": "3"
+      },
+      "271": {
+            "bluetooth-version": "v-4.1"
+      },
+      "272": {
+            "bluetooth-version": "ble-4.0"
+      },
+      "273": {
+            "bluetooth-version": "yes"
+      },
+      "274": {
+            "bluetooth-version": "version-4.1"
+      },
+      "275": {
+            "bluetooth-version": "no"
+      },
+      "276": {
+            "bluetooth-version": "v4"
+      },
+      "277": {
+            "bluetooth-version": "bluetooth-4.0"
+      },
+      "278": {
+            "bluetooth-version": "2.0"
+      },
+      "279": {
+            "bluetooth-version": "v3"
+      },
+      "280": {
+            "bluetooth-version": "bt4.0"
+      },
+      "281": {
+            "bluetooth-version": "2.1-+-edr"
+      },
+      "282": {
+            "bluetooth-version": "v-3.0"
+      },
+      "283": {
+            "bluetooth-version": "5.40"
+      },
+      "284": {
+            "calendar": "yes"
+      },
+      "285": {
+            "calendar": "no"
+      },
+      "286": {
+            "call-function": "yes"
+      },
+      "287": {
+            "call-function": "no"
+      },
+      "288": {
+            "calorie-count": "no"
+      },
+      "289": {
+            "calorie-count": "yes"
+      },
+      "290": {
+            "charge-time": "120-min"
+      },
+      "291": {
+            "charge-time": "2-hrs"
+      },
+      "292": {
+            "charge-time": "90-min"
+      },
+      "293": {
+            "charge-time": "2.5-hrs"
+      },
+      "294": {
+            "charge-time": "1.6-hrs"
+      },
+      "295": {
+            "charge-time": "60-min"
+      },
+      "296": {
+            "charge-time": "1.5-hrs"
+      },
+      "297": {
+            "charge-time": "1"
+      },
+      "298": {
+            "charge-time": "180-min"
+      },
+      "299": {
+            "charge-time": "2-hour"
+      },
+      "300": {
+            "charge-time": "100-min"
+      },
+      "301": {
+            "charge-time": "90-minutes"
+      },
+      "302": {
+            "charge-time": "30-min"
+      },
+      "303": {
+            "charge-time": "3"
+      },
+      "304": {
+            "charge-time": "2"
+      },
+      "305": {
+            "charge-time": "30"
+      },
+      "306": {
+            "charge-time": "1-hrs"
+      },
+      "307": {
+            "charge-time": "1.5-hours"
+      },
+      "308": {
+            "charge-time": "480-min"
+      },
+      "309": {
+            "charge-time": "1-2"
+      },
+      "310": {
+            "charge-time": "45-min"
+      },
+      "311": {
+            "charger-type": "usb"
+      },
+      "312": {
+            "charger-type": "usb-cable"
+      },
+      "313": {
+            "charger-type": "charging-dock"
+      },
+      "314": {
+            "charger-type": "2-pogo-pin-usb-magnetic-charger"
+      },
+      "315": {
+            "charger-type": "magnetic-charger"
+      },
+      "316": {
+            "charger-type": "magnetic-charging"
+      },
+      "317": {
+            "charger-type": "magnetic-charging-thimble"
+      },
+      "318": {
+            "charger-type": "1"
+      },
+      "319": {
+            "charger-type": "micro"
+      },
+      "320": {
+            "charger-type": "magnetic-usb-charger"
+      },
+      "321": {
+            "charger-type": "wpc-based-wireless-charging"
+      },
+      "322": {
+            "charger-type": "usb-data-cable"
+      },
+      "323": {
+            "charger-type": "v8-dc"
+      },
+      "324": {
+            "charger-type": "wireless"
+      },
+      "325": {
+            "charger-type": "ac-adapter"
+      },
+      "326": {
+            "charger-type": "micro-usb"
+      },
+      "327": {
+            "charger-type": "cable"
+      },
+      "328": {
+            "charger-type": "usb-cable-charger"
+      },
+      "329": {
+            "charger-type": "ac-adapter-and-usb-cable"
+      },
+      "330": {
+            "chronograph": "no"
+      },
+      "331": {
+            "chronograph": "yes"
+      },
+      "332": {
+            "compass": "no"
+      },
+      "333": {
+            "compass": "yes"
+      },
+      "334": {
+            "compatible-device": "android-&-ios"
+      },
+      "335": {
+            "compatible-device": "android-4.3-and-above"
+      },
+      "336": {
+            "compatible-device": "all-smartphone-/tablet"
+      },
+      "337": {
+            "compatible-device": "all-smart-phones"
+      },
+      "338": {
+            "compatible-device": "iphone,-android-smartphones"
+      },
+      "339": {
+            "compatible-device": "all-smart-phone,-all-bletooth"
+      },
+      "340": {
+            "compatible-device": "android-smartphones"
+      },
+      "341": {
+            "compatible-device": "iphone,-android"
+      },
+      "342": {
+            "compatible-device": "all-android-and-ios-phone"
+      },
+      "343": {
+            "compatible-device": "android-phone,-ios-device"
+      },
+      "344": {
+            "compatible-device": "all-smartphone"
+      },
+      "345": {
+            "compatible-device": "android-and-ios"
+      },
+      "346": {
+            "compatible-device": "iphone-smartphones"
+      },
+      "347": {
+            "compatible-device": "android"
+      },
+      "348": {
+            "compatible-device": "all-smart-phone"
+      },
+      "349": {
+            "compatible-device": "all-device"
+      },
+      "350": {
+            "compatible-device": "smart-phones"
+      },
+      "351": {
+            "compatible-device": "na"
+      },
+      "352": {
+            "compatible-device": "micromax-canvas-magnus-a117"
+      },
+      "353": {
+            "compatible-device": "all-android-and-ios"
+      },
+      "354": {
+            "compatible-device": "all-android-smartphones"
+      },
+      "355": {
+            "compatible-device": "all-android-mobiles"
+      },
+      "356": {
+            "compatible-device": "samsung-galaxy-s4-mini"
+      },
+      "357": {
+            "compatible-device": "all-smarphones"
+      },
+      "358": {
+            "compatible-device": "samsung,-vivo,-oppo,-mi"
+      },
+      "359": {
+            "compatible-device": "all-mobile-phones"
+      },
+      "360": {
+            "compatible-device": "all-smartphones"
+      },
+      "361": {
+            "compatible-device": "all-android"
+      },
+      "362": {
+            "compatible-device": "android:-ios"
+      },
+      "363": {
+            "compatible-device": "all-mobiles-android-or-ios"
+      },
+      "364": {
+            "compatible-device": "n/a"
+      },
+      "365": {
+            "compatible-device": "acer-liquid-s1-mobile"
+      },
+      "366": {
+            "compatible-device": "android,-ios(limited-functions)"
+      },
+      "367": {
+            "compatible-device": "android-phone"
+      },
+      "368": {
+            "compatible-device": "acer-liquid-e3-mobile"
+      },
+      "369": {
+            "compatible-device": "android-phones"
+      },
+      "370": {
+            "compatible-device": "all-devices"
+      },
+      "371": {
+            "compatible-device": "lenovo-a390"
+      },
+      "372": {
+            "compatible-device": "samsung,-iphone"
+      },
+      "373": {
+            "compatible-device": "zen-fone"
+      },
+      "374": {
+            "covered-in-warranty": "na"
+      },
+      "375": {
+            "covered-in-warranty": "manufacturing-defects"
+      },
+      "376": {
+            "covered-in-warranty": "manufacturer-defects-only"
+      },
+      "377": {
+            "covered-in-warranty": "yes"
+      },
+      "378": {
+            "covered-in-warranty": "10-days-replacement-policy"
+      },
+      "379": {
+            "covered-in-warranty": "n/a"
+      },
+      "380": {
+            "covered-in-warranty": "mechanism"
+      },
+      "381": {
+            "covered-in-warranty": "manufacturing-defect"
+      },
+      "382": {
+            "covered-in-warranty": "manufecturing-defects-only"
+      },
+      "383": {
+            "covered-in-warranty": "band"
+      },
+      "384": {
+            "covered-in-warranty": "manufacture-defect-only"
+      },
+      "385": {
+            "covered-in-warranty": "only-manufacturing-defects"
+      },
+      "386": {
+            "covered-in-warranty": "manufacture-defect"
+      },
+      "387": {
+            "covered-in-warranty": "manufacturing-defects-only"
+      },
+      "388": {
+            "covered-in-warranty": "only-manufacturing-defect"
+      },
+      "389": {
+            "covered-in-warranty": "if-receive-a-damage-product."
+      },
+      "390": {
+            "date-&-time-display": "yes"
+      },
+      "391": {
+            "date-&-time-display": "date-&-time"
+      },
+      "392": {
+            "date-&-time-display": "date-time"
+      },
+      "393": {
+            "date-&-time-display": "time-or-date"
+      },
+      "394": {
+            "date-&-time-display": "date-&time"
+      },
+      "395": {
+            "date-&-time-display": "date-and-timer"
+      },
+      "396": {
+            "date-&-time-display": "date-and-time"
+      },
+      "397": "rectangle",
+      "398": {
+            "display-resolution": "240x240-pixel"
+      },
+      "399": {
+            "display-resolution": "240-x-120-pixels"
+      },
+      "400": {
+            "display-resolution": "320-x-320-pixels"
+      },
+      "401": {
+            "display-resolution": "240-x-240-pixel"
+      },
+      "402": {
+            "display-resolution": "120-x-80-pixels"
+      },
+      "403": {
+            "display-resolution": "160-x-80-pixels"
+      },
+      "404": {
+            "display-resolution": "320*320-pixel-pixel"
+      },
+      "405": {
+            "display-resolution": "128-x-64-pixels"
+      },
+      "406": {
+            "display-resolution": "128-x-80-pixels"
+      },
+      "407": {
+            "display-resolution": "240-x-240-pixels"
+      },
+      "408": {
+            "display-resolution": "204x204-pixel"
+      },
+      "409": {
+            "display-resolution": "240-x-240-pixel-pixel"
+      },
+      "410": {
+            "display-resolution": "240*240-pixel"
+      },
+      "411": {
+            "display-resolution": "0.42-inch"
+      },
+      "412": {
+            "display-resolution": "176-x-176-pixels"
+      },
+      "413": {
+            "display-resolution": "160*80-pixel"
+      },
+      "414": {
+            "display-resolution": "12x20"
+      },
+      "415": {
+            "display-resolution": "380x420-pixel"
+      },
+      "416": {
+            "display-resolution": "180x300-pixel"
+      },
+      "417": {
+            "display-resolution": "312-x-390-pixels"
+      },
+      "418": {
+            "display-resolution": "320*320-pixel"
+      },
+      "419": {
+            "display-resolution": "330*330-pixel"
+      },
+      "420": {
+            "display-resolution": "320x320-pixel"
+      },
+      "421": {
+            "display-resolution": "348-x-442-pixels"
+      },
+      "422": {
+            "display-resolution": "160x80"
+      },
+      "423": {
+            "display-resolution": "3.5-pixel"
+      },
+      "424": {
+            "display-resolution": "120*240"
+      },
+      "425": {
+            "display-resolution": "160*80"
+      },
+      "426": {
+            "display-resolution": "360"
+      },
+      "427": {
+            "display-resolution": "128-x-32-pixels"
+      },
+      "428": {
+            "display-resolution": "1280x720-pixel"
+      },
+      "429": {
+            "display-resolution": "454-x-454-pixels"
+      },
+      "430": {
+            "display-resolution": "390-x-390-pixels"
+      },
+      "431": {
+            "display-resolution": "368-x-448-pixels"
+      },
+      "432": {
+            "display-resolution": "355*355-pixel"
+      },
+      "433": {
+            "display-resolution": "320x320-pixel-pixel"
+      },
+      "434": {
+            "display-resolution": "312-x-390-pixel"
+      },
+      "435": {
+            "display-resolution": "128x80"
+      },
+      "436": {
+            "display-resolution": "240x240-pixels-pixel"
+      },
+      "437": {
+            "display-resolution": "240x240-pixel-pixel"
+      },
+      "438": {
+            "display-resolution": "320*220-pixel"
+      },
+      "439": {
+            "display-resolution": "240-x-240"
+      },
+      "440": {
+            "display-resolution": "240*240-pixel-pixel"
+      },
+      "441": {
+            "display-resolution": "hd"
+      },
+      "442": {
+            "display-resolution": "128-x-80"
+      },
+      "443": {
+            "display-resolution": "120"
+      },
+      "444": {
+            "display-resolution": "360-x-360-pixels"
+      },
+      "445": {
+            "display-resolution": "324-x-394-pixels"
+      },
+      "446": {
+            "display-resolution": "1080p"
+      },
+      "447": {
+            "display-resolution": "151-x1-32-pixel"
+      },
+      "448": {
+            "display-resolution": "350*350-pixel"
+      },
+      "449": {
+            "display-resolution": "320*320-pixel-pixel-pixel"
+      },
+      "450": {
+            "display-resolution": "345*345-pixel"
+      },
+      "451": {
+            "display-resolution": "128*80-pixel"
+      },
+      "452": {
+            "display-resolution": "272-x-340-pixels"
+      },
+      "453": {
+            "display-resolution": "300-x-300-pixels"
+      },
+      "454": {
+            "display-resolution": "240*240"
+      },
+      "455": {
+            "display-resolution": "240x240-pixels"
+      },
+      "456": {
+            "display-resolution": "64*32"
+      },
+      "457": {
+            "display-resolution": "416-x-416-pixel"
+      },
+      "458": {
+            "display-resolution": "240-x-198-pixels"
+      },
+      "459": {
+            "display-resolution": "180-x-320-pixel"
+      },
+      "460": {
+            "display-resolution": "high-resolution"
+      },
+      "461": {
+            "display-resolution": "250x250-pixel"
+      },
+      "462": {
+            "display-resolution": "128x80-pixel"
+      },
+      "463": {
+            "display-resolution": "340*340-pixel"
+      },
+      "464": {
+            "display-resolution": "151-x-132-pixel"
+      },
+      "465": {
+            "display-resolution": "128-x-72-pixel"
+      },
+      "466": {
+            "display-resolution": "oled-display"
+      },
+      "467": {
+            "display-resolution": "128*96"
+      },
+      "468": {
+            "display-resolution": "128*36"
+      },
+      "469": {
+            "display-resolution": "0.96-inch"
+      },
+      "470": {
+            "display-resolution": "320-x-320-pixel-pixel"
+      },
+      "471": {
+            "display-resolution": "120-x-120"
+      },
+      "472": {
+            "display-resolution": "64x32"
+      },
+      "473": {
+            "display-resolution": "340x340"
+      },
+      "474": {
+            "display-resolution": "320x240"
+      },
+      "475": {
+            "display-resolution": "0.96-inch-color-display"
+      },
+      "476": {
+            "display-resolution": "64-x-159"
+      },
+      "477": {
+            "display-resolution": "420x420-pixel"
+      },
+      "478": {
+            "display-resolution": "320-x-320-pixel"
+      },
+      "479": {
+            "display-resolution": "320*240"
+      },
+      "480": {
+            "display-resolution": "64*128"
+      },
+      "481": {
+            "display-resolution": "360*360-pixel"
+      },
+      "482": {
+            "display-resolution": "255*18*11mm"
+      },
+      "483": {
+            "display-resolution": "1.50-pixel"
+      },
+      "484": {
+            "display-resolution": "120-x-240-pixels"
+      },
+      "485": {
+            "display-size": "40-mm"
+      },
+      "486": {
+            "display-size": "1.4-inch"
+      },
+      "487": {
+            "display-size": "51-mm"
+      },
+      "488": {
+            "display-size": "44-mm"
+      },
+      "489": {
+            "display-size": "32-mm"
+      },
+      "490": {
+            "display-size": "31-mm"
+      },
+      "491": {
+            "display-size": "39-mm"
+      },
+      "492": {
+            "display-size": "1.3-inch"
+      },
+      "493": {
+            "display-size": "34-mm"
+      },
+      "494": {
+            "display-size": "1.28-inch"
+      },
+      "495": {
+            "display-size": "42-mm"
+      },
+      "496": {
+            "display-size": "14-mm"
+      },
+      "497": {
+            "display-size": "89-mm"
+      },
+      "498": {
+            "display-size": "30-mm"
+      },
+      "499": {
+            "display-size": "46-mm"
+      },
+      "500": {
+            "display-size": "1.57-mm"
+      },
+      "501": {
+            "display-size": "33-mm"
+      },
+      "502": {
+            "display-size": "36-mm"
+      },
+      "503": {
+            "display-size": "1.56-mm"
+      },
+      "504": {
+            "display-size": "47-mm"
+      },
+      "505": {
+            "display-size": "38-mm"
+      },
+      "506": {
+            "display-size": "1.04-inch"
+      },
+      "507": {
+            "display-size": "77-mm"
+      },
+      "508": {
+            "display-size": "53-mm"
+      },
+      "509": {
+            "display-size": "28-mm"
+      },
+      "510": {
+            "display-size": "35-mm"
+      },
+      "511": {
+            "display-size": "102-mm"
+      },
+      "512": {
+            "display-size": "76.2-mm"
+      },
+      "513": {
+            "display-size": "3963-mm"
+      },
+      "514": {
+            "display-size": "21-mm"
+      },
+      "515": "ips-lcd",
+      "516": {
+            "email-support": "yes"
+      },
+      "517": {
+            "email-support": "no"
+      },
+      "518": {
+            "expandable-memory": "32-gb"
+      },
+      "519": {
+            "expandable-memory": "16-gb"
+      },
+      "520": {
+            "expandable-memory": "4-gb"
+      },
+      "521": {
+            "expandable-memory": "8-gb"
+      },
+      "522": {
+            "flash": "no"
+      },
+      "523": {
+            "flash": "na"
+      },
+      "524": {
+            "flash": "display-flash"
+      },
+      "525": {
+            "flash": "led"
+      },
+      "526": {
+            "flash": "yes"
+      },
+      "527": {
+            "flash": "n/a"
+      },
+      "528": {
+            "gps": "no"
+      },
+      "529": {
+            "gps": "yes"
+      },
+      "530": {
+            "heart-rate-monitor": "no"
+      },
+      "531": {
+            "heart-rate-monitor": "yes"
+      },
+      "532": "unisex",
+      "533": "vibration",
+      "534": {
+            "internal-memory": "512-mb"
+      },
+      "535": {
+            "internal-memory": "256-mb"
+      },
+      "536": {
+            "internal-memory": "4-gb"
+      },
+      "537": {
+            "internal-memory": "8-gb"
+      },
+      "538": {
+            "internal-memory": "32-gb"
+      },
+      "539": {
+            "internal-memory": "2-gb"
+      },
+      "540": {
+            "internal-memory": "16-gb"
+      },
+      "541": {
+            "internal-memory": "32"
+      },
+      "542": {
+            "internal-memory": "1-gb"
+      },
+      "543": {
+            "internal-memory": "128-gb"
+      },
+      "544": "all-language",
+      "545": "thermoplastic-polyurethane-(tpu)",
+      "546": {
+            "maximum-operating-altitude": "10-m"
+      },
+      "547": {
+            "maximum-operating-altitude": "3000-m"
+      },
+      "548": {
+            "maximum-operating-altitude": "0-m"
+      },
+      "549": {
+            "maximum-operating-altitude": "3800-m"
+      },
+      "550": {
+            "maximum-operating-altitude": "4500-m"
+      },
+      "551": {
+            "maximum-operating-altitude": "30-m"
+      },
+      "552": {
+            "maximum-operating-altitude": "32-m"
+      },
+      "553": {
+            "maximum-operating-altitude": "20000-m"
+      },
+      "554": {
+            "maximum-operating-altitude": "8535-m"
+      },
+      "555": {
+            "maximum-operating-altitude": "4000-m"
+      },
+      "556": {
+            "maximum-operating-altitude": "150-m"
+      },
+      "557": {
+            "messaging-support": "yes"
+      },
+      "558": {
+            "messaging-support": "no"
+      },
+      "559": {
+            "microphone": "yes"
+      },
+      "560": {
+            "microphone": "inbuilt-micropohone"
+      },
+      "561": {
+            "microphone": "1microphone"
+      },
+      "562": {
+            "microphone": "no"
+      },
+      "563": {
+            "microphone": "built-in-microphone"
+      },
+      "564": {
+            "microphone": "1"
+      },
+      "565": {
+            "microphone": "1-microphone"
+      },
+      "566": {
+            "microphone": "n/a"
+      },
+      "567": {
+            "microphone": "y"
+      },
+      "568": {
+            "model-name": "smart-band-4"
+      },
+      "569": {
+            "model-name": "watch"
+      },
+      "570": {
+            "model-name": "smart-band-3i"
+      },
+      "571": {
+            "model-name": "band"
+      },
+      "572": {
+            "model-name": "galaxy-fit-e-smart-band"
+      },
+      "573": {
+            "model-name": "band-3"
+      },
+      "574": {
+            "model-name": "ar-gol-mic"
+      },
+      "575": {
+            "model-name": "band-5"
+      },
+      "576": {
+            "model-name": "mobile-watch-with-camera"
+      },
+      "577": {
+            "model-name": "smart-life"
+      },
+      "578": {
+            "model-name": "new-smartwatch-v8-black"
+      },
+      "579": {
+            "model-name": "apxdz09-smart-watch-phone"
+      },
+      "580": {
+            "model-name": "reflex-2.0"
+      },
+      "581": {
+            "model-name": "smatwatch"
+      },
+      "582": {
+            "model-name": "watch-5"
+      },
+      "583": {
+            "model-name": "a1-black-color,-4g-calling"
+      },
+      "584": {
+            "model-name": "band-5i"
+      },
+      "585": {
+            "model-name": "w3-black"
+      },
+      "586": {
+            "model-name": "amazfit-bip-s"
+      },
+      "587": {
+            "model-name": "a1-multi-functional-smartwatch"
+      },
+      "588": {
+            "model-name": "android-a1-smartwatch-ea03"
+      },
+      "589": {
+            "model-name": "bluetooth-smart-watch-phone"
+      },
+      "590": {
+            "model-name": "watch-series-3-gps--"
+      },
+      "591": {
+            "model-name": "band-4"
+      },
+      "592": {
+            "model-name": "mobile-watch"
+      },
+      "593": {
+            "model-name": "bluetooth-calling"
+      },
+      "594": {
+            "model-name": "gt08-grey"
+      },
+      "595": {
+            "model-name": "amazfit-gts"
+      },
+      "596": {
+            "model-name": "m4-waterproof-smart-band-device"
+      },
+      "597": {
+            "model-name": "smart-dz09-bluetooth-smartwatch"
+      },
+      "598": {
+            "model-name": "colorfit-pro"
+      },
+      "599": {
+            "model-name": "4g-v8-smart-bluetooth"
+      },
+      "600": {
+            "model-name": "famekart-m4-smart-band"
+      },
+      "601": {
+            "model-name": "id115-plus"
+      },
+      "602": {
+            "model-name": "reflex-beat"
+      },
+      "603": {
+            "model-name": "dz09-4g-calling-health-notifier"
+      },
+      "604": {
+            "model-name": "magic-watch-2-(46-mm)"
+      },
+      "605": {
+            "model-name": "evolve"
+      },
+      "606": {
+            "model-name": "fusion-hybrid"
+      },
+      "607": {
+            "model-name": "with-sim-card-slot-and-camera"
+      },
+      "608": {
+            "model-name": "notifier-watch-phone-black"
+      },
+      "609": {
+            "model-name": "hin02-bk-phone"
+      },
+      "610": {
+            "model-name": "4g-smart-pop-v8-notifier-health"
+      },
+      "611": {
+            "model-name": "smart-mobile-watch"
+      },
+      "612": {
+            "model-name": "4g-android-calling-smart-v8"
+      },
+      "613": {
+            "model-name": "kwth-a1-blck-phone"
+      },
+      "614": {
+            "model-name": "vr-box"
+      },
+      "615": {
+            "model-name": "watch-series-5-gps"
+      },
+      "616": {
+            "model-name": "new-m4-fitness-band-2"
+      },
+      "617": {
+            "model-name": "watch-series-3-gps-+-cellular--"
+      },
+      "618": {
+            "model-name": "m4-touch-smart-band-watch"
+      },
+      "619": {
+            "model-name": "x6-phone-white-smartwatch"
+      },
+      "620": {
+            "model-name": "a1-phone"
+      },
+      "621": {
+            "model-name": "hin004-bk-phone"
+      },
+      "622": {
+            "model-name": "a6-smart-watch"
+      },
+      "623": {
+            "model-name": "gt08-black-10gen"
+      },
+      "624": {
+            "model-name": "v8-684684654654"
+      },
+      "625": {
+            "model-name": "m3"
+      },
+      "626": {
+            "model-name": "rush-smart-band"
+      },
+      "627": {
+            "model-name": "dz09-1.54-bluetooth-smart-watch"
+      },
+      "628": {
+            "model-name": "sport-41"
+      },
+      "629": {
+            "model-name": "m2-led-watch"
+      },
+      "630": {
+            "model-name": "v8-mobile-phone"
+      },
+      "631": {
+            "model-name": "dz09-new-phone"
+      },
+      "632": {
+            "model-name": "smart-band-black-m4-fitness-band"
+      },
+      "633": {
+            "model-name": "galaxy-watch-active-2-aluminium"
+      },
+      "634": {
+            "model-name": "watch-series-5-gps-+-cellular"
+      },
+      "635": {
+            "model-name": "ofit"
+      },
+      "636": {
+            "model-name": "ce017-phone"
+      },
+      "637": {
+            "model-name": "a1"
+      },
+      "638": {
+            "model-name": "dz09-premium"
+      },
+      "639": {
+            "model-name": "dz09"
+      },
+      "640": {
+            "model-name": "4g-dz09-black-calling-android"
+      },
+      "641": {
+            "model-name": "watch-series-3"
+      },
+      "642": {
+            "model-name": "btx-a1---white-phone"
+      },
+      "643": {
+            "model-name": "dz09-a3-phone"
+      },
+      "644": {
+            "model-name": "hrv_378f_mi-a1-smart-watch"
+      },
+      "645": {
+            "model-name": "vogr-smdgw_black"
+      },
+      "646": {
+            "model-name": "magic-watch-2-(42-mm)"
+      },
+      "647": {
+            "model-name": "v8-phone-smart-watch"
+      },
+      "648": {
+            "model-name": "id115-digital-fitness-smart-band"
+      },
+      "649": {
+            "model-name": "4g-smart-watch-v8-black"
+      },
+      "650": {
+            "model-name": "fitness-band-m4"
+      },
+      "651": {
+            "model-name": "android-pedometer-smart-calling"
+      },
+      "652": {
+            "model-name": "new-design-smart-fitness"
+      },
+      "653": {
+            "model-name": "fitness-band-m3"
+      },
+      "654": {
+            "model-name": "walrus-m4"
+      },
+      "655": {
+            "model-name": "dz09-smart-4g-health-notifier"
+      },
+      "656": {
+            "model-name": "bt18-bluetooth-sunglasses"
+      },
+      "657": {
+            "model-name": "watch-gt-2e-sport"
+      },
+      "658": {
+            "model-name": "watch-gt-2e-active"
+      },
+      "659": {
+            "model-name": "gizfit-901-fitness-band"
+      },
+      "660": {
+            "model-name": "bluetooth-fitness-id115-watch"
+      },
+      "661": {
+            "model-name": "black,-red-strap"
+      },
+      "662": {
+            "model-name": "gen-5-carlyle-hr"
+      },
+      "663": {
+            "model-name": "dz009-phone"
+      },
+      "664": {
+            "model-name": "senorita"
+      },
+      "665": {
+            "model-name": "dz09-4g-smart-mobile-watch-sp004"
+      },
+      "666": {
+            "model-name": "waterproof-a6-unisex-smart-watch"
+      },
+      "667": {
+            "model-name": "ego"
+      },
+      "668": {
+            "model-name": "golden-for-android-mobile"
+      },
+      "669": {
+            "model-name": "vogr-dz09"
+      },
+      "670": {
+            "model-name": "vivoactive-3-music"
+      },
+      "671": {
+            "model-name": "dz09-smart-4g-notifier-health"
+      },
+      "672": {
+            "model-name": "amazfit-bip-lite"
+      },
+      "673": {
+            "model-name": "watch-gt-2-(46-mm)"
+      },
+      "674": {
+            "model-name": "a1-bbk-notifier-health"
+      },
+      "675": {
+            "model-name": "m4-fit(blue)"
+      },
+      "676": {
+            "model-name": "x6-smartwatch-white"
+      },
+      "677": {
+            "model-name": "sw-369-phone"
+      },
+      "678": {
+            "model-name": "amazfit-gtr-47-mm"
+      },
+      "679": {
+            "model-name": "4th-gen-venture-hr"
+      },
+      "680": {
+            "model-name": "versa-2-special-edition"
+      },
+      "681": {
+            "model-name": "versa-2"
+      },
+      "682": {
+            "model-name": "gpy-dz09-348-phone"
+      },
+      "683": {
+            "model-name": "watch-magic"
+      },
+      "684": {
+            "model-name": "dz09-black-calling-android-4g"
+      },
+      "685": {
+            "model-name": "calling-smart-watch"
+      },
+      "686": {
+            "model-name": "dz09-black-android,-calling-4g"
+      },
+      "687": {
+            "model-name": "m3-band-health-band"
+      },
+      "688": {
+            "model-name": "a1-4g-smart-watch-with-bluetooth"
+      },
+      "689": {
+            "model-name": "116-bluetooth-band"
+      },
+      "690": {
+            "model-name": "a1-smart-watch"
+      },
+      "691": {
+            "model-name": "bluetooth-smart-watch"
+      },
+      "692": {
+            "model-name": "galaxy-watch-active"
+      },
+      "693": {
+            "model-name": "dz-09-gold"
+      },
+      "694": {
+            "model-name": "a1-black"
+      },
+      "695": {
+            "model-name": "dz09-gold-7-gtx-a-phone"
+      },
+      "696": {
+            "model-name": "fit-sw75"
+      },
+      "697": {
+            "model-name": "inspire"
+      },
+      "698": {
+            "model-name": "ppfitm3-lifestyle-smart-band"
+      },
+      "699": {
+            "model-name": "hoop-fitness-smart-band"
+      },
+      "700": {
+            "model-name": "amazfit-verge-lite"
+      },
+      "701": {
+            "model-name": "reflex-wav"
+      },
+      "702": {
+            "model-name": "new-dz09-gold-phone"
+      },
+      "703": {
+            "model-name": "bt-a1---black---10-phone"
+      },
+      "704": {
+            "model-name": "band-2"
+      },
+      "705": {
+            "model-name": "m4-band"
+      },
+      "706": {
+            "model-name": "galaxy-watch-active-2-steel"
+      },
+      "707": {
+            "model-name": "hin02-gd-phone"
+      },
+      "708": {
+            "model-name": "smartwatch"
+      },
+      "709": {
+            "model-name": "dz09-4g-smart-mobile-watch"
+      },
+      "710": {
+            "model-name": "compatible-with-all-android"
+      },
+      "711": {
+            "model-name": "dz-09-black-phone"
+      },
+      "712": {
+            "model-name": "hla-a1---red---1-phone"
+      },
+      "713": {
+            "model-name": "x6-phone"
+      },
+      "714": {
+            "model-name": "welx6"
+      },
+      "715": {
+            "model-name": "m2-heart-rate-tracker,"
+      },
+      "716": {
+            "model-name": "ipz_207i_mi-a1-smart-watch"
+      },
+      "717": {
+            "model-name": "m2-fitness-smart-band"
+      },
+      "718": {
+            "model-name": "4g-phone"
+      },
+      "719": {
+            "model-name": "4g-mobiles-smart-watch-v8-black"
+      },
+      "720": {
+            "model-name": "smart-fitness-smart-band"
+      },
+      "721": {
+            "model-name": "116-pro-bluetooth-smart-band"
+      },
+      "722": {
+            "model-name": "dz09-black-vgt-a7-phone"
+      },
+      "723": {
+            "model-name": "116-plus"
+      },
+      "724": {
+            "model-name": "4g-smart-watch-phone"
+      },
+      "725": {
+            "model-name": "colorfit-pro-2"
+      },
+      "726": {
+            "model-name": "smart-dz09-silver"
+      },
+      "727": {
+            "model-name": "rhythm-bluetooth"
+      },
+      "728": {
+            "model-name": "lite"
+      },
+      "729": {
+            "model-name": "dz09-black-sp786-phone"
+      },
+      "730": {
+            "model-name": "sw_gold-2-phone"
+      },
+      "731": {
+            "model-name": "lenovo-a390"
+      },
+      "732": {
+            "model-name": "dz09-black-4g"
+      },
+      "733": {
+            "model-name": "joy_342j_mi-a6-fitness-band"
+      },
+      "734": {
+            "model-name": "smart-watch-x6"
+      },
+      "735": {
+            "model-name": "a6-smart-band"
+      },
+      "736": {
+            "model-name": "hpe_399i-m4-fitness-band"
+      },
+      "737": {
+            "model-name": "m4-fit(red)"
+      },
+      "738": {
+            "model-name": "bluetooth-fitness-wrist-band"
+      },
+      "739": {
+            "model-name": "gen-5-julianna-hr"
+      },
+      "740": {
+            "model-name": "zen-fone"
+      },
+      "741": {
+            "model-number": "xmsh07hm"
+      },
+      "742": {
+            "model-number": "rma161_4811584"
+      },
+      "743": {
+            "model-number": "xmsh09hm"
+      },
+      "744": {
+            "model-number": "rma161"
+      },
+      "745": {
+            "model-number": "rma183"
+      },
+      "746": {
+            "model-number": "sm-r375nzkainu"
+      },
+      "747": {
+            "model-number": "xmsh05hm"
+      },
+      "748": {
+            "model-number": "ar-gol-mic"
+      },
+      "749": {
+            "model-number": "crs-b19s"
+      },
+      "750": {
+            "model-number": "gsw1"
+      },
+      "751": {
+            "model-number": "v8"
+      },
+      "752": {
+            "model-number": "apxdz09"
+      },
+      "753": {
+            "model-number": "swd90059pp05"
+      },
+      "754": {
+            "model-number": "gsw5"
+      },
+      "755": {
+            "model-number": "a1-black-004"
+      },
+      "756": {
+            "model-number": "ads-b19"
+      },
+      "757": {
+            "model-number": "w3-black"
+      },
+      "758": {
+            "model-number": "a1821"
+      },
+      "759": {
+            "model-number": "m3"
+      },
+      "760": {
+            "model-number": "si_black_sw08"
+      },
+      "761": {
+            "model-number": "blca110"
+      },
+      "762": {
+            "model-number": "mtf32hn/a"
+      },
+      "763": {
+            "model-number": "ads-b29"
+      },
+      "764": {
+            "model-number": "sm-r375nzwainu"
+      },
+      "765": {
+            "model-number": "a1-silver-sv-08"
+      },
+      "766": {
+            "model-number": "4g-bluetooth-calling"
+      },
+      "767": {
+            "model-number": "gt08-grey"
+      },
+      "768": {
+            "model-number": "a2"
+      },
+      "769": {
+            "model-number": "a1914"
+      },
+      "770": {
+            "model-number": "smart-band"
+      },
+      "771": {
+            "model-number": "wrb-sb-colorfitpro-std-blk"
+      },
+      "772": {
+            "model-number": "m4_band"
+      },
+      "773": {
+            "model-number": "id115-plus"
+      },
+      "774": {
+            "model-number": "swd90066pp02"
+      },
+      "775": {
+            "model-number": "strap-for-m2"
+      },
+      "776": {
+            "model-number": "a1-smart-watch_black_29"
+      },
+      "777": {
+            "model-number": "a1"
+      },
+      "778": {
+            "model-number": "mns-b19"
+      },
+      "779": {
+            "model-number": "swd90059pp06"
+      },
+      "780": {
+            "model-number": "wrb-sw-evolve-std-blu"
+      },
+      "781": {
+            "model-number": "wrb-sw-fusion-lthr-blk_blk"
+      },
+      "782": {
+            "model-number": "zx6"
+      },
+      "783": {
+            "model-number": "swd90066pp01"
+      },
+      "784": {
+            "model-number": "gt-08"
+      },
+      "785": {
+            "model-number": "hin02-bk"
+      },
+      "786": {
+            "model-number": "m3_white_smartwatch_"
+      },
+      "787": {
+            "model-number": "m9.silver.am4"
+      },
+      "788": {
+            "model-number": "i9"
+      },
+      "789": {
+            "model-number": "kwth-a1-blck"
+      },
+      "790": {
+            "model-number": "a1-black-smartwatch-blk-sw-23"
+      },
+      "791": {
+            "model-number": "10"
+      },
+      "792": {
+            "model-number": "gear-x"
+      },
+      "793": {
+            "model-number": "mwvf2hn/a"
+      },
+      "794": {
+            "model-number": "new-m4-smart-fitness-band-2"
+      },
+      "795": {
+            "model-number": "mth22hn/a"
+      },
+      "796": {
+            "model-number": "m4-hr"
+      },
+      "797": {
+            "model-number": "sg-100"
+      },
+      "798": {
+            "model-number": "smartwatch_x6_white"
+      },
+      "799": {
+            "model-number": "a1black+capsule_black_01"
+      },
+      "800": {
+            "model-number": "hin004-bk"
+      },
+      "801": {
+            "model-number": "4111k"
+      },
+      "802": {
+            "model-number": "m3-smart-fitness-wrist-band"
+      },
+      "803": {
+            "model-number": "a1-black-smart-watch-e"
+      },
+      "804": {
+            "model-number": "gt08-smtw-3006"
+      },
+      "805": {
+            "model-number": "85768465"
+      },
+      "806": {
+            "model-number": "health-bracelet-device"
+      },
+      "807": {
+            "model-number": "swd77087pp01"
+      },
+      "808": {
+            "model-number": "a6smartbracelet"
+      },
+      "809": {
+            "model-number": "dz09-silver-012"
+      },
+      "810": {
+            "model-number": "ftw6022"
+      },
+      "811": {
+            "model-number": "jmlm646"
+      },
+      "812": {
+            "model-number": "dz09-new-smartwatch"
+      },
+      "813": {
+            "model-number": "itemmart-m4-black"
+      },
+      "814": {
+            "model-number": "sm-r820nzkainu"
+      },
+      "815": {
+            "model-number": "knty-ofit-blc"
+      },
+      "816": {
+            "model-number": "mwwe2hn/a"
+      },
+      "817": {
+            "model-number": "a1-smart-watch."
+      },
+      "818": {
+            "model-number": "77"
+      },
+      "819": {
+            "model-number": "black-&-blue-dual-color-band"
+      },
+      "820": {
+            "model-number": "ce017"
+      },
+      "821": {
+            "model-number": "m3_b"
+      },
+      "822": {
+            "model-number": "red-001"
+      },
+      "823": {
+            "model-number": "dz09"
+      },
+      "824": {
+            "model-number": "black-&-grey-dual-color-band"
+      },
+      "825": {
+            "model-number": "mtf22hn/a"
+      },
+      "826": {
+            "model-number": "btx-a1---white"
+      },
+      "827": {
+            "model-number": "dz09-c"
+      },
+      "828": {
+            "model-number": "hbe-b19"
+      },
+      "829": {
+            "model-number": "3"
+      },
+      "830": {
+            "model-number": "wm4-black"
+      },
+      "831": {
+            "model-number": "a1-black-smartwatch-a1b-bk033"
+      },
+      "832": {
+            "model-number": "x6-csmw-1094"
+      },
+      "833": {
+            "model-number": "dz-silver-smartwatch-dzssw-20"
+      },
+      "834": {
+            "model-number": "tw64-band"
+      },
+      "835": {
+            "model-number": "wm3-black"
+      },
+      "836": {
+            "model-number": "a1-silver-slv-01"
+      },
+      "837": {
+            "model-number": "sm-r820nzsainu"
+      },
+      "838": {
+            "model-number": "mtf02hn/a"
+      },
+      "839": {
+            "model-number": "vctdgn-miii3"
+      },
+      "840": {
+            "model-number": "w4-new"
+      },
+      "841": {
+            "model-number": "bt-wireless-smart-sunglasses"
+      },
+      "842": {
+            "model-number": "hct-b19"
+      },
+      "843": {
+            "model-number": "gizfit-901"
+      },
+      "844": {
+            "model-number": "a1-silver-sv-01"
+      },
+      "845": {
+            "model-number": "xb05"
+      },
+      "846": {
+            "model-number": "id115_smart-band_07"
+      },
+      "847": {
+            "model-number": "v9-phone"
+      },
+      "848": {
+            "model-number": "ftw4025"
+      },
+      "849": {
+            "model-number": "tpu-silicon-band-strap"
+      },
+      "850": {
+            "model-number": "dz009"
+      },
+      "851": {
+            "model-number": "gsw3"
+      },
+      "852": {
+            "model-number": "dz09_sp004"
+      },
+      "853": {
+            "model-number": "m3-fitness-tracker"
+      },
+      "854": {
+            "model-number": "sm-r375nzyainu"
+      },
+      "855": {
+            "model-number": "a6-red-4"
+      },
+      "856": {
+            "model-number": "hx07"
+      },
+      "857": {
+            "model-number": "gold-a-011"
+      },
+      "858": {
+            "model-number": "4-band-3-captain-america"
+      },
+      "859": {
+            "model-number": "l9"
+      },
+      "860": {
+            "model-number": "id115_smart-band_21"
+      },
+      "861": {
+            "model-number": "ltn-b19"
+      },
+      "862": {
+            "model-number": "a1-bbk"
+      },
+      "863": {
+            "model-number": "m4-fit(blue)"
+      },
+      "864": {
+            "model-number": "ftw4024"
+      },
+      "865": {
+            "model-number": "dz09-gold-smartwatch-01"
+      },
+      "866": {
+            "model-number": "x6-smartwatch-white-3"
+      },
+      "867": {
+            "model-number": "wireless-bluetooth-headphone"
+      },
+      "868": {
+            "model-number": "mk14"
+      },
+      "869": {
+            "model-number": "amzgtraa-/a1902"
+      },
+      "870": {
+            "model-number": "smart-fitness-sport-watch-band"
+      },
+      "871": {
+            "model-number": "sports_bluetooth_sunglasses_33"
+      },
+      "872": {
+            "model-number": "ftw6015"
+      },
+      "873": {
+            "model-number": "band6566"
+      },
+      "874": {
+            "model-number": "fb507gygy"
+      },
+      "875": {
+            "model-number": "fb507gysr"
+      },
+      "876": {
+            "model-number": "x9s-black"
+      },
+      "877": {
+            "model-number": "tls-b19"
+      },
+      "878": {
+            "model-number": "dz09-black-d8"
+      },
+      "879": {
+            "model-number": "bluetooth-headphone-sunglass-100"
+      },
+      "880": {
+            "model-number": "id115-smart-band"
+      },
+      "881": {
+            "model-number": "a1-black-smartwatch-bw-42"
+      },
+      "882": {
+            "model-number": "m3-fitness-band-sq43"
+      },
+      "883": {
+            "model-number": "m4-smart-band"
+      },
+      "884": {
+            "model-number": "09"
+      },
+      "885": {
+            "model-number": "116-bluetooth-band"
+      },
+      "886": {
+            "model-number": "m9.silver.am1"
+      },
+      "887": {
+            "model-number": "sm-r500nzsainu"
+      },
+      "888": {
+            "model-number": "a10"
+      },
+      "889": {
+            "model-number": "dz09gold"
+      },
+      "890": {
+            "model-number": "a1-black"
+      },
+      "891": {
+            "model-number": "a1-black-002"
+      },
+      "892": {
+            "model-number": "dz09-gold-7-gtx-a"
+      },
+      "893": {
+            "model-number": "sw-408"
+      },
+      "894": {
+            "model-number": "fb412bkbk"
+      },
+      "895": {
+            "model-number": "pp_fitm3"
+      },
+      "896": {
+            "model-number": "ftw4026"
+      },
+      "897": {
+            "model-number": "m3-fitness-band-xk33"
+      },
+      "898": {
+            "model-number": "a1818"
+      },
+      "899": {
+            "model-number": "swd90064pp01"
+      },
+      "900": {
+            "model-number": "bt-a1---black---10"
+      },
+      "901": {
+            "model-number": "ers---b19"
+      },
+      "902": {
+            "model-number": "fb507bkbk"
+      },
+      "903": {
+            "model-number": "sm-r820nsdainu"
+      },
+      "904": {
+            "model-number": "a1-black-watch-03"
+      },
+      "905": {
+            "model-number": "mwve2hn/a"
+      },
+      "906": {
+            "model-number": "hin02-gd"
+      },
+      "907": {
+            "model-number": "a1915"
+      },
+      "908": {
+            "model-number": "dz09_sp1250"
+      },
+      "909": {
+            "model-number": "ftw6011"
+      },
+      "910": {
+            "model-number": "mi-band-3/4"
+      },
+      "911": {
+            "model-number": "a1-pro-prime-black"
+      },
+      "912": {
+            "model-number": "hla-a1---red---1"
+      },
+      "913": {
+            "model-number": "x6"
+      },
+      "914": {
+            "model-number": "wels6"
+      },
+      "915": {
+            "model-number": "m2-fitness-band-a1"
+      },
+      "916": {
+            "model-number": "m2-band-a2"
+      },
+      "917": {
+            "model-number": "sports_bluetooth_sunglasses_10"
+      },
+      "918": {
+            "model-number": "m2"
+      },
+      "919": {
+            "model-number": "mi-band-3"
+      },
+      "920": {
+            "model-number": "smart-bracelet"
+      },
+      "921": {
+            "model-number": "tg113h"
+      },
+      "922": {
+            "model-number": "sam9-slvr-107"
+      },
+      "923": {
+            "model-number": "wrb-sw-colorfitpro2-std-teal"
+      },
+      "924": {
+            "model-number": "fb412byby"
+      },
+      "925": {
+            "model-number": "fit-pro-grey"
+      },
+      "926": {
+            "model-number": "fnu-g0003pp"
+      },
+      "927": {
+            "model-number": "army-&-grey-dual-color-band"
+      },
+      "928": {
+            "model-number": "dz09-black-sp786"
+      },
+      "929": {
+            "model-number": "sw_gold-2"
+      },
+      "930": {
+            "model-number": "os-857"
+      },
+      "931": {
+            "model-number": "dz09-black222"
+      },
+      "932": {
+            "model-number": "gt08-smtw-3028"
+      },
+      "933": {
+            "model-number": "m9.gold.am22"
+      },
+      "934": {
+            "model-number": "w34"
+      },
+      "935": {
+            "model-number": "m2_b"
+      },
+      "936": {
+            "model-number": "smart-watch-x6"
+      },
+      "937": {
+            "model-number": "band-m4"
+      },
+      "938": {
+            "model-number": "hpe_399i"
+      },
+      "939": {
+            "model-number": "lpsmartwatchdz09"
+      },
+      "940": {
+            "model-number": "m4-fit(red)"
+      },
+      "941": {
+            "model-number": "bluetooth-fitness-wrist-band"
+      },
+      "942": {
+            "model-number": "v-eight"
+      },
+      "943": {
+            "model-number": "ftw6036"
+      },
+      "944": {
+            "model-number": "08_gt"
+      },
+      "945": {
+            "model-number": "m9_silver_dk20"
+      },
+      "946": {
+            "not-covered-in-warranty": "physical-damage"
+      },
+      "947": {
+            "not-covered-in-warranty": "once-used"
+      },
+      "948": {
+            "not-covered-in-warranty": "na"
+      },
+      "949": {
+            "not-covered-in-warranty": "damage"
+      },
+      "950": {
+            "not-covered-in-warranty": "physical-or-damage-after-use"
+      },
+      "951": {
+            "not-covered-in-warranty": "physical-damage,-abuse"
+      },
+      "952": {
+            "not-covered-in-warranty": "physical-damage-by-the-customer."
+      },
+      "953": {
+            "not-covered-in-warranty": "10-days-replacement-policy"
+      },
+      "954": {
+            "not-covered-in-warranty": "n/a"
+      },
+      "955": {
+            "not-covered-in-warranty": "any-physical-damage"
+      },
+      "956": {
+            "not-covered-in-warranty": "any-kind-of-physical-damage"
+      },
+      "957": {
+            "not-covered-in-warranty": "physical-damage-by-customer"
+      },
+      "958": {
+            "not-covered-in-warranty": "if-physically-damage"
+      },
+      "959": {
+            "not-covered-in-warranty": "breakage,-water-contaminated"
+      },
+      "960": {
+            "not-covered-in-warranty": "physical-damages"
+      },
+      "961": {
+            "not-covered-in-warranty": "mishandling-and-damaged-product"
+      },
+      "962": {
+            "not-covered-in-warranty": "burnout-&-physical-damage"
+      },
+      "963": {
+            "not-covered-in-warranty": "water-or-liquid-damage,-abuse"
+      },
+      "964": {
+            "not-covered-in-warranty": "any-damage"
+      },
+      "965": {
+            "not-covered-in-warranty": "physical-damage,-strap"
+      },
+      "966": {
+            "not-covered-in-warranty": "warranty-not-cover-water-damage"
+      },
+      "967": {
+            "notification": "yes"
+      },
+      "968": {
+            "notification": "missed-call,-sms"
+      },
+      "969": {
+            "notification": "push-notification"
+      },
+      "970": {
+            "notification": "messages,-calendar,-mail"
+      },
+      "971": {
+            "notification": "smart-notifications"
+      },
+      "972": {
+            "notification": "na"
+      },
+      "973": {
+            "notification": "all"
+      },
+      "974": {
+            "notification": "ring"
+      },
+      "975": {
+            "notification": "n/a"
+      },
+      "976": {
+            "notification": "missed-call-/sms"
+      },
+      "977": {
+            "notification": "all-app-notification"
+      },
+      "978": {
+            "number-of-buttons": "1"
+      },
+      "979": {
+            "number-of-buttons": "2"
+      },
+      "980": {
+            "number-of-buttons": "3"
+      },
+      "981": {
+            "number-of-buttons": "4"
+      },
+      "982": {
+            "operating-range": "10-m"
+      },
+      "983": {
+            "operating-range": "5-m"
+      },
+      "984": {
+            "operating-range": "6-m"
+      },
+      "985": {
+            "operating-system": "android"
+      },
+      "986": {
+            "operating-system": "android-and-ios"
+      },
+      "987": {
+            "operating-system": "possible-fork-android"
+      },
+      "988": {
+            "operating-system": "android,-ios,-windows"
+      },
+      "989": {
+            "operating-system": "android-&-ios"
+      },
+      "990": {
+            "operating-system": "amazfit-os"
+      },
+      "991": {
+            "operating-system": "watchos-4"
+      },
+      "992": {
+            "operating-system": "watchos-6"
+      },
+      "993": {
+            "operating-system": "android-wear"
+      },
+      "994": {
+            "operating-system": "smart-phone"
+      },
+      "995": {
+            "operating-system": "na"
+      },
+      "996": {
+            "operating-system": "wear-os-by-google"
+      },
+      "997": {
+            "operating-system": "tizen-wearable-os"
+      },
+      "998": {
+            "operating-system": "tizen"
+      },
+      "999": {
+            "operating-system": "android::windows-phone::ios"
+      },
+      "1000": {
+            "operating-system": "android,-ios"
+      },
+      "1001": {
+            "operating-system": "powered-with-wear-os-by-google"
+      },
+      "1002": {
+            "operating-system": "fitbit-os"
+      },
+      "1003": {
+            "operating-system": "n/a"
+      },
+      "1004": {
+            "operating-system": "amaz\ufb01t-os"
+      },
+      "1005": {
+            "operating-system": "android-os"
+      },
+      "1006": {
+            "primary-camera": "2-mp"
+      },
+      "1007": {
+            "primary-camera": "1.9-mp"
+      },
+      "1008": {
+            "primary-camera": "1.3-mp"
+      },
+      "1009": {
+            "primary-camera": "1-mp"
+      },
+      "1010": {
+            "primary-camera": "5-mp"
+      },
+      "1011": {
+            "primary-camera": "0.3-mp"
+      },
+      "1012": {
+            "primary-camera": "0.8-mp"
+      },
+      "1013": {
+            "primary-camera": "3-mp"
+      },
+      "1014": {
+            "primary-camera": "1.5-mp"
+      },
+      "1015": {
+            "ram": "512-mb"
+      },
+      "1016": {
+            "ram": "2-gb"
+      },
+      "1017": {
+            "ram": "1-gb"
+      },
+      "1018": {
+            "ram": "8-gb"
+      },
+      "1019": {
+            "ram": "128-mb"
+      },
+      "1020": {
+            "ram": "768-mb"
+      },
+      "1021": {
+            "ram": "512mb"
+      },
+      "1022": "digital",
+      "1023": {
+            "rechargeable-battery": "yes"
+      },
+      "1024": {
+            "scratch-resistant": "yes"
+      },
+      "1025": {
+            "scratch-resistant": "no"
+      },
+      "1026": {
+            "sensor": "g-sensor"
+      },
+      "1027": {
+            "sensor": "accelerometer,-gyroscope"
+      },
+      "1028": {
+            "sensor": "v2"
+      },
+      "1029": {
+            "sensor": "na"
+      },
+      "1030": {
+            "sensor": "pedometer"
+      },
+      "1031": {
+            "sensor": "g.sensor-sleep-monitor-pedometer"
+      },
+      "1032": {
+            "sensor": "gyroscope"
+      },
+      "1033": {
+            "sensor": "proximity-sensor"
+      },
+      "1034": {
+            "sensor": "yes"
+      },
+      "1035": {
+            "sensor": "motion"
+      },
+      "1036": {
+            "sensor": "accelerometer,-heart-rate-sensor"
+      },
+      "1037": {
+            "sensor": "accelerometer,-g-sensor,-finger"
+      },
+      "1038": {
+            "sensor": "accelerometer"
+      },
+      "1039": {
+            "sensor": "g--sensor"
+      },
+      "1040": {
+            "sensor": "sleep-monitor"
+      },
+      "1041": {
+            "sensor": "g-sensor,-proximity"
+      },
+      "1042": {
+            "sensor": "hs6620d"
+      },
+      "1043": {
+            "sensor": "sleep-moniter,-pedometer"
+      },
+      "1044": {
+            "sensor": "proximity"
+      },
+      "1045": {
+            "sensor": "bluetooth,-gps,-sim,-memory-card"
+      },
+      "1046": {
+            "sensor": "g-sensor-finger-sensor"
+      },
+      "1047": {
+            "sensor": "yes,-g-sensor,-gesture-function"
+      },
+      "1048": {
+            "sensor": "health-monitor"
+      },
+      "1049": {
+            "sensor": "cmos"
+      },
+      "1050": {
+            "sensor": "g-sensor,-pedometer"
+      },
+      "1051": {
+            "sensor": "gyrsocope"
+      },
+      "1052": {
+            "sensor": "ir"
+      },
+      "1053": {
+            "sensor": "3-axis-sensor"
+      },
+      "1054": {
+            "sensor": "no"
+      },
+      "1055": {
+            "sensor": "pedometer,-anti-lost"
+      },
+      "1056": {
+            "sensor": "pedometer,-sleep-moniter"
+      },
+      "1057": {
+            "sensor": "pedometer,gyrometer"
+      },
+      "1058": {
+            "sensor": "gyroscope,-pedometer"
+      },
+      "1059": {
+            "sensor": "bluetooth-sensor"
+      },
+      "1060": {
+            "size": "free"
+      },
+      "1061": {
+            "size": "regular"
+      },
+      "1062": {
+            "size": "free-size"
+      },
+      "1063": {
+            "size": "standard"
+      },
+      "1064": {
+            "size": "20"
+      },
+      "1065": {
+            "size": "universal-fit"
+      },
+      "1066": {
+            "size": "16---21.5-cm"
+      },
+      "1067": {
+            "size": "large"
+      },
+      "1068": {
+            "size": "full"
+      },
+      "1069": {
+            "size": "medium"
+      },
+      "1070": {
+            "size": "42/44-mm"
+      },
+      "1071": {
+            "size": "35.5mm"
+      },
+      "1072": {
+            "size": "124"
+      },
+      "1073": {
+            "size": "10mm"
+      },
+      "1074": {
+            "size": "m"
+      },
+      "1075": {
+            "size": "xl"
+      },
+      "1076": {
+            "size": "flexible"
+      },
+      "1077": {
+            "size": "universal"
+      },
+      "1078": {
+            "size": "42mm/44mm"
+      },
+      "1079": {
+            "size": "reguler"
+      },
+      "1080": {
+            "size": "14-cm"
+      },
+      "1081": {
+            "size": "adjustable"
+      },
+      "1082": {
+            "size": "freen-size"
+      },
+      "1083": {
+            "size": "one-size"
+      },
+      "1084": {
+            "size": "large-6.5\"\u20137.7\"-16.5-cm\u201319.6-cm"
+      },
+      "1085": {
+            "speaker": "yes"
+      },
+      "1086": {
+            "speaker": "1speaker"
+      },
+      "1087": {
+            "speaker": "no"
+      },
+      "1088": {
+            "speaker": "yes-1-speaker"
+      },
+      "1089": {
+            "speaker": "built-in-speaker"
+      },
+      "1090": {
+            "speaker": "1"
+      },
+      "1091": {
+            "speaker": "1-inbuilt-speaker"
+      },
+      "1092": {
+            "speaker": "na"
+      },
+      "1093": {
+            "speaker": "1-speaker"
+      },
+      "1094": {
+            "speaker": "65-db"
+      },
+      "1095": {
+            "speaker": "1-speakers"
+      },
+      "1096": {
+            "speaker-volume": "98-db"
+      },
+      "1097": {
+            "speaker-volume": "65-db"
+      },
+      "1098": {
+            "speaker-volume": "95-db"
+      },
+      "1099": {
+            "speaker-volume": "no-db"
+      },
+      "1100": {
+            "speaker-volume": "97-db"
+      },
+      "1101": {
+            "speaker-volume": "low:-92-db"
+      },
+      "1102": {
+            "speaker-volume": "97-db-db"
+      },
+      "1103": {
+            "speaker-volume": "92-db"
+      },
+      "1104": {
+            "speaker-volume": "120-db"
+      },
+      "1105": {
+            "speaker-volume": "100-db"
+      },
+      "1106": {
+            "speaker-volume": "10-db"
+      },
+      "1107": {
+            "speaker-volume": "98db-db"
+      },
+      "1108": {
+            "speaker-volume": "na-db"
+      },
+      "1109": {
+            "speaker-volume": "low--medium-high-db-db"
+      },
+      "1110": {
+            "speaker-volume": "n/a-db"
+      },
+      "1111": {
+            "speaker-volume": "medium:-100-db"
+      },
+      "1112": {
+            "stand-by-time": "72-hr"
+      },
+      "1113": {
+            "stand-by-time": "60-hr"
+      },
+      "1114": {
+            "stand-by-time": "5-hr"
+      },
+      "1115": {
+            "stand-by-time": "180-hr"
+      },
+      "1116": {
+            "stand-by-time": "48-hr"
+      },
+      "1117": {
+            "stand-by-time": "2160-hrs"
+      },
+      "1118": {
+            "stand-by-time": "24-hr"
+      },
+      "1119": {
+            "stand-by-time": "8-hr"
+      },
+      "1120": {
+            "stand-by-time": "18-hr"
+      },
+      "1121": {
+            "stand-by-time": "160-hr"
+      },
+      "1122": {
+            "stand-by-time": "240-hrs"
+      },
+      "1123": {
+            "stand-by-time": "720-hr"
+      },
+      "1124": {
+            "stand-by-time": "28-hr"
+      },
+      "1125": {
+            "stand-by-time": "2-hr"
+      },
+      "1126": {
+            "stand-by-time": "6-hr"
+      },
+      "1127": {
+            "stand-by-time": "12-hr"
+      },
+      "1128": {
+            "stand-by-time": "7-hr"
+      },
+      "1129": {
+            "stand-by-time": "120-hr"
+      },
+      "1130": {
+            "stand-by-time": "10-hr"
+      },
+      "1131": {
+            "stand-by-time": "90-hr"
+      },
+      "1132": {
+            "stand-by-time": "40-hr"
+      },
+      "1133": {
+            "stand-by-time": "36-hr"
+      },
+      "1134": {
+            "stand-by-time": "50-hr"
+      },
+      "1135": {
+            "step-count": "yes"
+      },
+      "1136": {
+            "step-count": "no"
+      },
+      "1137": "silicone",
+      "1138": "health,-lifestyle",
+      "1139": {
+            "supported-audio-format": "mp3"
+      },
+      "1140": {
+            "supported-audio-format": "music-format:-mp3,-wav"
+      },
+      "1141": {
+            "supported-audio-format": "mp3,-wav"
+      },
+      "1142": {
+            "supported-audio-format": "mp3,-wave"
+      },
+      "1143": {
+            "supported-audio-format": "yes"
+      },
+      "1144": {
+            "supported-audio-format": "mp3/mp4"
+      },
+      "1145": {
+            "supported-audio-format": "n/a"
+      },
+      "1146": {
+            "supported-audio-format": "mp3,-mp4"
+      },
+      "1147": {
+            "supported-video-format": "mp4"
+      },
+      "1148": {
+            "supported-video-format": "video-format:-mp4"
+      },
+      "1149": {
+            "supported-video-format": "na"
+      },
+      "1150": {
+            "supported-video-format": "no"
+      },
+      "1151": {
+            "supported-video-format": "3gp"
+      },
+      "1152": {
+            "supported-video-format": "n/a"
+      },
+      "1153": {
+            "supported-video-format": "mp860"
+      },
+      "1154": {
+            "supported-video-format": "mp3"
+      },
+      "1155": {
+            "talk-time": "4-hr"
+      },
+      "1156": {
+            "talk-time": "20-hr"
+      },
+      "1157": {
+            "talk-time": "1-hr"
+      },
+      "1158": {
+            "talk-time": "120-hr"
+      },
+      "1159": {
+            "talk-time": "6-hr"
+      },
+      "1160": {
+            "talk-time": "3-hr"
+      },
+      "1161": {
+            "talk-time": "10-hr"
+      },
+      "1162": {
+            "talk-time": "72-hrs"
+      },
+      "1163": {
+            "talk-time": "72-hr"
+      },
+      "1164": {
+            "talk-time": "24-hr"
+      },
+      "1165": {
+            "talk-time": "2-hr"
+      },
+      "1166": {
+            "talk-time": "36-hr"
+      },
+      "1167": {
+            "talk-time": "12-hr"
+      },
+      "1168": {
+            "talk-time": "5-hr"
+      },
+      "1169": {
+            "talk-time": "8-hr"
+      },
+      "1170": {
+            "talk-time": "8.5-hr"
+      },
+      "1171": {
+            "talk-time": "48-hr"
+      },
+      "1172": {
+            "third-party-app-support": "no"
+      },
+      "1173": {
+            "third-party-app-support": "not-supported"
+      },
+      "1174": {
+            "third-party-app-support": "available"
+      },
+      "1175": {
+            "third-party-app-support": "limited-support"
+      },
+      "1176": {
+            "third-party-app-support": "na"
+      },
+      "1177": {
+            "third-party-app-support": "yes"
+      },
+      "1178": {
+            "third-party-app-support": "not-available"
+      },
+      "1179": {
+            "third-party-app-support": "n/a"
+      },
+      "1180": {
+            "third-party-app-support": "facebook,-whatsapp"
+      },
+      "1181": {
+            "third-party-app-support": "not"
+      },
+      "1182": {
+            "third-party-app-support": "bluetooth-required"
+      },
+      "1183": {
+            "touch-enabled": "yes"
+      },
+      "1184": {
+            "touch-enabled": "no"
+      },
+      "1185": {
+            "touchscreen": "yes"
+      },
+      "1186": {
+            "touchscreen": "no"
+      },
+      "1187": {
+            "video-features": "yes"
+      },
+      "1188": {
+            "video-features": "na"
+      },
+      "1189": {
+            "video-features": "video-recorder,-video-player"
+      },
+      "1190": {
+            "video-features": "no"
+      },
+      "1191": {
+            "video-features": "recording"
+      },
+      "1192": {
+            "video-features": "recording-and-playback"
+      },
+      "1193": {
+            "video-features": "video-recording"
+      },
+      "1194": {
+            "video-features": "video-player,"
+      },
+      "1195": {
+            "voice-control": "yes"
+      },
+      "1196": {
+            "voice-control": "no"
+      },
+      "1197": {
+            "voice-control": "make-calls"
+      },
+      "1198": {
+            "warranty-summary": "10-days-replacement-warranty"
+      },
+      "1199": {
+            "warranty-summary": "1-year-manufacturer-warranty"
+      },
+      "1200": {
+            "warranty-summary": "na"
+      },
+      "1201": {
+            "warranty-summary": "12-month"
+      },
+      "1202": {
+            "warranty-summary": "1-month-replacement-warranty"
+      },
+      "1203": {
+            "warranty-summary": "1-year-warranty"
+      },
+      "1204": {
+            "warranty-summary": "1-year-domestic-warranty"
+      },
+      "1205": {
+            "warranty-summary": "10-days-replacement"
+      },
+      "1206": {
+            "warranty-summary": "6-months-warranty"
+      },
+      "1207": {
+            "warranty-summary": "6-months-manufacturer-warranty"
+      },
+      "1208": {
+            "warranty-summary": "1-month-warranty"
+      },
+      "1209": {
+            "warranty-summary": "10-days-replacement-policy"
+      },
+      "1210": {
+            "warranty-summary": "1"
+      },
+      "1211": {
+            "warranty-summary": "n/a"
+      },
+      "1212": {
+            "warranty-summary": "1-month-manufacture-warranty"
+      },
+      "1213": {
+            "warranty-summary": "1-month-from-delivery"
+      },
+      "1214": {
+            "warranty-summary": "1-year"
+      },
+      "1215": {
+            "warranty-summary": "2-years-manufacturer-warranty"
+      },
+      "1216": {
+            "warranty-summary": "6-months-trubasket-warranty"
+      },
+      "1217": {
+            "warranty-summary": "manufacturer-warranty-only"
+      },
+      "1218": {
+            "warranty-summary": "off-site"
+      },
+      "1219": {
+            "warranty-summary": "ten-days-replacement-warranty"
+      },
+      "1220": {
+            "warranty-summary": "2-year"
+      },
+      "1221": {
+            "warranty-summary": "limited-to-manufacturing-defects"
+      },
+      "1222": {
+            "warranty-summary": "10-day-manufacturer-warranty"
+      },
+      "1223": {
+            "warranty-summary": "1-year-carry-in-warranty"
+      },
+      "1224": {
+            "warranty-summary": "no-warranty"
+      },
+      "1225": {
+            "warranty-summary": "6-month-manufacturer-warranty"
+      },
+      "1226": {
+            "warranty-summary": "1-months-manufacturer-warranty"
+      },
+      "1227": {
+            "warranty-summary": "replacement-warranty"
+      },
+      "1228": {
+            "warranty-summary": "2-years-warranty"
+      },
+      "1229": {
+            "warranty-summary": "no"
+      },
+      "1230": {
+            "warranty-summary": "3-months-warranty"
+      },
+      "1231": {
+            "warranty-summary": "only-manufacturing-defect"
+      },
+      "1232": {
+            "warranty-summary": "6"
+      },
+      "1233": {
+            "warranty-summary": "6-months-on-site-warranty"
+      },
+      "1234": {
+            "warranty-summary": "10-day's-rpmsd-brand-warranty"
+      },
+      "1235": {
+            "warranty-summary": "6-months-warranty-by-trubasket"
+      },
+      "1236": {
+            "warranty-summary": "domestic"
+      },
+      "1237": {
+            "wi-fi": "no"
+      },
+      "1238": {
+            "wi-fi": "yes"
+      },
+      "1239": {
+            "activity-tracker-present": "yes"
+      },
+      "1240": {
+            "activity-tracker-present": "no"
+      },
+      "1241": {
+            "bluetooth-enabled": "yes"
+      },
+      "1242": {
+            "bluetooth-enabled": "no"
+      },
+      "1243": {
+            "certification": "ce,-eac,-rohs,-weee,-kc,-mic"
+      },
+      "1244": {
+            "certification": "ip68"
+      },
+      "1245": {
+            "certification": "iso-9001:2008"
+      },
+      "1246": {
+            "certification": "ce-&-fcc"
+      },
+      "1247": {
+            "compatible-os": "android-&-ios"
+      },
+      "1248": {
+            "compatible-os": "android"
+      },
+      "1249": {
+            "compatible-os": "android-4.0-and-ios-7-and-above"
+      },
+      "1250": {
+            "compatible-os": "android,-ios"
+      },
+      "1251": {
+            "compatible-os": "ios9.0-and-above"
+      },
+      "1252": {
+            "compatible-os": "android-and-ios"
+      },
+      "1253": {
+            "compatible-os": "n/a"
+      },
+      "1254": {
+            "compatible-os": "all-android-&-ios-mobile-phones"
+      },
+      "1255": {
+            "compatible-os": "android-4.4,-ios-9,-windows-10"
+      },
+      "1256": {
+            "compatible-os": "version-4.1"
+      },
+      "1257": {
+            "compatible-os": "anroid"
+      },
+      "1258": {
+            "compatible-os": "all-android"
+      },
+      "1259": {
+            "compatible-os": "m4"
+      },
+      "1260": {
+            "compatible-os": "andriod-&-ios"
+      },
+      "1261": {
+            "depth": "1.26-cm"
+      },
+      "1262": {
+            "depth": "10-mm"
+      },
+      "1263": {
+            "depth": "12.5-mm"
+      },
+      "1264": {
+            "depth": "6-cm"
+      },
+      "1265": {
+            "depth": "2-cm"
+      },
+      "1266": {
+            "depth": "1.2-cm"
+      },
+      "1267": {
+            "depth": "4-cm"
+      },
+      "1268": {
+            "depth": "1-cm"
+      },
+      "1269": {
+            "depth": "5-mm"
+      },
+      "1270": {
+            "depth": "1.1-cm"
+      },
+      "1271": {
+            "depth": "4-mm"
+      },
+      "1272": {
+            "depth": "12-cm"
+      },
+      "1273": "amoled",
+      "1274": {
+            "domestic-warranty": "1-year"
+      },
+      "1275": {
+            "domestic-warranty": "6-months"
+      },
+      "1276": {
+            "domestic-warranty": "3-months"
+      },
+      "1277": {
+            "domestic-warranty": "1-months"
+      },
+      "1278": {
+            "domestic-warranty": "0-months"
+      },
+      "1279": {
+            "domestic-warranty": "2-year"
+      },
+      "1280": {
+            "domestic-warranty": "1-month"
+      },
+      "1281": {
+            "heart-rate-monitor-present": "yes"
+      },
+      "1282": {
+            "heart-rate-monitor-present": "no"
+      },
+      "1283": {
+            "height": "4.68-cm"
+      },
+      "1284": {
+            "height": "39-mm"
+      },
+      "1285": {
+            "height": "15-mm"
+      },
+      "1286": {
+            "height": "41.6-mm"
+      },
+      "1287": {
+            "height": "10-mm"
+      },
+      "1288": {
+            "height": "41.5-mm"
+      },
+      "1289": {
+            "height": "39.5-mm"
+      },
+      "1290": {
+            "height": "35.3-mm"
+      },
+      "1291": {
+            "height": "58.5-mm"
+      },
+      "1292": {
+            "height": "56-mm"
+      },
+      "1293": {
+            "height": "43.25-mm"
+      },
+      "1294": {
+            "height": "1.3-cm"
+      },
+      "1295": {
+            "height": "57-mm"
+      },
+      "1296": {
+            "height": "42-mm"
+      },
+      "1297": {
+            "height": "3-mm"
+      },
+      "1298": {
+            "height": "36.8-mm"
+      },
+      "1299": {
+            "height": "4-cm"
+      },
+      "1300": {
+            "height": "12.2-mm"
+      },
+      "1301": {
+            "height": "7-cm"
+      },
+      "1302": {
+            "height": "4.5-cm"
+      },
+      "1303": {
+            "height": "10-cm"
+      },
+      "1304": {
+            "height": "44-mm"
+      },
+      "1305": {
+            "height": "5-mm"
+      },
+      "1306": {
+            "height": "4.6-cm"
+      },
+      "1307": {
+            "height": "4.7-cm"
+      },
+      "1308": {
+            "height": "24-mm"
+      },
+      "1309": {
+            "height": "46.8-mm"
+      },
+      "1310": {
+            "height": "5-cm"
+      },
+      "1311": {
+            "height": "35-mm"
+      },
+      "1312": {
+            "height": "45-mm"
+      },
+      "1313": {
+            "height": "43.1-mm"
+      },
+      "1314": {
+            "height": "2-mm"
+      },
+      "1315": {
+            "height": "12-mm"
+      },
+      "1316": {
+            "height": "4.2-cm"
+      },
+      "1317": {
+            "height": "7-mm"
+      },
+      "1318": {
+            "height": "9-mm"
+      },
+      "1319": {
+            "height": "200-mm"
+      },
+      "1320": {
+            "height": "12-cm"
+      },
+      "1321": {
+            "height": "11.6-mm"
+      },
+      "1322": {
+            "height": "1-cm"
+      },
+      "1323": {
+            "height": "40-mm"
+      },
+      "1324": {
+            "other-battery-features": "135-mah-lithium-polymer-battery"
+      },
+      "1325": {
+            "other-battery-features": "110-mah-battery"
+      },
+      "1326": {
+            "other-battery-features": "90-mah-battery"
+      },
+      "1327": {
+            "other-battery-features": "70-mah-battery"
+      },
+      "1328": {
+            "other-battery-features": "110-mah-li-ion-polymer-battery"
+      },
+      "1329": {
+            "other-battery-features": "decent-battery-life"
+      },
+      "1330": {
+            "other-battery-features": "usb-charging"
+      },
+      "1331": {
+            "other-battery-features": "battery-life-24-hours"
+      },
+      "1332": {
+            "other-battery-features": "rechargeable-inbuilt-battery"
+      },
+      "1333": {
+            "other-battery-features": "105-mah-battery"
+      },
+      "1334": {
+            "other-connectivity-features": "bluetooth-profile:-ble"
+      },
+      "1335": {
+            "other-connectivity-features": "bluetooth"
+      },
+      "1336": {
+            "other-connectivity-features": "call-function"
+      },
+      "1337": {
+            "other-connectivity-features": "bluetooth-profiles:-ble"
+      },
+      "1338": {
+            "other-connectivity-features": "wi-fi-(802.11b/g/n-2.4-ghz)"
+      },
+      "1339": {
+            "other-connectivity-features": "bluetooth-profiles:-ble,-br,-edr"
+      },
+      "1340": {
+            "other-connectivity-features": "wi-fi-(802.11b/g/n)-at-2.4-ghz"
+      },
+      "1341": {
+            "other-connectivity-features": "wi-fi-(802.11b/g/n)"
+      },
+      "1342": {
+            "other-connectivity-features": "bluetooth,-wireless"
+      },
+      "1343": {
+            "other-connectivity-features": "nfc,-wi-fi-(802.11b/g/n)"
+      },
+      "1344": {
+            "other-connectivity-features": "bluetooth-4.2-ble"
+      },
+      "1345": {
+            "other-connectivity-features": "na"
+      },
+      "1346": {
+            "other-connectivity-features": "syncs-wirelessly"
+      },
+      "1347": {
+            "other-connectivity-features": "n/a"
+      },
+      "1348": {
+            "service-type": "carry-in"
+      },
+      "1349": {
+            "service-type": "contact-to-brand-service-center"
+      },
+      "1350": {
+            "service-type": "repair"
+      },
+      "1351": {
+            "service-type": "off-site"
+      },
+      "1352": {
+            "service-type": "na"
+      },
+      "1353": {
+            "service-type": "1-month-replacement-warranty"
+      },
+      "1354": {
+            "service-type": "replacement"
+      },
+      "1355": {
+            "service-type": "manufacturer-warranty"
+      },
+      "1356": {
+            "service-type": "yes"
+      },
+      "1357": {
+            "service-type": "n/a"
+      },
+      "1358": {
+            "service-type": "authrised-service-center-only"
+      },
+      "1359": {
+            "service-type": "easy-replacement"
+      },
+      "1360": {
+            "service-type": "manufacturing-defect"
+      },
+      "1361": {
+            "service-type": "off-site-warranty"
+      },
+      "1362": {
+            "service-type": "replacement-warranty"
+      },
+      "1363": {
+            "service-type": "manufacturing-defects-only"
+      },
+      "1364": {
+            "service-type": "service@brandzstorm.com"
+      },
+      "1365": {
+            "service-type": "offsite"
+      },
+      "1366": {
+            "shock-resistant": "no"
+      },
+      "1367": {
+            "shock-resistant": "yes"
+      },
+      "1368": {
+            "supported-apps": "mi-fit"
+      },
+      "1369": {
+            "supported-apps": "realme-link-app"
+      },
+      "1370": {
+            "supported-apps": "samsung-health-app"
+      },
+      "1371": {
+            "supported-apps": "huawei-health-app"
+      },
+      "1372": {
+            "supported-apps": "sf-rush-app"
+      },
+      "1373": {
+            "supported-apps": "yoho-sports"
+      },
+      "1374": {
+            "supported-apps": "flagfit-2.0"
+      },
+      "1375": {
+            "supported-apps": "infinix-life-2.0"
+      },
+      "1376": {
+            "supported-apps": "fitpro"
+      },
+      "1377": {
+            "supported-apps": "jyou"
+      },
+      "1378": {
+            "supported-apps": "youband"
+      },
+      "1379": {
+            "water-resistant-depth": "50-m"
+      },
+      "1380": {
+            "water-resistant-depth": "30-m"
+      },
+      "1381": {
+            "water-resistant-depth": "1.5-m"
+      },
+      "1382": {
+            "water-resistant-depth": "1-m"
+      },
+      "1383": {
+            "water-resistant-depth": "10-m"
+      },
+      "1384": {
+            "weight": "22.1-g"
+      },
+      "1385": {
+            "weight": "33-g"
+      },
+      "1386": {
+            "weight": "75-g"
+      },
+      "1387": {
+            "weight": "38.2-g"
+      },
+      "1388": {
+            "weight": "20-g"
+      },
+      "1389": {
+            "weight": "55-g"
+      },
+      "1390": {
+            "weight": "15-g"
+      },
+      "1391": {
+            "weight": "0.35-g"
+      },
+      "1392": {
+            "weight": "22.7-g"
+      },
+      "1393": {
+            "weight": "38-g"
+      },
+      "1394": {
+            "weight": "18-g"
+      },
+      "1395": {
+            "weight": "12-g"
+      },
+      "1396": {
+            "weight": "150-g"
+      },
+      "1397": {
+            "weight": "70-g"
+      },
+      "1398": {
+            "weight": "31-g"
+      },
+      "1399": {
+            "weight": "100-g"
+      },
+      "1400": {
+            "weight": "80-g"
+      },
+      "1401": {
+            "weight": "38.7-g"
+      },
+      "1402": {
+            "weight": "120-g"
+      },
+      "1403": {
+            "weight": "58-g"
+      },
+      "1404": {
+            "weight": "22-g"
+      },
+      "1405": {
+            "weight": "24.2-g"
+      },
+      "1406": {
+            "weight": "41-g"
+      },
+      "1407": {
+            "weight": "43-g"
+      },
+      "1408": {
+            "weight": "90-g"
+      },
+      "1409": {
+            "weight": "200-g"
+      },
+      "1410": {
+            "weight": "34.9-g"
+      },
+      "1411": {
+            "weight": "50-g"
+      },
+      "1412": {
+            "weight": "73.8-g"
+      },
+      "1413": {
+            "weight": "26.4-g"
+      },
+      "1414": {
+            "weight": "4-g"
+      },
+      "1415": {
+            "weight": "0.196-g"
+      },
+      "1416": {
+            "weight": "63-g"
+      },
+      "1417": {
+            "weight": "30-g"
+      },
+      "1418": {
+            "weight": "40-g"
+      },
+      "1419": {
+            "weight": "32-g"
+      },
+      "1420": {
+            "weight": "10-g"
+      },
+      "1421": {
+            "weight": "37-g"
+      },
+      "1422": {
+            "weight": "25-g"
+      },
+      "1423": {
+            "weight": "23-g"
+      },
+      "1424": {
+            "weight": "7-g"
+      },
+      "1425": {
+            "weight": "71-g"
+      },
+      "1426": {
+            "weight": "42-g"
+      },
+      "1427": {
+            "weight": "39-g"
+      },
+      "1428": {
+            "weight": "36-g"
+      },
+      "1429": {
+            "weight": "0.1-g"
+      },
+      "1430": {
+            "weight": "500-g"
+      },
+      "1431": {
+            "weight": "62-g"
+      },
+      "1432": {
+            "weight": "12.39-g"
+      },
+      "1433": {
+            "weight": "0.5-g"
+      },
+      "1434": {
+            "weight": "81.6-g"
+      },
+      "1435": {
+            "weight": "400-g"
+      },
+      "1436": {
+            "weight": "35-g"
+      },
+      "1437": {
+            "weight": "54-g"
+      },
+      "1438": {
+            "weight": "65-g"
+      },
+      "1439": {
+            "width": "1.78-cm"
+      },
+      "1440": {
+            "width": "58-mm"
+      },
+      "1441": {
+            "width": "10-mm"
+      },
+      "1442": {
+            "width": "5-cm"
+      },
+      "1443": {
+            "width": "37-mm"
+      },
+      "1444": {
+            "width": "3.5-mm"
+      },
+      "1445": {
+            "width": "10-cm"
+      },
+      "1446": {
+            "width": "35-mm"
+      },
+      "1447": {
+            "width": "58.5-mm"
+      },
+      "1448": {
+            "width": "42-mm"
+      },
+      "1449": {
+            "width": "1.85-inch"
+      },
+      "1450": {
+            "width": "8-cm"
+      },
+      "1451": {
+            "width": "18.5-mm"
+      },
+      "1452": {
+            "width": "1-inch"
+      },
+      "1453": {
+            "width": "36.25-mm"
+      },
+      "1454": {
+            "width": "30-mm"
+      },
+      "1455": {
+            "width": "3.5-cm"
+      },
+      "1456": {
+            "width": "44-mm"
+      },
+      "1457": {
+            "width": "54-mm"
+      },
+      "1458": {
+            "width": "78-mm"
+      },
+      "1459": {
+            "width": "36.4-mm"
+      },
+      "1460": {
+            "width": "46-mm"
+      },
+      "1461": {
+            "width": "5-mm"
+      },
+      "1462": {
+            "width": "56.6-mm"
+      },
+      "1463": {
+            "width": "19.4-mm"
+      },
+      "1464": {
+            "width": "11-mm"
+      },
+      "1465": {
+            "width": "9-cm"
+      },
+      "1466": {
+            "width": "1.6-cm"
+      },
+      "1467": {
+            "width": "15-cm"
+      },
+      "1468": {
+            "width": "2-cm"
+      },
+      "1469": {
+            "width": "1.8-cm"
+      },
+      "1470": {
+            "width": "1-cm"
+      },
+      "1471": {
+            "width": "24-mm"
+      },
+      "1472": {
+            "width": "53-mm"
+      },
+      "1473": {
+            "width": "38-mm"
+      },
+      "1474": {
+            "width": "0.5-inch"
+      },
+      "1475": {
+            "width": "3-cm"
+      },
+      "1476": {
+            "width": "8-mm"
+      },
+      "1477": {
+            "width": "40-mm"
+      },
+      "1478": {
+            "width": "2.6-cm"
+      },
+      "1479": {
+            "width": "7-mm"
+      },
+      "1480": {
+            "width": "1.7-cm"
+      },
+      "1481": {
+            "width": "4-cm"
+      },
+      "1482": {
+            "width": "12-mm"
+      },
+      "1483": {
+            "width": "44.9-mm"
+      },
+      "1484": {
+            "width": "5-inch"
+      },
+      "1485": {
+            "width": "35.7-mm"
+      },
+      "1486": {
+            "width": "43.5-mm"
+      },
+      "1487": {
+            "wifi-enabled": "no"
+      },
+      "1488": {
+            "wifi-enabled": "yes"
+      },
+      "1489": {
+            "wireless-options": "sync-wirelessly"
+      },
+      "1490": {
+            "wireless-options": "bluetooth"
+      },
+      "1491": {
+            "wireless-options": "bluetooth-version-4.1"
+      },
+      "1492": {
+            "wireless-options": "n/a"
+      },
+      "1493": {
+            "closure": "strap-buckle"
+      },
+      "1494": {
+            "closure": "clasp"
+      },
+      "1495": {
+            "closure": "rubber-strap-clip-on"
+      },
+      "1496": {
+            "closure": "metal-clasp"
+      },
+      "1497": {
+            "closure": "na"
+      },
+      "1498": {
+            "closure": "clip-on"
+      },
+      "1499": {
+            "closure": "strap-on"
+      },
+      "1500": {
+            "closure": "clip--on"
+      },
+      "1501": {
+            "closure": "stainless-steel-buckle"
+      },
+      "1502": {
+            "closure": "buckle-clasp"
+      },
+      "1503": {
+            "closure": "clipon"
+      },
+      "1504": {
+            "closure": "milanese-loop"
+      },
+      "1505": {
+            "closure": "fold-over-clasp"
+      },
+      "1506": {
+            "closure": "n/a"
+      },
+      "1507": {
+            "closure": "rubber-strap-on"
+      },
+      "1508": {
+            "closure": "buckle"
+      },
+      "1509": {
+            "closure": "gold"
+      },
+      "1510": {
+            "closure": "hook"
+      },
+      "1511": {
+            "closure": "buckle-closure"
+      },
+      "1512": {
+            "closure": "100"
+      },
+      "1513": {
+            "closure": "safety-mesh-buckle"
+      },
+      "1514": {
+            "compatible-operating-system": "android"
+      },
+      "1515": {
+            "compatible-operating-system": "android-and-ios"
+      },
+      "1516": {
+            "compatible-operating-system": "android-&-ios"
+      },
+      "1517": {
+            "compatible-operating-system": "ios-10-and-above"
+      },
+      "1518": {
+            "compatible-operating-system": "android-2.2-and-above"
+      },
+      "1519": {
+            "compatible-operating-system": "android-2.3"
+      },
+      "1520": {
+            "compatible-operating-system": "ios"
+      },
+      "1521": {
+            "compatible-operating-system": "android,-ios-&-windows"
+      },
+      "1522": {
+            "compatible-operating-system": "ios-11.3-and-later"
+      },
+      "1523": {
+            "compatible-operating-system": "all-devies"
+      },
+      "1524": {
+            "compatible-operating-system": "android,-ios(limited-functions)"
+      },
+      "1525": {
+            "compatible-operating-system": "android-and-ios-systems"
+      },
+      "1526": {
+            "compatible-operating-system": "android-wear"
+      },
+      "1527": {
+            "compatible-operating-system": "android/ios"
+      },
+      "1528": {
+            "compatible-operating-system": "android-4.3"
+      },
+      "1529": {
+            "compatible-operating-system": "ios,-android"
+      },
+      "1530": "square",
+      "1531": "lcd",
+      "1532": "men-&-women",
+      "1533": "english",
+      "1534": {
+            "notification-type": "vibration"
+      },
+      "1535": {
+            "notification-type": "viberation"
+      },
+      "1536": {
+            "notification-type": "ring,-vibration"
+      },
+      "1537": {
+            "notification-type": "ring,-vibration,-ring+vibration"
+      },
+      "1538": {
+            "notification-type": "ringer,-vibration"
+      },
+      "1539": {
+            "notification-type": "vibration,ringing"
+      },
+      "1540": {
+            "notification-type": "ring-/-vibration,-ring"
+      },
+      "1541": {
+            "notification-type": "ringer-&-vibration"
+      },
+      "1542": {
+            "notification-type": "ringer,-ringer+vibration"
+      },
+      "1543": {
+            "notification-type": "ringer,vibration"
+      },
+      "1544": {
+            "notification-type": "ringer,-ringer-+vibration"
+      },
+      "1545": {
+            "notification-type": "you-can-reply-with-the-watch"
+      },
+      "1546": {
+            "notification-type": "vibration&ringer"
+      },
+      "1547": {
+            "notification-type": "yes"
+      },
+      "1548": {
+            "notification-type": "ringing"
+      },
+      "1549": {
+            "notification-type": "ring"
+      },
+      "1550": {
+            "notification-type": "vibration-and-ring"
+      },
+      "1551": {
+            "notification-type": "n/a"
+      },
+      "1552": {
+            "notification-type": "ring-+-vibrate"
+      },
+      "1553": {
+            "notification-type": "ringer&viberate"
+      },
+      "1554": {
+            "notification-type": "ring-/-vibration"
+      },
+      "1555": {
+            "other-display-features": "color-lcd-display"
+      },
+      "1556": {
+            "other-display-features": "3-clock-designs"
+      },
+      "1557": {
+            "other-display-features": "0.96-inch-tft-lcd-color-display"
+      },
+      "1558": {
+            "other-display-features": "0.74-inch-pmoled-display"
+      },
+      "1559": {
+            "other-display-features": "0.78-inch-oled-display"
+      },
+      "1560": {
+            "other-display-features": "amoled-color-display"
+      },
+      "1561": {
+            "other-display-features": "2.5d-corning-gorilla-glass"
+      },
+      "1562": {
+            "other-display-features": "hd-display"
+      },
+      "1563": {
+            "other-display-features": "0.96-inch-color-touch-display"
+      },
+      "1564": {
+            "other-display-features": "color-amoled-display"
+      },
+      "1565": {
+            "other-display-features": "call-control"
+      },
+      "1566": {
+            "other-display-features": "touchscreen"
+      },
+      "1567": {
+            "other-display-features": "ion-x-strengthened-glass"
+      },
+      "1568": {
+            "other-display-features": "0.96''tft,-hd-color-screen"
+      },
+      "1569": {
+            "other-display-features": "oled-display"
+      },
+      "1570": {
+            "other-display-features": "detachable-20mm-strap"
+      },
+      "1571": {
+            "other-display-features": "lcd-color-display"
+      },
+      "1572": {
+            "other-display-features": "transflective-screen"
+      },
+      "1573": {
+            "other-display-features": "n/a"
+      },
+      "1574": {
+            "other-display-features": "massages,-calling,-pedometer"
+      },
+      "1575": {
+            "other-display-features": "3-clock-design"
+      },
+      "1576": {
+            "other-features": "ip-68-water-resistant"
+      },
+      "1577": {
+            "other-features": "210-mah-li-polymer-battery"
+      },
+      "1578": {
+            "other-features": "noise-cancellation,-clear-vioce"
+      },
+      "1579": {
+            "other-features": "160-mah-lithium-polymer-battery"
+      },
+      "1580": {
+            "other-features": "swappable-watch-straps"
+      },
+      "1581": {
+            "other-features": "smart-notifications"
+      },
+      "1582": {
+            "other-features": "self-healing"
+      },
+      "1583": {
+            "other-features": "call-control"
+      },
+      "1584": {
+            "other-features": "huawei-trusleep-2.0"
+      },
+      "1585": {
+            "other-features": "130-mah-lithium-polymer-battery"
+      },
+      "1586": {
+            "other-features": "interchangeable-watch-band"
+      },
+      "1587": {
+            "other-features": "lightweight-design,-fitbit-pay"
+      },
+      "1588": {
+            "other-features": "n/a"
+      },
+      "1589": "thermo-plastic-polyurethene",
+      "1590": {
+            "warranty-service-type": "carry-in"
+      },
+      "1591": {
+            "warranty-service-type": "replacement"
+      },
+      "1592": {
+            "warranty-service-type": "na"
+      },
+      "1593": {
+            "warranty-service-type": "repair,-replacement"
+      },
+      "1594": {
+            "warranty-service-type": "manufacturing-warranty"
+      },
+      "1595": {
+            "warranty-service-type": "10-days-replacement-policy"
+      },
+      "1596": {
+            "warranty-service-type": "replacement-10-day"
+      },
+      "1597": {
+            "warranty-service-type": "repair"
+      },
+      "1598": {
+            "warranty-service-type": "10-days-replacement"
+      },
+      "1599": {
+            "warranty-service-type": "contact-to-brand-service-center"
+      },
+      "1600": {
+            "warranty-service-type": "off-site"
+      },
+      "1601": {
+            "warranty-service-type": "manufacture-defect,offsite"
+      },
+      "1602": {
+            "warranty-service-type": "n/a"
+      },
+      "1603": {
+            "warranty-service-type": "seller"
+      },
+      "1604": {
+            "warranty-service-type": "repair-or-replacement"
+      },
+      "1605": {
+            "warranty-service-type": "carry-in-warrany"
+      },
+      "1606": {
+            "water-resistance-depth": "1.5-m"
+      },
+      "1607": {
+            "water-resistance-depth": "50-m"
+      },
+      "1608": {
+            "water-resistance-depth": "100-m"
+      },
+      "1609": {
+            "water-resistance-depth": "0-m"
+      },
+      "1610": {
+            "water-resistance-depth": "30-m"
+      },
+      "1611": {
+            "water-resistance-depth": "-3-m"
+      },
+      "1612": {
+            "water-resistance-depth": "3-m"
+      },
+      "1613": {
+            "water-resistance-depth": "5-m"
+      },
+      "1614": {
+            "water-resistance-depth": "10-m"
+      },
+      "1615": {
+            "water-resistance-depth": "180-m"
+      },
+      "1616": {
+            "call-features": "accept/-reject-calls"
+      },
+      "1617": {
+            "call-features": "accept/-reject-calls,-gsm"
+      },
+      "1618": {
+            "call-features": "yes"
+      },
+      "1619": {
+            "call-features": "make-and-receive-phone-calls"
+      },
+      "1620": {
+            "call-features": "all"
+      },
+      "1621": {
+            "call-features": "answer,-can-talk-with-the-watch"
+      },
+      "1622": {
+            "call-features": "mute-call,reject-call,take-call"
+      },
+      "1623": {
+            "call-features": "call-notification"
+      },
+      "1624": {
+            "call-features": "with-call-function"
+      },
+      "1625": {
+            "call-features": "making-calls"
+      },
+      "1626": {
+            "call-features": "answer-and-reject-calls"
+      },
+      "1627": {
+            "compatible-devices": "iphone,-android-phones"
+      },
+      "1628": {
+            "compatible-devices": "android-5.0-or-above"
+      },
+      "1629": {
+            "compatible-devices": "android,-ios"
+      },
+      "1630": {
+            "compatible-devices": "n/a"
+      },
+      "1631": {
+            "compatible-devices": "all-devices"
+      },
+      "1632": {
+            "compatible-devices": "mobiles,-tablets,-laptops"
+      },
+      "1633": {
+            "compatible-devices": "ios,-android"
+      },
+      "1634": {
+            "compatible-devices": "all-smartphones"
+      },
+      "1635": {
+            "compatible-devices": "all-smart-phones"
+      },
+      "1636": {
+            "compatible-devices": "mobile,-laptop"
+      },
+      "1637": {
+            "compatible-devices": "mobiles"
+      },
+      "1638": {
+            "compatible-devices": "android-mobiles,-apple-ios"
+      },
+      "1639": {
+            "compatible-devices": "android-phones"
+      },
+      "1640": {
+            "compatible-devices": "android-and-ios"
+      },
+      "1641": "plastic",
+      "1642": "ultra-hd",
+      "1643": {
+            "hd-recording": "full-hd"
+      },
+      "1644": {
+            "hd-recording": "yes"
+      },
+      "1645": {
+            "hd-recording": "no"
+      },
+      "1646": {
+            "hd-recording": "na"
+      },
+      "1647": {
+            "hd-recording": "n/a"
+      },
+      "1648": {
+            "other-camera-features": "auto-focus,-sound-&-shot"
+      },
+      "1649": {
+            "other-camera-features": "click-pictures-,video-recording"
+      },
+      "1650": {
+            "other-camera-features": "accelerometer,-gyroscope"
+      },
+      "1651": {
+            "other-camera-features": "high-quality-picture"
+      },
+      "1652": {
+            "other-camera-features": "camera-control"
+      },
+      "1653": {
+            "other-camera-features": "remote-camera,video-recording"
+      },
+      "1654": {
+            "other-camera-features": "auto-focus,-remote-camera"
+      },
+      "1655": {
+            "other-camera-features": "na"
+      },
+      "1656": {
+            "other-camera-features": "recording-and-photographing"
+      },
+      "1657": {
+            "other-camera-features": "video-recording"
+      },
+      "1658": {
+            "other-camera-features": "auto-focus"
+      },
+      "1659": {
+            "other-camera-features": "yes"
+      },
+      "1660": {
+            "other-camera-features": "remote-camera,-video-recording"
+      },
+      "1661": {
+            "processor-name": "snapdragon"
+      },
+      "1662": {
+            "processor-name": "mtk6260a-533-mhz-cpu"
+      },
+      "1663": {
+            "processor-name": "android"
+      },
+      "1664": {
+            "processor-name": "nordic-nrf52832"
+      },
+      "1665": {
+            "processor-name": "s3"
+      },
+      "1666": {
+            "processor-name": "mtk6260"
+      },
+      "1667": {
+            "processor-name": "kirin-a1"
+      },
+      "1668": {
+            "processor-name": "kirin-a1-chip"
+      },
+      "1669": {
+            "processor-name": "s3-dual-core-processor"
+      },
+      "1670": {
+            "processor-name": "mtk6261"
+      },
+      "1671": {
+            "processor-name": "androide"
+      },
+      "1672": {
+            "processor-name": "fun-touch"
+      },
+      "1673": {
+            "processor-name": "qualcomm-snapdragon-wear-3100"
+      },
+      "1674": {
+            "processor-name": "exynos-9110-dual-core-processor"
+      },
+      "1675": {
+            "processor-name": "mtk6261d"
+      },
+      "1676": {
+            "processor-name": "mtk6260a-533-mhz-cpud"
+      },
+      "1677": {
+            "processor-name": "quallcomm-snapdragon-3100"
+      },
+      "1678": {
+            "processor-name": "mtk6260a"
+      },
+      "1679": {
+            "processor-name": "nordic-52832"
+      },
+      "1680": {
+            "processor-name": "qualcomm-snapdragon-wear-2100"
+      },
+      "1681": {
+            "processor-name": "533"
+      },
+      "1682": {
+            "processor-name": "n/a"
+      },
+      "1683": {
+            "processor-name": "nordic-nrf52840"
+      },
+      "1684": {
+            "processor-name": "mtk6261-/amr7"
+      },
+      "1685": "rubber",
+      "1686": {
+            "backlight-present": "yes"
+      },
+      "1687": {
+            "connectivity-range": "10-m"
+      },
+      "1688": {
+            "connectivity-range": "100-m"
+      },
+      "1689": "oled",
+      "1690": {
+            "other-dimensions": "dimensions:-4.68-x-1.81-x-1.1-cm"
+      },
+      "1691": {
+            "other-dimensions": "10"
+      },
+      "1692": {
+            "other-dimensions": "47.5*35*11.3mm"
+      },
+      "1693": {
+            "other-dimensions": "0"
+      },
+      "1694": {
+            "other-dimensions": "45x13.2"
+      },
+      "1695": {
+            "other-dimensions": "no"
+      },
+      "1696": {
+            "other-dimensions": "17.9mm-x-46.9mm-x-12mm"
+      },
+      "1697": {
+            "other-dimensions": "na"
+      },
+      "1698": {
+            "other-dimensions": "1.8"
+      },
+      "1699": {
+            "other-dimensions": "2.09\"-x-1.76\"-x-0.51\""
+      },
+      "1700": {
+            "other-dimensions": "n/a"
+      },
+      "1701": {
+            "sensor-type": "tri-axial-acceleration-sensor"
+      },
+      "1702": {
+            "sensor-type": "accelerometer,-heart-rate-sensor"
+      },
+      "1703": {
+            "sensor-type": "accelerometer"
+      },
+      "1704": {
+            "sensor-type": "button"
+      },
+      "1705": {
+            "sensor-type": "g-sensor"
+      },
+      "1706": {
+            "sensor-type": "amo"
+      },
+      "1707": {
+            "sensor-type": "yes"
+      },
+      "1708": {
+            "sensor-type": "360"
+      },
+      "1709": {
+            "sensor-type": "reflex"
+      },
+      "1710": {
+            "sensor-type": "3"
+      },
+      "1711": {
+            "sensor-type": "heart-rate,-pedometer"
+      },
+      "1712": {
+            "sensor-type": "pedometer-sensor"
+      },
+      "1713": {
+            "sensor-type": "no"
+      },
+      "1714": {
+            "sensor-type": "g-sensor,-heart-rate-sensor"
+      },
+      "1715": {
+            "sensor-type": "heart-rate-sensor"
+      },
+      "1716": {
+            "sensor-type": "active"
+      },
+      "1717": {
+            "sensor-type": "3-axis-accelerometer"
+      },
+      "1718": {
+            "sensor-type": "accelerometer-sensor"
+      },
+      "1719": {
+            "sensor-type": "activity-sensor"
+      },
+      "1720": {
+            "sensor-type": "fingerprint"
+      },
+      "1721": {
+            "sensor-type": "0.78\"-oled-touch-screen"
+      },
+      "1722": {
+            "sensor-type": "pedomiter"
+      },
+      "1723": {
+            "sensor-type": "android,ios"
+      },
+      "1724": {
+            "sensor-type": "algorithm-sensors"
+      },
+      "1725": {
+            "sensor-type": "motion-sensor"
+      },
+      "1726": {
+            "sensor-type": "sleep-monitor,-heart-rate"
+      },
+      "1727": "gold",
+      "1728": "stainless-steel",
+      "1729": "tft-lcd",
+      "1730": "tft-led",
+      "1731": {
+            "other-multimedia-features": "all-android-phone"
+      },
+      "1732": {
+            "other-multimedia-features": "music/video:-support"
+      },
+      "1733": {
+            "other-multimedia-features": "audio-player"
+      },
+      "1734": {
+            "other-multimedia-features": "music/video"
+      },
+      "1735": {
+            "other-multimedia-features": "audio"
+      },
+      "1736": {
+            "other-multimedia-features": "audio-player-video-player"
+      },
+      "1737": {
+            "other-multimedia-features": "na"
+      },
+      "1738": {
+            "other-multimedia-features": "n/a"
+      },
+      "1739": {
+            "other-multimedia-features": "yes"
+      },
+      "1740": {
+            "thickness": "12-mm"
+      },
+      "1741": {
+            "thickness": "1-mm"
+      },
+      "1742": {
+            "thickness": "10-mm"
+      },
+      "1743": {
+            "thickness": "40-mm"
+      },
+      "1744": {
+            "thickness": "12.3-mm"
+      },
+      "1745": {
+            "thickness": "11.4-mm"
+      },
+      "1746": {
+            "thickness": "16-mm"
+      },
+      "1747": {
+            "thickness": "9.4-mm"
+      },
+      "1748": {
+            "thickness": "10.7-mm"
+      },
+      "1749": {
+            "thickness": "9.8-mm"
+      },
+      "1750": {
+            "thickness": "12.8-mm"
+      },
+      "1751": {
+            "thickness": "11.1-mm"
+      },
+      "1752": {
+            "thickness": "2-mm"
+      },
+      "1753": {
+            "thickness": "5.1-mm"
+      },
+      "1754": {
+            "thickness": "11.8-mm"
+      },
+      "1755": {
+            "thickness": "10.9-mm"
+      },
+      "1756": {
+            "thickness": "11-mm"
+      },
+      "1757": {
+            "thickness": "10.8-mm"
+      },
+      "1758": {
+            "thickness": "13.6-mm"
+      },
+      "1759": {
+            "thickness": "10.5-mm"
+      },
+      "1760": {
+            "thickness": "13.4-mm"
+      },
+      "1761": {
+            "thickness": "21.8-mm"
+      },
+      "1762": {
+            "thickness": "5-mm"
+      },
+      "1763": {
+            "thickness": "12.5-mm"
+      },
+      "1764": {
+            "thickness": "40.9-mm"
+      },
+      "1765": "pmoled",
+      "1766": "sports,-fitness",
+      "1767": {
+            "water-resistant-rating": "5atm"
+      },
+      "1768": {
+            "water-resistant-rating": "ip67"
+      },
+      "1769": {
+            "water-resistant-rating": "ip66"
+      },
+      "1770": {
+            "water-resistant-rating": "ip65"
+      },
+      "1771": {
+            "battery-capacity": "5-mah"
+      },
+      "1772": {
+            "battery-capacity": "50-mah"
+      },
+      "1773": {
+            "battery-capacity": "4000-mah"
+      },
+      "1774": {
+            "battery-capacity": "500-mah"
+      },
+      "1775": "axyro",
+      "1776": "all",
+      "1777": "yes",
+      "1778": {
+            "frequency-response-range": "100"
+      },
+      "1779": {
+            "frequency-response-range": "30-feet"
+      },
+      "1780": {
+            "frequency-response-range": "285-16000-hz"
+      },
+      "1781": {
+            "frequency-response-range": "10"
+      },
+      "1782": {
+            "loudness": "5-dbspl"
+      },
+      "1783": {
+            "loudness": "500-dbspl"
+      },
+      "1784": {
+            "loudness": "50-dbspl"
+      },
+      "1785": {
+            "loudness": "100-dbspl"
+      },
+      "1786": {
+            "number-of-speakers": "1"
+      },
+      "1787": {
+            "number-of-speakers": "2"
+      },
+      "1788": {
+            "operating-temperature": "-10-degree-c-to-50-degree-c-k"
+      },
+      "1789": {
+            "operating-temperature": "200-250-k"
+      },
+      "1790": {
+            "speaker-power": "20-w"
+      },
+      "1791": {
+            "speaker-power": "220-w"
+      },
+      "1792": {
+            "speaker-power": "15-w"
+      },
+      "1793": {
+            "speaker-power": "12-w"
+      },
+      "1794": "mstick",
+      "1795": {
+            "compatible-with": "xiaomi-mi-band-3"
+      },
+      "1796": {
+            "compatible-with": "xiaomi-mi-band-3-and-4"
+      },
+      "1797": {
+            "compatible-with": "xiaomi-mi-band-3,-mi-band-4"
+      },
+      "1798": {
+            "compatible-with": "mi-hrx-band,-mi-band-2"
+      },
+      "1799": {
+            "compatible-with": "mi-band-2,-mi-band-hrx"
+      },
+      "1800": {
+            "compatible-with": "mi-band-2"
+      },
+      "1801": {
+            "compatible-with": "apple-watch"
+      },
+      "1802": {
+            "compatible-with": "mi-band-3,-mi-band-4"
+      },
+      "1803": {
+            "compatible-with": "mi-band-4,-mi-band-3"
+      },
+      "1804": {
+            "compatible-with": "mi-band-3"
+      },
+      "1805": {
+            "compatible-with": "band"
+      },
+      "1806": {
+            "compatible-with": "3/4"
+      },
+      "1807": {
+            "compatible-with": "mi-3-and-mi-4"
+      },
+      "1808": {
+            "compatible-with": "mi-3,-mi-4"
+      },
+      "1809": {
+            "compatible-with": "xiaomi-mi-band-3-strap"
+      },
+      "1810": {
+            "compatible-with": "id-115"
+      },
+      "1811": {
+            "compatible-with": "mi-band-2,-mi-band-hrx-edition"
+      },
+      "1812": {
+            "compatible-with": "mi-3-watch,-mi-4-watch"
+      },
+      "1813": {
+            "compatible-with": "ios,-android"
+      },
+      "1814": {
+            "compatible-with": "mi-band-2,-hrx-band"
+      },
+      "1815": {
+            "compatible-with": "mi3,-mi4"
+      },
+      "1816": "balck",
+      "1817": {
+            "hd-playback": "yes"
+      },
+      "1818": {
+            "hd-playback": "no"
+      },
+      "1819": {
+            "hd-playback": "na"
+      },
+      "1820": {
+            "hd-playback": "amazfit-gtr-47-mm"
+      },
+      "1821": {
+            "hd-playback": "n/a"
+      },
+      "1822": {
+            "hd-playback": "hd"
+      },
+      "1823": {
+            "hd-playback": "full-hd"
+      },
+      "1824": "multi-languages",
+      "1825": {
+            "length": "5-cm"
+      },
+      "1826": {
+            "length": "12-cm"
+      },
+      "1827": {
+            "length": "25-cm"
+      },
+      "1828": {
+            "length": "7-cm"
+      },
+      "1829": {
+            "length": "8-inch"
+      },
+      "1830": {
+            "length": "9.5-inch"
+      },
+      "1831": {
+            "length": "26-cm"
+      },
+      "1832": {
+            "length": "14-cm"
+      },
+      "1833": {
+            "length": "7-inch"
+      },
+      "1834": {
+            "length": "16-cm"
+      },
+      "1835": "white",
+      "1836": "microcart",
+      "1837": "metal",
+      "1838": "circle",
+      "1839": "brown",
+      "1840": "stainless-steel-+-plastic",
+      "1841": "ips-tft",
+      "1842": "pedometer",
+      "1843": "fitness,-lifestyle",
+      "1844": "black,-red",
+      "1845": "hd",
+      "1846": "multi-language",
+      "1847": {
+            "number-of-cores": "2"
+      },
+      "1848": {
+            "number-of-cores": "dual-core"
+      },
+      "1849": {
+            "number-of-cores": "na"
+      },
+      "1850": {
+            "number-of-cores": "4"
+      },
+      "1851": {
+            "number-of-cores": "1"
+      },
+      "1852": {
+            "number-of-cores": "0"
+      },
+      "1853": "blue",
+      "1854": {
+            "international-warranty": "1-year"
+      },
+      "1855": {
+            "international-warranty": "0-months"
+      },
+      "1856": {
+            "international-warranty": "1-months"
+      },
+      "1857": {
+            "processor-speed": "2.2"
+      },
+      "1858": {
+            "processor-speed": "533"
+      },
+      "1859": {
+            "processor-speed": "1"
+      },
+      "1860": {
+            "processor-speed": "600"
+      },
+      "1861": {
+            "processor-speed": "2"
+      },
+      "1862": {
+            "processor-speed": "800"
+      },
+      "1863": {
+            "processor-speed": "1.2"
+      },
+      "1864": {
+            "processor-speed": "1.2-ghz"
+      },
+      "1865": {
+            "processor-speed": "1.15-ghz"
+      },
+      "1866": {
+            "processor-speed": "900"
+      },
+      "1867": "synthetic",
+      "1868": {
+            "pack-of": "2"
+      },
+      "1869": {
+            "pack-of": "4"
+      },
+      "1870": {
+            "pack-of": "5"
+      },
+      "1871": {
+            "bluetooth-operation-range": "20-m"
+      },
+      "1872": "leco",
+      "1873": {
+            "built-in-mic": "yes"
+      },
+      "1874": "adapter",
+      "1875": {
+            "frequency-bandwidth": "2.445"
+      },
+      "1876": {
+            "function-keys": "1"
+      },
+      "1877": "men",
+      "1878": {
+            "music-time": "3-h"
+      },
+      "1879": {
+            "music-time": "3-hr"
+      },
+      "1880": {
+            "music-time": "4-hr"
+      },
+      "1881": {
+            "music-time": "5-hr"
+      },
+      "1882": {
+            "music-time": "8"
+      },
+      "1883": {
+            "number-of-function-keys": "1"
+      },
+      "1884": "mate-finish",
+      "1885": "touch",
+      "1886": "power-bank",
+      "1887": {
+            "power-consumption": "5-w"
+      },
+      "1888": {
+            "power-requirement": "3.7-volt"
+      },
+      "1889": "dc",
+      "1890": {
+            "sensitivity": "50.1-db"
+      },
+      "1891": {
+            "talking-time": "6-h"
+      },
+      "1892": {
+            "transmission-distance": "20-m"
+      },
+      "1893": {
+            "usb-version": "3"
+      },
+      "1894": {
+            "activity-tracking-function": "yes"
+      },
+      "1895": {
+            "activity-tracking-function": "calories-burned"
+      },
+      "1896": {
+            "activity-tracking-function": "sleep-monitoring,-steps-count"
+      },
+      "1897": {
+            "activity-tracking-function": "fitness-activity-tracker"
+      },
+      "1898": {
+            "activity-tracking-function": "n/a"
+      },
+      "1899": {
+            "activity-tracking-function": "distance-and-sleep"
+      },
+      "1900": {
+            "activity-tracking-function": "no"
+      },
+      "1901": {
+            "activity-tracking-function": "calories-counter"
+      },
+      "1902": {
+            "activity-tracking-function": "distance-and-sleep-monitoring"
+      },
+      "1903": {
+            "activity-tracking-function": "sleep-monitoring"
+      },
+      "1904": {
+            "activity-tracking-function": "distance-travelled"
+      },
+      "1905": "tdg",
+      "1906": "polycarbonate",
+      "1907": "gym,-jogging,-yoga,-cycling",
+      "1908": "transperent",
+      "1909": {
+            "designed-for": "honor-band-5"
+      },
+      "1910": {
+            "designed-for": "realme-watch"
+      },
+      "1911": {
+            "designed-for": "mi-band-4"
+      },
+      "1912": {
+            "designed-for": "xiaomi-mi-band-4"
+      },
+      "1913": {
+            "designed-for": "fossil-carlyle/julianna-gen-5"
+      },
+      "1914": {
+            "designed-for": "apple-iwatch-42-mm"
+      },
+      "1915": {
+            "designed-for": "samsung-galaxy-fit-e"
+      },
+      "1916": {
+            "designed-for": "honor-magicwatch-2---(46mm)"
+      },
+      "1917": {
+            "designed-for": "apple-watch-series-2/3/4/5-44mm"
+      },
+      "1918": {
+            "designed-for": "apple-watch-series-3---38-mm"
+      },
+      "1919": {
+            "designed-for": "apple-smartwatch-44mm-pet"
+      },
+      "1920": {
+            "designed-for": "huami-amazfit-verge-a1811"
+      },
+      "1921": {
+            "designed-for": "amazfit-bip-lite"
+      },
+      "1922": "epaal",
+      "1923": "high-quality-tpe",
+      "1924": {
+            "foot-pods-included": "yes"
+      },
+      "1925": {
+            "foot-pods-included": "no"
+      },
+      "1926": "plastic,-rubber",
+      "1927": "workout",
+      "1928": "multicolor",
+      "1929": "copper",
+      "1930": "black,-black",
+      "1931": "orbitbyte",
+      "1932": "space-grey",
+      "1933": "aluminium-case",
+      "1934": "oled-retina-display",
+      "1935": "delmohut",
+      "1936": "soft-silicon",
+      "1937": "front",
+      "1938": "transparent",
+      "1939": "brown,-black,-silver",
+      "1940": "grey",
+      "1941": "tft",
+      "1942": "aluminum-alloy",
+      "1943": "beige",
+      "1944": "men,-women",
+      "1945": {
+            "wifi-version": "0"
+      },
+      "1946": {
+            "wifi-version": "n/a"
+      },
+      "1947": {
+            "wifi-version": "no"
+      },
+      "1948": {
+            "wifi-version": "not-present"
+      },
+      "1949": {
+            "wifi-version": "00"
+      },
+      "1950": "brown,-multicolor",
+      "1951": "totu",
+      "1952": "green",
+      "1953": "show-time,-track-health",
+      "1954": "english-and-more",
+      "1955": "gym,-cycling,-jogging",
+      "1956": "gym,-walking,-running",
+      "1957": {
+            "gesture-control": "na"
+      },
+      "1958": {
+            "gesture-control": "yes"
+      },
+      "1959": {
+            "gesture-control": "music,-calling"
+      },
+      "1960": {
+            "gesture-control": "change-music/-answer-call"
+      },
+      "1961": {
+            "gesture-control": "no"
+      },
+      "1962": {
+            "gesture-control": "change-music,-answer-calls"
+      },
+      "1963": {
+            "gesture-control": "n/a"
+      },
+      "1964": {
+            "gesture-control": "change-music,-dial,-answer-call"
+      },
+      "1965": "english,-french-and-many-more",
+      "1966": "gold,-black",
+      "1967": {
+            "diameter": "45.9-mm"
+      },
+      "1968": {
+            "diameter": "44.5-mm"
+      },
+      "1969": {
+            "diameter": "27-mm"
+      },
+      "1970": {
+            "diameter": "3-mm"
+      },
+      "1971": {
+            "diameter": "147-mm"
+      },
+      "1972": {
+            "diameter": "32.3-mm"
+      },
+      "1973": {
+            "diameter": "42.3-mm"
+      },
+      "1974": {
+            "diameter": "14-mm"
+      },
+      "1975": {
+            "diameter": "47.2-mm"
+      },
+      "1976": {
+            "diameter": "39.5-mm"
+      },
+      "1977": {
+            "diameter": "48.6-mm"
+      },
+      "1978": {
+            "diameter": "43-mm"
+      },
+      "1979": {
+            "diameter": "35-mm"
+      },
+      "1980": "leather",
+      "1981": "vonqo",
+      "1982": "rubber,-silicone",
+      "1983": "fluoroelastomer",
+      "1984": "multipurpose",
+      "1985": {
+            "other-watch-functions": "call-control"
+      },
+      "1986": {
+            "other-watch-functions": "detachable-20mm-strap"
+      },
+      "1987": {
+            "other-watch-functions": "health-pedometer,-sleep-monitor"
+      },
+      "1988": {
+            "other-watch-functions": "n/a"
+      },
+      "1989": "brown,-gold",
+      "1990": "gun-metal-black",
+      "1991": {
+            "audio-transparency": "yes"
+      },
+      "1992": "macngrid",
+      "1993": "pace",
+      "1994": {
+            "wireless-data-processing": "yes"
+      },
+      "1995": "taslar",
+      "1996": "tpu",
+      "1997": "metal,-plastic",
+      "1998": "super-amoled",
+      "1999": "led",
+      "2000": "silver",
+      "2001": "pedometer,sleep-monitoring",
+      "2002": "nexus",
+      "2003": "white,-black",
+      "2004": "gaming,-entertainment",
+      "2005": "heart-rate-tracker",
+      "2006": "red",
+      "2007": "gym,-walking,-running,-cycling",
+      "2008": "track-casual-walk,-intense-ride",
+      "2009": "hypex",
+      "2010": "plastic,-silicone",
+      "2011": {
+            "battery-run-time": "2-hours"
+      },
+      "2012": {
+            "battery-run-time": "8"
+      },
+      "2013": "roboster",
+      "2014": "both",
+      "2015": {
+            "control-type": "volume-control"
+      },
+      "2016": {
+            "control-type": "3-control-buttons"
+      },
+      "2017": {
+            "control-type": "buttons"
+      },
+      "2018": {
+            "control-type": "yes"
+      },
+      "2019": {
+            "control-type": "control-buttons"
+      },
+      "2020": "curved-mirror-based",
+      "2021": {
+            "field-of-view": "65-degree"
+      },
+      "2022": "spectacle",
+      "2023": {
+            "lens-type": "photochromic"
+      },
+      "2024": {
+            "lens-type": "tinted"
+      },
+      "2025": {
+            "lens-type": "clear"
+      },
+      "2026": {
+            "microphone-type": "noise-cancelling"
+      },
+      "2027": {
+            "microphone-type": "inbuilt"
+      },
+      "2028": {
+            "microphone-type": "cancelling-microphone"
+      },
+      "2029": {
+            "number-of-microphones": "1"
+      },
+      "2030": {
+            "removable-ear-horns": "yes"
+      },
+      "2031": "entertainment,-gaming",
+      "2032": {
+            "wireless": "yes"
+      },
+      "2033": "plastic,-metal",
+      "2034": "plastic,-synthetic",
+      "2035": "curved",
+      "2036": "na",
+      "2037": "blue,-green",
+      "2038": "almunium",
+      "2039": "multi",
+      "2040": "alloy",
+      "2041": "heat-beat-monitoring-function",
+      "2042": "hindi,-english",
+      "2043": {
+            "number-of-modes": "2"
+      },
+      "2044": {
+            "number-of-modes": "5"
+      },
+      "2045": {
+            "number-of-modes": "1"
+      },
+      "2046": {
+            "number-of-modes": "4"
+      },
+      "2047": {
+            "number-of-modes": "3"
+      },
+      "2048": {
+            "technology-used": "latest-technology"
+      },
+      "2049": {
+            "technology-used": "bluetooth"
+      },
+      "2050": "silicone-,-stainless-steel",
+      "2051": "glass-material,-stainless-steel",
+      "2052": "blood-pressure,-step,-heart-rate",
+      "2053": "fitness",
+      "2054": "mullti-color",
+      "2055": "women",
+      "2056": "multifunctional",
+      "2057": "purple,-black",
+      "2058": "elastomer",
+      "2059": "aluminium",
+      "2060": "cellfather",
+      "2061": "aliminium",
+      "2062": {
+            "is-residue-free-removal": "yes"
+      },
+      "2063": {
+            "number-of-layers": "2"
+      },
+      "2064": {
+            "number-of-layers": "3"
+      },
+      "2065": {
+            "screen-size": "standard-edge-to-edge"
+      },
+      "2066": {
+            "screen-size": "38mm-inch"
+      },
+      "2067": {
+            "tinted": "no"
+      },
+      "2068": {
+            "tinted": "yes"
+      },
+      "2069": "analog",
+      "2070": "black,-blue",
+      "2071": "vibration,-sound,-light",
+      "2072": {
+            "care-instructions": "not-accept-scartches-on-product"
+      },
+      "2073": {
+            "care-instructions": "0"
+      },
+      "2074": "ultra-clear",
+      "2075": "black,-grey",
+      "2076": "aluminum",
+      "2077": "sleep-monitor",
+      "2078": "eng",
+      "2079": "rubber,-stainless-steel",
+      "2080": "count-calories",
+      "2081": "sports",
+      "2082": "clear",
+      "2083": "running,-tracking-daily-activity",
+      "2084": "glass-material,-abs-plastic",
+      "2085": "charcoal",
+      "2086": "fabric",
+      "2087": {
+            "functions": "speaker"
+      },
+      "2088": "monocle",
+      "2089": {
+            "removable-lens": "yes"
+      },
+      "2090": "functional",
+      "2091": "yumato",
+      "2092": "yoga,-jogging",
+      "2093": "grey(silver)",
+      "2094": "teconica",
+      "2095": {
+            "warranty_summary": "na"
+      },
+      "2096": {
+            "warranty_summary": "10-days-replacement-warranty"
+      },
+      "2097": "sillicon-rubber",
+      "2098": "oval",
+      "2099": "red,-black",
+      "2100": "black,-rose-gold",
+      "2101": "silicon",
+      "2102": "pink",
+      "2103": "black,-orange",
+      "2104": "daily-workout,-calories-count",
+      "2105": "plespey",
+      "2106": "men,-women,-boy,-girl",
+      "2107": "the-jump-start-store",
+      "2108": "rubber,-soft-silicone,-flexible",
+      "2109": "aluminium-alloy",
+      "2110": "buy-genuine",
+      "2111": "entertainment,-functional",
+      "2112": "multi-function",
+      "2113": "sports-and-fitness",
+      "2114": "anodized-aluminum",
+      "2115": {
+            "prescription-glass-friendly": "yes"
+      },
+      "2116": "tpu-silicone",
+      "2117": "silicone,-rubber",
+      "2118": "fbandz",
+      "2119": "silicon-&-stainless-steel",
+      "2120": "gym,-driving,-swimming",
+      "2121": "tingtong",
+      "2122": "rectangular",
+      "2123": "men,-women,-boys-&-girls",
+      "2124": "heart-rate-sensor",
+      "2125": "gym,-swimming,-running",
+      "2126": "n/a",
+      "2127": "blood-pressure",
+      "2128": "alonzo",
+      "2129": {
+            "noise-cancellation": "yes"
+      },
+      "2130": "renyke",
+      "2131": "no",
+      "2132": {
+            "speakerphone-support": "yes"
+      },
+      "2133": "black,-blue,-orange",
+      "2134": "cast-iron",
+      "2135": "running,-sports,-gym",
+      "2136": "veronic",
+      "2137": "alloy,-plastic",
+      "2138": "abs",
+      "2139": "vooy",
+      "2140": "buyerstop",
+      "2141": "nylon",
+      "2142": "amando",
+      "2143": "povty",
+      "2144": "glass,-rubber,-plastic",
+      "2145": "functional,-entertainment",
+      "2146": "pedomiter,-heart-rate-sensor",
+      "2147": "workut,-gym",
+      "2148": "caxon",
+      "2149": "stainless-steel,-plastic",
+      "2150": "tracking,-sleep",
+      "2151": "black,-silver",
+      "2152": "sports,-fitness-health",
+      "2153": "omniversal",
+      "2154": "smart-devices",
+      "2155": "usb",
+      "2156": "nick-jones",
+      "2157": {
+            "display": "yes"
+      },
+      "2158": {
+            "ergonomic-design": "yes"
+      },
+      "2159": "connectivity-issues,-if-any",
+      "2160": "any-physical-damage",
+      "2161": "blue,-grey",
+      "2162": "resistive-workouts",
+      "2163": "green,-grey",
+      "2164": "pedometer,-sleep-monitoring",
+      "2165": "sleep-tracking",
+      "2166": "sliver",
+      "2167": "android,-ios",
+      "2168": "s-s-mart",
+      "2169": "black,-white",
+      "2170": "pp-(polypropylene)",
+      "2171": "men,-women,-unisex",
+      "2172": "blue,-red",
+      "2173": "all-type-of-language",
+      "2174": "running",
+      "2175": "sleep-monitor,-step-count-etc."
+}

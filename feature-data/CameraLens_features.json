@@ -1,0 +1,327 @@
+{
+      "0": {
+            "aperture-with-max-focal-length": "f/4-5.6-is-ii"
+      },
+      "1": {
+            "aperture-with-max-focal-length": "f/1.8-g"
+      },
+      "2": {
+            "aperture-with-max-focal-length": "f/1.8-stm"
+      },
+      "3": {
+            "aperture-with-max-focal-length": "f/3.5-5.6g-ed-vr"
+      },
+      "4": {
+            "aperture-with-max-focal-length": "f/3.5-5.6g"
+      },
+      "5": {
+            "aperture-with-max-focal-length": "f/1.8"
+      },
+      "6": {
+            "aperture-with-max-focal-length": "f/3.5-6.3"
+      },
+      "7": {
+            "aperture-with-max-focal-length": "f/4-l-usm"
+      },
+      "8": {
+            "aperture-with-min-focal-length": "f/22---32"
+      },
+      "9": {
+            "aperture-with-min-focal-length": "f/16"
+      },
+      "10": {
+            "aperture-with-min-focal-length": "f/3.5"
+      },
+      "11": {
+            "aperture-with-min-focal-length": "f/22"
+      },
+      "12": "canon",
+      "13": "black",
+      "14": "canon-dslrs",
+      "15": {
+            "dimensions": "70-x-108-mm-(diameter-x-length)"
+      },
+      "16": {
+            "dimensions": "72-x-52.5-mm-(diameter-x-length)"
+      },
+      "17": {
+            "dimensions": "72-x-85-mm-(diameter-x-length)"
+      },
+      "18": {
+            "dimensions": "78.1-x-99-mm-(diameter-x-length)"
+      },
+      "19": "mm",
+      "20": {
+            "filter-attachment-size": "58-mm"
+      },
+      "21": {
+            "filter-attachment-size": "49-mm"
+      },
+      "22": {
+            "filter-attachment-size": "67-mm"
+      },
+      "23": {
+            "filter-attachment-size": "77-mm"
+      },
+      "24": "canon-mount",
+      "25": "telephoto",
+      "26": {
+            "maximum-focal-length": "250-mm"
+      },
+      "27": {
+            "maximum-focal-length": "50-mm"
+      },
+      "28": {
+            "maximum-focal-length": "140-mm"
+      },
+      "29": {
+            "maximum-focal-length": "85-mm"
+      },
+      "30": {
+            "maximum-focal-length": "300-mm"
+      },
+      "31": {
+            "maximum-focal-length": "45-mm"
+      },
+      "32": {
+            "maximum-focal-length": "40-mm"
+      },
+      "33": {
+            "maximum-magnification-(x)": "0.31"
+      },
+      "34": {
+            "maximum-magnification-(x)": "0.21x"
+      },
+      "35": {
+            "maximum-magnification-(x)": "0.23-x"
+      },
+      "36": {
+            "maximum-magnification-(x)": "1:3"
+      },
+      "37": {
+            "maximum-magnification-(x)": "0.3"
+      },
+      "38": {
+            "maximum-magnification-(x)": "0.24"
+      },
+      "39": {
+            "minimum-aperture": "22---32"
+      },
+      "40": {
+            "minimum-aperture": "f/22"
+      },
+      "41": {
+            "minimum-aperture": "22"
+      },
+      "42": {
+            "minimum-aperture": "f/16"
+      },
+      "43": {
+            "minimum-aperture": "f/22---40"
+      },
+      "44": {
+            "minimum-focal-length": "55-mm"
+      },
+      "45": {
+            "minimum-focal-length": "18-mm"
+      },
+      "46": {
+            "minimum-focal-length": "16-mm"
+      },
+      "47": {
+            "minimum-focal-length": "28-mm"
+      },
+      "48": {
+            "minimum-focal-length": "45-mm"
+      },
+      "49": {
+            "minimum-focal-length": "1.8"
+      },
+      "50": {
+            "minimum-focal-length": "17-mm"
+      },
+      "51": {
+            "model": "ef-s-55---250-mm-f/4-5.6-is-ii"
+      },
+      "52": {
+            "model": "af-s-nikkor-50mm-f/1.8g-lens"
+      },
+      "53": {
+            "model": "ef-50-mm-f/1.8-stm"
+      },
+      "54": {
+            "model": "f013n"
+      },
+      "55": {
+            "model": "sp-45mm-lens"
+      },
+      "56": {
+            "model": "a010e-lens\u00ef\u00bf\u00bd"
+      },
+      "57": {
+            "model": "ef-17---40-mm-f/4l-usm"
+      },
+      "58": "telephoto-zoom",
+      "59": "zoom",
+      "60": {
+            "sales-package": "lens"
+      },
+      "61": {
+            "sales-package": "ef-50-mm-f/1.8-stm-lens"
+      },
+      "62": {
+            "sales-package": "lens,-lens-hood"
+      },
+      "63": {
+            "sales-package": "1-lens,-mount-cap,-owners-manual"
+      },
+      "64": {
+            "sales-package": "lense-&-manual"
+      },
+      "65": "wildlife",
+      "66": {
+            "warranty": "2-years"
+      },
+      "67": {
+            "warranty": "4"
+      },
+      "68": {
+            "warranty": "2"
+      },
+      "69": {
+            "weight": "0.345-kg"
+      },
+      "70": {
+            "weight": "610-g"
+      },
+      "71": {
+            "weight": "0.202-kg"
+      },
+      "72": {
+            "weight": "450-g"
+      },
+      "73": {
+            "weight": "480-g"
+      },
+      "74": {
+            "weight": "515-g"
+      },
+      "75": {
+            "weight": "513-g"
+      },
+      "76": {
+            "weight": "250-g"
+      },
+      "77": {
+            "weight": "475-g"
+      },
+      "78": "nikon",
+      "79": "nikon-dslrs",
+      "80": {
+            "lens-cap": "snap-on"
+      },
+      "81": {
+            "lens-cap": "yes"
+      },
+      "82": {
+            "lens-case": "cl-1013"
+      },
+      "83": {
+            "lens-case": "no"
+      },
+      "84": {
+            "lens-case": "cl-1015"
+      },
+      "85": "fx",
+      "86": {
+            "lens-hood": "hb-47"
+      },
+      "87": {
+            "lens-hood": "no"
+      },
+      "88": {
+            "lens-hood": "hb-39"
+      },
+      "89": "af-s",
+      "90": "standard",
+      "91": {
+            "maximum-reproduction-ratio": "0.15x"
+      },
+      "92": {
+            "maximum-reproduction-ratio": "1/4.6x"
+      },
+      "93": {
+            "minimum-focusing-distance": "0.45-m"
+      },
+      "94": {
+            "minimum-focusing-distance": "0.38-m"
+      },
+      "95": {
+            "minimum-focusing-distance": "0.49-m"
+      },
+      "96": {
+            "minimum-f/stop": "16"
+      },
+      "97": {
+            "minimum-f/stop": "22"
+      },
+      "98": "prime",
+      "99": "journalism",
+      "100": {
+            "diameter": "69.2-mm"
+      },
+      "101": {
+            "diameter": "80.4-mm"
+      },
+      "102": {
+            "diameter": "74.4-mm"
+      },
+      "103": "stm",
+      "104": {
+            "length": "39.3-mm"
+      },
+      "105": {
+            "length": "89.2-mm"
+      },
+      "106": {
+            "length": "96-mm"
+      },
+      "107": "ef",
+      "108": {
+            "angle-of-view": "76-degree---11-degree30"
+      },
+      "109": {
+            "angle-of-view": "75\u00e2\u00b0---8\u00e2\u00b0"
+      },
+      "110": "wide-angle",
+      "111": "dx",
+      "112": "tamron",
+      "113": "macro",
+      "114": "zoom,-macro",
+      "115": "usd",
+      "116": "auto-focus",
+      "117": {
+            "image-stabilisation": "yes"
+      },
+      "118": "full-frame",
+      "119": "nikon-mount",
+      "120": "class-close-focusing",
+      "121": {
+            "pack-of": "1"
+      },
+      "122": "wedding-&-events",
+      "123": {
+            "water-resistant": "yes"
+      },
+      "124": {
+            "water-resistant": "no"
+      },
+      "125": "portrait",
+      "126": "fix",
+      "127": "pzd",
+      "128": "rotation",
+      "129": "ring-type-usm",
+      "130": "auto",
+      "131": "ultra-wide-angle",
+      "132": "art"
+}

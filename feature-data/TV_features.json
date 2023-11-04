@@ -1,0 +1,5081 @@
+{
+      "0": {
+            "3d": "no"
+      },
+      "1": {
+            "bluetooth": "yes"
+      },
+      "2": {
+            "built-in-wi-fi": "yes"
+      },
+      "3": {
+            "built-in-wi-fi": "no"
+      },
+      "4": "black",
+      "5": {
+            "curve-tv": "no"
+      },
+      "6": {
+            "display-size": "163-cm-(65)"
+      },
+      "7": {
+            "display-size": "125-cm-(50)"
+      },
+      "8": {
+            "display-size": "80-cm-(32)"
+      },
+      "9": {
+            "display-size": "108-cm-(43)"
+      },
+      "10": {
+            "display-size": "102-cm-(40)"
+      },
+      "11": {
+            "display-size": "138.78-cm-(55)"
+      },
+      "12": {
+            "display-size": "100-cm-(40)"
+      },
+      "13": {
+            "display-size": "80.5-cm-(32)"
+      },
+      "14": {
+            "display-size": "81-cm-(32)"
+      },
+      "15": {
+            "display-size": "126-cm-(50)"
+      },
+      "16": {
+            "display-size": "79.97-cm-(32)"
+      },
+      "17": {
+            "display-size": "60-cm-(24)"
+      },
+      "18": {
+            "display-size": "109-cm-(43)"
+      },
+      "19": {
+            "display-size": "139-cm-(55)"
+      },
+      "20": {
+            "display-size": "138-cm-(55)"
+      },
+      "21": {
+            "display-size": "107.6-cm-(43)"
+      },
+      "22": {
+            "display-size": "127-cm-(50)"
+      },
+      "23": {
+            "display-size": "123.13-cm-(49)"
+      },
+      "24": {
+            "display-size": "123.2-cm-(49)"
+      },
+      "25": {
+            "display-size": "100.3-cm-(40)"
+      },
+      "26": {
+            "display-size": "124-cm-(49)"
+      },
+      "27": {
+            "display-size": "125.73-cm-(50)"
+      },
+      "28": {
+            "display-size": "164-cm-(65)"
+      },
+      "29": {
+            "display-size": "124-cm-(50)"
+      },
+      "30": {
+            "display-size": "59.9-cm-(24)"
+      },
+      "31": {
+            "display-size": "101.6-cm-(40)"
+      },
+      "32": {
+            "display-size": "163.89-cm-(65)"
+      },
+      "33": {
+            "display-size": "123-cm-(49)"
+      },
+      "34": {
+            "display-size": "107.9-cm-(43)"
+      },
+      "35": {
+            "display-size": "163.9-cm-(65)"
+      },
+      "36": {
+            "display-size": "122-cm-(48)"
+      },
+      "37": {
+            "display-size": "99.8-cm-(40)"
+      },
+      "38": {
+            "display-size": "80.04-cm-(32)"
+      },
+      "39": {
+            "display-size": "98-cm-(39)"
+      },
+      "40": {
+            "display-size": "125.7-cm-(50)"
+      },
+      "41": {
+            "display-size": "(50)"
+      },
+      "42": {
+            "display-size": "140-cm-(55)"
+      },
+      "43": {
+            "display-size": "146-cm-(58)"
+      },
+      "44": {
+            "display-size": "139.7-cm-(55)"
+      },
+      "45": {
+            "display-size": "109.22-cm-(43)"
+      },
+      "46": {
+            "display-size": "(65)"
+      },
+      "47": {
+            "display-size": "(47)"
+      },
+      "48": {
+            "display-size": "(46)"
+      },
+      "49": {
+            "display-size": "(51)"
+      },
+      "50": {
+            "display-size": "(55)"
+      },
+      "51": {
+            "display-size": "80-cm-(31.5)"
+      },
+      "52": {
+            "display-size": "(42)"
+      },
+      "53": {
+            "display-size": "120.9-cm-(48)"
+      },
+      "54": {
+            "display-size": "(39)"
+      },
+      "55": {
+            "display-size": "121-cm-(48)"
+      },
+      "56": {
+            "display-size": "(60)"
+      },
+      "57": {
+            "display-size": "(64)"
+      },
+      "58": {
+            "display-size": "(43)"
+      },
+      "59": {
+            "display-size": "152-cm-(60)"
+      },
+      "60": {
+            "display-size": "80.1-cm-(32)"
+      },
+      "61": {
+            "display-size": "107.95-cm-(43)"
+      },
+      "62": {
+            "display-size": "189-cm-(75)"
+      },
+      "63": {
+            "display-size": "101-cm-(40)"
+      },
+      "64": {
+            "display-size": "(75)"
+      },
+      "65": {
+            "display-size": "109.2-cm-(43)"
+      },
+      "66": {
+            "display-size": "99-cm-(40)"
+      },
+      "67": {
+            "display-size": "124.46-cm-(49)"
+      },
+      "68": {
+            "display-size": "189.3-cm-(75)"
+      },
+      "69": {
+            "display-size": "152.4-cm-(60)"
+      },
+      "70": {
+            "display-size": "(32)"
+      },
+      "71": {
+            "hd-technology-&-resolution": "ultra-hd-(4k),-3840-x-2160"
+      },
+      "72": {
+            "hd-technology-&-resolution": "hd-ready,-1366-x-768"
+      },
+      "73": {
+            "hd-technology-&-resolution": "full-hd,-1920-x-1080"
+      },
+      "74": {
+            "hd-technology-&-resolution": "full-hd,-1920-x-1080-pixels"
+      },
+      "75": {
+            "hd-technology-&-resolution": "hd-ready,-1366-x-768-pixels"
+      },
+      "76": {
+            "hd-technology-&-resolution": "hd-ready,-1024-x-768"
+      },
+      "77": {
+            "hd-technology-&-resolution": "full-hd,-1980-x-1080"
+      },
+      "78": {
+            "hd-technology-&-resolution": "hd-ready,-852-x-480"
+      },
+      "79": {
+            "hd-technology-&-resolution": "hd-ready,-1366x768"
+      },
+      "80": {
+            "hd-technology-&-resolution": "ultra-hd-(4k),-3840x2160"
+      },
+      "81": {
+            "hd-technology-&-resolution": "hd-ready,-1366*768"
+      },
+      "82": {
+            "hdmi": "4-side"
+      },
+      "83": {
+            "hdmi": "3-side"
+      },
+      "84": {
+            "hdmi": "2-back-left-side"
+      },
+      "85": {
+            "hdmi": "2-side"
+      },
+      "86": {
+            "hdmi": "1-side,-2-bottom"
+      },
+      "87": {
+            "hdmi": "1-side,-2-rear"
+      },
+      "88": {
+            "hdmi": "side"
+      },
+      "89": {
+            "hdmi": "2-rear,-1-side"
+      },
+      "90": {
+            "hdmi": "2-rear"
+      },
+      "91": {
+            "hdmi": "2-rear-bottom"
+      },
+      "92": {
+            "hdmi": "1-rear,-2-side"
+      },
+      "93": {
+            "hdmi": "3-bottom"
+      },
+      "94": {
+            "hdmi": "1-side"
+      },
+      "95": {
+            "hdmi": "2-side,-1-rear"
+      },
+      "96": {
+            "hdmi": "back"
+      },
+      "97": {
+            "hdmi": "2-back"
+      },
+      "98": {
+            "hdmi": "1-side,-2-rear-bottom"
+      },
+      "99": {
+            "hdmi": "bottom"
+      },
+      "100": {
+            "hdmi": "2-bottom"
+      },
+      "101": {
+            "hdmi": "1-side,-1-rear"
+      },
+      "102": {
+            "hdmi": "2-rear,-2-side"
+      },
+      "103": {
+            "hdmi": "3-rear"
+      },
+      "104": {
+            "hdmi": "rear"
+      },
+      "105": {
+            "hdmi": "3-back"
+      },
+      "106": {
+            "hdmi": "1-rear,1-side"
+      },
+      "107": {
+            "hdmi": "1-rear"
+      },
+      "108": {
+            "hdmi": "2-side,-2-rear"
+      },
+      "109": {
+            "hdmi": "(1-side,-2-rear)"
+      },
+      "110": {
+            "hdmi": "(1-side,-3-rear)"
+      },
+      "111": {
+            "hdmi": "2"
+      },
+      "112": {
+            "hdmi": "4-(side)"
+      },
+      "113": {
+            "hdmi": "1-(side)"
+      },
+      "114": {
+            "hdmi": "4"
+      },
+      "115": {
+            "hdmi": "(rear)"
+      },
+      "116": {
+            "hdmi": "3"
+      },
+      "117": {
+            "hdmi": "2-hdmi-(1-ts-+-1-tr)"
+      },
+      "118": {
+            "hdmi": "down-side"
+      },
+      "119": {
+            "hdmi": "1-bottom,-2-side"
+      },
+      "120": {
+            "hdmi": "back-side"
+      },
+      "121": {
+            "hdmi": "1-x-side,-2-x-bottom"
+      },
+      "122": {
+            "hdmi": "3-(side)"
+      },
+      "123": {
+            "hdmi": "bottom,-side"
+      },
+      "124": {
+            "hdmi": "3-side,-1-rear"
+      },
+      "125": {
+            "led-display-type": "direct-led"
+      },
+      "126": {
+            "led-display-type": "led"
+      },
+      "127": {
+            "led-display-type": "dled"
+      },
+      "128": {
+            "led-display-type": "slim-led"
+      },
+      "129": {
+            "led-display-type": "direct"
+      },
+      "130": {
+            "led-display-type": "edge-led"
+      },
+      "131": {
+            "led-display-type": "yes"
+      },
+      "132": {
+            "led-display-type": "ultra-slim-led"
+      },
+      "133": {
+            "led-display-type": "full-led"
+      },
+      "134": {
+            "led-display-type": "edge"
+      },
+      "135": {
+            "led-display-type": "d-led"
+      },
+      "136": {
+            "led-display-type": "no"
+      },
+      "137": {
+            "led-display-type": "led-plus"
+      },
+      "138": {
+            "launch-year": "2020"
+      },
+      "139": {
+            "launch-year": "2019"
+      },
+      "140": {
+            "launch-year": "2018"
+      },
+      "141": {
+            "launch-year": "2017"
+      },
+      "142": {
+            "launch-year": "2015"
+      },
+      "143": {
+            "launch-year": "2014"
+      },
+      "144": {
+            "launch-year": "2016"
+      },
+      "145": {
+            "launch-year": "2013"
+      },
+      "146": {
+            "model-name": "qa65ls03takxxl"
+      },
+      "147": {
+            "model-name": "qa50ls03takxxl"
+      },
+      "148": {
+            "model-name": "tv-32"
+      },
+      "149": {
+            "model-name": "l32m5-al"
+      },
+      "150": {
+            "model-name": "43us"
+      },
+      "151": {
+            "model-name": "32lm560bptc"
+      },
+      "152": {
+            "model-name": "l43m5-an"
+      },
+      "153": {
+            "model-name": "tv-43"
+      },
+      "154": {
+            "model-name": "40fhdxsmart"
+      },
+      "155": {
+            "model-name": "40m4099/40m4099-pro"
+      },
+      "156": {
+            "model-name": "55k31"
+      },
+      "157": {
+            "model-name": "43lm5600ptc"
+      },
+      "158": {
+            "model-name": "l40m5-5ain"
+      },
+      "159": {
+            "model-name": "32safhdm"
+      },
+      "160": {
+            "model-name": "43cauhdn"
+      },
+      "161": {
+            "model-name": "32us"
+      },
+      "162": {
+            "model-name": "ua32t4010arxxl"
+      },
+      "163": {
+            "model-name": "32tm3290"
+      },
+      "164": {
+            "model-name": "32t8361hd/32t8361hd2019"
+      },
+      "165": {
+            "model-name": "43pm"
+      },
+      "166": {
+            "model-name": "32s3u"
+      },
+      "167": {
+            "model-name": "50pm"
+      },
+      "168": {
+            "model-name": "rgl3201/l"
+      },
+      "169": {
+            "model-name": "40v1666fhd"
+      },
+      "170": {
+            "model-name": "43uhdxsmart"
+      },
+      "171": {
+            "model-name": "32f2a"
+      },
+      "172": {
+            "model-name": "th-40hs450dx"
+      },
+      "173": {
+            "model-name": "32s6500s"
+      },
+      "174": {
+            "model-name": "24tm2490"
+      },
+      "175": {
+            "model-name": "43sauhdm"
+      },
+      "176": {
+            "model-name": "43fhdxpro"
+      },
+      "177": {
+            "model-name": "klv-32r202g"
+      },
+      "178": {
+            "model-name": "55pm"
+      },
+      "179": {
+            "model-name": "43um7290ptf"
+      },
+      "180": {
+            "model-name": "jsk43lsuhd"
+      },
+      "181": {
+            "model-name": "qa55ls03takxxl"
+      },
+      "182": {
+            "model-name": "jsc32nshd"
+      },
+      "183": {
+            "model-name": "32m3277-pro/32m3277"
+      },
+      "184": {
+            "model-name": "43th6000"
+      },
+      "185": {
+            "model-name": "32hdx900s-bt"
+      },
+      "186": {
+            "model-name": "55sauhdm"
+      },
+      "187": {
+            "model-name": "43safhdm"
+      },
+      "188": {
+            "model-name": "32lm636bptb"
+      },
+      "189": {
+            "model-name": "50sauhdm"
+      },
+      "190": {
+            "model-name": "32hdxsmart"
+      },
+      "191": {
+            "model-name": "bla32bs460"
+      },
+      "192": {
+            "model-name": "ua32n4305arxxl"
+      },
+      "193": {
+            "model-name": "49f2a"
+      },
+      "194": {
+            "model-name": "40fhdx900s"
+      },
+      "195": {
+            "model-name": "jsk40lsfhd"
+      },
+      "196": {
+            "model-name": "49-oath-9000"
+      },
+      "197": {
+            "model-name": "40f2a"
+      },
+      "198": {
+            "model-name": "50um7290ptd"
+      },
+      "199": {
+            "model-name": "50uhdxsmart-4k"
+      },
+      "200": {
+            "model-name": "50k31"
+      },
+      "201": {
+            "model-name": "32hdxsmart-/-32hdxsmart-v1"
+      },
+      "202": {
+            "model-name": "32pht4233s/94"
+      },
+      "203": {
+            "model-name": "55cauhdn"
+      },
+      "204": {
+            "model-name": "kd-43x7002g"
+      },
+      "205": {
+            "model-name": "43k31"
+      },
+      "206": {
+            "model-name": "65pm"
+      },
+      "207": {
+            "model-name": "32hdx900s"
+      },
+      "208": {
+            "model-name": "40cam6sfhd"
+      },
+      "209": {
+            "model-name": "klv-32w622g"
+      },
+      "210": {
+            "model-name": "jsk55lsuhd"
+      },
+      "211": {
+            "model-name": "65bpx"
+      },
+      "212": {
+            "model-name": "40vaofhds-/-40nvaofhds"
+      },
+      "213": {
+            "model-name": "43cam6sfhd"
+      },
+      "214": {
+            "model-name": "55s3g"
+      },
+      "215": {
+            "model-name": "50s3n"
+      },
+      "216": {
+            "model-name": "55-qdv"
+      },
+      "217": {
+            "model-name": "bla32ah410"
+      },
+      "218": {
+            "model-name": "32cam6shd"
+      },
+      "219": {
+            "model-name": "ua43nu6100kxxl-/-ua43nu6100klxl"
+      },
+      "220": {
+            "model-name": "55p8"
+      },
+      "221": {
+            "model-name": "43um7300pta"
+      },
+      "222": {
+            "model-name": "43ut"
+      },
+      "223": {
+            "model-name": "jsk40nsfhd"
+      },
+      "224": {
+            "model-name": "24vnshdm"
+      },
+      "225": {
+            "model-name": "32bfm"
+      },
+      "226": {
+            "model-name": "50th1000"
+      },
+      "227": {
+            "model-name": "bla43bs570"
+      },
+      "228": {
+            "model-name": "32lk536bptb"
+      },
+      "229": {
+            "model-name": "klv-24p413d"
+      },
+      "230": {
+            "model-name": "klv-40r352f"
+      },
+      "231": {
+            "model-name": "40vnsfhds"
+      },
+      "232": {
+            "model-name": "65-oath-7000"
+      },
+      "233": {
+            "model-name": "49uk6360pte"
+      },
+      "234": {
+            "model-name": "32lk628bptf"
+      },
+      "235": {
+            "model-name": "bla43as570"
+      },
+      "236": {
+            "model-name": "ua50nu7090kxxl"
+      },
+      "237": {
+            "model-name": "55k3a"
+      },
+      "238": {
+            "model-name": "kdl-43w800f"
+      },
+      "239": {
+            "model-name": "lei50uig"
+      },
+      "240": {
+            "model-name": "qa55ls03rakxxl"
+      },
+      "241": {
+            "model-name": "43s6500"
+      },
+      "242": {
+            "model-name": "43uj752t"
+      },
+      "243": {
+            "model-name": "ua32n4300arxxl-/-ua32n4300arlxl"
+      },
+      "244": {
+            "model-name": "klv-40r252f"
+      },
+      "245": {
+            "model-name": "jsk65lsuhd"
+      },
+      "246": {
+            "model-name": "l65m5-5sin"
+      },
+      "247": {
+            "model-name": "3201-pro-series"
+      },
+      "248": {
+            "model-name": "50fhdx900s"
+      },
+      "249": {
+            "model-name": "40s6500"
+      },
+      "250": {
+            "model-name": "bla43af520"
+      },
+      "251": {
+            "model-name": "43lk5260pta"
+      },
+      "252": {
+            "model-name": "le32k6500ag"
+      },
+      "253": {
+            "model-name": "kdl-43w800g"
+      },
+      "254": {
+            "model-name": "lei32sig1"
+      },
+      "255": {
+            "model-name": "bla50au680"
+      },
+      "256": {
+            "model-name": "t40bh30a"
+      },
+      "257": {
+            "model-name": "klv-43w672g"
+      },
+      "258": {
+            "model-name": "kdl-32w6100"
+      },
+      "259": {
+            "model-name": "klv-50w672g"
+      },
+      "260": {
+            "model-name": "49ta7000uhd"
+      },
+      "261": {
+            "model-name": "55put6103s/94"
+      },
+      "262": {
+            "model-name": "a-2400n"
+      },
+      "263": {
+            "model-name": "th-p50xt50d"
+      },
+      "264": {
+            "model-name": "th-p50x50d"
+      },
+      "265": {
+            "model-name": "bla49bu680"
+      },
+      "266": {
+            "model-name": "nb55su01"
+      },
+      "267": {
+            "model-name": "ua32n4200arxxl"
+      },
+      "268": {
+            "model-name": "kd-49x7002f"
+      },
+      "269": {
+            "model-name": "th-43gx500dx"
+      },
+      "270": {
+            "model-name": "58put6604/94"
+      },
+      "271": {
+            "model-name": "55um7300pta"
+      },
+      "272": {
+            "model-name": "le43k6600ga"
+      },
+      "273": {
+            "model-name": "32vnshdm"
+      },
+      "274": {
+            "model-name": "43pft5813s/94"
+      },
+      "275": {
+            "model-name": "ua43ru7100kxxl"
+      },
+      "276": {
+            "model-name": "65ut"
+      },
+      "277": {
+            "model-name": "kdl-43w6600"
+      },
+      "278": {
+            "model-name": "qa55q70rakxxl"
+      },
+      "279": {
+            "model-name": "49sauhd/49sahd-black"
+      },
+      "280": {
+            "model-name": "ua40n5000arxxl/ua40n5000arlxl"
+      },
+      "281": {
+            "model-name": "65-qdv-/-65-qdv--v1"
+      },
+      "282": {
+            "model-name": "rgl3201"
+      },
+      "283": {
+            "model-name": "55uhdxsmart-4k"
+      },
+      "284": {
+            "model-name": "32pht5813s/94"
+      },
+      "285": {
+            "model-name": "43lm6360ptb"
+      },
+      "286": {
+            "model-name": "ua55nu7090kxxl"
+      },
+      "287": {
+            "model-name": "43um7780pta"
+      },
+      "288": {
+            "model-name": "43um7600pta"
+      },
+      "289": {
+            "model-name": "ua49n5300arxxl"
+      },
+      "290": {
+            "model-name": "th-p50st50d"
+      },
+      "291": {
+            "model-name": "th-p50ut50d"
+      },
+      "292": {
+            "model-name": "th-p50gt50d"
+      },
+      "293": {
+            "model-name": "th-p50ut30d"
+      },
+      "294": {
+            "model-name": "rgs3202"
+      },
+      "295": {
+            "model-name": "gt-43x"
+      },
+      "296": {
+            "model-name": "th-p65vt30d"
+      },
+      "297": {
+            "model-name": "ps51d550"
+      },
+      "298": {
+            "model-name": "th-p50x30d"
+      },
+      "299": {
+            "model-name": "th-p50v20"
+      },
+      "300": {
+            "model-name": "th-p50st30d"
+      },
+      "301": {
+            "model-name": "th-l47et5d"
+      },
+      "302": {
+            "model-name": "th-p50vt20"
+      },
+      "303": {
+            "model-name": "46es6800"
+      },
+      "304": {
+            "model-name": "ua46f6100ar"
+      },
+      "305": {
+            "model-name": "46es6200"
+      },
+      "306": {
+            "model-name": "ua46es5600r"
+      },
+      "307": {
+            "model-name": "51e-470"
+      },
+      "308": {
+            "model-name": "th-l47e5d"
+      },
+      "309": {
+            "model-name": "46es7500"
+      },
+      "310": {
+            "model-name": "51e-550"
+      },
+      "311": {
+            "model-name": "50pn4500"
+      },
+      "312": {
+            "model-name": "51e-490"
+      },
+      "313": {
+            "model-name": "la32d450g1"
+      },
+      "314": {
+            "model-name": "46eh5000"
+      },
+      "315": {
+            "model-name": "46es8000"
+      },
+      "316": {
+            "model-name": "ua46f6400ar"
+      },
+      "317": {
+            "model-name": "th-p65vt20"
+      },
+      "318": {
+            "model-name": "ua55es6200e"
+      },
+      "319": {
+            "model-name": "ps51d490a1"
+      },
+      "320": {
+            "model-name": "d32c2"
+      },
+      "321": {
+            "model-name": "ua46f7500br"
+      },
+      "322": {
+            "model-name": "th-l47dt50d"
+      },
+      "323": {
+            "model-name": "th-l47et50d"
+      },
+      "324": {
+            "model-name": "th-l50em5d"
+      },
+      "325": {
+            "model-name": "50pw450"
+      },
+      "326": {
+            "model-name": "th-p42x50d"
+      },
+      "327": {
+            "model-name": "50pt350r"
+      },
+      "328": {
+            "model-name": "th-p42ut50d"
+      },
+      "329": {
+            "model-name": "th-p42xt50d"
+      },
+      "330": {
+            "model-name": "th-p42gt50d"
+      },
+      "331": {
+            "model-name": "ua46f8000ar"
+      },
+      "332": {
+            "model-name": "th-p42ut30d"
+      },
+      "333": {
+            "model-name": "th-p42st50d"
+      },
+      "334": {
+            "model-name": "ua55f6400ar"
+      },
+      "335": {
+            "model-name": "ua55f7500br"
+      },
+      "336": {
+            "model-name": "th-p42gt20d"
+      },
+      "337": {
+            "model-name": "48h4250"
+      },
+      "338": {
+            "model-name": "th-p42x20"
+      },
+      "339": {
+            "model-name": "50-qdv"
+      },
+      "340": {
+            "model-name": "ua46d7000lm"
+      },
+      "341": {
+            "model-name": "ua46d8000yr"
+      },
+      "342": {
+            "model-name": "th-l39em5d"
+      },
+      "343": {
+            "model-name": "ua46d6000sr"
+      },
+      "344": {
+            "model-name": "48ju6470"
+      },
+      "345": {
+            "model-name": "th-p42x30d"
+      },
+      "346": {
+            "model-name": "th-p42st30d"
+      },
+      "347": {
+            "model-name": "th-p42u30d"
+      },
+      "348": {
+            "model-name": "ua60f6400ar"
+      },
+      "349": {
+            "model-name": "leo32hmsf504l"
+      },
+      "350": {
+            "model-name": "klv-32r412d"
+      },
+      "351": {
+            "model-name": "ua55d6600wm"
+      },
+      "352": {
+            "model-name": "ps64d8000fr"
+      },
+      "353": {
+            "model-name": "55ju6470"
+      },
+      "354": {
+            "model-name": "cloud-tv-50su"
+      },
+      "355": {
+            "model-name": "47lm6410"
+      },
+      "356": {
+            "model-name": "55ku6470"
+      },
+      "357": {
+            "model-name": "43e-490"
+      },
+      "358": {
+            "model-name": "43f4100arl"
+      },
+      "359": {
+            "model-name": "32t8361hd/32t8352hd"
+      },
+      "360": {
+            "model-name": "24lh454a"
+      },
+      "361": {
+            "model-name": "50j5570"
+      },
+      "362": {
+            "model-name": "43e-400"
+      },
+      "363": {
+            "model-name": "43e-470"
+      },
+      "364": {
+            "model-name": "ps43d490"
+      },
+      "365": {
+            "model-name": "ps43d450"
+      },
+      "366": {
+            "model-name": "ua55f9000ar"
+      },
+      "367": {
+            "model-name": "th-32f201dx"
+      },
+      "368": {
+            "model-name": "32oa"
+      },
+      "369": {
+            "model-name": "40pl"
+      },
+      "370": {
+            "model-name": "32lk526bpta"
+      },
+      "371": {
+            "model-name": "60ku6000"
+      },
+      "372": {
+            "model-name": "55uk7500pta"
+      },
+      "373": {
+            "model-name": "32hs680a"
+      },
+      "374": {
+            "model-name": "65sauhdm"
+      },
+      "375": {
+            "model-name": "th-32e200dx"
+      },
+      "376": {
+            "model-name": "43-uh"
+      },
+      "377": {
+            "model-name": "th-49gx500dx"
+      },
+      "378": {
+            "model-name": "klv-32w672g"
+      },
+      "379": {
+            "model-name": "klv-32r302f"
+      },
+      "380": {
+            "model-name": "ua43k5002akxxl-/-ua43k5002aklxl"
+      },
+      "381": {
+            "model-name": "xt-43s8100fs"
+      },
+      "382": {
+            "model-name": "th-50c410d"
+      },
+      "383": {
+            "model-name": "75sauhdm"
+      },
+      "384": {
+            "model-name": "47lm6400"
+      },
+      "385": {
+            "model-name": "le43f9000ap"
+      },
+      "386": {
+            "model-name": "32vnshds"
+      },
+      "387": {
+            "model-name": "ua60d8000yr"
+      },
+      "388": {
+            "model-name": "40-canvas1pro"
+      },
+      "389": {
+            "model-name": "43-oath-1000"
+      },
+      "390": {
+            "model-name": "le32d2000"
+      },
+      "391": {
+            "model-name": "led-4301"
+      },
+      "392": {
+            "model-name": "32lk616bptb"
+      },
+      "393": {
+            "model-name": "ua75f6400ar"
+      },
+      "394": {
+            "model-name": "ua43nu7100kxxl/ua43nu7100klxl"
+      },
+      "395": {
+            "model-name": "th-49fs630d"
+      },
+      "396": {
+            "model-name": "55lm6700"
+      },
+      "397": {
+            "model-name": "43ga"
+      },
+      "398": {
+            "model-name": "th-49dx650d"
+      },
+      "399": {
+            "model-name": "ua65f8000ar"
+      },
+      "400": {
+            "model-name": "nb45mac01"
+      },
+      "401": {
+            "model-name": "ua50nu6100kxxl-/-ua50nu6100klxl"
+      },
+      "402": {
+            "model-name": "55lm7600"
+      },
+      "403": {
+            "model-name": "65f9000"
+      },
+      "404": {
+            "model-name": "60ln5710"
+      },
+      "405": {
+            "model-name": "ua43nu7090kxxl"
+      },
+      "406": {
+            "model-name": "50p8e"
+      },
+      "407": {
+            "model-name": "49lh600t"
+      },
+      "408": {
+            "model-name": "gloria-43"
+      },
+      "409": {
+            "model-name": "60la6200"
+      },
+      "410": {
+            "model-name": "gt-40x"
+      },
+      "411": {
+            "model-name": "th-49cs580d"
+      },
+      "412": {
+            "model-name": "ua43n5300arlxl/ua43n5300arxxl"
+      },
+      "413": {
+            "model-name": "55ut"
+      },
+      "414": {
+            "model-name": "49sj800t"
+      },
+      "415": {
+            "model-name": "klv-32r422f"
+      },
+      "416": {
+            "model-name": "nb39int01"
+      },
+      "417": {
+            "model-name": "43p8b"
+      },
+      "418": {
+            "model-name": "50um7300pta"
+      },
+      "419": {
+            "model-name": "50um7700pta"
+      },
+      "420": {
+            "model-name": "th-43fs601d"
+      },
+      "421": {
+            "model-name": "75h2a"
+      },
+      "422": {
+            "model-name": "th-60as700d"
+      },
+      "423": {
+            "model-name": "65sm9000pta"
+      },
+      "424": {
+            "model-name": "th-l42e5d"
+      },
+      "425": {
+            "model-name": "th-l32c5d"
+      },
+      "426": {
+            "model-name": "32b6"
+      },
+      "427": {
+            "motion-sensor": "yes"
+      },
+      "428": {
+            "motion-sensor": "no"
+      },
+      "429": {
+            "number-of-speakers": "2"
+      },
+      "430": {
+            "number-of-speakers": "4"
+      },
+      "431": {
+            "number-of-speakers": "3"
+      },
+      "432": "tizen",
+      "433": {
+            "power-consumption": "0.5-w-(standby)"
+      },
+      "434": {
+            "power-consumption": "45-w,-0.5-w-(standby)"
+      },
+      "435": {
+            "power-consumption": "50-w,-0.5-w-(standby)"
+      },
+      "436": {
+            "power-consumption": "75-w,-0.5-w-(standby)"
+      },
+      "437": {
+            "power-consumption": "74-w,-0.5-w-(standby)"
+      },
+      "438": {
+            "power-consumption": "85-w,-0.3-w-(standby)"
+      },
+      "439": {
+            "power-consumption": "125-w,-0.5-w-(standby)"
+      },
+      "440": {
+            "power-consumption": "85-w,-0.5-w-(standby)"
+      },
+      "441": {
+            "power-consumption": "60-w,-0.5-w-(standby)"
+      },
+      "442": {
+            "power-consumption": "120-w,-0.5-w-(standby)"
+      },
+      "443": {
+            "power-consumption": "55-w,-0.5-w-(standby)"
+      },
+      "444": {
+            "power-consumption": "54-w,-0.5-w-(standby)"
+      },
+      "445": {
+            "power-consumption": "100-w,-0.5-w-(standby)"
+      },
+      "446": {
+            "power-consumption": "70-w,-0.5-w-(standby)"
+      },
+      "447": {
+            "power-consumption": "40-w,-0.5-w-(standby)"
+      },
+      "448": {
+            "power-consumption": "98-w,-0.5-w-(standby)"
+      },
+      "449": {
+            "power-consumption": "47-w,-0.5-w-(standby)"
+      },
+      "450": {
+            "power-consumption": "150-w,-0.5-w-(standby)"
+      },
+      "451": {
+            "power-consumption": "95-w,-0.5-w-(standby)"
+      },
+      "452": {
+            "power-consumption": "57-w,-0.3-w-(standby)"
+      },
+      "453": {
+            "power-consumption": "100-w,-0.3-w-(standby)"
+      },
+      "454": {
+            "power-consumption": "48-w,-0.5-w-(standby)"
+      },
+      "455": {
+            "power-consumption": "80-w,-0.5-w-(standby)"
+      },
+      "456": {
+            "power-consumption": "130-w,-0.5-w-(standby)"
+      },
+      "457": {
+            "power-consumption": "135-w,-0.5-w-(standby)"
+      },
+      "458": {
+            "power-consumption": "97-w,-0.5-w-(standby)"
+      },
+      "459": {
+            "power-consumption": "180-w,-0.5-w-(standby)"
+      },
+      "460": {
+            "power-consumption": "69-w,-0.5-w-(standby)"
+      },
+      "461": {
+            "power-consumption": "155-w,-0.5-w-(standby)"
+      },
+      "462": {
+            "power-consumption": "160-w,-0.5-w-(standby)"
+      },
+      "463": {
+            "power-consumption": "65-w,-0.5-w-(standby)"
+      },
+      "464": {
+            "power-consumption": "110-w,-0.5-w-(standby)"
+      },
+      "465": {
+            "power-consumption": "130-w,-0.3-w-(standby)"
+      },
+      "466": {
+            "power-consumption": "0.3-w-(standby)"
+      },
+      "467": {
+            "power-consumption": "36-w,-0.28-w-(standby)"
+      },
+      "468": {
+            "power-consumption": "51-w,-0.5-w-(standby)"
+      },
+      "469": {
+            "power-consumption": "230-w,-0.5-w-(standby)"
+      },
+      "470": {
+            "power-consumption": "120-w,-0.3-w-(standby)"
+      },
+      "471": {
+            "power-consumption": "140-w,-0.5-w-(standby)"
+      },
+      "472": {
+            "power-consumption": "110-w,-0.3-w-(standby)"
+      },
+      "473": {
+            "power-consumption": "59-w,-0.5-w-(standby)"
+      },
+      "474": {
+            "power-consumption": "66-w,-0.5-w-(standby)"
+      },
+      "475": {
+            "power-consumption": "190-w,-0.5-w-(standby)"
+      },
+      "476": {
+            "power-consumption": "105-w,-0.5-w-(standby)"
+      },
+      "477": {
+            "power-consumption": "60-w,-0.3-w-(standby)"
+      },
+      "478": {
+            "power-consumption": "108-w,-0.5-w-(standby)"
+      },
+      "479": {
+            "power-consumption": "119-w,-0.5-w-(standby)"
+      },
+      "480": {
+            "power-consumption": "265-w,-0.4-w-(standby)"
+      },
+      "481": {
+            "power-consumption": "250-w,-0.4-w-(standby)"
+      },
+      "482": {
+            "power-consumption": "125-w,-0.3-w-(standby)"
+      },
+      "483": {
+            "power-consumption": "0.31-w-(standby)"
+      },
+      "484": {
+            "power-consumption": "200-w,-0.5-w-(standby)"
+      },
+      "485": {
+            "power-consumption": "420-w,-0.4-w-(standby)"
+      },
+      "486": {
+            "power-consumption": "300-w,-0.4-w-(standby)"
+      },
+      "487": {
+            "power-consumption": "425-w,-0.4-w-(standby)"
+      },
+      "488": {
+            "power-consumption": "330-w,-0.4-w-(standby)"
+      },
+      "489": {
+            "power-consumption": "320-w,-0.4-w-(standby)"
+      },
+      "490": {
+            "power-consumption": "415-w,-0.4-w-(standby)"
+      },
+      "491": {
+            "power-consumption": "425-w,-0.3-w-(standby)"
+      },
+      "492": {
+            "power-consumption": "137-w,-0.2-w-(standby)"
+      },
+      "493": {
+            "power-consumption": "495-w,-0.4-w-(standby)"
+      },
+      "494": {
+            "power-consumption": "0.1-w-(standby)"
+      },
+      "495": {
+            "power-consumption": "131-w,-0.3-w-(standby)"
+      },
+      "496": {
+            "power-consumption": "120-w,-0.15-w-(standby)"
+      },
+      "497": {
+            "power-consumption": "81.4-w,-0.1-w-(standby)"
+      },
+      "498": {
+            "power-consumption": "275-w,-0.3-w-(standby)"
+      },
+      "499": {
+            "power-consumption": "138-w,-0.3-w-(standby)"
+      },
+      "500": {
+            "power-consumption": "140-w,-0.3-w-(standby)"
+      },
+      "501": {
+            "power-consumption": "635-w,-0.4-w-(standby)"
+      },
+      "502": {
+            "power-consumption": "78-w,-0.3-w-(standby)"
+      },
+      "503": {
+            "power-consumption": "149-w,-0.3-w-(standby)"
+      },
+      "504": {
+            "power-consumption": "120-w,-0.2-w-(standby)"
+      },
+      "505": {
+            "power-consumption": "177-w,-0.3-w-(standby)"
+      },
+      "506": {
+            "power-consumption": "200-w,-0.4-w-(standby)"
+      },
+      "507": {
+            "power-consumption": "175-w,-0.3-w-(standby)"
+      },
+      "508": {
+            "power-consumption": "285-w,-0.4-w-(standby)"
+      },
+      "509": {
+            "power-consumption": "215-w,-0.4-w-(standby)"
+      },
+      "510": {
+            "power-consumption": "153-w,-0.3-w-(standby)"
+      },
+      "511": {
+            "power-consumption": "172-w,-0.3-w-(standby)"
+      },
+      "512": {
+            "power-consumption": "340-w,-0.4-w-(standby)"
+      },
+      "513": {
+            "power-consumption": "84-w,-0.3-w-(standby)"
+      },
+      "514": {
+            "power-consumption": "230-w,-0.4-w-(standby)"
+      },
+      "515": {
+            "power-consumption": "150-w,-0.1-w-(standby)"
+      },
+      "516": {
+            "power-consumption": "81-w,-0.3-w-(standby)"
+      },
+      "517": {
+            "power-consumption": "300-w,-0.3-w-(standby)"
+      },
+      "518": {
+            "power-consumption": "275-w,-0.4-w-(standby)"
+      },
+      "519": {
+            "power-consumption": "190-w,-0.3-w-(standby)"
+      },
+      "520": {
+            "power-consumption": "52-w,-0.5-w-(standby)"
+      },
+      "521": {
+            "power-consumption": "160-w,-0.1-w-(standby)"
+      },
+      "522": {
+            "power-consumption": "480-w,-1-w-(standby)"
+      },
+      "523": {
+            "power-consumption": "191-w,-0.5-w-(standby)"
+      },
+      "524": {
+            "power-consumption": "115-w,-0.3-w-(standby)"
+      },
+      "525": {
+            "power-consumption": "170-w,-0.3-w-(standby)"
+      },
+      "526": {
+            "power-consumption": "35-w,-0.3-w-(standby)"
+      },
+      "527": {
+            "power-consumption": "143-w,-0.3-w-(standby)"
+      },
+      "528": {
+            "power-consumption": "230-w,-1-w-(standby)"
+      },
+      "529": {
+            "power-consumption": "255-w,-0.5-w-(standby)"
+      },
+      "530": {
+            "power-consumption": "63-w,-0.35-w-(standby)"
+      },
+      "531": {
+            "power-consumption": "0.2-w-(standby)"
+      },
+      "532": {
+            "power-consumption": "50-w,-1-w-(standby)"
+      },
+      "533": {
+            "power-consumption": "78-w,-0.5-w-(standby)"
+      },
+      "534": {
+            "power-consumption": "39-w,-0.5-w-(standby)"
+      },
+      "535": {
+            "power-consumption": "290-w,-0.5-w-(standby)"
+      },
+      "536": {
+            "power-consumption": "309-w,-0.3-w-(standby)"
+      },
+      "537": {
+            "power-consumption": "117-w,-0.5-w-(standby)"
+      },
+      "538": {
+            "power-consumption": "126-w,-0.5-w-(standby)"
+      },
+      "539": {
+            "power-consumption": "203-w,-0.3-w-(standby)"
+      },
+      "540": {
+            "power-consumption": "283-w,-0.5-w-(standby)"
+      },
+      "541": {
+            "power-consumption": "1-w-(standby)"
+      },
+      "542": {
+            "power-consumption": "30-w,-0.3-w-(standby)"
+      },
+      "543": {
+            "power-consumption": "124-w,-0.2-w-(standby)"
+      },
+      "544": {
+            "power-consumption": "115-w,-0.5-w-(standby)"
+      },
+      "545": {
+            "power-consumption": "75-w,-0.3-w-(standby)"
+      },
+      "546": {
+            "power-consumption": "260-w,-0.5-w-(standby)"
+      },
+      "547": {
+            "power-consumption": "149-w,-0.2-w-(standby)"
+      },
+      "548": {
+            "power-consumption": "84-w,-0.15-w-(standby)"
+      },
+      "549": {
+            "power-consumption": "97-w,-0.6-w-(standby)"
+      },
+      "550": {
+            "power-consumption": "98-w,-0.3-w-(standby)"
+      },
+      "551": {
+            "power-requirement": "ac-100---240-v,-50/60-hz"
+      },
+      "552": {
+            "power-requirement": "90---240-v"
+      },
+      "553": {
+            "power-requirement": "ac-90---240-v,-50/60-hz"
+      },
+      "554": {
+            "power-requirement": "ac---220-v,-50-hz"
+      },
+      "555": {
+            "power-requirement": "ac-100---240-v"
+      },
+      "556": {
+            "power-requirement": "ac-100---240-v,-50-hz"
+      },
+      "557": {
+            "power-requirement": "ac-110---240-v,-50/60-hz"
+      },
+      "558": {
+            "power-requirement": "ac-220-v,-50-hz"
+      },
+      "559": {
+            "power-requirement": "ac-230-v"
+      },
+      "560": {
+            "power-requirement": "ac-110---240-v"
+      },
+      "561": {
+            "power-requirement": "ac-220---240-v,-50/60-hz"
+      },
+      "562": {
+            "power-requirement": "ac-100---250-v,-50/60/120-hz"
+      },
+      "563": {
+            "power-requirement": "ac-220---240-v"
+      },
+      "564": {
+            "power-requirement": "110---240-v,-50/60-hz"
+      },
+      "565": {
+            "power-requirement": "ac-100---260-v,-50/60-hz"
+      },
+      "566": {
+            "power-requirement": "ac-220---240-v,-60-hz"
+      },
+      "567": {
+            "power-requirement": "ac-100---240v,-50/60hz"
+      },
+      "568": {
+            "power-requirement": "100---240-v,-50/60-hz"
+      },
+      "569": {
+            "power-requirement": "ac-100---240-v-50/60-hz"
+      },
+      "570": {
+            "power-requirement": "50"
+      },
+      "571": {
+            "power-requirement": "ac-110-v---240-v,-50/60-hz"
+      },
+      "572": {
+            "power-requirement": "ac-100---250-v,-50/60-hz"
+      },
+      "573": {
+            "ram-capacity": "2.5-gb"
+      },
+      "574": {
+            "ram-capacity": "1-gb"
+      },
+      "575": {
+            "ram-capacity": "2-gb"
+      },
+      "576": {
+            "ram-capacity": "2.25-gb"
+      },
+      "577": {
+            "ram-capacity": "1.5-gb"
+      },
+      "578": {
+            "ram-capacity": "1.25-gb"
+      },
+      "579": {
+            "ram-capacity": "128-mb"
+      },
+      "580": {
+            "ram-capacity": "1.75-gb"
+      },
+      "581": {
+            "ram-capacity": "na"
+      },
+      "582": {
+            "ram-capacity": "2048-mb"
+      },
+      "583": {
+            "refresh-rate": "120-hz"
+      },
+      "584": {
+            "refresh-rate": "60-hz"
+      },
+      "585": {
+            "refresh-rate": "50-hz"
+      },
+      "586": {
+            "refresh-rate": "100-hz"
+      },
+      "587": {
+            "refresh-rate": "63-hz"
+      },
+      "588": {
+            "refresh-rate": "61-hz"
+      },
+      "589": {
+            "refresh-rate": "200-hz"
+      },
+      "590": {
+            "refresh-rate": "300-hz"
+      },
+      "591": {
+            "refresh-rate": "5-hz"
+      },
+      "592": {
+            "refresh-rate": "1000-hz"
+      },
+      "593": {
+            "screen-mirroring": "yes"
+      },
+      "594": "qled",
+      "595": {
+            "series": "the-frame"
+      },
+      "596": {
+            "series": "4a-pro"
+      },
+      "597": {
+            "series": "premium"
+      },
+      "598": {
+            "series": "all-in-one"
+      },
+      "599": {
+            "series": "xpro"
+      },
+      "600": {
+            "series": "b9-pro"
+      },
+      "601": {
+            "series": "ai-powered-k31"
+      },
+      "602": {
+            "series": "4a"
+      },
+      "603": {
+            "series": "r9"
+      },
+      "604": {
+            "series": "43-4k-xpro"
+      },
+      "605": {
+            "series": "s6500-series"
+      },
+      "606": {
+            "series": "bravia-r202g"
+      },
+      "607": {
+            "series": "ud9"
+      },
+      "608": {
+            "series": "900s"
+      },
+      "609": {
+            "series": "lm63"
+      },
+      "610": {
+            "series": "genz-smart"
+      },
+      "611": {
+            "series": "series-4"
+      },
+      "612": {
+            "series": "x900"
+      },
+      "613": {
+            "series": "50-4k-xpro"
+      },
+      "614": {
+            "series": "bravia-x7002g"
+      },
+      "615": {
+            "series": "bravia-w622g"
+      },
+      "616": {
+            "series": "pixelight"
+      },
+      "617": {
+            "series": "pro-view"
+      },
+      "618": {
+            "series": "super-6"
+      },
+      "619": {
+            "series": "innoview"
+      },
+      "620": {
+            "series": "bravia-r352f"
+      },
+      "621": {
+            "series": "ai-powered-k3a"
+      },
+      "622": {
+            "series": "bravia-w800f"
+      },
+      "623": {
+            "series": "p65-series"
+      },
+      "624": {
+            "series": "ultra-hd"
+      },
+      "625": {
+            "series": "bravia-r252f"
+      },
+      "626": {
+            "series": "4x"
+      },
+      "627": {
+            "series": "w800g-series"
+      },
+      "628": {
+            "series": "vivid-series"
+      },
+      "629": {
+            "series": "bravia-w672g"
+      },
+      "630": {
+            "series": "su55"
+      },
+      "631": {
+            "series": "n4200"
+      },
+      "632": {
+            "series": "bravia-x7002f"
+      },
+      "633": {
+            "series": "6600"
+      },
+      "634": {
+            "series": "q70rak"
+      },
+      "635": {
+            "series": "series-5"
+      },
+      "636": {
+            "series": "55-4k-xpro"
+      },
+      "637": {
+            "series": "bravia"
+      },
+      "638": {
+            "series": "cloud-tv"
+      },
+      "639": {
+            "series": "lh454a"
+      },
+      "640": {
+            "series": "bravia-r302f"
+      },
+      "641": {
+            "series": "smart"
+      },
+      "642": {
+            "series": "series-7"
+      },
+      "643": {
+            "series": "fs630-series"
+      },
+      "644": {
+            "series": "premium-android"
+      },
+      "645": {
+            "series": "mac-intelligent-smart"
+      },
+      "646": {
+            "series": "bravia-r422f"
+      },
+      "647": {
+            "series": "int"
+      },
+      "648": {
+            "smart-remote": "yes"
+      },
+      "649": {
+            "smart-remote": "no"
+      },
+      "650": {
+            "smart-tv": "yes"
+      },
+      "651": {
+            "smart-tv": "no"
+      },
+      "652": {
+            "speaker-output-rms": "40-w"
+      },
+      "653": {
+            "speaker-output-rms": "20-w"
+      },
+      "654": {
+            "speaker-output-rms": "24-w"
+      },
+      "655": {
+            "speaker-output-rms": "10-w"
+      },
+      "656": {
+            "speaker-output-rms": "24w"
+      },
+      "657": {
+            "speaker-output-rms": "30-w"
+      },
+      "658": {
+            "speaker-output-rms": "16-w"
+      },
+      "659": {
+            "speaker-output-rms": "35-w"
+      },
+      "660": {
+            "speaker-output-rms": "8-w-x-2"
+      },
+      "661": {
+            "speaker-output-rms": "70-w"
+      },
+      "662": {
+            "speaker-output-rms": "16"
+      },
+      "663": {
+            "speaker-output-rms": "14-w"
+      },
+      "664": {
+            "speaker-output-rms": "12-w-x-2-w"
+      },
+      "665": {
+            "speaker-output-rms": "10-w-x-2-w"
+      },
+      "666": {
+            "storage-memory": "8-gb"
+      },
+      "667": {
+            "storage-memory": "4-gb"
+      },
+      "668": {
+            "storage-memory": "16-gb"
+      },
+      "669": {
+            "storage-memory": "8-mb"
+      },
+      "670": {
+            "storage-memory": "na"
+      },
+      "671": {
+            "storage-memory": "rom:-8-gb-internal-memory"
+      },
+      "672": {
+            "supported-app---disney+hotstar": "yes"
+      },
+      "673": {
+            "supported-app---disney+hotstar": "no"
+      },
+      "674": {
+            "supported-app---netflix": "yes"
+      },
+      "675": {
+            "supported-app---netflix": "no"
+      },
+      "676": {
+            "supported-app---prime-video": "yes"
+      },
+      "677": {
+            "supported-app---prime-video": "no"
+      },
+      "678": {
+            "supported-app---youtube": "yes"
+      },
+      "679": {
+            "supported-app---youtube": "no"
+      },
+      "680": {
+            "touch-remote": "no"
+      },
+      "681": {
+            "touch-remote": "yes"
+      },
+      "682": {
+            "touchscreen": "no"
+      },
+      "683": {
+            "touchscreen": "yes"
+      },
+      "684": {
+            "usb": "2-side"
+      },
+      "685": {
+            "usb": "2-x-side"
+      },
+      "686": {
+            "usb": "2-back-left-side"
+      },
+      "687": {
+            "usb": "1-side"
+      },
+      "688": {
+            "usb": "3-x-side"
+      },
+      "689": {
+            "usb": "1-side,-1-bottom"
+      },
+      "690": {
+            "usb": "side"
+      },
+      "691": {
+            "usb": "2-rear"
+      },
+      "692": {
+            "usb": "2-rear-side"
+      },
+      "693": {
+            "usb": "1-left-rear"
+      },
+      "694": {
+            "usb": "1-rear,-1-side"
+      },
+      "695": {
+            "usb": "2"
+      },
+      "696": {
+            "usb": "location:-back"
+      },
+      "697": {
+            "usb": "1-side,-1-rear"
+      },
+      "698": {
+            "usb": "2-rear,-1-side"
+      },
+      "699": {
+            "usb": "3-side"
+      },
+      "700": {
+            "usb": "2-back"
+      },
+      "701": {
+            "usb": "1-side,-1-rear-bottom"
+      },
+      "702": {
+            "usb": "1-side,-1-back"
+      },
+      "703": {
+            "usb": "1-rear"
+      },
+      "704": {
+            "usb": "1"
+      },
+      "705": {
+            "usb": "location:-side"
+      },
+      "706": {
+            "usb": "3-(side)"
+      },
+      "707": {
+            "usb": "rear"
+      },
+      "708": {
+            "usb": "3"
+      },
+      "709": {
+            "usb": "2-(side),-1-(rear)"
+      },
+      "710": {
+            "usb": "2-(side)"
+      },
+      "711": {
+            "usb": "1-(side)"
+      },
+      "712": {
+            "usb": "back"
+      },
+      "713": {
+            "usb": "usb-2.0"
+      },
+      "714": {
+            "usb": "1-back"
+      },
+      "715": {
+            "usb": "1-side,-2-rear"
+      },
+      "716": {
+            "usb": "2-left-rear"
+      },
+      "717": {
+            "usb": "1-rear,-2-side"
+      },
+      "718": "technician-visit",
+      "719": {
+            "3g-dongle-plug-and-play": "no"
+      },
+      "720": {
+            "3g-dongle-plug-and-play": "yes"
+      },
+      "721": {
+            "analog-tv-reception": "yes"
+      },
+      "722": {
+            "analog-tv-reception": "no"
+      },
+      "723": {
+            "analog-tv-reception": "pal"
+      },
+      "724": {
+            "analog-tv-reception": "b/g,-d/k,-i,-m"
+      },
+      "725": {
+            "analog-tv-reception": "pal/secam-bg/dk,-pal-i,-ntsc-m"
+      },
+      "726": {
+            "app-store-type": "google-play-store"
+      },
+      "727": {
+            "app-store-type": "play-store"
+      },
+      "728": {
+            "app-store-type": "lg-content-store"
+      },
+      "729": {
+            "app-store-type": "google-app-store"
+      },
+      "730": {
+            "app-store-type": "no"
+      },
+      "731": {
+            "app-store-type": "tv-application-store"
+      },
+      "732": {
+            "app-store-type": "aptoide"
+      },
+      "733": {
+            "app-store-type": "app-store-type:-lg-store"
+      },
+      "734": {
+            "app-store-type": "android-open-source"
+      },
+      "735": {
+            "app-store-type": "yes"
+      },
+      "736": {
+            "app-store-type": "lg-store"
+      },
+      "737": {
+            "app-store-type": "opera-app-store"
+      },
+      "738": {
+            "app-store-type": "google-playstore"
+      },
+      "739": {
+            "app-store-type": "tizen"
+      },
+      "740": {
+            "app-store-type": "app-store-type:-panasonic-cloud"
+      },
+      "741": {
+            "app-store-type": "google"
+      },
+      "742": {
+            "aspect-ratio": "16:9"
+      },
+      "743": {
+            "aspect-ratio": "16:09"
+      },
+      "744": {
+            "aspect-ratio": "4:03"
+      },
+      "745": {
+            "aspect-ratio": "16:9-and-4:3"
+      },
+      "746": {
+            "aspect-ratio": "0.672916667"
+      },
+      "747": {
+            "aspect-ratio": "4:3"
+      },
+      "748": {
+            "aspect-ratio": "1"
+      },
+      "749": {
+            "aspect-ratio": "obsolete"
+      },
+      "750": {
+            "aspect-ratio": "\"16:09\""
+      },
+      "751": {
+            "aspect-ratio": "16:09,-4:3-and-autoscan"
+      },
+      "752": {
+            "brightness": "400-nits"
+      },
+      "753": {
+            "brightness": "350-nits"
+      },
+      "754": {
+            "brightness": "450-nits"
+      },
+      "755": {
+            "brightness": "270-nits"
+      },
+      "756": {
+            "brightness": "300-nits"
+      },
+      "757": {
+            "brightness": "280-nits"
+      },
+      "758": {
+            "brightness": "205-nits"
+      },
+      "759": {
+            "brightness": "500-nits"
+      },
+      "760": {
+            "brightness": "250-nits"
+      },
+      "761": {
+            "brightness": "550-nits"
+      },
+      "762": {
+            "brightness": "500-cd/m"
+      },
+      "763": {
+            "brightness": "320-nits"
+      },
+      "764": {
+            "brightness": "400-cd/m"
+      },
+      "765": {
+            "brightness": "180-nits"
+      },
+      "766": {
+            "brightness": "330-nits"
+      },
+      "767": {
+            "brightness": "250-cd/m"
+      },
+      "768": {
+            "brightness": "260-nits"
+      },
+      "769": {
+            "brightness": "240-nits"
+      },
+      "770": {
+            "brightness": "230-nits"
+      },
+      "771": {
+            "brightness": "340-nits"
+      },
+      "772": {
+            "brightness": "1500-cd/m\u00b2"
+      },
+      "773": {
+            "color-screen": "yes"
+      },
+      "774": {
+            "color-screen": "no"
+      },
+      "775": {
+            "component-in-(rgb-cable)": "spdif"
+      },
+      "776": {
+            "component-in-(rgb-cable)": "yes"
+      },
+      "777": {
+            "component-in-(rgb-cable)": "no"
+      },
+      "778": {
+            "component-in-(rgb-cable)": "1-(rear)"
+      },
+      "779": {
+            "component-in-(rgb-cable)": "0"
+      },
+      "780": {
+            "component-in-(rgb-cable)": "1-(lower)"
+      },
+      "781": {
+            "component-in-(rgb-cable)": "1"
+      },
+      "782": {
+            "component-in-(rgb-cable)": "2-(rear)"
+      },
+      "783": {
+            "component-in-(rgb-cable)": "component-input-(y-/-pb-/-pr):-1"
+      },
+      "784": {
+            "component-in-(rgb-cable)": "1-component-input-(y-/-pb-/-pr)"
+      },
+      "785": "english,-hindi",
+      "786": {
+            "content-providers": "netflix,youtube,-prime-video"
+      },
+      "787": {
+            "content-providers": "hotstar,-vlc,-gmail"
+      },
+      "788": {
+            "content-providers": "eros-now,-zee5"
+      },
+      "789": {
+            "content-providers": "na"
+      },
+      "790": {
+            "content-providers": "prime,-zee5"
+      },
+      "791": {
+            "content-providers": "netflix,-prime-video,-youtube"
+      },
+      "792": {
+            "content-providers": "netflix-and-youtube"
+      },
+      "793": {
+            "content-providers": "sensy"
+      },
+      "794": {
+            "content-providers": "no"
+      },
+      "795": {
+            "content-providers": "youtube,-netflix,-facebook"
+      },
+      "796": {
+            "content-providers": "google-play-and-movies"
+      },
+      "797": {
+            "content-providers": "youtube,-google-play-store"
+      },
+      "798": {
+            "content-providers": "youtube,-hotstar"
+      },
+      "799": {
+            "content-providers": "yes"
+      },
+      "800": {
+            "content-providers": "youtube,-netflix"
+      },
+      "801": {
+            "content-providers": "netflix,-youtube,-t-cast"
+      },
+      "802": {
+            "contrast-ratio": "3000:1-(static)"
+      },
+      "803": {
+            "contrast-ratio": "1000000:1-(dynamic)"
+      },
+      "804": {
+            "contrast-ratio": "10,000,000:1-(dynamic)"
+      },
+      "805": {
+            "contrast-ratio": "1200:01:00-(static)"
+      },
+      "806": {
+            "contrast-ratio": "4000:1-(static)"
+      },
+      "807": {
+            "contrast-ratio": "300000:1-(dynamic)"
+      },
+      "808": {
+            "contrast-ratio": "4500:01:00-(static)"
+      },
+      "809": {
+            "contrast-ratio": "na-(static)"
+      },
+      "810": {
+            "contrast-ratio": "1200:1-(static)"
+      },
+      "811": {
+            "contrast-ratio": "1100:1-(static)"
+      },
+      "812": {
+            "contrast-ratio": "5000:1-(static)"
+      },
+      "813": {
+            "contrast-ratio": "5000:01:00-(static)"
+      },
+      "814": {
+            "contrast-ratio": "200000:1-(dynamic)-(static)"
+      },
+      "815": {
+            "contrast-ratio": "2000:01:00-(static)"
+      },
+      "816": {
+            "contrast-ratio": "500000:1-(dynamic)"
+      },
+      "817": {
+            "contrast-ratio": "3000:01:00-(static)"
+      },
+      "818": {
+            "contrast-ratio": "125-(static)"
+      },
+      "819": {
+            "contrast-ratio": "200000:1-(dynamic)"
+      },
+      "820": {
+            "contrast-ratio": "1300:1-(static)"
+      },
+      "821": {
+            "contrast-ratio": "4000:01:00-(static)"
+      },
+      "822": {
+            "contrast-ratio": "3000000:1-(dynamic)"
+      },
+      "823": {
+            "contrast-ratio": "3000000:1-(static)"
+      },
+      "824": {
+            "contrast-ratio": "1000000:1-(static)"
+      },
+      "825": {
+            "contrast-ratio": "300000:1-(dynamic)-(static)"
+      },
+      "826": {
+            "contrast-ratio": "6000000:1-(dynamic)"
+      },
+      "827": {
+            "contrast-ratio": "4500:1-(static)"
+      },
+      "828": {
+            "contrast-ratio": "mega-contrast-(static)"
+      },
+      "829": {
+            "contrast-ratio": "3000000:1-(dynamic)-(static)"
+      },
+      "830": {
+            "contrast-ratio": "no-(dynamic)"
+      },
+      "831": {
+            "contrast-ratio": "3500000:1-(static)"
+      },
+      "832": {
+            "contrast-ratio": "1100:01:00-(static)"
+      },
+      "833": {
+            "contrast-ratio": "5500000:1-(static)"
+      },
+      "834": {
+            "contrast-ratio": "4000000:1-(static)"
+      },
+      "835": {
+            "contrast-ratio": "2000000:1-(dynamic)"
+      },
+      "836": {
+            "contrast-ratio": "5000000:1-(dynamic)"
+      },
+      "837": {
+            "contrast-ratio": "contrast-enhancer-(static)"
+      },
+      "838": {
+            "contrast-ratio": "8000000:1-(dynamic)"
+      },
+      "839": {
+            "contrast-ratio": "10000000:1-(static)"
+      },
+      "840": {
+            "contrast-ratio": "200000:1-(static)"
+      },
+      "841": {
+            "digital-tv-reception": "dvb-t/t2"
+      },
+      "842": {
+            "digital-tv-reception": "no"
+      },
+      "843": {
+            "digital-tv-reception": "yes"
+      },
+      "844": {
+            "digital-tv-reception": "terrestrial-dvb-t2"
+      },
+      "845": {
+            "digital-tv-reception": "terrestrial-dvb-t"
+      },
+      "846": {
+            "digital-tv-reception": "digital-broadcasting:-dvb-t2s2"
+      },
+      "847": {
+            "digital-tv-reception": "dvb---t2-/-s2"
+      },
+      "848": {
+            "digital-tv-reception": "digital-broadcasting:-yes"
+      },
+      "849": {
+            "ethernet-(rj45)": "1"
+      },
+      "850": {
+            "graphic-processor": "mali-470mp3"
+      },
+      "851": {
+            "graphic-processor": "mali-450-mp3"
+      },
+      "852": {
+            "graphic-processor": "dual-core"
+      },
+      "853": {
+            "graphic-processor": "mali470x3-600mhz-800mhz"
+      },
+      "854": {
+            "graphic-processor": "mali470mp3-(triple-core)"
+      },
+      "855": {
+            "graphic-processor": "mali450-quad-core"
+      },
+      "856": {
+            "graphic-processor": "mali-450mp-penta-core"
+      },
+      "857": {
+            "graphic-processor": "2-mali-470"
+      },
+      "858": {
+            "graphic-processor": "mali-470-open-gl-es2.0"
+      },
+      "859": {
+            "graphic-processor": "multi-core-mali-t720mp2"
+      },
+      "860": {
+            "graphic-processor": "mali-400-mp4"
+      },
+      "861": {
+            "graphic-processor": "malit860\u00a0gpu"
+      },
+      "862": {
+            "graphic-processor": "mali470-mp3"
+      },
+      "863": {
+            "graphic-processor": "penta-core-mali-450"
+      },
+      "864": {
+            "graphic-processor": "mali-450-quad-core,-490-mhz"
+      },
+      "865": {
+            "graphic-processor": "mali470-triple-core"
+      },
+      "866": {
+            "graphic-processor": "mali-450mp-penta-core-750-mhz"
+      },
+      "867": {
+            "graphic-processor": "no"
+      },
+      "868": {
+            "graphic-processor": "mali-720-dual-core"
+      },
+      "869": {
+            "graphic-processor": "mali-450-mp"
+      },
+      "870": {
+            "graphic-processor": "mali-450-mp-panta-core-750-mhz"
+      },
+      "871": {
+            "graphic-processor": "mali-t860-mp2-480-mhz"
+      },
+      "872": {
+            "headphone-jack": "no"
+      },
+      "873": {
+            "headphone-jack": "yes"
+      },
+      "874": {
+            "headphone-jack": "1"
+      },
+      "875": {
+            "headphone-jack": "1-(side)"
+      },
+      "876": {
+            "headphone-jack": "1-(lower)"
+      },
+      "877": {
+            "headphone-jack": "1-(rear)-(rca-analog-output)"
+      },
+      "878": {
+            "headphone-jack": "1-(rear)"
+      },
+      "879": {
+            "headphone-jack": "1-rear"
+      },
+      "880": {
+            "ir-capable": "yes"
+      },
+      "881": {
+            "internet-access": "yes"
+      },
+      "882": {
+            "internet-access": "no"
+      },
+      "883": {
+            "led-backlit-buttons": "no"
+      },
+      "884": {
+            "nfc-support": "no"
+      },
+      "885": {
+            "number-of-cores": "4"
+      },
+      "886": {
+            "number-of-cores": "1"
+      },
+      "887": {
+            "number-of-cores": "2"
+      },
+      "888": {
+            "number-of-cores": "3"
+      },
+      "889": "android",
+      "890": {
+            "operating-system-present": "yes"
+      },
+      "891": {
+            "other-dimensions": "yes"
+      },
+      "892": {
+            "other-dimensions": "gross-weight:-15.5-kg"
+      },
+      "893": {
+            "picture-and-picture-(pap)": "no"
+      },
+      "894": {
+            "picture-and-picture-(pap)": "yes"
+      },
+      "895": {
+            "picture-engine": "chroma-boost"
+      },
+      "896": {
+            "picture-engine": "hi-end-quad-core-processor"
+      },
+      "897": {
+            "picture-engine": "ai-picture-engine"
+      },
+      "898": {
+            "picture-engine": "clcp"
+      },
+      "899": {
+            "picture-engine": "yes"
+      },
+      "900": {
+            "picture-engine": "hyper-real"
+      },
+      "901": {
+            "picture-engine": "pixel-plus-hd"
+      },
+      "902": {
+            "picture-engine": "hi-end-dual-core-processor"
+      },
+      "903": {
+            "picture-engine": "trochilus-extreme"
+      },
+      "904": {
+            "picture-engine": "hi-end-processor"
+      },
+      "905": {
+            "picture-engine": "x-reality-pro"
+      },
+      "906": {
+            "picture-engine": "pixel-precise-ultra-hd"
+      },
+      "907": {
+            "picture-engine": "3d-hyper-real-engine"
+      },
+      "908": {
+            "picture-engine": "triple-xd-engine"
+      },
+      "909": {
+            "picture-engine": "hyperreal"
+      },
+      "910": {
+            "picture-engine": "3d-hyper-real-picture-engine"
+      },
+      "911": {
+            "picture-engine": "3d-hyperreal"
+      },
+      "912": {
+            "picture-engine": "2011-xd"
+      },
+      "913": {
+            "picture-engine": "uhd-up-scaling-picture-engine"
+      },
+      "914": {
+            "picture-engine": "x---reality-pro"
+      },
+      "915": {
+            "picture-engine": "xd-engine"
+      },
+      "916": {
+            "picture-engine": "hyperreal-engine"
+      },
+      "917": {
+            "picture-engine": "hyper-real-picture-engine"
+      },
+      "918": {
+            "picture-engine": "triple-xd"
+      },
+      "919": {
+            "processor": "mediatek-quad-core-6883"
+      },
+      "920": {
+            "processor": "amlogic-64-bit-quad-core"
+      },
+      "921": {
+            "processor": "quad-core"
+      },
+      "922": {
+            "processor": "cortex-ca53"
+      },
+      "923": {
+            "processor": "ca53-quad-core,-1-ghz"
+      },
+      "924": {
+            "processor": "32-bit-single-core"
+      },
+      "925": {
+            "processor": "quad-core-a53-cpu"
+      },
+      "926": {
+            "processor": "ca53-64-bit"
+      },
+      "927": {
+            "processor": "ca53-quad-core,-1ghz"
+      },
+      "928": {
+            "processor": "quad-core-processor"
+      },
+      "929": {
+            "processor": "arm-cortex-ca53,-64-bit"
+      },
+      "930": {
+            "processor": "arm-cortex-a7"
+      },
+      "931": {
+            "processor": "single-core"
+      },
+      "932": {
+            "processor": "a55-quad-core,-1.2-ghz"
+      },
+      "933": {
+            "processor": "dual-core"
+      },
+      "934": {
+            "processor": "cortex-a53-quad-core-1.5-ghz"
+      },
+      "935": {
+            "processor": "mtk-cortex-a55-quad-core"
+      },
+      "936": {
+            "processor": "quadcore"
+      },
+      "937": {
+            "processor": "arm-cortex-a53"
+      },
+      "938": {
+            "processor": "ca53-64-bit-1.1-ghz"
+      },
+      "939": {
+            "rf-capable": "yes"
+      },
+      "940": {
+            "rf-capable": "no"
+      },
+      "941": {
+            "remote-charger": "no"
+      },
+      "942": "led",
+      "943": {
+            "sound-technology": "dolby"
+      },
+      "944": {
+            "sound-technology": "dts-hd"
+      },
+      "945": {
+            "sound-technology": "dolby-digital-plus-dtl-virtual-x"
+      },
+      "946": {
+            "sound-technology": "dts"
+      },
+      "947": {
+            "sound-technology": "surround"
+      },
+      "948": {
+            "sound-technology": "dolby-audio-ms-12"
+      },
+      "949": {
+            "sound-technology": "dolby-audio"
+      },
+      "950": {
+            "sound-technology": "free-edge-speaker-,surround"
+      },
+      "951": {
+            "sound-technology": "dolby-audio,-dts-trusurround"
+      },
+      "952": {
+            "sound-technology": "dolby-digital-plus"
+      },
+      "953": {
+            "sound-technology": "incredible-surround,-smart-sound"
+      },
+      "954": {
+            "sound-technology": "dolby-digital-and-dts-true-sound"
+      },
+      "955": {
+            "sound-technology": "immersive-high-quality-sound"
+      },
+      "956": {
+            "sound-technology": "dolby-digital,-dts-trusurround"
+      },
+      "957": {
+            "sound-technology": "dolby-digital"
+      },
+      "958": {
+            "sound-technology": "surround-sound"
+      },
+      "959": {
+            "sound-technology": "dolby-pulse"
+      },
+      "960": {
+            "sound-technology": "dolby-digital-decoder"
+      },
+      "961": {
+            "sound-technology": "dolby-pulse,-dolby-digital-plus"
+      },
+      "962": {
+            "sound-technology": "infinite-surround"
+      },
+      "963": {
+            "sound-technology": "dolby-digital-sound"
+      },
+      "964": {
+            "sound-technology": "dts-codec,-dolby-digital-plus"
+      },
+      "965": {
+            "sound-technology": "dolby,-dts"
+      },
+      "966": {
+            "speaker-type": "box"
+      },
+      "967": {
+            "speaker-type": "stereo"
+      },
+      "968": {
+            "speaker-type": "box-speaker"
+      },
+      "969": {
+            "speaker-type": "bottam-speaker-with-dts-sound"
+      },
+      "970": {
+            "speaker-type": "free-edge-speaker"
+      },
+      "971": {
+            "speaker-type": "box-speakers"
+      },
+      "972": {
+            "speaker-type": "bottom"
+      },
+      "973": {
+            "speaker-type": "magnet"
+      },
+      "974": {
+            "speaker-type": "box-type"
+      },
+      "975": {
+            "speaker-type": "integrated-speaker-box"
+      },
+      "976": {
+            "speaker-type": "bottom-firing"
+      },
+      "977": {
+            "speaker-type": "down-firing"
+      },
+      "978": {
+            "speaker-type": "flat-panel"
+      },
+      "979": {
+            "speaker-type": "front-firing-speaker"
+      },
+      "980": {
+            "speaker-type": "full-range"
+      },
+      "981": {
+            "speaker-type": "stereo-box-speaker"
+      },
+      "982": {
+            "speaker-type": "bass-reflex-speaker"
+      },
+      "983": {
+            "speaker-type": "down-firing-with-bass-reflex"
+      },
+      "984": {
+            "speaker-type": "down-firing-and-full-range"
+      },
+      "985": {
+            "speaker-type": "1-way-2-speakers"
+      },
+      "986": {
+            "speaker-type": "down-firing,-full-range"
+      },
+      "987": {
+            "speaker-type": "down-firing-+-bass-reflex"
+      },
+      "988": {
+            "speaker-type": "clear-phase-speaker"
+      },
+      "989": {
+            "speaker-type": "down-firing-+-base-reflex"
+      },
+      "990": {
+            "speaker-type": "2.0-channel-(down-firing)"
+      },
+      "991": {
+            "speaker-type": "2-way-3-speakers"
+      },
+      "992": "mobile",
+      "993": {
+            "surround-sound": "yes"
+      },
+      "994": {
+            "surround-sound": "stereo-sound"
+      },
+      "995": {
+            "surround-sound": "dts-virtual-x-surround"
+      },
+      "996": {
+            "surround-sound": "dts-trusurround"
+      },
+      "997": {
+            "surround-sound": "no"
+      },
+      "998": {
+            "surround-sound": "wma,-mp3,-m4a"
+      },
+      "999": {
+            "surround-sound": "dts-virtual:-x"
+      },
+      "1000": {
+            "surround-sound": "dts-virual-x-surround-sound"
+      },
+      "1001": {
+            "surround-sound": "s-force-front-surround"
+      },
+      "1002": {
+            "surround-sound": "quad-driver-speakers"
+      },
+      "1003": {
+            "surround-sound": "v-audio-prosurround"
+      },
+      "1004": {
+            "surround-sound": "v-audio-surround-sound"
+      },
+      "1005": {
+            "surround-sound": "dolby-atmos-surround"
+      },
+      "1006": {
+            "surround-sound": "v-audio-surround"
+      },
+      "1007": {
+            "surround-sound": "srs-theatresound-hd"
+      },
+      "1008": {
+            "surround-sound": "srs-theatresound"
+      },
+      "1009": {
+            "surround-sound": "dnse"
+      },
+      "1010": {
+            "surround-sound": "srs-theatersound-hd"
+      },
+      "1011": {
+            "surround-sound": "srs-dnse"
+      },
+      "1012": {
+            "surround-sound": "virtual-surround"
+      },
+      "1013": {
+            "surround-sound": "infinite-3d-surround"
+      },
+      "1014": {
+            "surround-sound": "virtual-sound"
+      },
+      "1015": {
+            "surround-sound": "v-audio-surround-mode"
+      },
+      "1016": {
+            "surround-sound": "infinite-surround"
+      },
+      "1017": {
+            "surround-sound": "virtual-surround-plus"
+      },
+      "1018": {
+            "surround-sound": "ultra-surround"
+      },
+      "1019": {
+            "view-angle": "178-x-178-degree"
+      },
+      "1020": {
+            "view-angle": "178-degree"
+      },
+      "1021": {
+            "view-angle": "178/178-degree"
+      },
+      "1022": {
+            "view-angle": "89-degree"
+      },
+      "1023": {
+            "view-angle": "178-degreec"
+      },
+      "1024": {
+            "view-angle": "176-degree"
+      },
+      "1025": {
+            "view-angle": "178\u00b0-degree"
+      },
+      "1026": {
+            "view-angle": "178degree-degree"
+      },
+      "1027": {
+            "view-angle": "176\u00b0-degree"
+      },
+      "1028": {
+            "view-angle": "170-degree"
+      },
+      "1029": {
+            "weight-(with-stand)": "3.7-kg"
+      },
+      "1030": {
+            "weight-(with-stand)": "3.9-kg"
+      },
+      "1031": {
+            "weight-(with-stand)": "7.1-kg"
+      },
+      "1032": {
+            "weight-(with-stand)": "7.464-kg"
+      },
+      "1033": {
+            "weight-(with-stand)": "6.8-kg"
+      },
+      "1034": {
+            "weight-(with-stand)": "12-kg"
+      },
+      "1035": {
+            "weight-(with-stand)": "7.2-kg"
+      },
+      "1036": {
+            "weight-(with-stand)": "4-kg"
+      },
+      "1037": {
+            "weight-(with-stand)": "9.4-kg"
+      },
+      "1038": {
+            "weight-(with-stand)": "5.9-kg"
+      },
+      "1039": {
+            "weight-(with-stand)": "6.9-kg"
+      },
+      "1040": {
+            "weight-(with-stand)": "3.58-kg"
+      },
+      "1041": {
+            "weight-(with-stand)": "10.1-kg"
+      },
+      "1042": {
+            "weight-(with-stand)": "6.72-kg"
+      },
+      "1043": {
+            "weight-(with-stand)": "3.5-kg"
+      },
+      "1044": {
+            "weight-(with-stand)": "7.25-kg"
+      },
+      "1045": {
+            "weight-(with-stand)": "7.8-kg"
+      },
+      "1046": {
+            "weight-(with-stand)": "12.6-kg"
+      },
+      "1047": {
+            "weight-(with-stand)": "11.5-kg"
+      },
+      "1048": {
+            "weight-(with-stand)": "7.07-kg"
+      },
+      "1049": {
+            "weight-(with-stand)": "10.2-kg"
+      },
+      "1050": {
+            "weight-(with-stand)": "10-kg"
+      },
+      "1051": {
+            "weight-(with-stand)": "6.25-kg"
+      },
+      "1052": {
+            "weight-(with-stand)": "6.1-kg"
+      },
+      "1053": {
+            "weight-(with-stand)": "5.8-kg"
+      },
+      "1054": {
+            "weight-(with-stand)": "7.5-kg"
+      },
+      "1055": {
+            "weight-(with-stand)": "17.4-kg"
+      },
+      "1056": {
+            "weight-(with-stand)": "5-kg"
+      },
+      "1057": {
+            "weight-(with-stand)": "20.2-kg"
+      },
+      "1058": {
+            "weight-(with-stand)": "6.4-kg"
+      },
+      "1059": {
+            "weight-(with-stand)": "10.9-kg"
+      },
+      "1060": {
+            "weight-(with-stand)": "9.5-kg"
+      },
+      "1061": {
+            "weight-(with-stand)": "17-kg"
+      },
+      "1062": {
+            "weight-(with-stand)": "8.1-kg"
+      },
+      "1063": {
+            "weight-(with-stand)": "5.55-kg"
+      },
+      "1064": {
+            "weight-(with-stand)": "11.3-kg"
+      },
+      "1065": {
+            "weight-(with-stand)": "9.9-kg"
+      },
+      "1066": {
+            "weight-(with-stand)": "14.2-kg"
+      },
+      "1067": {
+            "weight-(with-stand)": "15.4-mm"
+      },
+      "1068": {
+            "weight-(with-stand)": "7.4-kg"
+      },
+      "1069": {
+            "weight-(with-stand)": "25.5-kg"
+      },
+      "1070": {
+            "weight-(with-stand)": "22.5-kg"
+      },
+      "1071": {
+            "weight-(with-stand)": "18-kg"
+      },
+      "1072": {
+            "weight-(with-stand)": "14.5-kg"
+      },
+      "1073": {
+            "weight-(with-stand)": "7.3-kg"
+      },
+      "1074": {
+            "weight-(with-stand)": "8-kg"
+      },
+      "1075": {
+            "weight-(with-stand)": "9.6-kg"
+      },
+      "1076": {
+            "weight-(with-stand)": "27-kg"
+      },
+      "1077": {
+            "weight-(with-stand)": "26-kg"
+      },
+      "1078": {
+            "weight-(with-stand)": "34-kg"
+      },
+      "1079": {
+            "weight-(with-stand)": "29.5-kg"
+      },
+      "1080": {
+            "weight-(with-stand)": "30-kg"
+      },
+      "1081": {
+            "weight-(with-stand)": "20.5-kg"
+      },
+      "1082": {
+            "weight-(with-stand)": "30.5-kg"
+      },
+      "1083": {
+            "weight-(with-stand)": "15.1-kg"
+      },
+      "1084": {
+            "weight-(with-stand)": "13-kg"
+      },
+      "1085": {
+            "weight-(with-stand)": "15-kg"
+      },
+      "1086": {
+            "weight-(with-stand)": "15.3-kg"
+      },
+      "1087": {
+            "weight-(with-stand)": "20.8-kg"
+      },
+      "1088": {
+            "weight-(with-stand)": "20-kg"
+      },
+      "1089": {
+            "weight-(with-stand)": "13.8-kg"
+      },
+      "1090": {
+            "weight-(with-stand)": "25.1-kg"
+      },
+      "1091": {
+            "weight-(with-stand)": "25.4-kg"
+      },
+      "1092": {
+            "weight-(with-stand)": "23.6-kg"
+      },
+      "1093": {
+            "weight-(with-stand)": "17.3-kg"
+      },
+      "1094": {
+            "weight-(with-stand)": "14-kg"
+      },
+      "1095": {
+            "weight-(with-stand)": "14.6-kg"
+      },
+      "1096": {
+            "weight-(with-stand)": "13.1-kg"
+      },
+      "1097": {
+            "weight-(with-stand)": "54.5-kg"
+      },
+      "1098": {
+            "weight-(with-stand)": "18.4-kg"
+      },
+      "1099": {
+            "weight-(with-stand)": "25.8-kg"
+      },
+      "1100": {
+            "weight-(with-stand)": "4.28-kg"
+      },
+      "1101": {
+            "weight-(with-stand)": "15.7-kg"
+      },
+      "1102": {
+            "weight-(with-stand)": "19-kg"
+      },
+      "1103": {
+            "weight-(with-stand)": "21-kg"
+      },
+      "1104": {
+            "weight-(with-stand)": "17.5-kg"
+      },
+      "1105": {
+            "weight-(with-stand)": "29.6-kg"
+      },
+      "1106": {
+            "weight-(with-stand)": "18.5-kg"
+      },
+      "1107": {
+            "weight-(with-stand)": "19.5-kg"
+      },
+      "1108": {
+            "weight-(with-stand)": "23.5-kg"
+      },
+      "1109": {
+            "weight-(with-stand)": "13.6-kg"
+      },
+      "1110": {
+            "weight-(with-stand)": "14.4-kg"
+      },
+      "1111": {
+            "weight-(with-stand)": "14.3-kg"
+      },
+      "1112": {
+            "weight-(with-stand)": "17.1-kg"
+      },
+      "1113": {
+            "weight-(with-stand)": "26.5-kg"
+      },
+      "1114": {
+            "weight-(with-stand)": "23-kg"
+      },
+      "1115": {
+            "weight-(with-stand)": "21.9-kg"
+      },
+      "1116": {
+            "weight-(with-stand)": "38.3-kg"
+      },
+      "1117": {
+            "weight-(with-stand)": "11.2-kg"
+      },
+      "1118": {
+            "weight-(with-stand)": "18.3-kg"
+      },
+      "1119": {
+            "weight-(with-stand)": "19.1-kg"
+      },
+      "1120": {
+            "weight-(with-stand)": "18.2-kg"
+      },
+      "1121": {
+            "weight-(with-stand)": "14.8-kg"
+      },
+      "1122": {
+            "weight-(with-stand)": "3.4-kg"
+      },
+      "1123": {
+            "weight-(with-stand)": "13.4-kg"
+      },
+      "1124": {
+            "weight-(with-stand)": "15.4-kg"
+      },
+      "1125": {
+            "weight-(with-stand)": "17.6-kg"
+      },
+      "1126": {
+            "weight-(with-stand)": "5.5-kg"
+      },
+      "1127": {
+            "weight-(with-stand)": "8.3-kg"
+      },
+      "1128": {
+            "weight-(with-stand)": "10.5-kg"
+      },
+      "1129": {
+            "weight-(with-stand)": "7.6-kg"
+      },
+      "1130": {
+            "weight-(with-stand)": "35.9-kg"
+      },
+      "1131": {
+            "weight-(with-stand)": "24.8-kg"
+      },
+      "1132": {
+            "weight-(with-stand)": "25-kg"
+      },
+      "1133": {
+            "weight-(with-stand)": "22.2-kg"
+      },
+      "1134": {
+            "weight-(with-stand)": "34.2-kg"
+      },
+      "1135": {
+            "weight-(with-stand)": "26.3-kg"
+      },
+      "1136": {
+            "weight-(with-stand)": "12.1-kg"
+      },
+      "1137": {
+            "weight-(with-stand)": "16-kg"
+      },
+      "1138": {
+            "weight-(with-stand)": "33-kg"
+      },
+      "1139": {
+            "weight-(without-stand)": "3.6-kg"
+      },
+      "1140": {
+            "weight-(without-stand)": "3.855-kg"
+      },
+      "1141": {
+            "weight-(without-stand)": "6.9-kg"
+      },
+      "1142": {
+            "weight-(without-stand)": "5.1-kg"
+      },
+      "1143": {
+            "weight-(without-stand)": "7.4-kg"
+      },
+      "1144": {
+            "weight-(without-stand)": "6.7-kg"
+      },
+      "1145": {
+            "weight-(without-stand)": "11.9-kg"
+      },
+      "1146": {
+            "weight-(without-stand)": "7-kg"
+      },
+      "1147": {
+            "weight-(without-stand)": "3.85-kg"
+      },
+      "1148": {
+            "weight-(without-stand)": "9.3-kg"
+      },
+      "1149": {
+            "weight-(without-stand)": "3.9-kg"
+      },
+      "1150": {
+            "weight-(without-stand)": "5.9-kg"
+      },
+      "1151": {
+            "weight-(without-stand)": "6.8-kg"
+      },
+      "1152": {
+            "weight-(without-stand)": "3.53-kg"
+      },
+      "1153": {
+            "weight-(without-stand)": "9.8-kg"
+      },
+      "1154": {
+            "weight-(without-stand)": "6.5-kg"
+      },
+      "1155": {
+            "weight-(without-stand)": "3.75-kg"
+      },
+      "1156": {
+            "weight-(without-stand)": "3.5-kg"
+      },
+      "1157": {
+            "weight-(without-stand)": "7.7-kg"
+      },
+      "1158": {
+            "weight-(without-stand)": "8-kg"
+      },
+      "1159": {
+            "weight-(without-stand)": "12.3-kg"
+      },
+      "1160": {
+            "weight-(without-stand)": "11.1-kg"
+      },
+      "1161": {
+            "weight-(without-stand)": "6.85-kg"
+      },
+      "1162": {
+            "weight-(without-stand)": "3.8-kg"
+      },
+      "1163": {
+            "weight-(without-stand)": "6-kg"
+      },
+      "1164": {
+            "weight-(without-stand)": "10-kg"
+      },
+      "1165": {
+            "weight-(without-stand)": "5-kg"
+      },
+      "1166": {
+            "weight-(without-stand)": "17.1-kg"
+      },
+      "1167": {
+            "weight-(without-stand)": "4.7-kg"
+      },
+      "1168": {
+            "weight-(without-stand)": "9-kg"
+      },
+      "1169": {
+            "weight-(without-stand)": "19.6-kg"
+      },
+      "1170": {
+            "weight-(without-stand)": "6.34-kg"
+      },
+      "1171": {
+            "weight-(without-stand)": "10.5-kg"
+      },
+      "1172": {
+            "weight-(without-stand)": "9.45-kg"
+      },
+      "1173": {
+            "weight-(without-stand)": "16.7-kg"
+      },
+      "1174": {
+            "weight-(without-stand)": "3.7-kg"
+      },
+      "1175": {
+            "weight-(without-stand)": "5.5-kg"
+      },
+      "1176": {
+            "weight-(without-stand)": "5.8-kg"
+      },
+      "1177": {
+            "weight-(without-stand)": "7.9-kg"
+      },
+      "1178": {
+            "weight-(without-stand)": "9.4-kg"
+      },
+      "1179": {
+            "weight-(without-stand)": "13.3-kg"
+      },
+      "1180": {
+            "weight-(without-stand)": "7.3-kg"
+      },
+      "1181": {
+            "weight-(without-stand)": "12-kg"
+      },
+      "1182": {
+            "weight-(without-stand)": "4.8-kg"
+      },
+      "1183": {
+            "weight-(without-stand)": "22-kg"
+      },
+      "1184": {
+            "weight-(without-stand)": "21-kg"
+      },
+      "1185": {
+            "weight-(without-stand)": "17.8-kg"
+      },
+      "1186": {
+            "weight-(without-stand)": "14.3-kg"
+      },
+      "1187": {
+            "weight-(without-stand)": "7.1-kg"
+      },
+      "1188": {
+            "weight-(without-stand)": "11-kg"
+      },
+      "1189": {
+            "weight-(without-stand)": "9.5-kg"
+      },
+      "1190": {
+            "weight-(without-stand)": "23-kg"
+      },
+      "1191": {
+            "weight-(without-stand)": "30.5-kg"
+      },
+      "1192": {
+            "weight-(without-stand)": "26.5-kg"
+      },
+      "1193": {
+            "weight-(without-stand)": "26-kg"
+      },
+      "1194": {
+            "weight-(without-stand)": "17-kg"
+      },
+      "1195": {
+            "weight-(without-stand)": "27.5-kg"
+      },
+      "1196": {
+            "weight-(without-stand)": "13.2-kg"
+      },
+      "1197": {
+            "weight-(without-stand)": "11.5-kg"
+      },
+      "1198": {
+            "weight-(without-stand)": "13.18-kg"
+      },
+      "1199": {
+            "weight-(without-stand)": "16.5-kg"
+      },
+      "1200": {
+            "weight-(without-stand)": "21.1-kg"
+      },
+      "1201": {
+            "weight-(without-stand)": "24-kg"
+      },
+      "1202": {
+            "weight-(without-stand)": "13.74-kg"
+      },
+      "1203": {
+            "weight-(without-stand)": "11.98-kg"
+      },
+      "1204": {
+            "weight-(without-stand)": "48-kg"
+      },
+      "1205": {
+            "weight-(without-stand)": "16.6-kg"
+      },
+      "1206": {
+            "weight-(without-stand)": "21.6-kg"
+      },
+      "1207": {
+            "weight-(without-stand)": "4.22-kg"
+      },
+      "1208": {
+            "weight-(without-stand)": "11.4-kg"
+      },
+      "1209": {
+            "weight-(without-stand)": "13-kg"
+      },
+      "1210": {
+            "weight-(without-stand)": "15-kg"
+      },
+      "1211": {
+            "weight-(without-stand)": "17.5-kg"
+      },
+      "1212": {
+            "weight-(without-stand)": "27.2-kg"
+      },
+      "1213": {
+            "weight-(without-stand)": "16-kg"
+      },
+      "1214": {
+            "weight-(without-stand)": "27.3-kg"
+      },
+      "1215": {
+            "weight-(without-stand)": "12.8-kg"
+      },
+      "1216": {
+            "weight-(without-stand)": "16.9-kg"
+      },
+      "1217": {
+            "weight-(without-stand)": "15.2-kg"
+      },
+      "1218": {
+            "weight-(without-stand)": "20.5-kg"
+      },
+      "1219": {
+            "weight-(without-stand)": "12.5-kg"
+      },
+      "1220": {
+            "weight-(without-stand)": "12.4-kg"
+      },
+      "1221": {
+            "weight-(without-stand)": "13.5-kg"
+      },
+      "1222": {
+            "weight-(without-stand)": "23.5-kg"
+      },
+      "1223": {
+            "weight-(without-stand)": "19.5-kg"
+      },
+      "1224": {
+            "weight-(without-stand)": "22.8-kg"
+      },
+      "1225": {
+            "weight-(without-stand)": "6.4-kg"
+      },
+      "1226": {
+            "weight-(without-stand)": "17.2-kg"
+      },
+      "1227": {
+            "weight-(without-stand)": "35-kg"
+      },
+      "1228": {
+            "weight-(without-stand)": "10.9-kg"
+      },
+      "1229": {
+            "weight-(without-stand)": "16.8-kg"
+      },
+      "1230": {
+            "weight-(without-stand)": "14.2-kg"
+      },
+      "1231": {
+            "weight-(without-stand)": "13.6-kg"
+      },
+      "1232": {
+            "weight-(without-stand)": "3.2-kg"
+      },
+      "1233": {
+            "weight-(without-stand)": "22.2-kg"
+      },
+      "1234": {
+            "weight-(without-stand)": "16.1-kg"
+      },
+      "1235": {
+            "weight-(without-stand)": "17.3-kg"
+      },
+      "1236": {
+            "weight-(without-stand)": "4.2-kg"
+      },
+      "1237": {
+            "weight-(without-stand)": "7.5-kg"
+      },
+      "1238": {
+            "weight-(without-stand)": "14-kg"
+      },
+      "1239": {
+            "weight-(without-stand)": "35.1-kg"
+      },
+      "1240": {
+            "weight-(without-stand)": "3.94-kg"
+      },
+      "1241": {
+            "weight-(without-stand)": "28.3-kg"
+      },
+      "1242": {
+            "weight-(without-stand)": "21.3-kg"
+      },
+      "1243": {
+            "weight-(without-stand)": "20.45-kg"
+      },
+      "1244": {
+            "weight-(without-stand)": "32.1-kg"
+      },
+      "1245": {
+            "weight-(without-stand)": "24.2-kg"
+      },
+      "1246": {
+            "weight-(without-stand)": "11.84-kg"
+      },
+      "1247": {
+            "weight-(without-stand)": "22.7-kg"
+      },
+      "1248": {
+            "weight-(without-stand)": "11.3-kg"
+      },
+      "1249": {
+            "weight-(without-stand)": "32-kg"
+      },
+      "1250": {
+            "wi-fi-type": "support-2.4g"
+      },
+      "1251": {
+            "wi-fi-type": "802.11-b/g/n"
+      },
+      "1252": {
+            "wi-fi-type": "ieee-802.11-b,-g,-n,-2.4-ghz"
+      },
+      "1253": {
+            "wi-fi-type": "2.4ghz"
+      },
+      "1254": {
+            "wi-fi-type": "2.4ghz,-802.11-b/g/n-2t2r"
+      },
+      "1255": {
+            "wi-fi-type": "2.4-ghz"
+      },
+      "1256": {
+            "wi-fi-type": "no"
+      },
+      "1257": {
+            "wi-fi-type": "802.11a/b/g/n/ac"
+      },
+      "1258": {
+            "wi-fi-type": "802.11-ac-dual-band"
+      },
+      "1259": {
+            "wi-fi-type": "802.11-b,-g,-n"
+      },
+      "1260": {
+            "wi-fi-type": "2.4g-2t2r"
+      },
+      "1261": {
+            "wi-fi-type": "802.11ac"
+      },
+      "1262": {
+            "wi-fi-type": "wifi-direct"
+      },
+      "1263": {
+            "wi-fi-type": "802.11b/g/n,-2.4-ghz"
+      },
+      "1264": {
+            "wi-fi-type": "wi-fi-certified-802.11a/b/g/n/ac"
+      },
+      "1265": {
+            "wi-fi-type": "2.4ghz/5ghz"
+      },
+      "1266": {
+            "wi-fi-type": "802.11"
+      },
+      "1267": {
+            "wi-fi-type": "802.11a/b/g/n/ac;-2.4g+5g"
+      },
+      "1268": {
+            "wi-fi-type": "802.11-a/b/g/n"
+      },
+      "1269": {
+            "wi-fi-type": "built-in-wi-fi"
+      },
+      "1270": {
+            "wi-fi-type": "wi-fi-direct"
+      },
+      "1271": {
+            "wi-fi-type": "in-built-wi-fi"
+      },
+      "1272": {
+            "wi-fi-type": "yes"
+      },
+      "1273": {
+            "wireless-lan-adapter": "yes"
+      },
+      "1274": {
+            "analog-audio-input": "yes"
+      },
+      "1275": {
+            "analog-audio-input": "composite-in"
+      },
+      "1276": {
+            "analog-audio-input": "no"
+      },
+      "1277": {
+            "analog-audio-input": "1-(bottom)"
+      },
+      "1278": {
+            "analog-audio-input": "av-in"
+      },
+      "1279": {
+            "composite-in-(audio-video-cable)": "yes"
+      },
+      "1280": {
+            "composite-in-(audio-video-cable)": "no"
+      },
+      "1281": {
+            "composite-in-(audio-video-cable)": "1-(rear)"
+      },
+      "1282": {
+            "composite-in-(audio-video-cable)": "0"
+      },
+      "1283": {
+            "composite-in-(audio-video-cable)": "1-(lower)"
+      },
+      "1284": {
+            "composite-in-(audio-video-cable)": "1"
+      },
+      "1285": {
+            "composite-in-(audio-video-cable)": "2-(rear)"
+      },
+      "1286": {
+            "composite-in-(audio-video-cable)": "component-input-(y-/-pb-/-pr):-1"
+      },
+      "1287": {
+            "composite-in-(audio-video-cable)": "1-component-input-(y-/-pb-/-pr)"
+      },
+      "1288": {
+            "composite-in-(audio-video-cable)": "rca-phono-type-x-1-(rear)"
+      },
+      "1289": {
+            "digital-noise-filter": "yes"
+      },
+      "1290": {
+            "digital-noise-filter": "no"
+      },
+      "1291": "table-top",
+      "1292": {
+            "supported-app---others": "disney+hotstar,zee5-+-5000-apps"
+      },
+      "1293": {
+            "supported-app---others": "youtube"
+      },
+      "1294": {
+            "supported-app---others": "no"
+      },
+      "1295": {
+            "supported-app---others": "netrange"
+      },
+      "1296": {
+            "supported-app---others": "all-major-apps-supported"
+      },
+      "1297": {
+            "supported-app---others": "prime-video"
+      },
+      "1298": {
+            "supported-app---others": "yes"
+      },
+      "1299": {
+            "supported-app---others": "amazon-prime-video"
+      },
+      "1300": {
+            "supported-app---others": "voot"
+      },
+      "1301": {
+            "supported-audio-formats": "stereo-dts"
+      },
+      "1302": {
+            "supported-audio-formats": "mp3,-pcm,-ac3,-aac"
+      },
+      "1303": {
+            "supported-audio-formats": "wma,-mp3,-m4a"
+      },
+      "1304": {
+            "supported-audio-formats": "mp3,-wma,-aac,-ac3,-ac4"
+      },
+      "1305": {
+            "supported-audio-formats": "mp3"
+      },
+      "1306": {
+            "supported-audio-formats": "mp3,-wma,-ac3"
+      },
+      "1307": {
+            "supported-audio-formats": "mp3,-wma"
+      },
+      "1308": {
+            "supported-audio-formats": "mp3,-ac3,-aac"
+      },
+      "1309": {
+            "supported-audio-formats": "mp3,-wma,-aac"
+      },
+      "1310": {
+            "supported-audio-formats": ".mp3-/-.wma"
+      },
+      "1311": {
+            "supported-audio-formats": "mp3,-wav,-aac,-wma"
+      },
+      "1312": {
+            "supported-audio-formats": "mp3,-pcm,-ac3,-aac,-cook,-mp2"
+      },
+      "1313": {
+            "supported-audio-formats": "mp3-and-wma"
+      },
+      "1314": {
+            "supported-audio-formats": "mp3,-pcm,-cook,-mp2"
+      },
+      "1315": {
+            "supported-audio-formats": "mp3,-aac"
+      },
+      "1316": {
+            "supported-audio-formats": "mp3,-wma,-ma4"
+      },
+      "1317": {
+            "supported-audio-formats": "mp3/aac"
+      },
+      "1318": {
+            "supported-audio-formats": "mp3,-aac,-wma,-flac,-wav"
+      },
+      "1319": {
+            "supported-audio-formats": "audio-codec:-mp3,-wma"
+      },
+      "1320": {
+            "supported-audio-formats": "mp3,-aac,-wma-pro,-flac,-wav"
+      },
+      "1321": {
+            "supported-video-formats": "h.265,-h.264,-real,-mpeg-1/2/4"
+      },
+      "1322": {
+            "supported-video-formats": "h.265/h.264,mpeg1/2/4,vp8,vp9"
+      },
+      "1323": {
+            "supported-video-formats": "mp4,-avi,-mpeg"
+      },
+      "1324": {
+            "supported-video-formats": "avi,-asf,-mp4,-mkv,-webm,-ts"
+      },
+      "1325": {
+            "supported-video-formats": "mpeg"
+      },
+      "1326": {
+            "supported-video-formats": "mpeg4,-dat,-vob"
+      },
+      "1327": {
+            "supported-video-formats": "avi,-asf,-mp4,-mkv,-webm,-ps,-ts"
+      },
+      "1328": {
+            "supported-video-formats": "pal,-mpeg-2,mpeg-4,-h.264"
+      },
+      "1329": {
+            "supported-video-formats": "mpeg-1-4,-motion-jpeg"
+      },
+      "1330": {
+            "supported-video-formats": "pal,-mpeg-2,-mpeg-4,-h.264"
+      },
+      "1331": {
+            "supported-video-formats": "mpeg,-mp4,-avi"
+      },
+      "1332": {
+            "supported-video-formats": "mp4,-divx,-avi"
+      },
+      "1333": {
+            "supported-video-formats": "mp4,-avi,-flv,-wmv,ts"
+      },
+      "1334": "on-site",
+      "1335": {
+            "auto-power-off": "yes"
+      },
+      "1336": {
+            "auto-power-off": "no"
+      },
+      "1337": {
+            "battery-type": "2-aaa--batteries"
+      },
+      "1338": {
+            "battery-type": "aaa"
+      },
+      "1339": {
+            "battery-type": "2-aa--batteries"
+      },
+      "1340": {
+            "battery-type": "r03"
+      },
+      "1341": {
+            "battery-type": "4-aaa--batteries"
+      },
+      "1342": {
+            "battery-type": "aa"
+      },
+      "1343": {
+            "child-lock": "yes"
+      },
+      "1344": {
+            "child-lock": "no"
+      },
+      "1345": {
+            "clock": "yes"
+      },
+      "1346": {
+            "clock": "no"
+      },
+      "1347": "english",
+      "1348": {
+            "dvr-control": "yes"
+      },
+      "1349": {
+            "dvr-control": "no"
+      },
+      "1350": {
+            "digital-audio-output": "optical,-arc"
+      },
+      "1351": {
+            "digital-audio-output": "yes"
+      },
+      "1352": {
+            "digital-audio-output": "1"
+      },
+      "1353": {
+            "digital-audio-output": "no"
+      },
+      "1354": {
+            "digital-audio-output": "1-rear"
+      },
+      "1355": {
+            "digital-audio-output": "1-(rear)"
+      },
+      "1356": {
+            "digital-audio-output": "1-(lower)"
+      },
+      "1357": {
+            "digital-audio-output": "1-(side)"
+      },
+      "1358": {
+            "mobile-high-definition-link": "no"
+      },
+      "1359": {
+            "mobile-high-definition-link": "yes"
+      },
+      "1360": {
+            "on/off-timer": "yes"
+      },
+      "1361": {
+            "on/off-timer": "no"
+      },
+      "1362": {
+            "operating-distance": "8-feet"
+      },
+      "1363": {
+            "operating-distance": "8-m"
+      },
+      "1364": {
+            "operating-distance": "10-feet"
+      },
+      "1365": {
+            "operating-distance": "6-m"
+      },
+      "1366": {
+            "operating-distance": "6-9-feet"
+      },
+      "1367": {
+            "operating-distance": "8m"
+      },
+      "1368": {
+            "operating-distance": "14-feet"
+      },
+      "1369": {
+            "pc-audio-in": "using-hdmi"
+      },
+      "1370": {
+            "pc-audio-in": "yes"
+      },
+      "1371": {
+            "pc-audio-in": "no"
+      },
+      "1372": {
+            "pc-audio-in": "1"
+      },
+      "1373": {
+            "pc-audio-in": "1-(rear)"
+      },
+      "1374": {
+            "pc-audio-in": "1-(mini)"
+      },
+      "1375": {
+            "pc-d-sub": "hdmi"
+      },
+      "1376": {
+            "pc-d-sub": "no"
+      },
+      "1377": {
+            "pc-d-sub": "yes"
+      },
+      "1378": {
+            "pc-d-sub": "vga"
+      },
+      "1379": {
+            "pc-d-sub": "using-hdmi"
+      },
+      "1380": {
+            "pc-d-sub": "1-(rear)"
+      },
+      "1381": {
+            "pc-d-sub": "1-(lower)"
+      },
+      "1382": {
+            "pc-d-sub": "1"
+      },
+      "1383": {
+            "parental-control": "yes"
+      },
+      "1384": {
+            "picture-in-picture-(pip)": "no"
+      },
+      "1385": {
+            "picture-in-picture-(pip)": "yes"
+      },
+      "1386": {
+            "pre-installed-browser": "yes"
+      },
+      "1387": {
+            "pre-installed-browser": "t-browser"
+      },
+      "1388": {
+            "pre-installed-browser": "no"
+      },
+      "1389": {
+            "rf-connectivity-input": "yes"
+      },
+      "1390": {
+            "rf-connectivity-input": "1"
+      },
+      "1391": {
+            "rf-connectivity-input": "1-(bottom)"
+      },
+      "1392": {
+            "rf-connectivity-input": "1-side"
+      },
+      "1393": {
+            "rf-connectivity-input": "rf-input:-1"
+      },
+      "1394": {
+            "rf-connectivity-input": "2"
+      },
+      "1395": {
+            "rf-connectivity-input": "1-(rear)"
+      },
+      "1396": {
+            "rf-connectivity-input": "1-rear"
+      },
+      "1397": {
+            "sleep-timer": "yes"
+      },
+      "1398": {
+            "sleep-timer": "no"
+      },
+      "1399": {
+            "stand-features": "plastic,-black-glossy"
+      },
+      "1400": {
+            "stand-features": "light-weight"
+      },
+      "1401": {
+            "stand-features": "wall-mount-included"
+      },
+      "1402": {
+            "stand-features": "metal,-grey"
+      },
+      "1403": {
+            "stand-features": "wall-mount"
+      },
+      "1404": {
+            "stand-features": "stand-design:-silver-chevron"
+      },
+      "1405": {
+            "stand-features": "slim-stand"
+      },
+      "1406": {
+            "stand-features": "swivel-(-20)"
+      },
+      "1407": {
+            "stand-features": "swivel"
+      },
+      "1408": "wall-mount-and-table-top-stand",
+      "1409": "mobile,-laptop,-pc",
+      "1410": {
+            "teletext": "yes"
+      },
+      "1411": "technical-visit",
+      "1412": {
+            "warranty-summary": "1-year-vu-domestic-warranty"
+      },
+      "1413": {
+            "warranty-summary": "1-year-warranty"
+      },
+      "1414": {
+            "warranty-summary": "1-year-warranty-on-product"
+      },
+      "1415": {
+            "warranty-summary": "1-year-domestic-warranty"
+      },
+      "1416": {
+            "warranty-summary": "18-months"
+      },
+      "1417": {
+            "warranty-summary": "1-year-manufacturer-warranty"
+      },
+      "1418": {
+            "warranty-summary": "1-year-kodak-india-warranty"
+      },
+      "1419": {
+            "warranty-summary": "2-years-warranty"
+      },
+      "1420": {
+            "warranty-summary": "1-year-warranty-on-product."
+      },
+      "1421": {
+            "warranty-summary": "1-year-standard-warranty"
+      },
+      "1422": {
+            "warranty-summary": "1-year-on-product"
+      },
+      "1423": {
+            "warranty-summary": "3-years-manufacturer-warranty"
+      },
+      "1424": {
+            "warranty-summary": "1-year-limited-domestic-warranty"
+      },
+      "1425": {
+            "warranty-summary": "1-year-manufaturer-warranty"
+      },
+      "1426": {
+            "warranty-summary": "1-year-samsung-domestic-warranty"
+      },
+      "1427": {
+            "warranty-summary": "comes-with-2-yr-warranty"
+      },
+      "1428": {
+            "warranty-summary": "1-year-panasonic-warranty"
+      },
+      "1429": {
+            "warranty-summary": "1-year-sanyo-india-warranty"
+      },
+      "1430": {
+            "warranty-summary": "3-years-warranty"
+      },
+      "1431": {
+            "warranty-summary": "1-year-intex-domestic-warranty"
+      },
+      "1432": {
+            "warranty-summary": "3-years-warranty-on-product"
+      },
+      "1433": {
+            "warranty-summary": "1-year-comprehensive-warranty"
+      },
+      "1434": {
+            "weight": "70-gm"
+      },
+      "1435": {
+            "weight": "70-g"
+      },
+      "1436": {
+            "weight": "86-g"
+      },
+      "1437": {
+            "weight": "90-g"
+      },
+      "1438": {
+            "width-x-height-x-depth": "47-mm-x-20-mm-x-205-mm"
+      },
+      "1439": {
+            "width-x-height-x-depth": "47-mm-x-22-mm-x-170-mm"
+      },
+      "1440": {
+            "width-x-height-x-depth": "20-cm-x-2.3-cm-x-5-cm"
+      },
+      "1441": {
+            "width-x-height-x-depth": "37-mm-x-225-mm-x-12-mm"
+      },
+      "1442": {
+            "width-x-height-x-depth": "47-mm-x-205-mm-x-20-mm"
+      },
+      "1443": "webos",
+      "1444": {
+            "panel-type": "ips"
+      },
+      "1445": {
+            "panel-type": "samsung-panel"
+      },
+      "1446": {
+            "panel-type": "a+-samsung-panel"
+      },
+      "1447": {
+            "panel-type": "a+-grade-uhd-10-bit-dled-panel"
+      },
+      "1448": {
+            "panel-type": "ips-panel"
+      },
+      "1449": {
+            "panel-type": "a+-grade-panel"
+      },
+      "1450": {
+            "panel-type": "a+-grade-high-bright-hd-panel"
+      },
+      "1451": {
+            "panel-type": "a+-grade"
+      },
+      "1452": {
+            "panel-type": "a+grade-panel"
+      },
+      "1453": {
+            "panel-type": "a+-panel"
+      },
+      "1454": {
+            "panel-type": "va-type"
+      },
+      "1455": {
+            "panel-type": "a+"
+      },
+      "1456": {
+            "panel-type": "ultra-bright-panel"
+      },
+      "1457": {
+            "panel-type": "ads"
+      },
+      "1458": {
+            "panel-type": "led"
+      },
+      "1459": {
+            "panel-type": "4k-high-bright-panel"
+      },
+      "1460": {
+            "panel-type": "high-bright-a+-grade-uhd-panel"
+      },
+      "1461": {
+            "panel-type": "ips-(-super-bright-panel-)"
+      },
+      "1462": {
+            "panel-type": "a+-grade-dled-panel"
+      },
+      "1463": {
+            "panel-type": "a-plus-panel"
+      },
+      "1464": {
+            "panel-type": "va"
+      },
+      "1465": {
+            "panel-type": "advanced-full-hd-ips-led-panel"
+      },
+      "1466": {
+            "panel-type": "a-grade-with-zero-dots"
+      },
+      "1467": {
+            "panel-type": "ips-led-lcd-panel"
+      },
+      "1468": {
+            "panel-type": "clear-image-panel"
+      },
+      "1469": {
+            "panel-type": "ultra-clear-panel"
+      },
+      "1470": {
+            "panel-type": "robust-scratch-resistant-panel"
+      },
+      "1471": {
+            "panel-type": "a+-grade-(zero-brt-dot)"
+      },
+      "1472": {
+            "panel-type": "led-lcd-(va)"
+      },
+      "1473": {
+            "panel-type": "ultra-clear"
+      },
+      "1474": {
+            "panel-type": "advanced-ips-lcd-panel"
+      },
+      "1475": {
+            "panel-type": "a-grade"
+      },
+      "1476": {
+            "panel-type": "zero-dots-led-panel"
+      },
+      "1477": {
+            "panel-type": "ips-led"
+      },
+      "1478": {
+            "panel-type": "led-lcd-ips-panel"
+      },
+      "1479": {
+            "panel-type": "advanced-ips-led-lcd-panel"
+      },
+      "1480": {
+            "panel-type": "lcd-(va)"
+      },
+      "1481": "in-home",
+      "1482": {
+            "in-the-box": "1-tv-unit"
+      },
+      "1483": {
+            "in-the-box": "1-unit-tv"
+      },
+      "1484": {
+            "in-the-box": "1-tv,-remote,-batteries"
+      },
+      "1485": {
+            "in-the-box": "main-stand-power-cable"
+      },
+      "1486": {
+            "in-the-box": "mainstand"
+      },
+      "1487": {
+            "in-the-box": "wall-mount-stand"
+      },
+      "1488": {
+            "in-the-box": "1-warranty-card"
+      },
+      "1489": {
+            "in-the-box": "remote-control"
+      },
+      "1490": {
+            "in-the-box": "vesa-wall-mount-support"
+      },
+      "1491": {
+            "in-the-box": "ultra-slim-wall-mount-support"
+      },
+      "1492": {
+            "in-the-box": "four-3d-eyewear"
+      },
+      "1493": {
+            "in-the-box": "tv-unit"
+      },
+      "1494": {
+            "in-the-box": "user-manual"
+      },
+      "1495": {
+            "in-the-box": "wall-mount-bracket"
+      },
+      "1496": {
+            "in-the-box": "samsung-smart-control-(included)"
+      },
+      "1497": {
+            "in-the-box": "slim-gender-cable-(1-av"
+      },
+      "1498": {
+            "in-the-box": "1"
+      },
+      "1499": {
+            "in-the-box": "power-cord"
+      },
+      "1500": {
+            "in-the-box": "wall-mount"
+      },
+      "1501": {
+            "in-the-box": "2-x-3d-glasses"
+      },
+      "1502": "android-based",
+      "1503": "onsite",
+      "1504": {
+            "audio-out": "yes"
+      },
+      "1505": {
+            "audio-out": "no"
+      },
+      "1506": {
+            "audio-out": "optical,-arc,-headphone-out"
+      },
+      "1507": {
+            "audio-out": "1-(side)"
+      },
+      "1508": {
+            "audio-out": "optical,-arc"
+      },
+      "1509": {
+            "audio-out": "1"
+      },
+      "1510": {
+            "audio-out": "1-(side-/-hybrid-with-hp)"
+      },
+      "1511": {
+            "audio-out": "optical,-arc,-headhphone-out"
+      },
+      "1512": {
+            "rf-connectivity-output": "yes"
+      },
+      "1513": {
+            "rf-connectivity-output": "no"
+      },
+      "1514": {
+            "sound-mode": "yes"
+      },
+      "1515": {
+            "sound-mode": "standard/music/movie/-sports"
+      },
+      "1516": {
+            "sound-mode": "standard/music/sport/movie"
+      },
+      "1517": {
+            "sound-mode": "5"
+      },
+      "1518": {
+            "sound-mode": "standard,-music,-sport,-movie"
+      },
+      "1519": {
+            "sound-mode": "dolby-audio"
+      },
+      "1520": {
+            "sound-mode": "standard/music/theater/news/user"
+      },
+      "1521": {
+            "sound-mode": "standard/music/movie/sports"
+      },
+      "1522": {
+            "sound-mode": "standard,-music,-movie,-user"
+      },
+      "1523": {
+            "sound-mode": "custom"
+      },
+      "1524": {
+            "sound-mode": "standard/music/movie/user"
+      },
+      "1525": {
+            "sound-mode": "flat,-music,-movie,-normal"
+      },
+      "1526": {
+            "sound-mode": "smart-sound-mode"
+      },
+      "1527": {
+            "sound-mode": "dsee"
+      },
+      "1528": {
+            "sound-mode": "music,-user,-speech"
+      },
+      "1529": {
+            "sound-mode": "standard/music/movie/sports/user"
+      },
+      "1530": {
+            "sound-mode": "game"
+      },
+      "1531": {
+            "sound-mode": "music,-user,-standard,-speech"
+      },
+      "1532": {
+            "sound-mode": "multi"
+      },
+      "1533": {
+            "subwoofer-output-rms": "20"
+      },
+      "1534": {
+            "subwoofer-output-rms": "15"
+      },
+      "1535": {
+            "subwoofer-output-rms": "14"
+      },
+      "1536": "laptop",
+      "1537": {
+            "other-internet-features": "android-pie-9"
+      },
+      "1538": {
+            "other-internet-features": "no"
+      },
+      "1539": {
+            "other-internet-features": "wifi-type:-2.4-ghz"
+      },
+      "1540": {
+            "other-internet-features": "inbuilt-chorme-cast"
+      },
+      "1541": {
+            "other-internet-features": "watch-unlimited-content"
+      },
+      "1542": {
+            "other-internet-features": "full-web-browser"
+      },
+      "1543": {
+            "other-internet-features": "internet-browser:-vewd"
+      },
+      "1544": {
+            "other-internet-features": "pre-installed-browser"
+      },
+      "1545": {
+            "other-internet-features": "quick-interface"
+      },
+      "1546": {
+            "other-internet-features": "google-play-store,-youtube"
+      },
+      "1547": {
+            "other-internet-features": "application-manager"
+      },
+      "1548": {
+            "other-internet-features": "android-8.0"
+      },
+      "1549": {
+            "other-internet-features": "wi-fi-direct"
+      },
+      "1550": {
+            "other-internet-features": "multi-link-screen"
+      },
+      "1551": {
+            "other-internet-features": "regular-software-updates-by-ota"
+      },
+      "1552": {
+            "other-internet-features": "samsung-smart-view"
+      },
+      "1553": {
+            "other-internet-features": "smart-hub"
+      },
+      "1554": {
+            "other-internet-features": "youtube"
+      },
+      "1555": {
+            "other-internet-features": "google-assistant"
+      },
+      "1556": {
+            "other-internet-features": "twitter-apps)"
+      },
+      "1557": {
+            "other-internet-features": "intel-wireless-display-(widi)"
+      },
+      "1558": {
+            "other-internet-features": "smarthome"
+      },
+      "1559": {
+            "other-internet-features": "wifi-type:-2.4-ghz-and-5-ghz"
+      },
+      "1560": "mobile,-laptop",
+      "1561": "lcm,-mother-board,-remote",
+      "1562": {
+            "other-audio-features": "dts-hd"
+      },
+      "1563": {
+            "other-audio-features": "automatic-volume-level-(avl)"
+      },
+      "1564": {
+            "other-audio-features": "dynamic-bass-enhancement"
+      },
+      "1565": {
+            "other-audio-features": "automatic-volume-level"
+      },
+      "1566": {
+            "other-audio-features": "dolby-audio"
+      },
+      "1567": {
+            "other-audio-features": "clear-sound-even-on-low-volumes"
+      },
+      "1568": {
+            "other-audio-features": "sound-booster"
+      },
+      "1569": {
+            "other-audio-features": "clear-voice-iii"
+      },
+      "1570": {
+            "other-audio-features": "dolby-plus,-dts-hd"
+      },
+      "1571": {
+            "other-audio-features": "s-master-digital-amplifier"
+      },
+      "1572": {
+            "other-audio-features": "treble-adjustment"
+      },
+      "1573": {
+            "other-audio-features": "dts-2.0-and-digital-out"
+      },
+      "1574": {
+            "other-audio-features": "auto-volume-leveler"
+      },
+      "1575": {
+            "other-audio-features": "dts-2.0,-auto-volume-leveler"
+      },
+      "1576": {
+            "other-audio-features": "virtual-surround-sound"
+      },
+      "1577": {
+            "other-audio-features": "auto-volume-leveler,-dts-2.0"
+      },
+      "1578": {
+            "other-audio-features": "sound-share"
+      },
+      "1579": {
+            "other-audio-features": "power-audio-volume"
+      },
+      "1580": {
+            "other-audio-features": "s---master"
+      },
+      "1581": {
+            "other-audio-features": "audio-equaliser"
+      },
+      "1582": {
+            "other-audio-features": "wallmount-sound-mode"
+      },
+      "1583": {
+            "other-audio-features": "auto-volume-leveller"
+      },
+      "1584": {
+            "other-audio-features": "dts-premium-sound-5.1"
+      },
+      "1585": {
+            "other-audio-features": "optical-sound-sync"
+      },
+      "1586": {
+            "other-audio-features": "3d-sound-zooming"
+      },
+      "1587": {
+            "other-audio-features": "harman-kardon"
+      },
+      "1588": "table-top,-wall-mount",
+      "1589": "ribbon-pedestal",
+      "1590": "linux",
+      "1591": "homeos",
+      "1592": {
+            "other-connectivity-features": "vga,-headphone,-rf-and-av"
+      },
+      "1593": {
+            "other-connectivity-features": "browser-html5-support"
+      },
+      "1594": {
+            "other-connectivity-features": "hdmi-with-easy-link"
+      },
+      "1595": {
+            "other-connectivity-features": "av-input:-2"
+      },
+      "1596": {
+            "other-connectivity-features": "hdcp-1.4"
+      },
+      "1597": {
+            "other-connectivity-features": "magic-mobile-connection"
+      },
+      "1598": {
+            "other-connectivity-features": "av-in:-2"
+      },
+      "1599": {
+            "other-connectivity-features": "hdmi-arc-support,-vga-input"
+      },
+      "1600": {
+            "other-connectivity-features": "sd-card-input"
+      },
+      "1601": {
+            "other-connectivity-features": "pc)"
+      },
+      "1602": {
+            "other-connectivity-features": "1-analogue-audio-out-(rear)"
+      },
+      "1603": {
+            "other-connectivity-features": "4-(1-side"
+      },
+      "1604": {
+            "other-connectivity-features": "1-dvi-audio-input-(mini-jack)"
+      },
+      "1605": {
+            "other-connectivity-features": "1-audio-out-(mini-jack)"
+      },
+      "1606": {
+            "other-connectivity-features": "digital-out"
+      },
+      "1607": {
+            "other-connectivity-features": "composite"
+      },
+      "1608": {
+            "other-connectivity-features": "1-dvi-audio-in-(mini-jack)"
+      },
+      "1609": {
+            "other-connectivity-features": "scart"
+      },
+      "1610": {
+            "other-connectivity-features": "1-rf-input-(rear)"
+      },
+      "1611": {
+            "other-connectivity-features": "audio-out-(mini-jack)"
+      },
+      "1612": {
+            "other-connectivity-features": "1-dvi-audio-input"
+      },
+      "1613": {
+            "other-connectivity-features": "hdmi-1.4-3d-auto-setting"
+      },
+      "1614": {
+            "other-connectivity-features": "1-scart"
+      },
+      "1615": {
+            "other-connectivity-features": "1-(rear)-av-input"
+      },
+      "1616": {
+            "other-connectivity-features": "1-lan-port-(rear)"
+      },
+      "1617": {
+            "other-connectivity-features": "1-rear)-av-input"
+      },
+      "1618": {
+            "other-connectivity-features": "av2-shared-with-component)"
+      },
+      "1619": {
+            "other-connectivity-features": "digital-audio-out-(optical):-1"
+      },
+      "1620": {
+            "other-connectivity-features": "hdmi-a-/-return-channel-support"
+      },
+      "1621": {
+            "other-connectivity-features": "3-audio-input-(1-side"
+      },
+      "1622": {
+            "other-connectivity-features": "hdcp-(hdcp-1.4)"
+      },
+      "1623": {
+            "other-connectivity-features": "dvi-audio-input"
+      },
+      "1624": {
+            "other-connectivity-features": "1-ci-slot"
+      },
+      "1625": {
+            "other-connectivity-features": "optical/coax:-1"
+      },
+      "1626": {
+            "other-connectivity-features": "pc-connectivity"
+      },
+      "1627": {
+            "other-connectivity-features": "hdmi-quick-switch"
+      },
+      "1628": {
+            "other-connectivity-features": "no"
+      },
+      "1629": {
+            "other-connectivity-features": "analogue-audio-output:-1-rear"
+      },
+      "1630": {
+            "other-connectivity-features": "wireless-android-tv-gamepad"
+      },
+      "1631": {
+            "other-connectivity-features": "15-pin-d-sub-rgb-input"
+      },
+      "1632": {
+            "other-connectivity-features": "insta-port-s-(hdmi-quick-switch)"
+      },
+      "1633": {
+            "other-connectivity-features": "usb-version:-2.0"
+      },
+      "1634": {
+            "other-connectivity-features": "simplink-(hdmi-cec)-(rear)"
+      },
+      "1635": {
+            "other-connectivity-features": "dlna-(movies"
+      },
+      "1636": {
+            "other-connectivity-features": "usb-3.0"
+      },
+      "1637": {
+            "other-connectivity-features": "lan:-1-rear"
+      },
+      "1638": {
+            "other-connectivity-features": "vga-input,-hdmi-arc-support"
+      },
+      "1639": {
+            "other-connectivity-features": "audio-return-channel-(input-2)"
+      },
+      "1640": {
+            "other-remote-control-features": "no"
+      },
+      "1641": {
+            "other-remote-control-features": "voice-control"
+      },
+      "1642": {
+            "other-remote-control-features": "super-remote"
+      },
+      "1643": {
+            "other-remote-control-features": "voice,-bluetooth"
+      },
+      "1644": {
+            "clocking-speed": "1.5-ghz"
+      },
+      "1645": {
+            "clocking-speed": "1.1-ghz"
+      },
+      "1646": {
+            "clocking-speed": "1-ghz"
+      },
+      "1647": {
+            "clocking-speed": "1.4-ghz"
+      },
+      "1648": {
+            "clocking-speed": "1.2-ghz"
+      },
+      "1649": "checking-also-of-accessories",
+      "1650": {
+            "other-power-features": "instant-power-on"
+      },
+      "1651": {
+            "other-power-features": "energy-efficient"
+      },
+      "1652": {
+            "other-power-features": "smart-energy-saving"
+      },
+      "1653": {
+            "other-power-features": "power-off/shut-down"
+      },
+      "1654": {
+            "other-power-features": "bee-5-star-rated-energy-savings"
+      },
+      "1655": {
+            "other-power-features": "ambient-sensor"
+      },
+      "1656": {
+            "other-power-features": "auto-power-supply"
+      },
+      "1657": {
+            "other-power-features": "handles-voltage-fluctuation"
+      },
+      "1658": {
+            "other-video-features": "micro-dimming"
+      },
+      "1659": {
+            "other-video-features": "built-in-digital-media"
+      },
+      "1660": {
+            "other-video-features": "mp4"
+      },
+      "1661": {
+            "other-video-features": "wide-viewing-angle,"
+      },
+      "1662": {
+            "other-video-features": "hdr-10+"
+      },
+      "1663": {
+            "other-video-features": "aspect-ratio---16:9,-4:3"
+      },
+      "1664": {
+            "other-video-features": "video-level:-av---1-vp-p,-75-ohm"
+      },
+      "1665": {
+            "other-video-features": "natural-mode-support"
+      },
+      "1666": {
+            "other-video-features": "media-player"
+      },
+      "1667": {
+            "other-video-features": "wide-color-enhancer-plus"
+      },
+      "1668": {
+            "other-video-features": "240-hz-auto-motion-plus"
+      },
+      "1669": {
+            "other-video-features": "micro-dimming-ultimate"
+      },
+      "1670": {
+            "other-video-features": "auto-motion-plus"
+      },
+      "1671": {
+            "other-video-features": "motionflow-xr-200-hz"
+      },
+      "1672": {
+            "other-video-features": "active-crystal-color"
+      },
+      "1673": {
+            "other-video-features": "response-time:-6.5-ms"
+      },
+      "1674": {
+            "other-video-features": "active-noise-reduction"
+      },
+      "1675": {
+            "other-video-features": "film-mode"
+      },
+      "1676": {
+            "other-video-features": "resolution-upscaler:-4k-upscaler"
+      },
+      "1677": {
+            "other-video-features": "color-control"
+      },
+      "1678": {
+            "other-video-features": "peak-luminance-ratio:-73%"
+      },
+      "1679": {
+            "other-video-features": "dot-noise-reduction"
+      },
+      "1680": {
+            "other-video-features": "super-bright-plus"
+      },
+      "1681": {
+            "other-video-features": "dualplay"
+      },
+      "1682": {
+            "other-video-features": "resolution-upscaler-(basic)"
+      },
+      "1683": {
+            "other-video-features": "dynamic-color-enhancer"
+      },
+      "1684": {
+            "other-video-features": "vivid-digital-pro"
+      },
+      "1685": {
+            "other-video-features": "dynamic-contrast"
+      },
+      "1686": "physical-damage",
+      "1687": "off-site",
+      "1688": "table-top-butterflywing",
+      "1689": "checking-also-of-accessories.",
+      "1690": "tabletop",
+      "1691": "linux-based",
+      "1692": "functional-issues",
+      "1693": {
+            "wcg-(wide-color-gamut)": "no"
+      },
+      "1694": {
+            "graphic-user-interface": "mali450-quad-core,-490mhz"
+      },
+      "1695": {
+            "graphic-user-interface": "mali470-triple-core"
+      },
+      "1696": {
+            "graphic-user-interface": "linear-home-ui"
+      },
+      "1697": {
+            "graphic-user-interface": "android-tv-ui"
+      },
+      "1698": "english,-hindi,-bengali,-marathi",
+      "1699": "pc",
+      "1700": "silver,-black",
+      "1701": "installation-&-demo-not-required",
+      "1702": "techinician-visit",
+      "1703": "offsite-service",
+      "1704": "metallic-space-grey,-black",
+      "1705": "frame-color:-black",
+      "1706": "vesa-hole-pitch",
+      "1707": "manufacturing-defects",
+      "1708": "installation",
+      "1709": "physical-damages",
+      "1710": "breakage/liquid-damage",
+      "1711": "google-home",
+      "1712": "metal",
+      "1713": "technicaian-home-visit",
+      "1714": "miracast",
+      "1715": "grey",
+      "1716": "na",
+      "1717": "wall-mount-and-desktop-stand",
+      "1718": "installation-and-demo",
+      "1719": "quad",
+      "1720": "square",
+      "1721": "arch-flow",
+      "1722": "tempered,-liquid,-burn",
+      "1723": "auto-sleep",
+      "1724": "metal-square",
+      "1725": {
+            "number-of-subwoofers": "2"
+      },
+      "1726": {
+            "number-of-subwoofers": "1"
+      },
+      "1727": "arc",
+      "1728": "plate-t-shape",
+      "1729": "fm-radio",
+      "1730": "cshare",
+      "1731": "t-echnician-visit",
+      "1732": "parts-&-labour-cost-is-covered",
+      "1733": "motion-eco-sensor",
+      "1734": "v-shape",
+      "1735": "onside",
+      "1736": "epg",
+      "1737": "on-site-technician-visit",
+      "1738": "remote,-cabinet",
+      "1739": "manufactruing-defects",
+      "1740": "accessories",
+      "1741": "y-feet",
+      "1742": "technical-failure",
+      "1743": "physical,-liquid-damages",
+      "1744": "iron-grey"
+}

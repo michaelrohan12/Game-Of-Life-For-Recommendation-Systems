@@ -1,0 +1,4765 @@
+{
+      "0": {
+            "bee-rating-year": "2020"
+      },
+      "1": {
+            "bee-rating-year": "na"
+      },
+      "2": {
+            "bee-rating-year": "2019"
+      },
+      "3": {
+            "bee-rating-year": "2016"
+      },
+      "4": {
+            "bee-rating-year": "0"
+      },
+      "5": {
+            "bee-rating-year": "2018"
+      },
+      "6": {
+            "bee-rating-year": "2017"
+      },
+      "7": {
+            "built-in-stabilizer": "yes"
+      },
+      "8": {
+            "built-in-stabilizer": "no"
+      },
+      "9": {
+            "capacity": "192-l"
+      },
+      "10": {
+            "capacity": "265-l"
+      },
+      "11": {
+            "capacity": "253-l"
+      },
+      "12": {
+            "capacity": "170-l"
+      },
+      "13": {
+            "capacity": "198-l"
+      },
+      "14": {
+            "capacity": "190-l"
+      },
+      "15": {
+            "capacity": "260-l"
+      },
+      "16": {
+            "capacity": "212-l"
+      },
+      "17": {
+            "capacity": "305-l"
+      },
+      "18": {
+            "capacity": "336-l"
+      },
+      "19": {
+            "capacity": "200-l"
+      },
+      "20": {
+            "capacity": "181-l"
+      },
+      "21": {
+            "capacity": "231-l"
+      },
+      "22": {
+            "capacity": "215-l"
+      },
+      "23": {
+            "capacity": "236-l"
+      },
+      "24": {
+            "capacity": "220-l"
+      },
+      "25": {
+            "capacity": "258-l"
+      },
+      "26": {
+            "capacity": "272-l"
+      },
+      "27": {
+            "capacity": "245-l"
+      },
+      "28": {
+            "capacity": "235-l"
+      },
+      "29": {
+            "capacity": "256-l"
+      },
+      "30": {
+            "capacity": "324-l"
+      },
+      "31": {
+            "capacity": "195-l"
+      },
+      "32": {
+            "capacity": "268-l"
+      },
+      "33": {
+            "capacity": "300-l"
+      },
+      "34": {
+            "capacity": "255-l"
+      },
+      "35": {
+            "capacity": "240-l"
+      },
+      "36": {
+            "capacity": "230-l"
+      },
+      "37": {
+            "capacity": "335-l"
+      },
+      "38": {
+            "capacity": "30-l"
+      },
+      "39": {
+            "capacity": "93-l"
+      },
+      "40": {
+            "capacity": "46-l"
+      },
+      "41": {
+            "capacity": "292-l"
+      },
+      "42": {
+            "capacity": "275-l"
+      },
+      "43": {
+            "capacity": "566-l"
+      },
+      "44": {
+            "capacity": "347-l"
+      },
+      "45": {
+            "capacity": "310-l"
+      },
+      "46": {
+            "capacity": "565-l"
+      },
+      "47": {
+            "capacity": "210-l"
+      },
+      "48": {
+            "capacity": "340-l"
+      },
+      "49": {
+            "capacity": "330-l"
+      },
+      "50": {
+            "capacity": "345-l"
+      },
+      "51": {
+            "capacity": "180-l"
+      },
+      "52": {
+            "capacity": "320-l"
+      },
+      "53": {
+            "capacity": "420-l"
+      },
+      "54": {
+            "capacity": "296-l"
+      },
+      "55": {
+            "capacity": "307-l"
+      },
+      "56": {
+            "capacity": "45-l"
+      },
+      "57": {
+            "capacity": "507-l"
+      },
+      "58": {
+            "capacity": "49-l"
+      },
+      "59": {
+            "capacity": "560-l"
+      },
+      "60": {
+            "capacity": "314-l"
+      },
+      "61": {
+            "capacity": "52-l"
+      },
+      "62": {
+            "capacity": "280-l"
+      },
+      "63": {
+            "capacity": "551-l"
+      },
+      "64": {
+            "capacity": "668-l"
+      },
+      "65": {
+            "capacity": "401-l"
+      },
+      "66": {
+            "capacity": "276-l"
+      },
+      "67": {
+            "capacity": "500-l"
+      },
+      "68": {
+            "capacity": "687-l"
+      },
+      "69": {
+            "capacity": "288-l"
+      },
+      "70": {
+            "capacity": "188-l"
+      },
+      "71": {
+            "capacity": "185-l"
+      },
+      "72": {
+            "capacity": "440-l"
+      },
+      "73": {
+            "capacity": "360-l"
+      },
+      "74": {
+            "capacity": "415-l"
+      },
+      "75": {
+            "capacity": "544-l"
+      },
+      "76": {
+            "capacity": "244-l"
+      },
+      "77": {
+            "capacity": "630-l"
+      },
+      "78": {
+            "capacity": "278-l"
+      },
+      "79": {
+            "capacity": "670-l"
+      },
+      "80": {
+            "capacity": "454-l"
+      },
+      "81": {
+            "capacity": "465-l"
+      },
+      "82": {
+            "capacity": "284-l"
+      },
+      "83": {
+            "capacity": "252-l"
+      },
+      "84": {
+            "capacity": "437-l"
+      },
+      "85": {
+            "capacity": "516-l"
+      },
+      "86": {
+            "capacity": "394-l"
+      },
+      "87": {
+            "capacity": "308-l"
+      },
+      "88": {
+            "capacity": "470-l"
+      },
+      "89": {
+            "capacity": "202-l"
+      },
+      "90": {
+            "capacity": "655-l"
+      },
+      "91": {
+            "capacity": "343-l"
+      },
+      "92": {
+            "capacity": "523-l"
+      },
+      "93": {
+            "capacity": "599-l"
+      },
+      "94": {
+            "capacity": "531-l"
+      },
+      "95": {
+            "capacity": "350-l"
+      },
+      "96": {
+            "capacity": "290-l"
+      },
+      "97": {
+            "capacity": "570-l"
+      },
+      "98": {
+            "capacity": "675-l"
+      },
+      "99": {
+            "capacity": "471-l"
+      },
+      "100": {
+            "capacity": "270-l"
+      },
+      "101": {
+            "capacity": "659-l"
+      },
+      "102": {
+            "capacity": "679-l"
+      },
+      "103": {
+            "capacity": "680-l"
+      },
+      "104": {
+            "capacity": "430-l"
+      },
+      "105": {
+            "capacity": "636-l"
+      },
+      "106": {
+            "capacity": "251-l"
+      },
+      "107": {
+            "capacity": "311-l"
+      },
+      "108": {
+            "capacity": "700-l"
+      },
+      "109": {
+            "capacity": "810-l"
+      },
+      "110": {
+            "capacity": "321-l"
+      },
+      "111": {
+            "capacity": "196-l"
+      },
+      "112": {
+            "capacity": "584-l"
+      },
+      "113": {
+            "capacity": "594-l"
+      },
+      "114": {
+            "capacity": "318-l"
+      },
+      "115": {
+            "capacity": "466-l"
+      },
+      "116": {
+            "capacity": "510-l"
+      },
+      "117": {
+            "capacity": "451-l"
+      },
+      "118": {
+            "capacity": "261-l"
+      },
+      "119": {
+            "capacity": "99-l"
+      },
+      "120": {
+            "capacity": "476-l"
+      },
+      "121": {
+            "capacity": "205-l"
+      },
+      "122": {
+            "capacity": "427-l"
+      },
+      "123": {
+            "capacity": "602-l"
+      },
+      "124": {
+            "capacity": "456-l"
+      },
+      "125": {
+            "capacity": "100-l"
+      },
+      "126": {
+            "capacity": "225-l"
+      },
+      "127": {
+            "capacity": "478-l"
+      },
+      "128": {
+            "compressor-type": "digital-inverter-compressor"
+      },
+      "129": {
+            "compressor-type": "normal-compressor"
+      },
+      "130": {
+            "compressor-type": "reciprocatory-compressor"
+      },
+      "131": {
+            "compressor-type": "hygiene-plus-inverter-compressor"
+      },
+      "132": {
+            "compressor-type": "smart-inverter-compressor"
+      },
+      "133": {
+            "compressor-type": "inverter-compressor"
+      },
+      "134": {
+            "compressor-type": "inverter"
+      },
+      "135": {
+            "compressor-type": "digital-inverter"
+      },
+      "136": {
+            "compressor-type": "dc-inverter-compressor"
+      },
+      "137": {
+            "compressor-type": "normal"
+      },
+      "138": {
+            "compressor-type": "rotary-compressor"
+      },
+      "139": {
+            "compressor-type": "reciprocating"
+      },
+      "140": {
+            "compressor-type": "rotary"
+      },
+      "141": {
+            "compressor-type": "vario-inverter-compressor"
+      },
+      "142": {
+            "compressor-type": "inverter-linear-compressor"
+      },
+      "143": {
+            "compressor-type": "reciprocating-compressor"
+      },
+      "144": {
+            "compressor-type": "intellisense-inverter"
+      },
+      "145": {
+            "compressor-type": "conventional-compressor"
+      },
+      "146": {
+            "compressor-type": "non-inverter-compressor"
+      },
+      "147": {
+            "compressor-type": "digital-compressor"
+      },
+      "148": {
+            "compressor-type": "reciprocatory"
+      },
+      "149": {
+            "compressor-type": "sensor-based-compressor"
+      },
+      "150": {
+            "compressor-type": "smart-inverter"
+      },
+      "151": {
+            "compressor-type": "non-inverter"
+      },
+      "152": {
+            "compressor-type": "intelligent-inverter-compressor"
+      },
+      "153": {
+            "compressor-type": "donper"
+      },
+      "154": {
+            "compressor-type": "high-efficiency-compressor"
+      },
+      "155": {
+            "compressor-type": "inverter-linear"
+      },
+      "156": {
+            "convertible-refrigerator": "no"
+      },
+      "157": {
+            "convertible-refrigerator": "yes"
+      },
+      "158": {
+            "coolpad": "no"
+      },
+      "159": {
+            "coolpad": "yes"
+      },
+      "160": "direct-cool",
+      "161": {
+            "launch-year": "2020"
+      },
+      "162": {
+            "launch-year": "2017"
+      },
+      "163": {
+            "launch-year": "2019"
+      },
+      "164": {
+            "launch-year": "2018"
+      },
+      "165": {
+            "launch-year": "2016"
+      },
+      "166": {
+            "launch-year": "2017-2018"
+      },
+      "167": {
+            "net-depth": "64-cm"
+      },
+      "168": {
+            "net-depth": "670-mm"
+      },
+      "169": {
+            "net-depth": "66.5-cm"
+      },
+      "170": {
+            "net-depth": "63.7-cm"
+      },
+      "171": {
+            "net-depth": "580-mm"
+      },
+      "172": {
+            "net-depth": "71.58-cm"
+      },
+      "173": {
+            "net-depth": "667-mm"
+      },
+      "174": {
+            "net-depth": "53.1-cm"
+      },
+      "175": {
+            "net-depth": "703-mm"
+      },
+      "176": {
+            "net-depth": "53-cm"
+      },
+      "177": {
+            "net-depth": "637-mm"
+      },
+      "178": {
+            "net-depth": "67.3-cm"
+      },
+      "179": {
+            "net-depth": "63.3-cm"
+      },
+      "180": {
+            "net-depth": "604-mm"
+      },
+      "181": {
+            "net-depth": "681-mm"
+      },
+      "182": {
+            "net-depth": "57.6-cm"
+      },
+      "183": {
+            "net-depth": "615-mm"
+      },
+      "184": {
+            "net-depth": "67-cm"
+      },
+      "185": {
+            "net-depth": "65-cm"
+      },
+      "186": {
+            "net-depth": "62.3-cm"
+      },
+      "187": {
+            "net-depth": "536-mm"
+      },
+      "188": {
+            "net-depth": "658-mm"
+      },
+      "189": {
+            "net-depth": "68.8-cm"
+      },
+      "190": {
+            "net-depth": "685-mm"
+      },
+      "191": {
+            "net-depth": "530-mm"
+      },
+      "192": {
+            "net-depth": "59.7-cm"
+      },
+      "193": {
+            "net-depth": "633-mm"
+      },
+      "194": {
+            "net-depth": "678-mm"
+      },
+      "195": {
+            "net-depth": "623-mm"
+      },
+      "196": {
+            "net-depth": "628-mm"
+      },
+      "197": {
+            "net-depth": "620-mm"
+      },
+      "198": {
+            "net-depth": "66.7-cm"
+      },
+      "199": {
+            "net-depth": "682-mm"
+      },
+      "200": {
+            "net-depth": "62.1-cm"
+      },
+      "201": {
+            "net-depth": "67.2-cm"
+      },
+      "202": {
+            "net-depth": "61.5-cm"
+      },
+      "203": {
+            "net-depth": "535-mm"
+      },
+      "204": {
+            "net-depth": "535-cm"
+      },
+      "205": {
+            "net-depth": "687-mm"
+      },
+      "206": {
+            "net-depth": "710-mm"
+      },
+      "207": {
+            "net-depth": "760-mm"
+      },
+      "208": {
+            "net-depth": "48.26-cm"
+      },
+      "209": {
+            "net-depth": "446-mm"
+      },
+      "210": {
+            "net-depth": "514-mm"
+      },
+      "211": {
+            "net-depth": "638-mm"
+      },
+      "212": {
+            "net-depth": "706-mm"
+      },
+      "213": {
+            "net-depth": "643-mm"
+      },
+      "214": {
+            "net-depth": "708-mm"
+      },
+      "215": {
+            "net-depth": "650-mm"
+      },
+      "216": {
+            "net-depth": "543-mm"
+      },
+      "217": {
+            "net-depth": "655-mm"
+      },
+      "218": {
+            "net-depth": "68.7-cm"
+      },
+      "219": {
+            "net-depth": "675-mm"
+      },
+      "220": {
+            "net-depth": "62.8-cm"
+      },
+      "221": {
+            "net-depth": "717-mm"
+      },
+      "222": {
+            "net-depth": "641-mm"
+      },
+      "223": {
+            "net-depth": "700-mm"
+      },
+      "224": {
+            "net-depth": "672-mm"
+      },
+      "225": {
+            "net-depth": "665-mm"
+      },
+      "226": {
+            "net-depth": "619-mm"
+      },
+      "227": {
+            "net-depth": "642-mm"
+      },
+      "228": {
+            "net-depth": "669-mm"
+      },
+      "229": {
+            "net-depth": "661-mm"
+      },
+      "230": {
+            "net-depth": "65.2-cm"
+      },
+      "231": {
+            "net-depth": "575-mm"
+      },
+      "232": {
+            "net-depth": "600-mm"
+      },
+      "233": {
+            "net-depth": "535.5-mm"
+      },
+      "234": {
+            "net-depth": "45-cm"
+      },
+      "235": {
+            "net-depth": "60.4-cm"
+      },
+      "236": {
+            "net-depth": "770-mm"
+      },
+      "237": {
+            "net-depth": "470-mm"
+      },
+      "238": {
+            "net-depth": "590-mm"
+      },
+      "239": {
+            "net-depth": "662-mm"
+      },
+      "240": {
+            "net-depth": "64.3-cm"
+      },
+      "241": {
+            "net-depth": "465-mm"
+      },
+      "242": {
+            "net-depth": "54.6-cm"
+      },
+      "243": {
+            "net-depth": "738-mm"
+      },
+      "244": {
+            "net-depth": "71.5-cm"
+      },
+      "245": {
+            "net-depth": "555-mm"
+      },
+      "246": {
+            "net-depth": "725-mm"
+      },
+      "247": {
+            "net-depth": "750-mm"
+      },
+      "248": {
+            "net-depth": "60.5-cm"
+      },
+      "249": {
+            "net-depth": "570-mm"
+      },
+      "250": {
+            "net-depth": "631-mm"
+      },
+      "251": {
+            "net-depth": "594-mm"
+      },
+      "252": {
+            "net-depth": "450-mm"
+      },
+      "253": {
+            "net-depth": "68.5-cm"
+      },
+      "254": {
+            "net-depth": "671-mm"
+      },
+      "255": {
+            "net-depth": "568-mm"
+      },
+      "256": {
+            "net-depth": "611-mm"
+      },
+      "257": {
+            "net-depth": "61.7-cm"
+      },
+      "258": {
+            "net-depth": "740-mm"
+      },
+      "259": {
+            "net-depth": "68-cm"
+      },
+      "260": {
+            "net-depth": "71.05-cm"
+      },
+      "261": {
+            "net-depth": "67.6-cm"
+      },
+      "262": {
+            "net-depth": "566-mm"
+      },
+      "263": {
+            "net-depth": "677-mm"
+      },
+      "264": {
+            "net-depth": "54-cm"
+      },
+      "265": {
+            "net-depth": "54.61-cm"
+      },
+      "266": {
+            "net-depth": "730-mm"
+      },
+      "267": {
+            "net-depth": "788-mm"
+      },
+      "268": {
+            "net-depth": "597-mm"
+      },
+      "269": {
+            "net-depth": "745-mm"
+      },
+      "270": {
+            "net-depth": "660-mm"
+      },
+      "271": {
+            "net-depth": "726-mm"
+      },
+      "272": {
+            "net-depth": "59.4-cm"
+      },
+      "273": {
+            "net-depth": "585-mm"
+      },
+      "274": {
+            "net-depth": "64.9-cm"
+      },
+      "275": {
+            "net-depth": "70.3-cm"
+      },
+      "276": {
+            "net-depth": "715.8-mm"
+      },
+      "277": {
+            "net-depth": "45.5-cm"
+      },
+      "278": {
+            "net-depth": "621-mm"
+      },
+      "279": {
+            "net-depth": "640-mm"
+      },
+      "280": {
+            "net-depth": "576-mm"
+      },
+      "281": {
+            "net-depth": "668-mm"
+      },
+      "282": {
+            "net-depth": "652-mm"
+      },
+      "283": {
+            "net-depth": "73-cm"
+      },
+      "284": {
+            "net-depth": "730.2-mm"
+      },
+      "285": {
+            "net-depth": "520-mm"
+      },
+      "286": {
+            "net-depth": "73.2-cm"
+      },
+      "287": {
+            "net-depth": "688-mm"
+      },
+      "288": {
+            "net-depth": "66.8-cm"
+      },
+      "289": {
+            "net-depth": "800-mm"
+      },
+      "290": {
+            "net-depth": "666-mm"
+      },
+      "291": {
+            "net-depth": "648-mm"
+      },
+      "292": {
+            "net-depth": "728.5-mm"
+      },
+      "293": {
+            "net-depth": "649-mm"
+      },
+      "294": {
+            "net-depth": "641.5-mm"
+      },
+      "295": {
+            "net-depth": "840-mm"
+      },
+      "296": {
+            "net-depth": "577-mm"
+      },
+      "297": {
+            "net-depth": "57.7-cm"
+      },
+      "298": {
+            "net-depth": "61.9-mm"
+      },
+      "299": {
+            "net-depth": "720-mm"
+      },
+      "300": {
+            "net-depth": "733-mm"
+      },
+      "301": {
+            "net-depth": "63.1-cm"
+      },
+      "302": {
+            "net-depth": "676-mm"
+      },
+      "303": {
+            "net-depth": "174.4-cm"
+      },
+      "304": {
+            "net-depth": "87.1-cm"
+      },
+      "305": {
+            "net-depth": "82-cm"
+      },
+      "306": {
+            "net-depth": "65.5-cm"
+      },
+      "307": {
+            "net-depth": "776-mm"
+      },
+      "308": {
+            "net-depth": "61.9-cm"
+      },
+      "309": {
+            "net-depth": "57-cm"
+      },
+      "310": {
+            "net-depth": "704-mm"
+      },
+      "311": {
+            "net-depth": "734-mm"
+      },
+      "312": {
+            "net-depth": "663-mm"
+      },
+      "313": {
+            "net-depth": "830-mm"
+      },
+      "314": {
+            "net-depth": "722-mm"
+      },
+      "315": {
+            "net-depth": "62.23-cm"
+      },
+      "316": {
+            "net-depth": "66-cm"
+      },
+      "317": {
+            "net-depth": "680-mm"
+      },
+      "318": {
+            "net-depth": "55-cm"
+      },
+      "319": {
+            "net-depth": "56.8-cm"
+      },
+      "320": {
+            "net-depth": "68.2-cm"
+      },
+      "321": {
+            "net-depth": "121.8-cm"
+      },
+      "322": {
+            "net-depth": "51-cm"
+      },
+      "323": {
+            "net-depth": "55.88-cm"
+      },
+      "324": {
+            "net-depth": "715-mm"
+      },
+      "325": {
+            "net-depth": "59-cm"
+      },
+      "326": {
+            "net-depth": "564-mm"
+      },
+      "327": {
+            "net-height": "130-cm"
+      },
+      "328": {
+            "net-height": "1590-mm"
+      },
+      "329": {
+            "net-height": "122-cm"
+      },
+      "330": {
+            "net-height": "154.5-cm"
+      },
+      "331": {
+            "net-height": "1040-mm"
+      },
+      "332": {
+            "net-height": "132.52-cm"
+      },
+      "333": {
+            "net-height": "1247-mm"
+      },
+      "334": {
+            "net-height": "109.7-cm"
+      },
+      "335": {
+            "net-height": "1475-mm"
+      },
+      "336": {
+            "net-height": "1545-mm"
+      },
+      "337": {
+            "net-height": "107.5-cm"
+      },
+      "338": {
+            "net-height": "132.6-cm"
+      },
+      "339": {
+            "net-height": "118-cm"
+      },
+      "340": {
+            "net-height": "131.5-cm"
+      },
+      "341": {
+            "net-height": "1191-mm"
+      },
+      "342": {
+            "net-height": "1635-mm"
+      },
+      "343": {
+            "net-height": "118.4-cm"
+      },
+      "344": {
+            "net-height": "1300-mm"
+      },
+      "345": {
+            "net-height": "159-cm"
+      },
+      "346": {
+            "net-height": "1747-mm"
+      },
+      "347": {
+            "net-height": "1097-mm"
+      },
+      "348": {
+            "net-height": "1437-mm"
+      },
+      "349": {
+            "net-height": "119-cm"
+      },
+      "350": {
+            "net-height": "140-cm"
+      },
+      "351": {
+            "net-height": "143.7-cm"
+      },
+      "352": {
+            "net-height": "163.5-cm"
+      },
+      "353": {
+            "net-height": "1172-mm"
+      },
+      "354": {
+            "net-height": "1197-mm"
+      },
+      "355": {
+            "net-height": "1184-mm"
+      },
+      "356": {
+            "net-height": "1195-mm"
+      },
+      "357": {
+            "net-height": "1338-mm"
+      },
+      "358": {
+            "net-height": "1157-mm"
+      },
+      "359": {
+            "net-height": "1560-mm"
+      },
+      "360": {
+            "net-height": "124.7-cm"
+      },
+      "361": {
+            "net-height": "1500-mm"
+      },
+      "362": {
+            "net-height": "1369-mm"
+      },
+      "363": {
+            "net-height": "150-cm"
+      },
+      "364": {
+            "net-height": "1313-mm"
+      },
+      "365": {
+            "net-height": "1485-mm"
+      },
+      "366": {
+            "net-height": "1190-mm"
+      },
+      "367": {
+            "net-height": "117.2-cm"
+      },
+      "368": {
+            "net-height": "156-cm"
+      },
+      "369": {
+            "net-height": "133-cm"
+      },
+      "370": {
+            "net-height": "1195-cm"
+      },
+      "371": {
+            "net-height": "1773-mm"
+      },
+      "372": {
+            "net-height": "1740-mm"
+      },
+      "373": {
+            "net-height": "161.5-cm"
+      },
+      "374": {
+            "net-height": "152-cm"
+      },
+      "375": {
+            "net-height": "1218-mm"
+      },
+      "376": {
+            "net-height": "1700-mm"
+      },
+      "377": {
+            "net-height": "1760-mm"
+      },
+      "378": {
+            "net-height": "45.72-cm"
+      },
+      "379": {
+            "net-height": "842-mm"
+      },
+      "380": {
+            "net-height": "530-mm"
+      },
+      "381": {
+            "net-height": "1300-cm"
+      },
+      "382": {
+            "net-height": "1720-mm"
+      },
+      "383": {
+            "net-height": "1230-mm"
+      },
+      "384": {
+            "net-height": "1518-mm"
+      },
+      "385": {
+            "net-height": "1786-mm"
+      },
+      "386": {
+            "net-height": "1770-mm"
+      },
+      "387": {
+            "net-height": "1324-mm"
+      },
+      "388": {
+            "net-height": "1326-mm"
+      },
+      "389": {
+            "net-height": "1173-mm"
+      },
+      "390": {
+            "net-height": "1612-mm"
+      },
+      "391": {
+            "net-height": "1361-mm"
+      },
+      "392": {
+            "net-height": "1790-mm"
+      },
+      "393": {
+            "net-height": "136.2-cm"
+      },
+      "394": {
+            "net-height": "1680-mm"
+      },
+      "395": {
+            "net-height": "133.8-cm"
+      },
+      "396": {
+            "net-height": "1660-mm"
+      },
+      "397": {
+            "net-height": "136.1-cm"
+      },
+      "398": {
+            "net-height": "1874-mm"
+      },
+      "399": {
+            "net-height": "1120-mm"
+      },
+      "400": {
+            "net-height": "1715-mm"
+      },
+      "401": {
+            "net-height": "1075-mm"
+      },
+      "402": {
+            "net-height": "1304-mm"
+      },
+      "403": {
+            "net-height": "1600-mm"
+      },
+      "404": {
+            "net-height": "1128-mm"
+      },
+      "405": {
+            "net-height": "175.4-cm"
+      },
+      "406": {
+            "net-height": "1257-mm"
+      },
+      "407": {
+            "net-height": "1466-mm"
+      },
+      "408": {
+            "net-height": "1580-mm"
+      },
+      "409": {
+            "net-height": "50.1-cm"
+      },
+      "410": {
+            "net-height": "1860-mm"
+      },
+      "411": {
+            "net-height": "525-mm"
+      },
+      "412": {
+            "net-height": "1182-mm"
+      },
+      "413": {
+            "net-height": "1492-mm"
+      },
+      "414": {
+            "net-height": "178.6-cm"
+      },
+      "415": {
+            "net-height": "505-mm"
+      },
+      "416": {
+            "net-height": "104.1-cm"
+      },
+      "417": {
+            "net-height": "1307-mm"
+      },
+      "418": {
+            "net-height": "1332-mm"
+      },
+      "419": {
+            "net-height": "1543-mm"
+      },
+      "420": {
+            "net-height": "1855-mm"
+      },
+      "421": {
+            "net-height": "123.8-cm"
+      },
+      "422": {
+            "net-height": "1890-mm"
+      },
+      "423": {
+            "net-height": "1685-mm"
+      },
+      "424": {
+            "net-height": "126.7-cm"
+      },
+      "425": {
+            "net-height": "132.5-cm"
+      },
+      "426": {
+            "net-height": "171.5-cm"
+      },
+      "427": {
+            "net-height": "1355-mm"
+      },
+      "428": {
+            "net-height": "1725-mm"
+      },
+      "429": {
+            "net-height": "1645-mm"
+      },
+      "430": {
+            "net-height": "167.9-cm"
+      },
+      "431": {
+            "net-height": "1113-mm"
+      },
+      "432": {
+            "net-height": "1142-mm"
+      },
+      "433": {
+            "net-height": "1147-mm"
+      },
+      "434": {
+            "net-height": "1159-mm"
+      },
+      "435": {
+            "net-height": "1695-mm"
+      },
+      "436": {
+            "net-height": "1519-mm"
+      },
+      "437": {
+            "net-height": "1170-mm"
+      },
+      "438": {
+            "net-height": "1315-mm"
+      },
+      "439": {
+            "net-height": "501-mm"
+      },
+      "440": {
+            "net-height": "178-cm"
+      },
+      "441": {
+            "net-height": "1385-mm"
+      },
+      "442": {
+            "net-height": "1785-mm"
+      },
+      "443": {
+            "net-height": "1296-mm"
+      },
+      "444": {
+            "net-height": "1267-mm"
+      },
+      "445": {
+            "net-height": "168.9-cm"
+      },
+      "446": {
+            "net-height": "1808-mm"
+      },
+      "447": {
+            "net-height": "172-cm"
+      },
+      "448": {
+            "net-height": "121.61-cm"
+      },
+      "449": {
+            "net-height": "167.5-cm"
+      },
+      "450": {
+            "net-height": "125-cm"
+      },
+      "451": {
+            "net-height": "1673-mm"
+      },
+      "452": {
+            "net-height": "1448-mm"
+      },
+      "453": {
+            "net-height": "121.6-cm"
+      },
+      "454": {
+            "net-height": "1167-mm"
+      },
+      "455": {
+            "net-height": "129.79-cm"
+      },
+      "456": {
+            "net-height": "1840-mm"
+      },
+      "457": {
+            "net-height": "1862-mm"
+      },
+      "458": {
+            "net-height": "1910-mm"
+      },
+      "459": {
+            "net-height": "860-mm"
+      },
+      "460": {
+            "net-height": "120.9-cm"
+      },
+      "461": {
+            "net-height": "1675-mm"
+      },
+      "462": {
+            "net-height": "150.2-cm"
+      },
+      "463": {
+            "net-height": "142.5-cm"
+      },
+      "464": {
+            "net-height": "147.5-cm"
+      },
+      "465": {
+            "net-height": "1238-mm"
+      },
+      "466": {
+            "net-height": "1325.2-mm"
+      },
+      "467": {
+            "net-height": "133.2-cm"
+      },
+      "468": {
+            "net-height": "51-cm"
+      },
+      "469": {
+            "net-height": "1575-mm"
+      },
+      "470": {
+            "net-height": "1780-mm"
+      },
+      "471": {
+            "net-height": "1360-mm"
+      },
+      "472": {
+            "net-height": "155-cm"
+      },
+      "473": {
+            "net-height": "1400-mm"
+      },
+      "474": {
+            "net-height": "151.9-cm"
+      },
+      "475": {
+            "net-height": "142.4-cm"
+      },
+      "476": {
+            "net-height": "116.5-cm"
+      },
+      "477": {
+            "net-height": "1754-mm"
+      },
+      "478": {
+            "net-height": "168-cm"
+      },
+      "479": {
+            "net-height": "1370-mm"
+      },
+      "480": {
+            "net-height": "1250-mm"
+      },
+      "481": {
+            "net-height": "1192-mm"
+      },
+      "482": {
+            "net-height": "175.6-cm"
+      },
+      "483": {
+            "net-height": "1930-mm"
+      },
+      "484": {
+            "net-height": "1804-mm"
+      },
+      "485": {
+            "net-height": "1679-mm"
+      },
+      "486": {
+            "net-height": "1775-mm"
+      },
+      "487": {
+            "net-height": "1502-mm"
+      },
+      "488": {
+            "net-height": "130.7-cm"
+      },
+      "489": {
+            "net-height": "119.2-cm"
+      },
+      "490": {
+            "net-height": "130.4-cm"
+      },
+      "491": {
+            "net-height": "115.9-mm"
+      },
+      "492": {
+            "net-height": "1585-mm"
+      },
+      "493": {
+            "net-height": "170-cm"
+      },
+      "494": {
+            "net-height": "1825-mm"
+      },
+      "495": {
+            "net-height": "114.2-cm"
+      },
+      "496": {
+            "net-height": "1209-mm"
+      },
+      "497": {
+            "net-height": "1388-mm"
+      },
+      "498": {
+            "net-height": "1856-mm"
+      },
+      "499": {
+            "net-height": "1465-mm"
+      },
+      "500": {
+            "net-height": "1610-mm"
+      },
+      "501": {
+            "net-height": "182.5-cm"
+      },
+      "502": {
+            "net-height": "1713-mm"
+      },
+      "503": {
+            "net-height": "121-cm"
+      },
+      "504": {
+            "net-height": "154-cm"
+      },
+      "505": {
+            "net-height": "1160-mm"
+      },
+      "506": {
+            "net-height": "1200-mm"
+      },
+      "507": {
+            "net-height": "1800-mm"
+      },
+      "508": {
+            "net-height": "1309-mm"
+      },
+      "509": {
+            "net-height": "1787-mm"
+      },
+      "510": {
+            "net-height": "134.1-cm"
+      },
+      "511": {
+            "net-height": "1672-mm"
+      },
+      "512": {
+            "net-height": "121.8-cm"
+      },
+      "513": {
+            "net-height": "132.9-cm"
+      },
+      "514": {
+            "net-height": "1335-mm"
+      },
+      "515": {
+            "net-height": "1850-mm"
+      },
+      "516": {
+            "net-height": "130.2-cm"
+      },
+      "517": {
+            "net-height": "177-cm"
+      },
+      "518": {
+            "net-height": "181-cm"
+      },
+      "519": {
+            "net-height": "115.9-cm"
+      },
+      "520": {
+            "net-height": "185-cm"
+      },
+      "521": {
+            "net-height": "117.6-cm"
+      },
+      "522": {
+            "net-height": "85-cm"
+      },
+      "523": {
+            "net-height": "123.9-cm"
+      },
+      "524": {
+            "net-height": "1615-mm"
+      },
+      "525": {
+            "net-height": "147.7-cm"
+      },
+      "526": {
+            "net-height": "1629-mm"
+      },
+      "527": {
+            "net-height": "53-cm"
+      },
+      "528": {
+            "net-height": "1846-mm"
+      },
+      "529": {
+            "net-height": "84.5-cm"
+      },
+      "530": {
+            "net-height": "1342-mm"
+      },
+      "531": {
+            "net-height": "1186-mm"
+      },
+      "532": {
+            "net-height": "142.24-cm"
+      },
+      "533": {
+            "net-height": "1277-mm"
+      },
+      "534": {
+            "net-height": "1788-mm"
+      },
+      "535": {
+            "net-height": "1037-mm"
+      },
+      "536": {
+            "net-height": "157.5-cm"
+      },
+      "537": {
+            "net-height": "1100-mm"
+      },
+      "538": {
+            "net-height": "1420-mm"
+      },
+      "539": {
+            "net-height": "134.2-cm"
+      },
+      "540": {
+            "net-height": "114.7-cm"
+      },
+      "541": {
+            "net-height": "1180-mm"
+      },
+      "542": {
+            "net-height": "1392-mm"
+      },
+      "543": {
+            "net-height": "1555-mm"
+      },
+      "544": {
+            "net-total-capacity": "182-l"
+      },
+      "545": {
+            "net-total-capacity": "265-l"
+      },
+      "546": {
+            "net-total-capacity": "234-l"
+      },
+      "547": {
+            "net-total-capacity": "160-l"
+      },
+      "548": {
+            "net-total-capacity": "188-l"
+      },
+      "549": {
+            "net-total-capacity": "190-l"
+      },
+      "550": {
+            "net-total-capacity": "163-l"
+      },
+      "551": {
+            "net-total-capacity": "202-l"
+      },
+      "552": {
+            "net-total-capacity": "239-l"
+      },
+      "553": {
+            "net-total-capacity": "183-l"
+      },
+      "554": {
+            "net-total-capacity": "174-l"
+      },
+      "555": {
+            "net-total-capacity": "231-l"
+      },
+      "556": {
+            "net-total-capacity": "205-l"
+      },
+      "557": {
+            "net-total-capacity": "213-l"
+      },
+      "558": {
+            "net-total-capacity": "235-l"
+      },
+      "559": {
+            "net-total-capacity": "255-l"
+      },
+      "560": {
+            "net-total-capacity": "215-l"
+      },
+      "561": {
+            "net-total-capacity": "220-l"
+      },
+      "562": {
+            "net-total-capacity": "324-l"
+      },
+      "563": {
+            "net-total-capacity": "180-l"
+      },
+      "564": {
+            "net-total-capacity": "244-l"
+      },
+      "565": {
+            "net-total-capacity": "223-l"
+      },
+      "566": {
+            "net-total-capacity": "30-l"
+      },
+      "567": {
+            "net-total-capacity": "91-l"
+      },
+      "568": {
+            "net-total-capacity": "46-l"
+      },
+      "569": {
+            "net-total-capacity": "292-l"
+      },
+      "570": {
+            "net-total-capacity": "516-l"
+      },
+      "571": {
+            "net-total-capacity": "313-l"
+      },
+      "572": {
+            "net-total-capacity": "280-l"
+      },
+      "573": {
+            "net-total-capacity": "521-l"
+      },
+      "574": {
+            "net-total-capacity": "210-l"
+      },
+      "575": {
+            "net-total-capacity": "310-l"
+      },
+      "576": {
+            "net-total-capacity": "200-l"
+      },
+      "577": {
+            "net-total-capacity": "303-l"
+      },
+      "578": {
+            "net-total-capacity": "321-l"
+      },
+      "579": {
+            "net-total-capacity": "170-l"
+      },
+      "580": {
+            "net-total-capacity": "278-l"
+      },
+      "581": {
+            "net-total-capacity": "181-l"
+      },
+      "582": {
+            "net-total-capacity": "315-l"
+      },
+      "583": {
+            "net-total-capacity": "45-l"
+      },
+      "584": {
+            "net-total-capacity": "47-l"
+      },
+      "585": {
+            "net-total-capacity": "288-l"
+      },
+      "586": {
+            "net-total-capacity": "306-l"
+      },
+      "587": {
+            "net-total-capacity": "195-l"
+      },
+      "588": {
+            "net-total-capacity": "528-l"
+      },
+      "589": {
+            "net-total-capacity": "251-l"
+      },
+      "590": {
+            "net-total-capacity": "263-l"
+      },
+      "591": {
+            "net-total-capacity": "420-l"
+      },
+      "592": {
+            "net-total-capacity": "500-l"
+      },
+      "593": {
+            "net-total-capacity": "262-l"
+      },
+      "594": {
+            "net-total-capacity": "185-l"
+      },
+      "595": {
+            "net-total-capacity": "175-l"
+      },
+      "596": {
+            "net-total-capacity": "401-l"
+      },
+      "597": {
+            "net-total-capacity": "300-l"
+      },
+      "598": {
+            "net-total-capacity": "184-l"
+      },
+      "599": {
+            "net-total-capacity": "43-l"
+      },
+      "600": {
+            "net-total-capacity": "360-l"
+      },
+      "601": {
+            "net-total-capacity": "384-l"
+      },
+      "602": {
+            "net-total-capacity": "440-l"
+      },
+      "603": {
+            "net-total-capacity": "290-l"
+      },
+      "604": {
+            "net-total-capacity": "222-l"
+      },
+      "605": {
+            "net-total-capacity": "620-l"
+      },
+      "606": {
+            "net-total-capacity": "510-l"
+      },
+      "607": {
+            "net-total-capacity": "93-l"
+      },
+      "608": {
+            "net-total-capacity": "276-l"
+      },
+      "609": {
+            "net-total-capacity": "49-l"
+      },
+      "610": {
+            "net-total-capacity": "250-l"
+      },
+      "611": {
+            "net-total-capacity": "198-l"
+      },
+      "612": {
+            "net-total-capacity": "257-l"
+      },
+      "613": {
+            "net-total-capacity": "362-l"
+      },
+      "614": {
+            "net-total-capacity": "437-l"
+      },
+      "615": {
+            "net-total-capacity": "281-l"
+      },
+      "616": {
+            "net-total-capacity": "237-l"
+      },
+      "617": {
+            "net-total-capacity": "307-l"
+      },
+      "618": {
+            "net-total-capacity": "499-l"
+      },
+      "619": {
+            "net-total-capacity": "619-l"
+      },
+      "620": {
+            "net-total-capacity": "192-l"
+      },
+      "621": {
+            "net-total-capacity": "212-l"
+      },
+      "622": {
+            "net-total-capacity": "240-l"
+      },
+      "623": {
+            "net-total-capacity": "270-l"
+      },
+      "624": {
+            "net-total-capacity": "605-l"
+      },
+      "625": {
+            "net-total-capacity": "178-l"
+      },
+      "626": {
+            "net-total-capacity": "380-l"
+      },
+      "627": {
+            "net-total-capacity": "647-l"
+      },
+      "628": {
+            "net-total-capacity": "196-l"
+      },
+      "629": {
+            "net-total-capacity": "318-l"
+      },
+      "630": {
+            "net-total-capacity": "466-l"
+      },
+      "631": {
+            "net-total-capacity": "470-l"
+      },
+      "632": {
+            "net-total-capacity": "261-l"
+      },
+      "633": {
+            "net-total-capacity": "322-l"
+      },
+      "634": {
+            "net-total-capacity": "325-l"
+      },
+      "635": {
+            "net-total-capacity": "274-l"
+      },
+      "636": {
+            "net-total-capacity": "92-l"
+      },
+      "637": {
+            "net-total-capacity": "527-l"
+      },
+      "638": {
+            "net-total-capacity": "256-l"
+      },
+      "639": {
+            "net-width": "54.9-cm"
+      },
+      "640": {
+            "net-width": "570-mm"
+      },
+      "641": {
+            "net-width": "53.6-cm"
+      },
+      "642": {
+            "net-width": "55.5-cm"
+      },
+      "643": {
+            "net-width": "540-mm"
+      },
+      "644": {
+            "net-width": "57.81-cm"
+      },
+      "645": {
+            "net-width": "577-mm"
+      },
+      "646": {
+            "net-width": "65.8-cm"
+      },
+      "647": {
+            "net-width": "585-mm"
+      },
+      "648": {
+            "net-width": "61-cm"
+      },
+      "649": {
+            "net-width": "555-mm"
+      },
+      "650": {
+            "net-width": "54-cm"
+      },
+      "651": {
+            "net-width": "53.4-cm"
+      },
+      "652": {
+            "net-width": "53.2-cm"
+      },
+      "653": {
+            "net-width": "536-mm"
+      },
+      "654": {
+            "net-width": "600-mm"
+      },
+      "655": {
+            "net-width": "62.3-cm"
+      },
+      "656": {
+            "net-width": "535-mm"
+      },
+      "657": {
+            "net-width": "57-cm"
+      },
+      "658": {
+            "net-width": "618-mm"
+      },
+      "659": {
+            "net-width": "531-mm"
+      },
+      "660": {
+            "net-width": "597-mm"
+      },
+      "661": {
+            "net-width": "610-mm"
+      },
+      "662": {
+            "net-width": "70.6-cm"
+      },
+      "663": {
+            "net-width": "534-mm"
+      },
+      "664": {
+            "net-width": "568-mm"
+      },
+      "665": {
+            "net-width": "576-mm"
+      },
+      "666": {
+            "net-width": "530-mm"
+      },
+      "667": {
+            "net-width": "548-mm"
+      },
+      "668": {
+            "net-width": "57.7-cm"
+      },
+      "669": {
+            "net-width": "566-mm"
+      },
+      "670": {
+            "net-width": "59.1-cm"
+      },
+      "671": {
+            "net-width": "60-cm"
+      },
+      "672": {
+            "net-width": "541-mm"
+      },
+      "673": {
+            "net-width": "54.8-cm"
+      },
+      "674": {
+            "net-width": "55-cm"
+      },
+      "675": {
+            "net-width": "615-mm"
+      },
+      "676": {
+            "net-width": "615-cm"
+      },
+      "677": {
+            "net-width": "559-mm"
+      },
+      "678": {
+            "net-width": "38.1-cm"
+      },
+      "679": {
+            "net-width": "479-mm"
+      },
+      "680": {
+            "net-width": "463-mm"
+      },
+      "681": {
+            "net-width": "628-mm"
+      },
+      "682": {
+            "net-width": "591-mm"
+      },
+      "683": {
+            "net-width": "910-mm"
+      },
+      "684": {
+            "net-width": "598-mm"
+      },
+      "685": {
+            "net-width": "619-mm"
+      },
+      "686": {
+            "net-width": "908-mm"
+      },
+      "687": {
+            "net-width": "59.7-cm"
+      },
+      "688": {
+            "net-width": "620-mm"
+      },
+      "689": {
+            "net-width": "53-cm"
+      },
+      "690": {
+            "net-width": "601-mm"
+      },
+      "691": {
+            "net-width": "595-mm"
+      },
+      "692": {
+            "net-width": "590-mm"
+      },
+      "693": {
+            "net-width": "543-mm"
+      },
+      "694": {
+            "net-width": "680-mm"
+      },
+      "695": {
+            "net-width": "64.8-cm"
+      },
+      "696": {
+            "net-width": "635-mm"
+      },
+      "697": {
+            "net-width": "563-mm"
+      },
+      "698": {
+            "net-width": "44.3-cm"
+      },
+      "699": {
+            "net-width": "700-mm"
+      },
+      "700": {
+            "net-width": "455-mm"
+      },
+      "701": {
+            "net-width": "560-mm"
+      },
+      "702": {
+            "net-width": "91-cm"
+      },
+      "703": {
+            "net-width": "495-mm"
+      },
+      "704": {
+            "net-width": "53.3-cm"
+      },
+      "705": {
+            "net-width": "532-mm"
+      },
+      "706": {
+            "net-width": "640-mm"
+      },
+      "707": {
+            "net-width": "790-mm"
+      },
+      "708": {
+            "net-width": "53.5-cm"
+      },
+      "709": {
+            "net-width": "912-mm"
+      },
+      "710": {
+            "net-width": "800-mm"
+      },
+      "711": {
+            "net-width": "57.8-cm"
+      },
+      "712": {
+            "net-width": "637-mm"
+      },
+      "713": {
+            "net-width": "750-mm"
+      },
+      "714": {
+            "net-width": "62.8-cm"
+      },
+      "715": {
+            "net-width": "533-mm"
+      },
+      "716": {
+            "net-width": "537-mm"
+      },
+      "717": {
+            "net-width": "538-mm"
+      },
+      "718": {
+            "net-width": "695-mm"
+      },
+      "719": {
+            "net-width": "443-mm"
+      },
+      "720": {
+            "net-width": "675-mm"
+      },
+      "721": {
+            "net-width": "681-mm"
+      },
+      "722": {
+            "net-width": "833-mm"
+      },
+      "723": {
+            "net-width": "82-cm"
+      },
+      "724": {
+            "net-width": "56.8-cm"
+      },
+      "725": {
+            "net-width": "65.2-cm"
+      },
+      "726": {
+            "net-width": "64.5-cm"
+      },
+      "727": {
+            "net-width": "54.61-cm"
+      },
+      "728": {
+            "net-width": "860-mm"
+      },
+      "729": {
+            "net-width": "836-mm"
+      },
+      "730": {
+            "net-width": "685-mm"
+      },
+      "731": {
+            "net-width": "688-mm"
+      },
+      "732": {
+            "net-width": "855-mm"
+      },
+      "733": {
+            "net-width": "765-mm"
+      },
+      "734": {
+            "net-width": "672-mm"
+      },
+      "735": {
+            "net-width": "703-mm"
+      },
+      "736": {
+            "net-width": "545-mm"
+      },
+      "737": {
+            "net-width": "58.5-cm"
+      },
+      "738": {
+            "net-width": "578.1-mm"
+      },
+      "739": {
+            "net-width": "53.1-cm"
+      },
+      "740": {
+            "net-width": "48-cm"
+      },
+      "741": {
+            "net-width": "780-mm"
+      },
+      "742": {
+            "net-width": "549-mm"
+      },
+      "743": {
+            "net-width": "623-mm"
+      },
+      "744": {
+            "net-width": "648-mm"
+      },
+      "745": {
+            "net-width": "70-cm"
+      },
+      "746": {
+            "net-width": "699-mm"
+      },
+      "747": {
+            "net-width": "91.2-cm"
+      },
+      "748": {
+            "net-width": "630-mm"
+      },
+      "749": {
+            "net-width": "67.5-cm"
+      },
+      "750": {
+            "net-width": "652-mm"
+      },
+      "751": {
+            "net-width": "605-mm"
+      },
+      "752": {
+            "net-width": "911-mm"
+      },
+      "753": {
+            "net-width": "667-mm"
+      },
+      "754": {
+            "net-width": "66.7-cm"
+      },
+      "755": {
+            "net-width": "706-mm"
+      },
+      "756": {
+            "net-width": "53.6-mm"
+      },
+      "757": {
+            "net-width": "535.5-mm"
+      },
+      "758": {
+            "net-width": "86-cm"
+      },
+      "759": {
+            "net-width": "920-mm"
+      },
+      "760": {
+            "net-width": "53.7-cm"
+      },
+      "761": {
+            "net-width": "762-mm"
+      },
+      "762": {
+            "net-width": "520-mm"
+      },
+      "763": {
+            "net-width": "580-mm"
+      },
+      "764": {
+            "net-width": "90.8-cm"
+      },
+      "765": {
+            "net-width": "68-cm"
+      },
+      "766": {
+            "net-width": "59.2-cm"
+      },
+      "767": {
+            "net-width": "606-mm"
+      },
+      "768": {
+            "net-width": "56-cm"
+      },
+      "769": {
+            "net-width": "895-mm"
+      },
+      "770": {
+            "net-width": "835-mm"
+      },
+      "771": {
+            "net-width": "730-mm"
+      },
+      "772": {
+            "net-width": "60.9-cm"
+      },
+      "773": {
+            "net-width": "83-cm"
+      },
+      "774": {
+            "net-width": "720-mm"
+      },
+      "775": {
+            "net-width": "56.6-cm"
+      },
+      "776": {
+            "net-width": "48.7-cm"
+      },
+      "777": {
+            "net-width": "57.9-cm"
+      },
+      "778": {
+            "net-width": "61.2-cm"
+      },
+      "779": {
+            "net-width": "775-mm"
+      },
+      "780": {
+            "net-width": "45.5-cm"
+      },
+      "781": {
+            "net-width": "60.96-cm"
+      },
+      "782": {
+            "net-width": "53.8-cm"
+      },
+      "783": {
+            "number-of-doors": "1"
+      },
+      "784": {
+            "number-of-doors": "2"
+      },
+      "785": {
+            "number-of-doors": "3"
+      },
+      "786": {
+            "number-of-doors": "4"
+      },
+      "787": "top-freezer-refrigerator",
+      "788": {
+            "shelf-material": "toughened-glass"
+      },
+      "789": {
+            "shelf-material": "toughened-glass-shelves"
+      },
+      "790": {
+            "shelf-material": "wired-shelves"
+      },
+      "791": {
+            "shelf-material": "tempered-glass"
+      },
+      "792": {
+            "shelf-material": "trimless-toughened-glass"
+      },
+      "793": {
+            "shelf-material": "toughned-glass"
+      },
+      "794": {
+            "shelf-material": "wired"
+      },
+      "795": {
+            "shelf-material": "wire-shelf"
+      },
+      "796": {
+            "stabilizer-required": "no"
+      },
+      "797": {
+            "stabilizer-required": "yes"
+      },
+      "798": {
+            "star-rating": "4"
+      },
+      "799": {
+            "star-rating": "2"
+      },
+      "800": {
+            "star-rating": "3"
+      },
+      "801": {
+            "star-rating": "5"
+      },
+      "802": {
+            "star-rating": "1"
+      },
+      "803": {
+            "star-rating": "inverter-technology"
+      },
+      "804": {
+            "star-rating": "4-star-bee-rating-2017"
+      },
+      "805": {
+            "toughened-glass": "yes"
+      },
+      "806": {
+            "toughened-glass": "no"
+      },
+      "807": "single-door",
+      "808": "technician-visit",
+      "809": {
+            "weight": "36-kg"
+      },
+      "810": {
+            "weight": "58-kg"
+      },
+      "811": {
+            "weight": "30-kg"
+      },
+      "812": {
+            "weight": "46-kg"
+      },
+      "813": {
+            "weight": "28-kg"
+      },
+      "814": {
+            "weight": "41.4-kg"
+      },
+      "815": {
+            "weight": "35.6-kg"
+      },
+      "816": {
+            "weight": "53-kg"
+      },
+      "817": {
+            "weight": "32.4-kg"
+      },
+      "818": {
+            "weight": "52-kg"
+      },
+      "819": {
+            "weight": "32.5-kg"
+      },
+      "820": {
+            "weight": "33-kg"
+      },
+      "821": {
+            "weight": "32-kg"
+      },
+      "822": {
+            "weight": "54-kg"
+      },
+      "823": {
+            "weight": "34.9-kg"
+      },
+      "824": {
+            "weight": "36.4-kg"
+      },
+      "825": {
+            "weight": "61-kg"
+      },
+      "826": {
+            "weight": "56-kg"
+      },
+      "827": {
+            "weight": "35-kg"
+      },
+      "828": {
+            "weight": "47.15-kg"
+      },
+      "829": {
+            "weight": "39.5-kg"
+      },
+      "830": {
+            "weight": "39.3-kg"
+      },
+      "831": {
+            "weight": "49.7-kg"
+      },
+      "832": {
+            "weight": "31.5-kg"
+      },
+      "833": {
+            "weight": "40-kg"
+      },
+      "834": {
+            "weight": "31.7-kg"
+      },
+      "835": {
+            "weight": "43-kg"
+      },
+      "836": {
+            "weight": "65-kg"
+      },
+      "837": {
+            "weight": "50-kg"
+      },
+      "838": {
+            "weight": "39.8-kg"
+      },
+      "839": {
+            "weight": "49-kg"
+      },
+      "840": {
+            "weight": "38.6-kg"
+      },
+      "841": {
+            "weight": "45-kg"
+      },
+      "842": {
+            "weight": "38-kg"
+      },
+      "843": {
+            "weight": "51-kg"
+      },
+      "844": {
+            "weight": "34-kg"
+      },
+      "845": {
+            "weight": "60-kg"
+      },
+      "846": {
+            "weight": "39-kg"
+      },
+      "847": {
+            "weight": "41-kg"
+      },
+      "848": {
+            "weight": "55-kg"
+      },
+      "849": {
+            "weight": "11-kg"
+      },
+      "850": {
+            "weight": "20.4-kg"
+      },
+      "851": {
+            "weight": "16.8-kg"
+      },
+      "852": {
+            "weight": "48-kg"
+      },
+      "853": {
+            "weight": "98-kg"
+      },
+      "854": {
+            "weight": "73-kg"
+      },
+      "855": {
+            "weight": "59-kg"
+      },
+      "856": {
+            "weight": "37.4-kg"
+      },
+      "857": {
+            "weight": "33.5-kg"
+      },
+      "858": {
+            "weight": "70-kg"
+      },
+      "859": {
+            "weight": "38.4-kg"
+      },
+      "860": {
+            "weight": "64-kg"
+      },
+      "861": {
+            "weight": "62-kg"
+      },
+      "862": {
+            "weight": "43.1-kg"
+      },
+      "863": {
+            "weight": "66-kg"
+      },
+      "864": {
+            "weight": "29-kg"
+      },
+      "865": {
+            "weight": "34.4-kg"
+      },
+      "866": {
+            "weight": "69-kg"
+      },
+      "867": {
+            "weight": "37.1-kg"
+      },
+      "868": {
+            "weight": "75.3-kg"
+      },
+      "869": {
+            "weight": "43.8-kg"
+      },
+      "870": {
+            "weight": "38.4-mm"
+      },
+      "871": {
+            "weight": "17-kg"
+      },
+      "872": {
+            "weight": "86-kg"
+      },
+      "873": {
+            "weight": "13.4-kg"
+      },
+      "874": {
+            "weight": "94-kg"
+      },
+      "875": {
+            "weight": "18-kg"
+      },
+      "876": {
+            "weight": "36.85-kg"
+      },
+      "877": {
+            "weight": "46.6-kg"
+      },
+      "878": {
+            "weight": "87.5-kg"
+      },
+      "879": {
+            "weight": "36.5-kg"
+      },
+      "880": {
+            "weight": "90-kg"
+      },
+      "881": {
+            "weight": "71-kg"
+      },
+      "882": {
+            "weight": "80-kg"
+      },
+      "883": {
+            "weight": "82-kg"
+      },
+      "884": {
+            "weight": "100-kg"
+      },
+      "885": {
+            "weight": "110-kg"
+      },
+      "886": {
+            "weight": "65.8-kg"
+      },
+      "887": {
+            "weight": "31-kg"
+      },
+      "888": {
+            "weight": "84-kg"
+      },
+      "889": {
+            "weight": "39.6-kg"
+      },
+      "890": {
+            "weight": "42-kg"
+      },
+      "891": {
+            "weight": "79-kg"
+      },
+      "892": {
+            "weight": "35.5-kg"
+      },
+      "893": {
+            "weight": "68-kg"
+      },
+      "894": {
+            "weight": "106-kg"
+      },
+      "895": {
+            "weight": "37.8-kg"
+      },
+      "896": {
+            "weight": "38.9-kg"
+      },
+      "897": {
+            "weight": "40.5-kg"
+      },
+      "898": {
+            "weight": "38.95-kg"
+      },
+      "899": {
+            "weight": "99.5-kg"
+      },
+      "900": {
+            "weight": "102-kg"
+      },
+      "901": {
+            "weight": "77.3-kg"
+      },
+      "902": {
+            "weight": "22-kg"
+      },
+      "903": {
+            "weight": "74.5-kg"
+      },
+      "904": {
+            "weight": "63-kg"
+      },
+      "905": {
+            "weight": "13.5-kg"
+      },
+      "906": {
+            "weight": "78-kg"
+      },
+      "907": {
+            "weight": "85-kg"
+      },
+      "908": {
+            "weight": "75-kg"
+      },
+      "909": {
+            "weight": "36.2-kg"
+      },
+      "910": {
+            "weight": "36.6-kg"
+      },
+      "911": {
+            "weight": "57-kg"
+      },
+      "912": {
+            "weight": "74.6-kg"
+      },
+      "913": {
+            "weight": "208-kg"
+      },
+      "914": {
+            "weight": "33.7-kg"
+      },
+      "915": {
+            "weight": "72.4-kg"
+      },
+      "916": {
+            "weight": "85.5-kg"
+      },
+      "917": {
+            "weight": "104-kg"
+      },
+      "918": {
+            "weight": "105-kg"
+      },
+      "919": {
+            "weight": "74.3-kg"
+      },
+      "920": {
+            "weight": "64.3-kg"
+      },
+      "921": {
+            "weight": "120-kg"
+      },
+      "922": {
+            "weight": "42.3-kg"
+      },
+      "923": {
+            "weight": "72-kg"
+      },
+      "924": {
+            "weight": "86.5-kg"
+      },
+      "925": {
+            "weight": "41.8-kg"
+      },
+      "926": {
+            "weight": "132-kg"
+      },
+      "927": {
+            "weight": "37.2-kg"
+      },
+      "928": {
+            "weight": "108-kg"
+      },
+      "929": {
+            "weight": "41.1-kg"
+      },
+      "930": {
+            "weight": "34.5-kg"
+      },
+      "931": {
+            "weight": "135-kg"
+      },
+      "932": {
+            "weight": "30.5-kg"
+      },
+      "933": {
+            "weight": "35.24-kg"
+      },
+      "934": {
+            "weight": "47-kg"
+      },
+      "935": {
+            "weight": "67-kg"
+      },
+      "936": {
+            "weight": "101-kg"
+      },
+      "937": {
+            "weight": "168-kg"
+      },
+      "938": {
+            "weight": "99-kg"
+      },
+      "939": {
+            "weight": "74-kg"
+      },
+      "940": {
+            "weight": "81-kg"
+      },
+      "941": {
+            "weight": "34.7-kg"
+      },
+      "942": {
+            "weight": "25.2-kg"
+      },
+      "943": {
+            "weight": "44.4-kg"
+      },
+      "944": {
+            "weight": "79.5-kg"
+      },
+      "945": {
+            "weight": "45.5-kg"
+      },
+      "946": {
+            "weight": "36.9-kg"
+      },
+      "947": {
+            "weight": "20-kg"
+      },
+      "948": {
+            "weight": "44.3-kg"
+      },
+      "949": {
+            "weight": "37.6-kg"
+      },
+      "950": {
+            "weight": "45.3-kg"
+      },
+      "951": {
+            "weight": "25-kg"
+      },
+      "952": {
+            "weight": "75.5-kg"
+      },
+      "953": {
+            "weight": "30.4-kg"
+      },
+      "954": "frost-free",
+      "955": "solid",
+      "956": {
+            "refrigerator-interior-light": "yes"
+      },
+      "957": {
+            "refrigerator-interior-light": "no"
+      },
+      "958": "double-door",
+      "959": {
+            "cooling-refrigerant": "r600a"
+      },
+      "960": {
+            "cooling-refrigerant": "r-600a"
+      },
+      "961": {
+            "cooling-refrigerant": "r---600a"
+      },
+      "962": {
+            "cooling-refrigerant": "r134a"
+      },
+      "963": {
+            "cooling-refrigerant": "r-134a"
+      },
+      "964": {
+            "cooling-refrigerant": "na"
+      },
+      "965": {
+            "cooling-refrigerant": "eco-friendly"
+      },
+      "966": {
+            "door-lock": "yes"
+      },
+      "967": {
+            "door-lock": "no"
+      },
+      "968": {
+            "egg-tray": "yes"
+      },
+      "969": {
+            "egg-tray": "no"
+      },
+      "970": {
+            "gasket-type": "removable-gasket"
+      },
+      "971": {
+            "gasket-type": "anti-b-technology"
+      },
+      "972": {
+            "gasket-type": "anti-bacteria-gasket"
+      },
+      "973": {
+            "gasket-type": "anti-bacterial-gasket"
+      },
+      "974": {
+            "gasket-type": "pvc"
+      },
+      "975": {
+            "gasket-type": "anti-bacterial"
+      },
+      "976": {
+            "gasket-type": "anti-bacteria"
+      },
+      "977": {
+            "gasket-type": "abt"
+      },
+      "978": {
+            "gasket-type": "antimircobial-gasket"
+      },
+      "979": {
+            "gasket-type": "rubber-with-magnet"
+      },
+      "980": {
+            "gasket-type": "anti-fungal"
+      },
+      "981": {
+            "gasket-type": "anti-b"
+      },
+      "982": {
+            "gasket-type": "moldproof-door-gasket"
+      },
+      "983": {
+            "gasket-type": "pvc-antibacterial-gasket"
+      },
+      "984": {
+            "gasket-type": "removable"
+      },
+      "985": {
+            "gasket-type": "compression-gasket"
+      },
+      "986": {
+            "gasket-type": "moldproof"
+      },
+      "987": {
+            "gasket-type": "anti-b-gasket"
+      },
+      "988": {
+            "gasket-type": "mould-proof-door-gasket"
+      },
+      "989": {
+            "gasket-type": "na"
+      },
+      "990": {
+            "gasket-type": "anti-fungal-gasket"
+      },
+      "991": "top-freezer",
+      "992": {
+            "removable-gasket": "yes"
+      },
+      "993": {
+            "removable-gasket": "no"
+      },
+      "994": {
+            "temperature-control": "manual-setting"
+      },
+      "995": {
+            "temperature-control": "yes"
+      },
+      "996": {
+            "temperature-control": "knob-i-micom"
+      },
+      "997": {
+            "temperature-control": "electro-mechanical"
+      },
+      "998": {
+            "temperature-control": "i-micom"
+      },
+      "999": {
+            "temperature-control": "internal-micom"
+      },
+      "1000": {
+            "temperature-control": "manual-knob"
+      },
+      "1001": {
+            "temperature-control": "digital-control"
+      },
+      "1002": {
+            "temperature-control": "manual"
+      },
+      "1003": {
+            "temperature-control": "precise-electronic-controls"
+      },
+      "1004": {
+            "temperature-control": "knob"
+      },
+      "1005": {
+            "temperature-control": "thermostat-knob"
+      },
+      "1006": {
+            "temperature-control": "e-micom"
+      },
+      "1007": {
+            "temperature-control": "on-fridge"
+      },
+      "1008": {
+            "temperature-control": "no"
+      },
+      "1009": {
+            "temperature-control": "na"
+      },
+      "1010": {
+            "child-lock": "yes"
+      },
+      "1011": {
+            "child-lock": "no"
+      },
+      "1012": {
+            "deodorizer": "yes"
+      },
+      "1013": {
+            "deodorizer": "no"
+      },
+      "1014": "floral",
+      "1015": {
+            "flexible-rack": "yes"
+      },
+      "1016": {
+            "flexible-rack": "no"
+      },
+      "1017": {
+            "moisture-control": "yes"
+      },
+      "1018": {
+            "moisture-control": "no"
+      },
+      "1019": {
+            "number-of-refrigerator-shelves": "2"
+      },
+      "1020": {
+            "number-of-refrigerator-shelves": "3"
+      },
+      "1021": {
+            "number-of-refrigerator-shelves": "4"
+      },
+      "1022": {
+            "number-of-refrigerator-shelves": "5"
+      },
+      "1023": {
+            "number-of-refrigerator-shelves": "1"
+      },
+      "1024": {
+            "power-consumption": "113-kwh"
+      },
+      "1025": {
+            "power-consumption": "208-kwh-/-year"
+      },
+      "1026": {
+            "power-consumption": "194-kwh/yr"
+      },
+      "1027": {
+            "power-consumption": "170-w"
+      },
+      "1028": {
+            "power-consumption": "210-kwh/year"
+      },
+      "1029": {
+            "power-consumption": "272-kwh"
+      },
+      "1030": {
+            "power-consumption": "168-w"
+      },
+      "1031": {
+            "power-consumption": "208-kwh"
+      },
+      "1032": {
+            "power-consumption": "168-kwh/year"
+      },
+      "1033": {
+            "power-consumption": "212-kwh/year"
+      },
+      "1034": {
+            "power-consumption": "182-kwh/year"
+      },
+      "1035": {
+            "power-consumption": "107-w"
+      },
+      "1036": {
+            "power-consumption": "143-lwh/yr"
+      },
+      "1037": {
+            "power-consumption": "180-kwh/year"
+      },
+      "1038": {
+            "power-consumption": "128-kwh/year"
+      },
+      "1039": {
+            "power-consumption": "230-w"
+      },
+      "1040": {
+            "power-consumption": "132-w"
+      },
+      "1041": {
+            "power-consumption": "236-kwh/year"
+      },
+      "1042": {
+            "power-consumption": "159-kwh/year"
+      },
+      "1043": {
+            "power-consumption": "234-kwh"
+      },
+      "1044": {
+            "power-consumption": "203-w"
+      },
+      "1045": {
+            "power-consumption": "275-kwh/year"
+      },
+      "1046": {
+            "power-consumption": "171-w"
+      },
+      "1047": {
+            "power-consumption": "131-kwh/year"
+      },
+      "1048": {
+            "power-consumption": "264-kwh/year"
+      },
+      "1049": {
+            "power-consumption": "155-kwh"
+      },
+      "1050": {
+            "power-consumption": "127-kwh"
+      },
+      "1051": {
+            "power-consumption": "270-w"
+      },
+      "1052": {
+            "power-consumption": "105-w"
+      },
+      "1053": {
+            "power-consumption": "139-kwh/year"
+      },
+      "1054": {
+            "power-consumption": "204-kwh"
+      },
+      "1055": {
+            "power-consumption": "212-w"
+      },
+      "1056": {
+            "power-consumption": "174-w"
+      },
+      "1057": {
+            "power-consumption": "164-kwh/yr"
+      },
+      "1058": {
+            "power-consumption": "90-w"
+      },
+      "1059": {
+            "power-consumption": "220-w"
+      },
+      "1060": {
+            "power-consumption": "249-w"
+      },
+      "1061": {
+            "power-consumption": "133-w"
+      },
+      "1062": {
+            "power-consumption": "180-w"
+      },
+      "1063": {
+            "power-consumption": "131-kwh/yr"
+      },
+      "1064": {
+            "power-consumption": "184-kwh/year"
+      },
+      "1065": {
+            "power-consumption": "275-w"
+      },
+      "1066": {
+            "power-consumption": "182-w"
+      },
+      "1067": {
+            "power-consumption": "164-kwh/year"
+      },
+      "1068": {
+            "power-consumption": "169-w"
+      },
+      "1069": {
+            "power-consumption": "169-kwh/year"
+      },
+      "1070": {
+            "power-consumption": "185-kwh/year"
+      },
+      "1071": {
+            "power-consumption": "185-w"
+      },
+      "1072": {
+            "power-consumption": "245-w"
+      },
+      "1073": {
+            "power-consumption": "151-w"
+      },
+      "1074": {
+            "power-consumption": "170-kwh"
+      },
+      "1075": {
+            "power-consumption": "242-kwh"
+      },
+      "1076": {
+            "power-consumption": "1200-w"
+      },
+      "1077": {
+            "power-consumption": "92-w"
+      },
+      "1078": {
+            "power-consumption": "346-w"
+      },
+      "1079": {
+            "power-consumption": "116-kwh"
+      },
+      "1080": {
+            "power-consumption": "1240-w"
+      },
+      "1081": {
+            "power-consumption": "2020-w"
+      },
+      "1082": {
+            "power-consumption": "200-w"
+      },
+      "1083": {
+            "power-consumption": "209-w"
+      },
+      "1084": {
+            "power-consumption": "265-kwh/year"
+      },
+      "1085": {
+            "power-consumption": "140-w"
+      },
+      "1086": {
+            "power-consumption": "130-w"
+      },
+      "1087": {
+            "power-consumption": "1500-w"
+      },
+      "1088": {
+            "power-consumption": "265-w"
+      },
+      "1089": {
+            "power-consumption": "158-kwh"
+      },
+      "1090": {
+            "power-consumption": "210-w"
+      },
+      "1091": {
+            "power-consumption": "240-w"
+      },
+      "1092": {
+            "removable-rack": "yes"
+      },
+      "1093": {
+            "removable-rack": "no"
+      },
+      "1094": {
+            "air-flow-type": "multi-air-flow"
+      },
+      "1095": {
+            "air-flow-type": "multi-flow"
+      },
+      "1096": {
+            "air-flow-type": "air-boosters"
+      },
+      "1097": {
+            "air-flow-type": "normal"
+      },
+      "1098": {
+            "air-flow-type": "3-dimensional"
+      },
+      "1099": {
+            "air-flow-type": "multi-airflow"
+      },
+      "1100": {
+            "air-flow-type": "front-air-flow"
+      },
+      "1101": {
+            "air-flow-type": "direct-cool"
+      },
+      "1102": {
+            "air-flow-type": "360-degree"
+      },
+      "1103": {
+            "air-flow-type": "cool-shower"
+      },
+      "1104": {
+            "air-flow-type": "laminar-air-flow"
+      },
+      "1105": {
+            "air-flow-type": "air-jet-flow"
+      },
+      "1106": {
+            "air-flow-type": "na"
+      },
+      "1107": {
+            "air-flow-type": "laminar"
+      },
+      "1108": {
+            "air-flow-type": "advanced"
+      },
+      "1109": {
+            "air-flow-type": "surround-cooling-airflow"
+      },
+      "1110": {
+            "body-material": "leather-finish-cabinet"
+      },
+      "1111": {
+            "body-material": "pcm,-pu,-hips"
+      },
+      "1112": {
+            "body-material": "metal"
+      },
+      "1113": {
+            "body-material": "emboss-pcm"
+      },
+      "1114": {
+            "body-material": "elephant-skin"
+      },
+      "1115": {
+            "body-material": "steel"
+      },
+      "1116": {
+            "body-material": "aluminium"
+      },
+      "1117": {
+            "body-material": "crca"
+      },
+      "1118": {
+            "body-material": "shelf-material"
+      },
+      "1119": {
+            "body-material": "na"
+      },
+      "1120": {
+            "body-material": "toughened-solid"
+      },
+      "1121": {
+            "body-material": "stainless-steel"
+      },
+      "1122": {
+            "clock": "no"
+      },
+      "1123": {
+            "clock": "yes"
+      },
+      "1124": "pcm",
+      "1125": {
+            "express-freezing": "no"
+      },
+      "1126": {
+            "express-freezing": "yes"
+      },
+      "1127": {
+            "freezer-interior-light": "no"
+      },
+      "1128": {
+            "freezer-interior-light": "yes"
+      },
+      "1129": {
+            "gross-freezer-capacity": "18-l"
+      },
+      "1130": {
+            "gross-freezer-capacity": "68-l"
+      },
+      "1131": {
+            "gross-freezer-capacity": "22-l"
+      },
+      "1132": {
+            "gross-freezer-capacity": "215-l"
+      },
+      "1133": {
+            "gross-freezer-capacity": "86-l"
+      },
+      "1134": {
+            "gross-freezer-capacity": "62-l"
+      },
+      "1135": {
+            "gross-freezer-capacity": "1-l"
+      },
+      "1136": {
+            "gross-freezer-capacity": "216-l"
+      },
+      "1137": {
+            "gross-freezer-capacity": "146-l"
+      },
+      "1138": {
+            "gross-freezer-capacity": "47-l"
+      },
+      "1139": {
+            "gross-freezer-capacity": "185-l"
+      },
+      "1140": {
+            "gross-freezer-capacity": "69-l"
+      },
+      "1141": {
+            "gross-freezer-capacity": "109-l"
+      },
+      "1142": {
+            "gross-freezer-capacity": "132-l"
+      },
+      "1143": {
+            "gross-freezer-capacity": "19-l"
+      },
+      "1144": {
+            "gross-freezer-capacity": "235-l"
+      },
+      "1145": {
+            "gross-freezer-capacity": "76-l"
+      },
+      "1146": {
+            "gross-freezer-capacity": "67-l"
+      },
+      "1147": {
+            "gross-freezer-capacity": "80.5-l"
+      },
+      "1148": {
+            "gross-freezer-capacity": "61-l"
+      },
+      "1149": {
+            "gross-freezer-capacity": "124-l"
+      },
+      "1150": {
+            "gross-freezer-capacity": "50-l"
+      },
+      "1151": {
+            "gross-freezer-capacity": "228-l"
+      },
+      "1152": {
+            "gross-freezer-capacity": "188-l"
+      },
+      "1153": {
+            "gross-freezer-capacity": "260-l"
+      },
+      "1154": {
+            "gross-freezer-capacity": "318-l"
+      },
+      "1155": {
+            "gross-freezer-capacity": "466-l"
+      },
+      "1156": {
+            "gross-freezer-capacity": "190-l"
+      },
+      "1157": {
+            "gross-freezer-capacity": "203-l"
+      },
+      "1158": {
+            "gross-freezer-capacity": "100-l"
+      },
+      "1159": {
+            "gross-freezer-capacity": "25-l"
+      },
+      "1160": {
+            "gross-refrigerator-capacity": "152-l"
+      },
+      "1161": {
+            "gross-refrigerator-capacity": "235-l"
+      },
+      "1162": {
+            "gross-refrigerator-capacity": "190-l"
+      },
+      "1163": {
+            "gross-refrigerator-capacity": "350-l"
+      },
+      "1164": {
+            "gross-refrigerator-capacity": "198-l"
+      },
+      "1165": {
+            "gross-refrigerator-capacity": "180-l"
+      },
+      "1166": {
+            "gross-refrigerator-capacity": "234-l"
+      },
+      "1167": {
+            "gross-refrigerator-capacity": "266-l"
+      },
+      "1168": {
+            "gross-refrigerator-capacity": "52-l"
+      },
+      "1169": {
+            "gross-refrigerator-capacity": "405-l"
+      },
+      "1170": {
+            "gross-refrigerator-capacity": "227-l"
+      },
+      "1171": {
+            "gross-refrigerator-capacity": "195-l"
+      },
+      "1172": {
+            "gross-refrigerator-capacity": "184-l"
+      },
+      "1173": {
+            "gross-refrigerator-capacity": "333-l"
+      },
+      "1174": {
+            "gross-refrigerator-capacity": "256-l"
+      },
+      "1175": {
+            "gross-refrigerator-capacity": "176-l"
+      },
+      "1176": {
+            "gross-refrigerator-capacity": "260-l"
+      },
+      "1177": {
+            "gross-refrigerator-capacity": "211-l"
+      },
+      "1178": {
+            "gross-refrigerator-capacity": "377-l"
+      },
+      "1179": {
+            "gross-refrigerator-capacity": "259-l"
+      },
+      "1180": {
+            "gross-refrigerator-capacity": "185-l"
+      },
+      "1181": {
+            "gross-refrigerator-capacity": "659-l"
+      },
+      "1182": {
+            "gross-refrigerator-capacity": "182-l"
+      },
+      "1183": {
+            "gross-refrigerator-capacity": "172-l"
+      },
+      "1184": {
+            "gross-refrigerator-capacity": "200-l"
+      },
+      "1185": {
+            "gross-refrigerator-capacity": "318-l"
+      },
+      "1186": {
+            "gross-refrigerator-capacity": "-3-l"
+      },
+      "1187": {
+            "gross-refrigerator-capacity": "466-l"
+      },
+      "1188": {
+            "gross-refrigerator-capacity": "335-l"
+      },
+      "1189": {
+            "gross-refrigerator-capacity": "284-l"
+      },
+      "1190": {
+            "gross-refrigerator-capacity": "584-l"
+      },
+      "1191": {
+            "gross-refrigerator-capacity": "163-l"
+      },
+      "1192": {
+            "gross-refrigerator-capacity": "167-l"
+      },
+      "1193": {
+            "handle-material": "plastic-/-abs"
+      },
+      "1194": {
+            "handle-material": "plastic-with-crome-lining"
+      },
+      "1195": {
+            "handle-material": "plastic-or-abs"
+      },
+      "1196": {
+            "handle-material": "plastic,-abs"
+      },
+      "1197": {
+            "handle-material": "plastic"
+      },
+      "1198": {
+            "handle-material": "plastic-with-chrome-finish"
+      },
+      "1199": {
+            "handle-material": "recess-handle"
+      },
+      "1200": {
+            "handle-material": "no"
+      },
+      "1201": {
+            "handle-material": "chrome"
+      },
+      "1202": {
+            "handle-material": "abs-plastic"
+      },
+      "1203": {
+            "handle-material": "metal"
+      },
+      "1204": {
+            "handle-material": "pocket"
+      },
+      "1205": {
+            "handle-material": "steel"
+      },
+      "1206": {
+            "handle-material": "alminum-bar"
+      },
+      "1207": {
+            "handle-material": "bar"
+      },
+      "1208": {
+            "handle-material": "na"
+      },
+      "1209": {
+            "handle-material": "integrated-handle"
+      },
+      "1210": {
+            "handle-type": "external"
+      },
+      "1211": {
+            "handle-type": "royale"
+      },
+      "1212": {
+            "handle-type": "recess"
+      },
+      "1213": {
+            "handle-type": "t-type"
+      },
+      "1214": {
+            "handle-type": "sturdy-ergonomic"
+      },
+      "1215": {
+            "handle-type": "ariana"
+      },
+      "1216": {
+            "handle-type": "recess-handle"
+      },
+      "1217": {
+            "handle-type": "recess-inbuilt"
+      },
+      "1218": {
+            "handle-type": "external-with-chrome-strip"
+      },
+      "1219": {
+            "handle-type": "recessed"
+      },
+      "1220": {
+            "handle-type": "exterior"
+      },
+      "1221": {
+            "handle-type": "recess-in-built"
+      },
+      "1222": {
+            "handle-type": "chrome"
+      },
+      "1223": {
+            "handle-type": "bar"
+      },
+      "1224": {
+            "handle-type": "pre-colored"
+      },
+      "1225": {
+            "handle-type": "2-piece-type"
+      },
+      "1226": {
+            "handle-type": "recess--inbuilt"
+      },
+      "1227": {
+            "handle-type": "bar-handle"
+      },
+      "1228": {
+            "handle-type": "recess---inbuilt"
+      },
+      "1229": {
+            "handle-type": "breathe-arc-handle"
+      },
+      "1230": {
+            "handle-type": "pocket"
+      },
+      "1231": {
+            "handle-type": "stylish-recce---grey"
+      },
+      "1232": {
+            "handle-type": "bar-(metalic)"
+      },
+      "1233": {
+            "handle-type": "pocket-handle"
+      },
+      "1234": {
+            "handle-type": "integrated-handle"
+      },
+      "1235": {
+            "handle-type": "arc,recessed"
+      },
+      "1236": {
+            "handle-type": "na"
+      },
+      "1237": {
+            "handle-type": "external-handle"
+      },
+      "1238": {
+            "handle-type": "pocket-handle-(chrome)"
+      },
+      "1239": {
+            "handle-type": "global"
+      },
+      "1240": "cyclopentane",
+      "1241": "transparent-(gpps)-interiors",
+      "1242": {
+            "power-requirement": "ac-135---290-v"
+      },
+      "1243": {
+            "power-requirement": "ac-100---300-v"
+      },
+      "1244": {
+            "power-requirement": "ac-160---260-v"
+      },
+      "1245": {
+            "power-requirement": "ac-220-240v,-~50hz"
+      },
+      "1246": {
+            "power-requirement": "ac-220-v,-50-hz"
+      },
+      "1247": {
+            "power-requirement": "ac-220---240-v"
+      },
+      "1248": {
+            "power-requirement": "ac-260-v,-50-hz"
+      },
+      "1249": {
+            "power-requirement": "ac-230-v,-50-hz"
+      },
+      "1250": {
+            "power-requirement": "ac-220---240-v,-50-hz"
+      },
+      "1251": {
+            "power-requirement": "ac-230-v"
+      },
+      "1252": {
+            "power-requirement": "ac-240-v,-50-hz"
+      },
+      "1253": {
+            "power-requirement": "50-hz,-ac-220---240-v"
+      },
+      "1254": {
+            "power-requirement": "ac-130---300-v"
+      },
+      "1255": {
+            "power-requirement": "ac-220-240-v"
+      },
+      "1256": {
+            "power-requirement": "259-units"
+      },
+      "1257": {
+            "power-requirement": "ac-140---260-v"
+      },
+      "1258": {
+            "power-requirement": "240-v,-60-hz"
+      },
+      "1259": {
+            "power-requirement": "220-240v,-50hz"
+      },
+      "1260": {
+            "power-requirement": "av-140---160-vc"
+      },
+      "1261": {
+            "power-requirement": "130-v---300-v"
+      },
+      "1262": {
+            "power-requirement": "1500"
+      },
+      "1263": {
+            "power-requirement": "230"
+      },
+      "1264": {
+            "power-requirement": "ac-80---300-v"
+      },
+      "1265": {
+            "technology-used": "deft"
+      },
+      "1266": {
+            "technology-used": "ice-beam-door-cooling"
+      },
+      "1267": {
+            "technology-used": "anti-b-technology"
+      },
+      "1268": {
+            "technology-used": "5-in-1-convertible"
+      },
+      "1269": {
+            "technology-used": "active-fresh-technology"
+      },
+      "1270": {
+            "technology-used": "8-in-1-convertible"
+      },
+      "1271": {
+            "technology-used": "deft-technology"
+      },
+      "1272": {
+            "technology-used": "6th-sense-activefresh"
+      },
+      "1273": {
+            "technology-used": "1-hour-icing-technology"
+      },
+      "1274": {
+            "technology-used": "6kv-surge-protection"
+      },
+      "1275": {
+            "technology-used": "silver-shower-technology"
+      },
+      "1276": {
+            "technology-used": "1-hit"
+      },
+      "1277": {
+            "technology-used": "econavi-plus-inverter"
+      },
+      "1278": {
+            "technology-used": "turbo-icing-technology"
+      },
+      "1279": {
+            "technology-used": "diamond-edge-freezing-technology"
+      },
+      "1280": {
+            "technology-used": "digital-inverter-technology"
+      },
+      "1281": {
+            "technology-used": "anti-bacterial-technology"
+      },
+      "1282": {
+            "technology-used": "door-cooling-plus"
+      },
+      "1283": {
+            "technology-used": "twin-cooling-plus-technology"
+      },
+      "1284": {
+            "technology-used": "twin-cooling-system"
+      },
+      "1285": {
+            "technology-used": "econavi---inverter"
+      },
+      "1286": {
+            "technology-used": "insulated-capillary-technology"
+      },
+      "1287": {
+            "technology-used": "swift-convertible"
+      },
+      "1288": {
+            "technology-used": "econavi-plus-inverter-technology"
+      },
+      "1289": {
+            "technology-used": "invertorxdual-fan"
+      },
+      "1290": {
+            "technology-used": "anti-b-technology-in-gasket"
+      },
+      "1291": {
+            "technology-used": "diamond-edge-freezer-technology"
+      },
+      "1292": {
+            "technology-used": "na"
+      },
+      "1293": {
+            "technology-used": "frost-free,-inverter"
+      },
+      "1294": {
+            "technology-used": "frost-free"
+      },
+      "1295": {
+            "technology-used": "direct-cool"
+      },
+      "1296": {
+            "technology-used": "linear-cooling-technology"
+      },
+      "1297": {
+            "technology-used": "6th-sense-technology"
+      },
+      "1298": {
+            "wheel-support": "no"
+      },
+      "1299": {
+            "wheel-support": "yes"
+      },
+      "1300": {
+            "can-rack": "yes"
+      },
+      "1301": {
+            "can-rack": "no"
+      },
+      "1302": {
+            "door-alarm": "yes"
+      },
+      "1303": {
+            "door-alarm": "no"
+      },
+      "1304": "high-gloss-finish",
+      "1305": {
+            "ice-cube-tray-type": "double-twist"
+      },
+      "1306": {
+            "ice-cube-tray-type": "twisted-ice-maker"
+      },
+      "1307": {
+            "ice-cube-tray-type": "twist"
+      },
+      "1308": {
+            "ice-cube-tray-type": "ice-twister"
+      },
+      "1309": {
+            "ice-cube-tray-type": "normal"
+      },
+      "1310": {
+            "ice-cube-tray-type": "movable-twist"
+      },
+      "1311": {
+            "ice-cube-tray-type": "standard"
+      },
+      "1312": {
+            "ice-cube-tray-type": "tray-ice-maker"
+      },
+      "1313": {
+            "ice-cube-tray-type": "twist-ice-tray"
+      },
+      "1314": {
+            "ice-cube-tray-type": "pp"
+      },
+      "1315": {
+            "ice-cube-tray-type": "twist-ice-maker"
+      },
+      "1316": {
+            "ice-cube-tray-type": "moving-twist"
+      },
+      "1317": {
+            "ice-cube-tray-type": "movable-twist-ice-maker"
+      },
+      "1318": {
+            "ice-cube-tray-type": "movable-ice-tray"
+      },
+      "1319": {
+            "ice-cube-tray-type": "twist-and-serve"
+      },
+      "1320": {
+            "ice-cube-tray-type": "na"
+      },
+      "1321": {
+            "ice-cube-tray-type": "auto-ice-maker"
+      },
+      "1322": {
+            "ice-cube-tray-type": "single-twist-movable-ice-tray"
+      },
+      "1323": {
+            "ice-cube-tray-type": "single-twist,-movable-ice-tray"
+      },
+      "1324": {
+            "ice-cube-tray-type": "twister-and-collector"
+      },
+      "1325": {
+            "in-the-box": "1-refrigerator-unit"
+      },
+      "1326": {
+            "in-the-box": "1-refrigerator"
+      },
+      "1327": {
+            "in-the-box": "1-unit-refrigerator,-user-guide"
+      },
+      "1328": {
+            "in-the-box": "1-unit-refrigerator"
+      },
+      "1329": {
+            "in-the-box": "user-manual"
+      },
+      "1330": {
+            "in-the-box": "1-refrigerator-unit,-user-manual"
+      },
+      "1331": {
+            "in-the-box": "main-unit"
+      },
+      "1332": {
+            "in-the-box": "1-refrigerator,-user-manual"
+      },
+      "1333": {
+            "in-the-box": "1-refrigerator-owner-manual"
+      },
+      "1334": {
+            "in-the-box": "1-refrigerator,-manual"
+      },
+      "1335": {
+            "in-the-box": "1-refrigerator-user-manual"
+      },
+      "1336": {
+            "in-the-box": "1-refrigerator,-owner-manual"
+      },
+      "1337": {
+            "in-the-box": "1"
+      },
+      "1338": {
+            "in-the-box": "1-refrigerator-and-warranty-card"
+      },
+      "1339": {
+            "in-the-box": "1-refregirator"
+      },
+      "1340": {
+            "in-the-box": "40500"
+      },
+      "1341": {
+            "in-the-box": "73900"
+      },
+      "1342": {
+            "in-the-box": "1-unit-and-warranty-card"
+      },
+      "1343": {
+            "in-the-box": "16000"
+      },
+      "1344": "physical-damage",
+      "1345": {
+            "number-of-freezer-shelves": "1"
+      },
+      "1346": {
+            "number-of-freezer-shelves": "5"
+      },
+      "1347": {
+            "number-of-freezer-shelves": "2"
+      },
+      "1348": {
+            "number-of-freezer-shelves": "4"
+      },
+      "1349": {
+            "number-of-freezer-shelves": "3"
+      },
+      "1350": {
+            "other-features": "eco-friendly-refrigerant"
+      },
+      "1351": {
+            "other-features": "freezer-location:-top-mount"
+      },
+      "1352": {
+            "other-features": "100%-green"
+      },
+      "1353": {
+            "other-features": "health-care-box"
+      },
+      "1354": {
+            "other-features": "upto-7-days-of-garden-freshness"
+      },
+      "1355": {
+            "other-features": "90\u00e2\u00b0"
+      },
+      "1356": {
+            "other-features": "intelli-fresh"
+      },
+      "1357": {
+            "other-features": "rc-lamp-bulb"
+      },
+      "1358": {
+            "other-features": "frameless-flat-door-design"
+      },
+      "1359": {
+            "other-features": "led-refrigerator-light"
+      },
+      "1360": {
+            "other-features": "cool-pack,-milk-tray,-ice-zone"
+      },
+      "1361": {
+            "other-features": "ecofriendly-refrigerant"
+      },
+      "1362": {
+            "other-features": "smart-connect"
+      },
+      "1363": {
+            "other-features": "top-led,-superchill"
+      },
+      "1364": {
+            "other-features": "5-in-1-convertible"
+      },
+      "1365": {
+            "other-features": "digital-sensors"
+      },
+      "1366": {
+            "other-features": "coolpad:-12-hrs"
+      },
+      "1367": {
+            "other-features": "air-fresh-filter"
+      },
+      "1368": {
+            "other-features": "wide-range-compressor"
+      },
+      "1369": {
+            "other-features": "nutricool-plus"
+      },
+      "1370": {
+            "other-features": "all-around-cooling"
+      },
+      "1371": {
+            "other-features": "na"
+      },
+      "1372": {
+            "other-features": "door-lock:-flush,-chrome"
+      },
+      "1373": {
+            "other-features": "honey-comb-crisper-cover"
+      },
+      "1374": {
+            "other-features": "door-features:-home-bar"
+      },
+      "1375": {
+            "other-features": "egg-tray:-1"
+      },
+      "1376": "top-mount",
+      "1377": "onsite",
+      "1378": {
+            "display-type": "led-convertible-display"
+      },
+      "1379": {
+            "display-type": "internal-micom"
+      },
+      "1380": {
+            "display-type": "led"
+      },
+      "1381": {
+            "display-type": "exterior-led"
+      },
+      "1382": {
+            "display-type": "no-electronic-display"
+      },
+      "1383": {
+            "display-type": "digital"
+      },
+      "1384": {
+            "display-type": "led-control-panel"
+      },
+      "1385": {
+            "display-type": "na"
+      },
+      "1386": {
+            "display-type": "touch-screen"
+      },
+      "1387": {
+            "display-type": "blue-digital-display"
+      },
+      "1388": {
+            "freezer-tray-type": "ice-tray"
+      },
+      "1389": {
+            "freezer-tray-type": "ice-cube-tray"
+      },
+      "1390": {
+            "freezer-tray-type": "serve-ice-tray"
+      },
+      "1391": {
+            "freezer-tray-type": "gpps"
+      },
+      "1392": {
+            "freezer-tray-type": "ice-twister"
+      },
+      "1393": {
+            "freezer-tray-type": "ice-cube"
+      },
+      "1394": {
+            "freezer-tray-type": "twist-ice-tray"
+      },
+      "1395": {
+            "freezer-tray-type": "ice-cream-tray"
+      },
+      "1396": {
+            "freezer-tray-type": "na"
+      },
+      "1397": {
+            "freezer-tray-type": "deep-bottom-chiller-tray"
+      },
+      "1398": {
+            "freezer-tray-type": "normal"
+      },
+      "1399": {
+            "freezer-tray-type": "normal-ice-tray"
+      },
+      "1400": "cyclopentane-insulation",
+      "1401": "on-site-warranty",
+      "1402": "hestia",
+      "1403": {
+            "water-&-ice-dispenser": "no"
+      },
+      "1404": {
+            "water-&-ice-dispenser": "yes"
+      },
+      "1405": {
+            "other-performance-features": "deodorizer"
+      },
+      "1406": {
+            "other-performance-features": "quick-chill-bottle-zone"
+      },
+      "1407": {
+            "other-performance-features": "humidity-controller"
+      },
+      "1408": {
+            "other-performance-features": "control-system:-mechanical"
+      },
+      "1409": {
+            "other-performance-features": "fresh-balancer"
+      },
+      "1410": {
+            "other-performance-features": "cooling-type-frost-free"
+      },
+      "1411": {
+            "other-performance-features": "fresh-room"
+      },
+      "1412": {
+            "other-performance-features": "uninterrupted-cooling"
+      },
+      "1413": {
+            "other-performance-features": "superchill"
+      },
+      "1414": {
+            "other-performance-features": "powerful-cooling"
+      },
+      "1415": {
+            "other-performance-features": "turbo-icing,-twin-energy-savings"
+      },
+      "1416": {
+            "other-performance-features": "ice-tray-yes"
+      },
+      "1417": {
+            "other-performance-features": "moist-balance-crisper:-1"
+      },
+      "1418": {
+            "other-performance-features": "linear-cooling,-superchill"
+      },
+      "1419": {
+            "other-performance-features": "vortex-air---current-design"
+      },
+      "1420": {
+            "other-performance-features": "quick-freeze"
+      },
+      "1421": {
+            "other-performance-features": "twin-cooling-plus,-multi-flow"
+      },
+      "1422": {
+            "other-performance-features": "1-hour-icing-technology"
+      },
+      "1423": {
+            "other-performance-features": "na"
+      },
+      "1424": {
+            "other-performance-features": "vacation-mode"
+      },
+      "1425": {
+            "other-performance-features": "upto-24-hrs-cooling-retention"
+      },
+      "1426": {
+            "other-performance-features": "fastest-in-ice-making"
+      },
+      "1427": {
+            "other-performance-features": "big-bottle-guards"
+      },
+      "1428": {
+            "other-performance-features": "intelligent-operations"
+      },
+      "1429": "thickest-insulation",
+      "1430": "plastic-with-toughened-glass",
+      "1431": {
+            "number-of-crispers": "1"
+      },
+      "1432": {
+            "number-of-crispers": "4"
+      },
+      "1433": {
+            "number-of-crispers": "2"
+      },
+      "1434": {
+            "number-of-crispers": "3"
+      },
+      "1435": {
+            "number-of-crispers": "0"
+      },
+      "1436": {
+            "number-of-freezer-bottle-racks": "1"
+      },
+      "1437": {
+            "number-of-freezer-bottle-racks": "0"
+      },
+      "1438": {
+            "number-of-freezer-bottle-racks": "2"
+      },
+      "1439": {
+            "number-of-freezer-bottle-racks": "5"
+      },
+      "1440": {
+            "number-of-freezer-bottle-racks": "3"
+      },
+      "1441": {
+            "number-of-freezer-door-bins": "1"
+      },
+      "1442": {
+            "number-of-freezer-door-bins": "4"
+      },
+      "1443": {
+            "number-of-freezer-door-bins": "2"
+      },
+      "1444": {
+            "number-of-freezer-door-bins": "3"
+      },
+      "1445": {
+            "number-of-freezer-drawers": "1"
+      },
+      "1446": {
+            "number-of-freezer-drawers": "2"
+      },
+      "1447": {
+            "number-of-freezer-drawers": "0"
+      },
+      "1448": {
+            "number-of-refrigerator-door-bins": "5"
+      },
+      "1449": {
+            "number-of-refrigerator-door-bins": "3"
+      },
+      "1450": {
+            "number-of-refrigerator-door-bins": "7"
+      },
+      "1451": {
+            "number-of-refrigerator-door-bins": "4"
+      },
+      "1452": {
+            "number-of-refrigerator-door-bins": "1"
+      },
+      "1453": {
+            "number-of-refrigerator-door-bins": "2"
+      },
+      "1454": {
+            "water-dispenser": "no"
+      },
+      "1455": {
+            "water-dispenser": "yes"
+      },
+      "1456": "plastic-parts",
+      "1457": "bottom-mount",
+      "1458": "double-door-bottom-mount",
+      "1459": {
+            "number-of-refrigerator-drawers": "2"
+      },
+      "1460": {
+            "number-of-refrigerator-drawers": "1"
+      },
+      "1461": {
+            "number-of-refrigerator-drawers": "0"
+      },
+      "1462": "transparent-(gpps)",
+      "1463": {
+            "depth": "535-mm"
+      },
+      "1464": {
+            "depth": "687-mm"
+      },
+      "1465": {
+            "depth": "660-mm"
+      },
+      "1466": {
+            "depth": "615-mm"
+      },
+      "1467": {
+            "depth": "740-mm"
+      },
+      "1468": {
+            "depth": "61.9-mm"
+      },
+      "1469": {
+            "depth": "765-mm"
+      },
+      "1470": {
+            "depth": "692-mm"
+      },
+      "1471": {
+            "depth": "766-mm"
+      },
+      "1472": {
+            "depth": "72-cm"
+      },
+      "1473": {
+            "depth": "74.5-cm"
+      },
+      "1474": {
+            "height": "1195-mm"
+      },
+      "1475": {
+            "height": "1773-mm"
+      },
+      "1476": {
+            "height": "1629-mm"
+      },
+      "1477": {
+            "height": "1215-mm"
+      },
+      "1478": {
+            "height": "1560-mm"
+      },
+      "1479": {
+            "height": "1685-mm"
+      },
+      "1480": {
+            "height": "1820-mm"
+      },
+      "1481": {
+            "height": "119.1-mm"
+      },
+      "1482": {
+            "height": "1775-mm"
+      },
+      "1483": {
+            "height": "1780-mm"
+      },
+      "1484": {
+            "height": "1672-mm"
+      },
+      "1485": {
+            "height": "1850-mm"
+      },
+      "1486": {
+            "height": "1247-mm"
+      },
+      "1487": {
+            "height": "1864-mm"
+      },
+      "1488": {
+            "height": "188-cm"
+      },
+      "1489": {
+            "height": "191-cm"
+      },
+      "1490": {
+            "height": "177-cm"
+      },
+      "1491": {
+            "width": "615-mm"
+      },
+      "1492": {
+            "width": "559-mm"
+      },
+      "1493": {
+            "width": "570-mm"
+      },
+      "1494": {
+            "width": "548-mm"
+      },
+      "1495": {
+            "width": "660-mm"
+      },
+      "1496": {
+            "width": "53.6-mm"
+      },
+      "1497": {
+            "width": "920-mm"
+      },
+      "1498": {
+            "width": "706-mm"
+      },
+      "1499": {
+            "width": "600-mm"
+      },
+      "1500": {
+            "width": "730-mm"
+      },
+      "1501": {
+            "width": "536-mm"
+      },
+      "1502": {
+            "width": "744-mm"
+      },
+      "1503": {
+            "width": "92-cm"
+      },
+      "1504": {
+            "width": "63-cm"
+      },
+      "1505": {
+            "width": "89.5-cm"
+      },
+      "1506": {
+            "other-power-features": "energy-efficient"
+      },
+      "1507": {
+            "other-power-features": "voltage-range:-140---260-v"
+      },
+      "1508": {
+            "other-power-features": "twin-energy-saving-modes"
+      },
+      "1509": {
+            "other-power-features": "power-requirement:-5-a"
+      },
+      "1510": {
+            "other-power-features": "annual-consumption:-126-kwh"
+      },
+      "1511": {
+            "other-power-features": "power-cool-pocket"
+      },
+      "1512": {
+            "other-power-features": "359-units-per-year"
+      },
+      "1513": {
+            "other-power-features": "energy-consumption:-304-kwh"
+      },
+      "1514": {
+            "other-power-features": "315-units-per-year"
+      },
+      "1515": {
+            "other-power-features": "273-units-per-year"
+      },
+      "1516": {
+            "other-power-features": "376-units-per-year"
+      },
+      "1517": {
+            "other-power-features": "stabilizer-range:-90---310-v"
+      },
+      "1518": {
+            "other-power-features": "stabilizer-free-operation"
+      },
+      "1519": {
+            "other-power-features": "low-starting-voltage"
+      },
+      "1520": {
+            "other-power-features": "na"
+      },
+      "1521": {
+            "other-power-features": "annual-consumption:-165-kwh"
+      },
+      "1522": {
+            "other-power-features": "stabilizer-free:-130---300-v"
+      },
+      "1523": {
+            "series": "protton"
+      },
+      "1524": {
+            "series": "8-in-1-convertible"
+      },
+      "1525": {
+            "series": "royal"
+      },
+      "1526": {
+            "series": "euro-neo"
+      },
+      "1527": {
+            "series": "big---2-inverter"
+      },
+      "1528": {
+            "series": "rdg"
+      },
+      "1529": {
+            "series": "swift-convertible"
+      },
+      "1530": {
+            "series": "genius"
+      },
+      "1531": {
+            "series": "eon"
+      },
+      "1532": {
+            "series": "impc-prm-3s"
+      },
+      "1533": {
+            "series": "sbs"
+      },
+      "1534": {
+            "series": "1-hit"
+      },
+      "1535": {
+            "series": "ice-magic-powercool"
+      },
+      "1536": {
+            "series": "slim-line"
+      },
+      "1537": {
+            "series": "edge"
+      },
+      "1538": {
+            "series": "french-bottom-freezer"
+      },
+      "1539": {
+            "series": "6th-sense-powercool-technology"
+      },
+      "1540": {
+            "series": "icemagic"
+      },
+      "1541": "triple-door",
+      "1542": {
+            "other-convenience-features": "egg-cum-ice-tray"
+      },
+      "1543": {
+            "other-convenience-features": "freezer-location:-top-mount"
+      },
+      "1544": {
+            "other-convenience-features": "anti-bacterial"
+      },
+      "1545": {
+            "other-convenience-features": "ice-cube-tray-type:-1"
+      },
+      "1546": {
+            "other-convenience-features": "bottle-snugger"
+      },
+      "1547": {
+            "other-convenience-features": "pull-out-tray"
+      },
+      "1548": {
+            "other-convenience-features": "3-door-bins,-1-veg-basket"
+      },
+      "1549": {
+            "other-convenience-features": "3-door-rack,-vegetable-case"
+      },
+      "1550": {
+            "other-convenience-features": "thickest-cooling-retention"
+      },
+      "1551": {
+            "other-convenience-features": "na"
+      },
+      "1552": {
+            "other-convenience-features": "medicine-zone"
+      },
+      "1553": "pet",
+      "1554": "puf",
+      "1555": "thermoelectric-cooling",
+      "1556": "cooling-unit",
+      "1557": {
+            "warranty-summary": "1-year-on-product"
+      },
+      "1558": "pcm-silver-grey",
+      "1559": "pu+cyclopentane",
+      "1560": "glossy-liner-finish",
+      "1561": "compact",
+      "1562": "european-curve-door",
+      "1563": "mono-pcm",
+      "1564": "metallic",
+      "1565": "glass-door",
+      "1566": "side-by-side",
+      "1567": "thicker-insulation",
+      "1568": "silver-metal",
+      "1569": "side-by-side-refrigerator",
+      "1570": "pcm,-pet",
+      "1571": "on-site",
+      "1572": "transparent",
+      "1573": {
+            "net-depth-without-handle": "642-mm"
+      },
+      "1574": {
+            "net-depth-without-handle": "64.3-cm"
+      },
+      "1575": {
+            "net-depth-without-handle": "720-mm"
+      },
+      "1576": {
+            "net-depth-without-handle": "637-mm"
+      },
+      "1577": {
+            "net-depth-without-handle": "726-mm"
+      },
+      "1578": {
+            "net-depth-without-handle": "668-mm"
+      },
+      "1579": {
+            "net-depth-without-handle": "200-mm"
+      },
+      "1580": {
+            "net-depth-without-handle": "564-mm"
+      },
+      "1581": {
+            "net-height-without-handle": "1600-mm"
+      },
+      "1582": {
+            "net-height-without-handle": "178.6-cm"
+      },
+      "1583": {
+            "net-height-without-handle": "335-mm"
+      },
+      "1584": {
+            "net-height-without-handle": "1775-mm"
+      },
+      "1585": {
+            "net-width-without-handle": "595-mm"
+      },
+      "1586": {
+            "net-width-without-handle": "91-cm"
+      },
+      "1587": {
+            "net-width-without-handle": "500-mm"
+      },
+      "1588": {
+            "net-width-without-handle": "920-mm"
+      },
+      "1589": {
+            "covered-in-warranty": "12-months-on-parts-and-labor"
+      },
+      "1590": {
+            "covered-in-warranty": "manufacturing-defects"
+      },
+      "1591": {
+            "covered-in-warranty": "10-year-compressor-warranty"
+      },
+      "1592": {
+            "covered-in-warranty": "compressor"
+      },
+      "1593": {
+            "covered-in-warranty": "compessor"
+      },
+      "1594": {
+            "covered-in-warranty": "covers-all-manufacturing-defects"
+      },
+      "1595": {
+            "covered-in-warranty": "sealed-system-jobs"
+      },
+      "1596": "consumables",
+      "1597": "puf-insulation",
+      "1598": "transparent-interiors",
+      "1599": "foam-rigid-polyurethane",
+      "1600": "compact-refrigerator",
+      "1601": "vcm-silver",
+      "1602": "pu-and-cyclopentane",
+      "1603": "glossy",
+      "1604": "transit-damage,-customer-abuse",
+      "1605": "glass",
+      "1606": {
+            "other-dimensions": "gross-weight:-36-kg"
+      },
+      "1607": {
+            "other-dimensions": "na"
+      },
+      "1608": {
+            "other-dimensions": "gross-weight:-47-kg"
+      },
+      "1609": {
+            "other-dimensions": "gross-weight:-44-kg"
+      },
+      "1610": {
+            "other-dimensions": "load-capacity-of-shelf:-120-kg"
+      },
+      "1611": {
+            "other-dimensions": "gross-weight:-38-kg"
+      },
+      "1612": "vcm",
+      "1613": "bottom-freezer-refrigerator",
+      "1614": "french-door-refrigerator",
+      "1615": "solid-colour",
+      "1616": "powder-coated",
+      "1617": "precoated",
+      "1618": "warranty-does-not-cover",
+      "1619": "advanced-ui",
+      "1620": "plastic,-glassware,-light-bulb",
+      "1621": "clyclopentane",
+      "1622": "pattern",
+      "1623": "french-door-bottom-mount",
+      "1624": "chrome-inox-metallic",
+      "1625": "brand-supported",
+      "1626": "cabinet-&-main-liners",
+      "1627": "floral-print",
+      "1628": "thicker-puf",
+      "1629": "matte",
+      "1630": "tempered-glass",
+      "1631": "hips",
+      "1632": "crown-door-design",
+      "1633": "floral-design",
+      "1634": "art-vcm",
+      "1635": "technician-vist",
+      "1636": "geometric",
+      "1637": "plastic-and-breakable-part",
+      "1638": "flat",
+      "1639": "imp-finish",
+      "1640": "toughened-glass-shelves",
+      "1641": "na",
+      "1642": "paint",
+      "1643": "gloss",
+      "1644": "chrome-finish",
+      "1645": "vcm---hd",
+      "1646": "deep-freezer",
+      "1647": "pattern:-fiesta",
+      "1648": "pattern:-titanium"
+}
