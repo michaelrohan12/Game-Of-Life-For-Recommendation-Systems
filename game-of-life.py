@@ -1,3 +1,4 @@
+# Import necessary libraries
 import time
 import pygame
 import numpy as np
@@ -7,15 +8,17 @@ import random
 import pyautogui
 import cv2
 
+# Define colors
 COLOR_BG = (10, 10, 10)
 COLOR_GRID = (40, 40, 40)
 COLOR_DIE_NEXT = (170, 170, 170)
 COLOR_ALIVE_NEXT = (255, 255, 255)
 
+# Initialize video writer for recording
 fourcc = cv2.VideoWriter_fourcc(*'XVID')
 out = cv2.VideoWriter('output.avi', fourcc, 20.0, (1920, 1080))
 
-
+# Function to update the cells in the grid
 def update(screen, cells, size, with_progress=False):
     updated_cells = np.zeros((cells.shape[0], cells.shape[1]), dtype=np.dtype(
         [('product_id', int), ('value', int)]))
@@ -50,13 +53,13 @@ def update(screen, cells, size, with_progress=False):
 
     return updated_cells
 
-
+# Main function
 def main():
     pygame.init()
     screen = pygame.display.set_mode((800, 600))
     pygame.display.set_caption("Pygame Recording")
     
-
+    # Load sample data and item data
     with open(os.path.join('feature-data', 'Mobile_features.json'), 'r') as file:
         sample_data = json.load(file)
     file.close()
@@ -65,9 +68,11 @@ def main():
         item_id_data = json.load(file)
     file.close()
     
+    # Define grid dimensions
     grid_width = 80
     grid_height = 60 
 
+    # Initialize cells in the grid
     cells = np.zeros((grid_height, grid_width), dtype=np.dtype(
         [('product_id', int), ('value', int)]))
 
@@ -83,6 +88,7 @@ def main():
         for col in range(grid_width):
             cells[row, col] = (random.choice(product_ids), 0)
 
+    # Initialize screen and display initial grid
     screen.fill(COLOR_GRID)
     update(screen, cells, 10)
     pygame.display.flip()
@@ -92,16 +98,18 @@ def main():
     while True:
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
+                # Quit pygame and release video writer when the window is closed
                 pygame.quit()
                 out.release()
-                # print(cells)
                 
+                # Extract chosen product IDs from cells
                 chosen_product_ids = set()
                 for cell in cells:
                     for value in cell:
                         if value[1] != 0:
                             chosen_product_ids.add(value[0])
                 
+                # Load item data and display chosen product details
                 with open(os.path.join('data_with_ids', 'Mobile.json'), 'r') as file:
                     item_data = json.load(file)
                 file.close()
@@ -123,11 +131,13 @@ def main():
                 return
             elif event.type == pygame.KEYDOWN:
                 if event.key == pygame.K_SPACE:
+                    # Toggle running state on space key
                     running = not running
                     update(screen, cells, 10)
                     pygame.display.update()
 
             if pygame.mouse.get_pressed()[0]:
+                # If left mouse button is pressed, set the cell value to 1
                 pos = pygame.mouse.get_pos()
 
                 cells[pos[1] // 10, pos[0] // 10]['value'] = 1
@@ -137,10 +147,12 @@ def main():
         screen.fill(COLOR_GRID)
 
         if running:
+            # Update cells and display progress if running
             cells = update(screen, cells, 10, with_progress=True)
             pygame.display.update()
             time.sleep(1)
 
+        # Capture screenshot and write frame to video
         screenshot = pyautogui.screenshot(region=(0, 0, 1920, 1080))
         frame = cv2.cvtColor(np.array(screenshot), cv2.COLOR_RGB2BGR)
         out.write(frame)
